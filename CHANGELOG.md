@@ -19,3 +19,8 @@ tags:
   - `butch-thorpe-email.txt`
   - `PedigreeTimelines2025.cdr`
   - `PedigreeTimelines2019Descendants2.cdr`
+
+## 2026-04-21 — Agent governance and handoff scaffolding
+
+- Added project-wide agent instructions in [[AGENTS]].
+- Added initial phase handoff summary in [[AGENT_HANDOFF_PHASE_1A|Agent Handoff — Phase 1A]].
