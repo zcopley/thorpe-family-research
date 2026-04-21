@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Thorpe Family History</title>
+      <link>https://zcopley.github.io/thorpe-family-research</link>
+      <description>Last 10 notes on Thorpe Family History</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Changelog</title>
+    <link>https://zcopley.github.io/thorpe-family-research/CHANGELOG</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/CHANGELOG</guid>
+    <description><![CDATA[ Changelog 2026-04-21 — Initial Thorpe vault bootstrap Created new Quartz vault structure for Thorpe family research. ]]></description>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://zcopley.github.io/thorpe-family-research/Home</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/Home</guid>
+    <description><![CDATA[ Thorpe Family Research Vault Welcome to the Thorpe family research vault. ]]></description>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>People Directory</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People-Directory</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People-Directory</guid>
+    <description><![CDATA[ People Directory Confirmed Individuals from Current Source Set Robert “Butch” Thorpe Contributor who provided pedigree timeline files and methodology notes. ]]></description>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Robert Butch Thorpe</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/Robert-Butch-Thorpe</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/Robert-Butch-Thorpe</guid>
+    <description><![CDATA[ Robert “Butch” Thorpe Biographical Profile Name: Robert “Butch” Thorpe Role in this project: Source contributor for initial Thorpe pedigree timeline materials. ]]></description>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Butch Thorpe Email</title>
+    <link>https://zcopley.github.io/thorpe-family-research/References/Butch-Thorpe-Email</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/References/Butch-Thorpe-Email</guid>
+    <description><![CDATA[ Butch Thorpe Email Source file: References/raw/butch-thorpe-email.txt Sender and Context Sender signs as Butch (nickname for Robert “Butch” Thorpe). ]]></description>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Search Index</title>
+    <link>https://zcopley.github.io/thorpe-family-research/Search-Index</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/Search-Index</guid>
+    <description><![CDATA[ Search Index People Robert “Butch” Thorpe Topics Thorpe Pedigree Timelines References Butch Thorpe Email . ]]></description>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Thorpe Pedigree Timelines</title>
+    <link>https://zcopley.github.io/thorpe-family-research/Topics/Thorpe-Pedigree-Timelines</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/Topics/Thorpe-Pedigree-Timelines</guid>
+    <description><![CDATA[ Thorpe Pedigree Timelines This page tracks the pedigree timeline files provided by Robert “Butch” Thorpe and documents what they contain. ]]></description>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Thorpe Family History</title>
+    <link>https://zcopley.github.io/thorpe-family-research/</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/</guid>
+    <description><![CDATA[ A genealogical research wiki for the Thorpe family, beginning with source material shared by Robert "Butch" Thorpe. ]]></description>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
