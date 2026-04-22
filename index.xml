@@ -6,59 +6,65 @@
       <description>Last 10 notes on Thorpe Family History</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Agent Handoff — Phase 1A</title>
-    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1A</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1A</guid>
-    <description><![CDATA[ Phase 1A Handoff: Thorpe Vault Bootstrap Overview This phase established a new standalone Thorpe family research vault, imported initial source files from Butch, and created base navigation/reference/person pages for source-driven expansion. ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1B</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1B</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1B</guid>
+    <description><![CDATA[ Phase 1B Handoff: Shared Intake Batch-1 Ingestion Overview This phase moved from reconnaissance into actionable ingestion by staging high-value shared-intake files into References/raw/inbox/2026-04-22-intake/, creating text-first reference notes, and adding initial person pages constrained to source... ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Changelog</title>
-    <link>https://zcopley.github.io/thorpe-family-research/CHANGELOG</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/CHANGELOG</guid>
-    <description><![CDATA[ Changelog 2026-04-21 — Initial Thorpe vault bootstrap Created new Quartz vault structure for Thorpe family research. ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>George Spicer</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/George-Spicer</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/George-Spicer</guid>
+    <description><![CDATA[ George Spicer Biographical Profile Name: George Spicer Role in this project: Direct-line ancestor in shared Spicer lineage note. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Home</title>
-    <link>https://zcopley.github.io/thorpe-family-research/Home</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/Home</guid>
-    <description><![CDATA[ Thorpe Family Research Vault Welcome to the Thorpe family research vault. ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Hattie Risden</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/Hattie-Risden</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/Hattie-Risden</guid>
+    <description><![CDATA[ Hattie Risden Biographical Profile Name: Hattie Risden Role in this project: Direct-line ancestor in shared Spicer lineage note. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>People Directory</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People-Directory</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People-Directory</guid>
-    <description><![CDATA[ People Directory Confirmed Individuals from Current Source Set Robert “Butch” Thorpe Contributor who provided pedigree timeline files and methodology notes. ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>James Kelly</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/James-Kelly</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/James-Kelly</guid>
+    <description><![CDATA[ James Kelly Biographical Profile Name: James Kelly Role in this project: Ancestor represented in Peterborough parish/christening extracts and census citation notes. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Robert Butch Thorpe</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Robert-Butch-Thorpe</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Robert-Butch-Thorpe</guid>
-    <description><![CDATA[ Robert “Butch” Thorpe Biographical Profile Name: Robert “Butch” Thorpe Role in this project: Source contributor for initial Thorpe pedigree timeline materials. ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>John Kirby</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/John-Kirby</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/John-Kirby</guid>
+    <description><![CDATA[ John Kirby Biographical Profile Name: John Kirby Role in this project: Ancestor in Oundle parish-register extracts. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Butch Thorpe Email</title>
-    <link>https://zcopley.github.io/thorpe-family-research/References/Butch-Thorpe-Email</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/References/Butch-Thorpe-Email</guid>
-    <description><![CDATA[ Butch Thorpe Email Source file: References/raw/butch-thorpe-email.txt Sender and Context Sender signs as Butch (nickname for Robert “Butch” Thorpe). ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Kezia Kirby</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/Kezia-Kirby</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/Kezia-Kirby</guid>
+    <description><![CDATA[ Kezia Kirby Biographical Profile Name: Kezia Kirby Role in this project: Ancestor in Oundle parish-register extracts linked to Emblow line. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Search Index</title>
-    <link>https://zcopley.github.io/thorpe-family-research/Search-Index</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/Search-Index</guid>
-    <description><![CDATA[ Search Index People Robert “Butch” Thorpe Topics Thorpe Pedigree Timelines References Butch Thorpe Email . ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Lester Harold Spicer</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/Lester-Harold-Spicer</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/Lester-Harold-Spicer</guid>
+    <description><![CDATA[ Lester Harold Spicer Biographical Profile Name: Lester Harold Spicer Role in this project: Direct-line ancestor in staged Spicer lineage text. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Thorpe Pedigree Timelines</title>
-    <link>https://zcopley.github.io/thorpe-family-research/Topics/Thorpe-Pedigree-Timelines</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/Topics/Thorpe-Pedigree-Timelines</guid>
-    <description><![CDATA[ Thorpe Pedigree Timelines This page tracks the pedigree timeline files provided by Robert “Butch” Thorpe and documents what they contain. ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Ruby Bernice Prior</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/Ruby-Bernice-Prior</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/Ruby-Bernice-Prior</guid>
+    <description><![CDATA[ Ruby Bernice Prior Biographical Profile Name: Ruby Bernice Prior Role in this project: Direct-line ancestor in staged Spicer/Prior linkage notes. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Thorpe Family History</title>
-    <link>https://zcopley.github.io/thorpe-family-research/</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/</guid>
-    <description><![CDATA[ A genealogical research wiki for the Thorpe family, beginning with source material shared by Robert "Butch" Thorpe. ]]></description>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <title>William Emblow</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/William-Emblow</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/William-Emblow</guid>
+    <description><![CDATA[ William Emblow Biographical Profile Name: William Emblow Role in this project: Ancestor in Emblow branch represented in Oundle marriage extract. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>William Henry Palmer</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People/William-Henry-Palmer</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People/William-Henry-Palmer</guid>
+    <description><![CDATA[ William Henry Palmer Biographical Profile Name: William Henry Palmer Role in this project: Ancestor represented in death-index extract and census-summary materials. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

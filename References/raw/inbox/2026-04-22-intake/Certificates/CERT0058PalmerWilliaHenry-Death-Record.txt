@@ -1,0 +1,24 @@
+No actual certificate
+(entry in death records only)
+Palmer, William H.
+Sex: M
+Color: W
+Age: 75
+Date of Death: Day 8
+Month 5
+Year 27
+Place: Waterloo
+Cause: Acute Bronchial Pneumonia
+Marital Status: M
+Citizenship: American
+Physician: C.W. Eallyson
+Undertaker: O’Keefe and Towne
+
+Repository:
+Blackhawk County Recorder
+Vital Records
+Waterloo, IA
+319-833-3012
+
+CERT 00058 Palmer, William Henry Death Record
+CERT0058PalmerWilliaHenry-Death Record.txt

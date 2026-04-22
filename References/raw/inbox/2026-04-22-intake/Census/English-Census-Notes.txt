@@ -1,0 +1,25 @@
+1851LincolnshireBournBellamyJames.jpg Class: HO107; Piece: 2095; Folio: 410; Page: 35; GSU roll: 87723-87724.
+1861LincolnshireBournBellamyJames.jpg Class: RG9; Piece: 2317; Folio: 81; Page: 34; GSU roll: 542953.
+1891LincolnshireBournBellamyRichard.jpg Class: RG12; Piece: 2557; Folio 71; Page 12; GSU roll: 6097667.
+1901LincolnshireBournBellamyRichard.jpg Class: RG13; Piece: 3025; Folio: 10; Page: 12.
+1851MiddlesexStepneySorrellJamesMAYBE.jpg Class: HO107; Piece: 1552; Folio: 517; Page: 18; GSU roll: 174782-174783.
+1841EssexGtHollandMunsonArthur.jpg Class: HO107; Civil Parish: Great Holland; County: Essex; Enumeration District: 6; Page: 9; Line: 13; GSU roll: 241376.
+1841EssexGtHollandMunsonJames.jpg Class: HO107; Civil Parish: Great Holland; County: Essex; Enumeration District: 6; Page: 1; Line: 20; GSU roll: 241376.
+1841 Joseph Thorogood Class: HO107; Civil Parish: Felstead; County: Essex; Enumeration District: 5; Page: 13; Line: 21; GSU roll: 241369.
+1841 James Thorogood (Horage) Class: HO107; Civil Parish: Felstead; County: Essex; Enumeration District: 5; Page: 16; Line: 9; GSU roll: 241369.
+1841 James Bellamy Class: HO107; Civil Parish: Bourne; County: Lincolnshire; Enumeration District: 1; Page: 40; Line: 14; GSU roll: 438756.
+1841 Joseph Emblow Class: HO107; Civil Parish: St John the Baptist; County: Northamptonshire; Enumeration District: 1; Page: 21; Line: 8; GSU roll: 438883.
+1841 Sarah Kelly Class: HO107; Civil Parish: St John the Baptist; County: Northamptonshire; Enumeration District: 1; Page: 12; Line: 1; GSU roll: 438883.
+1851 Mary Sorrell (Torrell) Class: HO107; Piece: 1783; Folio: 197; Page: 2; GSU roll: 207432.
+1851 Joseph Emblow Class: HO107; Piece: 1747; Folio: 322; Page: 10; GSU roll: 87702-87703.
+1851 Sarah Kelly (Kelley) Class: HO107; Piece: 1747; Folio: 339; Page: 46; GSU roll: 87702-87703.
+1861 James Sorrell Class: RG9; Piece: 803; Folio: 9; Page: 11; GSU roll: 542703.
+1861 Joseph Emblow Class: RG9; Piece: 967; Folio: 64; Page: 17; GSU roll: 542729.
+1861 Sarah Kelly Class: RG9; Piece: 966; Folio: 155; Page: 9; GSU roll: 542729.
+1871 Richard Bellamy Class: RG10; Piece: 3314; Folio: 65; Page: 5; GSU roll: 839345.
+1871 James Kelly (Holly) Class: RG10; Piece: 1517; Folio: 85; Page: 6; GSU roll: 829776.
+1871 James Sorrell Class: RG10; Piece: 451; Folio: 62; Page: 8; GSU roll: 823361.
+1871 Joseph Emblow Class: RG10; Piece: 1519; Folio: 25; Page: 16; GSU roll: 829777.
+
+1851 James Sorrell Class: HO107; Piece: 1776; Folio: 369; Page: 4; GSU roll: 207423.
+

@@ -1,0 +1,23 @@
+Burial entry search made on 26 May 2018
+Field	Value
+County	Northamptonshire
+Place (with link)	Peterborough
+Church name (with link)	St John the Baptist
+Register type (with link)	Parish Register
+Register entry number	747
+Burial date	06 Mar 1840
+Burial person forename	William
+Relationship	
+Male relative forename	
+Female relative forename	
+Relative surname	
+Burial person surname	KELLY
+Person age	52
+Burial person abode	Peterboro'
+Notes	
+Film	
+Film number	
+Transcribed by	Ian Slater
+Credit	
+File line number	738
+https://www.freereg.org.uk/search_records/5818be5de93790ec75932785/show_print_version?search_id=5b0982c64325a608f066d7c9
