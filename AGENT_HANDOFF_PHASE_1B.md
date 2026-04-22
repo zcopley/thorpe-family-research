@@ -107,9 +107,24 @@ This phase moved from reconnaissance into actionable ingestion by staging high-v
   - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - Updated [[People Directory]] and [[Search Index]] to include new profiles and reference entry.
 
+## 2026-04-22 Addendum — Census summary extraction batch (pages 11-20)
+
+- Added [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]] from `CensusSummaryIndividual.pdf` page-slice extraction.
+- Created new people pages from extracted entries:
+  - [[People/Elizabeth Maria Bangle|Elizabeth Maria Bangle]]
+  - [[People/Louis S Jr Bangle|Louis S Jr Bangle]]
+  - [[People/Matilda Baxter|Matilda Baxter]]
+  - [[People/Henry James Bellamy|Henry James Bellamy]]
+  - [[People/James Bellamy|James Bellamy]]
+  - [[People/James Archibald Bellamy|James Archibald Bellamy]]
+  - [[People/Richard Bellamy|Richard Bellamy]]
+  - [[People/Hannah Beneworth|Hannah Beneworth]]
+  - [[People/Rebecca Blake|Rebecca Blake]]
+- Updated [[People Directory]] and [[Search Index]] to include the new profiles and reference entry.
+
 ## Recommended Next Steps
 
-1. Process `CensusSummaryIndividual.pdf` in slices and map each summary page to existing/new `People/` profiles.
+1. Continue `CensusSummaryIndividual.pdf` slice extraction with pages 21-30 and map each summary page to existing/new `People/` profiles.
 2. Extract date/place evidence from the four staged 2025 pedigree timeline PDFs and reconcile against `SPICLINE.txt`.
 3. Create canonical-identity merge notes for spelling variants before larger batch ingestion.
 4. Move fully processed staged files from `References/raw/inbox/2026-04-22-intake/` to `References/raw/processed/` in controlled batches.

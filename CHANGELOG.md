@@ -8,6 +8,21 @@ tags:
 
 # Changelog
 
+## 2026-04-22 — Census summary extraction batch (pages 11-20)
+
+- Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]] for extraction coverage of pages 11-20.
+- Added new person profiles from extracted census-summary entries:
+  - [[People/Elizabeth Maria Bangle|Elizabeth Maria Bangle]]
+  - [[People/Louis S Jr Bangle|Louis S Jr Bangle]]
+  - [[People/Matilda Baxter|Matilda Baxter]]
+  - [[People/Henry James Bellamy|Henry James Bellamy]]
+  - [[People/James Bellamy|James Bellamy]]
+  - [[People/James Archibald Bellamy|James Archibald Bellamy]]
+  - [[People/Richard Bellamy|Richard Bellamy]]
+  - [[People/Hannah Beneworth|Hannah Beneworth]]
+  - [[People/Rebecca Blake|Rebecca Blake]]
+- Updated [[People Directory]] and [[Search Index]] to include newly added profiles and reference note.
+
 ## 2026-04-22 — Census summary extraction batch (pages 1-10)
 
 - Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]] documenting title/introduction context and early extracted census table statements.
