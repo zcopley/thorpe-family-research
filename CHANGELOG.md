@@ -8,6 +8,33 @@ tags:
 
 # Changelog
 
+## 2026-04-22 — High-priority Thorpe and Spicer ancestor ingestion
+
+- Added new person profiles for direct-line Thorpe and Spicer ancestors from census-summary index:
+  - [[People/Nathan Spicer|Nathan Spicer]]
+  - [[People/Charles Russell Spicer|Charles Russell Spicer]]
+  - [[People/John Thorp|John Thorp]]
+  - [[People/William Monroe Thorp|William Monroe Thorp]]
+  - [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]
+  - [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]]
+- Reconciled and merged [[People/Hattie Risden|Hattie Risden]] into [[People/Hattie May Risden|Hattie May Risden]] and renamed [[People/George Spicer|George Spicer]] to [[People/George B Spicer|George B. Spicer]] for consistency with indexed naming.
+- Updated [[People Directory]] and [[Search Index]] with new profiles and naming updates.
+
+## 2026-04-22 — Census summary extraction batch (pages 51-60)
+
+- Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]] for extraction coverage of pages 51-60.
+- Added new person profiles from extracted census-summary entries:
+  - [[People/Peter Palmer|Peter Palmer]]
+  - [[People/Arthur Edwin Prior|Arthur Edwin Prior]]
+  - [[People/Joseph Warren Prior|Joseph Warren Prior]]
+  - [[People/Oliver Warren Prior|Oliver Warren Prior]]
+  - [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]]
+  - [[People/Hattie May Risden|Hattie May Risden]]
+  - [[People/John Wheeler Risden|John Wheeler Risden]]
+  - [[People/Watson Moses Risden|Watson Moses Risden]]
+- Updated [[People/William Henry Palmer|William Henry Palmer]] and [[People/Ruby Bernice Prior|Ruby Bernice Prior]] with additional census-summary evidence.
+- Updated [[People Directory]] and [[Search Index]] to include newly added profiles and reference note.
+
 ## 2026-04-22 — Census summary extraction batch (pages 41-50)
 
 - Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]] for extraction coverage of pages 41-50.
@@ -81,8 +108,8 @@ tags:
   - [[People/Miller Mathias Tallman|Miller Mathias Tallman]]
   - [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]]
 - Updated existing profiles with census-summary indexed date evidence:
-  - [[People/George Spicer|George Spicer]]
-  - [[People/Hattie Risden|Hattie Risden]]
+  - [[People/George B Spicer|George B. Spicer]]
+  - [[People/Hattie May Risden|Hattie May Risden]]
   - [[People/Lester Harold Spicer|Lester Harold Spicer]]
   - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - Updated [[People Directory]] and [[Search Index]] to include newly added profiles and reference note.
@@ -116,8 +143,8 @@ tags:
   - [[People/Kezia Kirby|Kezia Kirby]]
   - [[People/William Emblow|William Emblow]]
   - [[People/William Henry Palmer|William Henry Palmer]]
-  - [[People/George Spicer|George Spicer]]
-  - [[People/Hattie Risden|Hattie Risden]]
+  - [[People/George B Spicer|George B. Spicer]]
+  - [[People/Hattie May Risden|Hattie May Risden]]
   - [[People/Lester Harold Spicer|Lester Harold Spicer]]
   - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - Updated index and navigation pages for discoverability:

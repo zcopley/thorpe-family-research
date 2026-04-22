@@ -12,10 +12,10 @@ Maintained by **Zach Copley** with source contributions from **Robert "Butch" Th
 
 ## Latest Deployment
 
-Latest deployed update: **2026-04-22 intake batch-1 ingestion**.
+Latest deployed update: **2026-04-22 Thorpe/Spicer high-priority ingestion**.
 
 - See [[CHANGELOG|Changelog]] for full change history.
-- See [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]] for staged sources, added pages, and next steps.
+- See [[AGENT_HANDOFF_PHASE_1C|Agent Handoff — Phase 1C]] for latest staged sources, added pages, and next steps.
 - Quick links to new intake outputs:
   - [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Certificates and Parish Extracts]]
   - [[References/Shared Intake 2026-04-22 Census Citation Notes|Census Citation Notes]]

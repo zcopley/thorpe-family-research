@@ -24,10 +24,10 @@ Welcome to the Thorpe family research vault. This project is separate from the C
 
 ## Deployment Status
 
-Latest deployed update: **2026-04-22 intake batch-1 ingestion**.
+Latest deployed update: **2026-04-22 Thorpe/Spicer high-priority ingestion**.
 
 - [[CHANGELOG|Changelog]]
-- [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]]
+- [[AGENT_HANDOFF_PHASE_1C|Agent Handoff — Phase 1C]]
 - [[People Directory]]
 - [[Search Index]]
 

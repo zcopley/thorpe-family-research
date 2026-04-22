@@ -101,8 +101,8 @@ This phase moved from reconnaissance into actionable ingestion by staging high-v
   - [[People/Miller Mathias Tallman|Miller Mathias Tallman]]
   - [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]]
 - Updated existing person profiles with census-summary indexed date evidence:
-  - [[People/George Spicer|George Spicer]]
-  - [[People/Hattie Risden|Hattie Risden]]
+  - [[People/George B Spicer|George B. Spicer]]
+  - [[People/Hattie May Risden|Hattie May Risden]]
   - [[People/Lester Harold Spicer|Lester Harold Spicer]]
   - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - Updated [[People Directory]] and [[Search Index]] to include new profiles and reference entry.
