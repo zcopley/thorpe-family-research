@@ -14,6 +14,9 @@ tags:
 ### [[People/Robert Butch Thorpe|Robert "Butch" Thorpe]]
 - Contributor who provided pedigree timeline files and methodology notes.
 
+### [[People/Amy E Critton|Amy E Critton]]
+- Walnut Township, Ohio Miller household entries staged from 1850-1870 census-summary pages.
+
 ### [[People/Andrew Ault|Andrew Ault]]
 - 1850 Island Creek Township, Jefferson County, Ohio household extract staged from census-summary pages.
 
@@ -22,6 +25,15 @@ tags:
 
 ### [[People/Frederick Ault|Frederick Ault]]
 - 1850 Meigs County, Ohio household-head entry staged from census-summary pages.
+
+### [[People/Angeline Caswell|Angeline Caswell]]
+- Bangle household entries across 1860-1900 census-summary pages including 1900 Augusta listing.
+
+### [[People/Catherine Filkins|Catherine Filkins]]
+- 1850/1860 New York Johnson-Spicer household entries staged from census-summary pages.
+
+### [[People/Elizabeth Brooks|Elizabeth Brooks]]
+- Census-summary indexed profile with Ault-household crossover entry in 1850 Ohio extraction.
 
 ### [[People/Elizabeth Maria Bangle|Elizabeth Maria Bangle]]
 - Bangle/Palmer-linked census-summary entries across Michigan, Wisconsin, and Minnesota household extracts.
@@ -41,6 +53,9 @@ tags:
 ### [[People/James Bellamy|James Bellamy]]
 - Early Bellamy-line ancestor with 1841-1861 Bourn census-summary records.
 
+### [[People/Joseph Emblow|Joseph Emblow]]
+- Peterborough Church Street census-summary entries across 1841-1871 with cited UK references.
+
 ### [[People/James Kelly|James Kelly]]
 - Peterborough christening entry extracted from shared intake parish notes.
 
@@ -59,8 +74,17 @@ tags:
 ### [[People/Louis S Jr Bangle|Louis S Jr Bangle]]
 - Bangle-line household head in recurring 1860-1880 census-summary entries.
 
+### [[People/Martha Emblow|Martha Emblow]]
+- Emblow-to-Kelly branch entries across 1841-1901 Peterborough census-summary pages.
+
 ### [[People/Matilda Baxter|Matilda Baxter]]
 - Rowland household entries in 1850 Indiana and 1860-1870 Iowa census-summary extracts.
+
+### [[People/Mary Burgett|Mary Burgett]]
+- Burgett-to-Spicer linked Iowa census-summary entries including mother and mother-in-law roles.
+
+### [[People/Mary Greenwood|Mary Greenwood]]
+- 1850 Iowa mortality schedule entry (`Mary Bergett`) staged from census-summary pages.
 
 ### [[People/Miller Mathias Tallman|Miller Mathias Tallman]]
 - Head-of-household entries across 1880-1920 Iowa census extracts in census-summary pages.
@@ -73,6 +97,12 @@ tags:
 
 ### [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - Staged from shared intake lineage chain in the Prior branch.
+
+### [[People/Saphronia Burdick|Saphronia Burdick]]
+- 1870 Lapeer, Michigan RISDEN-household census-summary entry.
+
+### [[People/William Burgett|William Burgett]]
+- 1850 Brush Run Township, Iowa County, Iowa household-head entry staged from census-summary pages.
 
 ### [[People/William Emblow|William Emblow]]
 - Oundle parish marriage extract (1786) with witness details pending image-level validation.

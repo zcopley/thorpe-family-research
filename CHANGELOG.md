@@ -8,6 +8,22 @@ tags:
 
 # Changelog
 
+## 2026-04-22 — Census summary extraction batch (pages 21-30)
+
+- Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]] for extraction coverage of pages 21-30.
+- Added new person profiles from extracted census-summary entries:
+  - [[People/Elizabeth Brooks|Elizabeth Brooks]]
+  - [[People/Saphronia Burdick|Saphronia Burdick]]
+  - [[People/Mary Burgett|Mary Burgett]]
+  - [[People/William Burgett|William Burgett]]
+  - [[People/Angeline Caswell|Angeline Caswell]]
+  - [[People/Amy E Critton|Amy E Critton]]
+  - [[People/Joseph Emblow|Joseph Emblow]]
+  - [[People/Martha Emblow|Martha Emblow]]
+  - [[People/Catherine Filkins|Catherine Filkins]]
+  - [[People/Mary Greenwood|Mary Greenwood]]
+- Updated [[People Directory]] and [[Search Index]] to include newly added profiles and reference note.
+
 ## 2026-04-22 — Census summary extraction batch (pages 11-20)
 
 - Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]] for extraction coverage of pages 11-20.
