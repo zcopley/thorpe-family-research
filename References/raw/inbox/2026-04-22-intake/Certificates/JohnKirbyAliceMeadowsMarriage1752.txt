@@ -1,0 +1,40 @@
+
+Marriage entry search made on 26 May 2018
+Field	Value
+County	Northamptonshire
+Place (with link)	Oundle
+Church name (with link)	St Peter
+Register type (with link)	Parish Register
+Register entry number	
+Marriage date	29 May 1752
+Groom forename	John
+Groom surname	KIRBY
+Groom age	
+Groom parish	Peasebrook RUT
+Groom condition	
+Groom occupation	
+Groom abode	
+Bride forename	Alice
+Bride surname	MEADOWS
+Bride age	
+Bride parish	Pilton
+Bride condition	
+Bride occupation	
+Bride abode	
+Groom father forename	
+Groom father surname	
+Groom father occupation	
+Bride father forename	
+Bride father surname	
+Bride father occupation	
+Witness1 forename	
+Witness1 surname	
+Witness2 forename	
+Witness2 surname	
+Notes	licence
+Film	
+Film number	
+Transcribed by	Anna Rufer
+Credit	
+File line number	316
+https://www.freereg.org.uk/search_records/58184902e93790eb7f83c5b2/show_print_version?search_id=5b09800d4325a608cf6a388e

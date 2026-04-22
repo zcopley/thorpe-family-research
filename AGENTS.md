@@ -30,6 +30,11 @@ Current seed sources:
 - `References/raw/PedigreeTimelines2025.cdr`
 - `References/raw/PedigreeTimelines2019Descendants2.cdr`
 
+Intake workflow folders:
+- `References/raw/inbox/` for newly synced external files
+- `References/raw/processed/` for files that have been reviewed and indexed
+- `References/raw/archive/` for older material retained for provenance
+
 The `.cdr` files require export to PDF/image before structured extraction can proceed.
 
 ## Required Session Outputs

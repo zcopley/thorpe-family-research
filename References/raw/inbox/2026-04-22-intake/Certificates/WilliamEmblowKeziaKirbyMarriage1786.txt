@@ -1,0 +1,40 @@
+
+Marriage entry search made on 26 May 2018
+Field	Value
+County	Northamptonshire
+Place (with link)	Oundle
+Church name (with link)	St Peter
+Register type (with link)	Parish Register
+Register entry number	110
+Marriage date	13 Jul 1786
+Groom forename	William
+Groom surname	EMBLOW
+Groom age	
+Groom parish	Otp
+Groom condition	
+Groom occupation	
+Groom abode	
+Bride forename	Kezia
+Bride surname	KIRBY
+Bride age	
+Bride parish	Otp
+Bride condition	
+Bride occupation	
+Bride abode	
+Groom father forename	
+Groom father surname	
+Groom father occupation	
+Bride father forename	
+Bride father surname	
+Bride father occupation	
+Witness1 forename	John
+Witness1 surname	KIRBY
+Witness2 forename	Eliz
+Witness2 surname	BELLAMY
+Notes	Licence
+Film	
+Film number	
+Transcribed by	Ivor Clucas
+Credit	
+File line number	111
+https://www.freereg.org.uk/search_records/581848fde93790eb7f83bbbc/show_print_version?search_id=5b097f004325a608cf6a320a
