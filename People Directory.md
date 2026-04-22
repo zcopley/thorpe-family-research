@@ -20,11 +20,23 @@ tags:
 ### [[People/Andrew Ault|Andrew Ault]]
 - 1850 Island Creek Township, Jefferson County, Ohio household extract staged from census-summary pages.
 
+### [[People/Alzina Morgan|Alzina Morgan]]
+- 1860 Penfield, Lorain County, Ohio Pryor-household census-summary entry.
+
+### [[People/Arthur Jr Munson|Arthur Jr Munson]]
+- 1841/1851 Great Holland, Essex Munson-household census-summary entries.
+
 ### [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]]
 - Multi-decade US census entries (1850-1920) staged from census-summary pages.
 
+### [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]]
+- Lemmon-household spouse profile reused across 1850/1860 Townsend Township entries.
+
 ### [[People/Emma Kelly|Emma Kelly]]
 - Kelly-to-Bellamy branch individual across 1871-1901 Peterborough census-summary entries.
+
+### [[People/Emily Munson|Emily Munson]]
+- Felstead-to-Chelmsford Munson/Thorogood census-summary chain from 1871-1911.
 
 ### [[People/Frederick Ault|Frederick Ault]]
 - 1850 Meigs County, Ohio household-head entry staged from census-summary pages.
@@ -68,8 +80,14 @@ tags:
 ### [[People/James Kelly|James Kelly]]
 - Peterborough census-summary chain across 1841-1871 plus prior parish-christening extraction.
 
+### [[People/James Munson|James Munson]]
+- Essex Munson census-summary chain from 1841 male-servant listing through 1901 pensioner entry.
+
 ### [[People/James Lemmon|James Lemmon]]
 - 1850 Townsend Township, Ohio Lemmon-household census-summary entry.
+
+### [[People/John K Palmer|John K Palmer]]
+- 1860/1880/1900 Wisconsin Palmer-household census-summary sequence.
 
 ### [[People/John Kirby|John Kirby]]
 - Oundle parish marriage extract (1752) with later witness linkage in 1786 entry.
@@ -104,6 +122,9 @@ tags:
 ### [[People/Martha Eliza Lewis|Martha Eliza Lewis]]
 - Lewis-to-Prior linked census-summary entries across Wisconsin, Minnesota, and South Dakota.
 
+### [[People/May Aleen Palmer|May Aleen Palmer]]
+- Palmer-to-Prior linked census-summary entries spanning 1900 Minnesota and 1910-1930 Iowa.
+
 ### [[People/Miller Mathias Tallman|Miller Mathias Tallman]]
 - Head-of-household entries across 1880-1920 Iowa census extracts in census-summary pages.
 
@@ -116,6 +137,9 @@ tags:
 ### [[People/Richard Bellamy|Richard Bellamy]]
 - Bellamy-line household head across repeated 1841-1881 Bourn census-summary entries.
 
+### [[People/Romancy Miller|Romancy Miller]]
+- Tallman-family census-summary entries across Iowa from 1850 to 1910.
+
 ### [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - Staged from shared intake lineage chain in the Prior branch.
 
@@ -127,6 +151,9 @@ tags:
 
 ### [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]]
 - Ohio Lemmon-household census-summary entries across 1850-1880.
+
+### [[People/Wynat Lewis|Wynat Lewis]]
+- Early Wisconsin Lewis-household head recorded as `Wynat (William?)` in census-summary extracts.
 
 ### [[People/William Burgett|William Burgett]]
 - 1850 Brush Run Township, Iowa County, Iowa household-head entry staged from census-summary pages.

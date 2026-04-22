@@ -8,6 +8,22 @@ tags:
 
 # Changelog
 
+## 2026-04-22 — Census summary extraction batch (pages 41-50)
+
+- Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]] for extraction coverage of pages 41-50.
+- Added new person profiles from extracted census-summary entries:
+  - [[People/Wynat Lewis|Wynat Lewis]]
+  - [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]]
+  - [[People/Mathias Miller|Mathias Miller]]
+  - [[People/Romancy Miller|Romancy Miller]]
+  - [[People/Alzina Morgan|Alzina Morgan]]
+  - [[People/Arthur Jr Munson|Arthur Jr Munson]]
+  - [[People/Emily Munson|Emily Munson]]
+  - [[People/James Munson|James Munson]]
+  - [[People/John K Palmer|John K Palmer]]
+  - [[People/May Aleen Palmer|May Aleen Palmer]]
+- Updated [[People Directory]] and [[Search Index]] to include newly added profiles and reference note.
+
 ## 2026-04-22 — Census summary extraction batch (pages 31-40)
 
 - Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]] for extraction coverage of pages 31-40.
