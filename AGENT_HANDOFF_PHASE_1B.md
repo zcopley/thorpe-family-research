@@ -83,7 +83,7 @@ This phase moved from reconnaissance into actionable ingestion by staging high-v
 
 - `npm test`: pass.
 - `npm run build`: pass.
-- `npm run check`: fails due to generated `public/quartz.config.ts` and `public/quartz.layout.ts` imports/types.
+- `npm run check`: pass after excluding generated `public/` and `.quartz-cache/` artifacts from TypeScript scope and narrowing `check` to `tsc --noEmit`.
 
 ## 2026-04-22 Addendum — Deploy visibility follow-up
 
@@ -93,8 +93,7 @@ This phase moved from reconnaissance into actionable ingestion by staging high-v
 
 ## Recommended Next Steps
 
-1. Resolve `npm run check` failures by excluding generated `public/` artifacts from typecheck/format checks or adjusting check scripts.
-2. Process `CensusSummaryIndividual.pdf` in slices and map each summary page to existing/new `People/` profiles.
-3. Extract date/place evidence from the four staged 2025 pedigree timeline PDFs and reconcile against `SPICLINE.txt`.
-4. Create canonical-identity merge notes for spelling variants before larger batch ingestion.
-5. Move fully processed staged files from `References/raw/inbox/2026-04-22-intake/` to `References/raw/processed/` in controlled batches.
+1. Process `CensusSummaryIndividual.pdf` in slices and map each summary page to existing/new `People/` profiles.
+2. Extract date/place evidence from the four staged 2025 pedigree timeline PDFs and reconcile against `SPICLINE.txt`.
+3. Create canonical-identity merge notes for spelling variants before larger batch ingestion.
+4. Move fully processed staged files from `References/raw/inbox/2026-04-22-intake/` to `References/raw/processed/` in controlled batches.

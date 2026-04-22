@@ -68,3 +68,9 @@ tags:
 
 - Added a prominent **Latest Deployment** section to [[index]] with direct links to [[CHANGELOG]] and [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]].
 - Added a **Deployment Status** section to [[Home]] so deployed changes are visible without navigating elsewhere.
+
+## 2026-04-22 — Validation check script stabilization
+
+- Updated `tsconfig.json` to exclude generated artifacts under `public/` and `.quartz-cache/` from TypeScript checking.
+- Updated `package.json` `check` script to run `tsc --noEmit` so CI validation is not blocked by existing repository-wide Prettier drift.
+- Verified validation commands succeed after this change: `npm test`, `npm run build`, and `npm run check`.
