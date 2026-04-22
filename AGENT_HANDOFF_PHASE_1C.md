@@ -21,9 +21,17 @@ This phase completed the indexing and traceability for the p51-p60 census extrac
   - [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]
   - [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]]
 - Added a new topic page: [[Topics/Spelling and Identity Reconciliations|Spelling and Identity Reconciliations]].
+- Extracted and staged text from 5 PDF source files into individual reference notes for easier transcription.
 - Moved 8 fully processed text source files from `References/raw/inbox/2026-04-22-intake/` to `References/raw/processed/2026-04-22-intake/`.
 
 ## Files Created or Updated
+
+### New reference pages (Extracted from PDF)
+- [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96.md]]
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe.md]]
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior.md]]
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer.md]]
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy.md]]
 
 ### New person pages
 - [[People/Nathan Spicer.md]]

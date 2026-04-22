@@ -8,6 +8,16 @@ tags:
 
 # Changelog
 
+## 2026-04-22 — PDF source text extraction
+
+- Extracted and staged text content from multiple PDF sources for easier reference:
+  - [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Census Summary Individuals p61-p96]]
+  - [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Pedigree Timeline Thorpe]]
+  - [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Pedigree Timeline Prior]]
+  - [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Pedigree Timeline Spicer]]
+  - [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Pedigree Timeline Bellamy]]
+- Updated [[Search Index]] with new reference pages.
+
 ## 2026-04-22 — High-priority Thorpe and Spicer ancestor ingestion
 
 - Added new person profiles for direct-line Thorpe and Spicer ancestors from census-summary index:
