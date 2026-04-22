@@ -81,11 +81,19 @@ This phase moved from reconnaissance into actionable ingestion by staging high-v
 
 ## Build/Test Status
 
-- Pending at end of editing: run `npm test` and `npm run build` before finalizing this session.
+- `npm test`: pass.
+- `npm run build`: pass.
+- `npm run check`: fails due to generated `public/quartz.config.ts` and `public/quartz.layout.ts` imports/types.
+
+## 2026-04-22 Addendum — Deploy visibility follow-up
+
+- Added a clearly visible deployment status block on [[index]] and [[Home]] so recent deploy state is obvious on first visit.
+- Updated [[CHANGELOG]] with a dedicated deploy-visibility entry linking directly to updated pages.
+- Prepared commit/push verification flow to confirm GitHub Pages reflects these visibility changes.
 
 ## Recommended Next Steps
 
-1. Execute validation (`npm test`, `npm run build`) and resolve any issues.
+1. Resolve `npm run check` failures by excluding generated `public/` artifacts from typecheck/format checks or adjusting check scripts.
 2. Process `CensusSummaryIndividual.pdf` in slices and map each summary page to existing/new `People/` profiles.
 3. Extract date/place evidence from the four staged 2025 pedigree timeline PDFs and reconcile against `SPICLINE.txt`.
 4. Create canonical-identity merge notes for spelling variants before larger batch ingestion.

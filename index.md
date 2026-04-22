@@ -10,6 +10,17 @@ This vault is the starting point for a dedicated Thorpe family research project.
 
 Maintained by **Zach Copley** with source contributions from **Robert "Butch" Thorpe**.
 
+## Latest Deployment
+
+Latest deployed update: **2026-04-22 intake batch-1 ingestion**.
+
+- See [[CHANGELOG|Changelog]] for full change history.
+- See [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]] for staged sources, added pages, and next steps.
+- Quick links to new intake outputs:
+  - [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Certificates and Parish Extracts]]
+  - [[References/Shared Intake 2026-04-22 Census Citation Notes|Census Citation Notes]]
+  - [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Spicer Lineage Note]]
+
 ## Where to Start
 
 - [[Home]]

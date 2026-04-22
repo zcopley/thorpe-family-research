@@ -22,6 +22,15 @@ Welcome to the Thorpe family research vault. This project is separate from the C
 - [[References/Butch Thorpe Email|Butch Thorpe Email]]
 - [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]]
 
+## Deployment Status
+
+Latest deployed update: **2026-04-22 intake batch-1 ingestion**.
+
+- [[CHANGELOG|Changelog]]
+- [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]]
+- [[People Directory]]
+- [[Search Index]]
+
 ## Next Steps
 
 1. Sync shared uploads into `References/raw/inbox/`.

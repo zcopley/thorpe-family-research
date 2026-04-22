@@ -58,7 +58,13 @@ tags:
   - [[People/Lester Harold Spicer|Lester Harold Spicer]]
   - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - Updated index and navigation pages for discoverability:
+  - [[index]]
+  - [[Home]]
   - [[People Directory]]
   - [[Search Index]]
-  - [[Home]]
 - Added a new ingestion-phase handoff summary in [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]].
+
+## 2026-04-22 — Deploy visibility update
+
+- Added a prominent **Latest Deployment** section to [[index]] with direct links to [[CHANGELOG]] and [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]].
+- Added a **Deployment Status** section to [[Home]] so deployed changes are visible without navigating elsewhere.
