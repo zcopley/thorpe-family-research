@@ -138,9 +138,25 @@ This phase moved from reconnaissance into actionable ingestion by staging high-v
   - [[People/Mary Greenwood|Mary Greenwood]]
 - Updated [[People Directory]] and [[Search Index]] to include the new profiles and reference entry.
 
+## 2026-04-22 Addendum — Census summary extraction batch (pages 31-40)
+
+- Added [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]] from `CensusSummaryIndividual.pdf` page-slice extraction.
+- Created new people pages from extracted entries:
+  - [[People/Elizabeth Harrison|Elizabeth Harrison]]
+  - [[People/Matilda Hiskey|Matilda Hiskey]]
+  - [[People/Elizabeth How|Elizabeth How]]
+  - [[People/Emma Kelly|Emma Kelly]]
+  - [[People/James Lemmon|James Lemmon]]
+  - [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]
+  - [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]]
+  - [[People/Martha Eliza Lewis|Martha Eliza Lewis]]
+  - [[People/Oliver Warren Lewis|Oliver Warren Lewis]]
+- Updated existing profile [[People/James Kelly|James Kelly]] with additional census-summary chain evidence.
+- Updated [[People Directory]] and [[Search Index]] to include the new profiles and reference entry.
+
 ## Recommended Next Steps
 
-1. Continue `CensusSummaryIndividual.pdf` slice extraction with pages 31-40 and map each summary page to existing/new `People/` profiles.
+1. Continue `CensusSummaryIndividual.pdf` slice extraction with pages 41-50 and map each summary page to existing/new `People/` profiles.
 2. Extract date/place evidence from the four staged 2025 pedigree timeline PDFs and reconcile against `SPICLINE.txt`.
 3. Create canonical-identity merge notes for spelling variants before larger batch ingestion.
 4. Move fully processed staged files from `References/raw/inbox/2026-04-22-intake/` to `References/raw/processed/` in controlled batches.

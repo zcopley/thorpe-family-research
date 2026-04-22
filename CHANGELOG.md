@@ -8,6 +8,22 @@ tags:
 
 # Changelog
 
+## 2026-04-22 — Census summary extraction batch (pages 31-40)
+
+- Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]] for extraction coverage of pages 31-40.
+- Added new person profiles from extracted census-summary entries:
+  - [[People/Elizabeth Harrison|Elizabeth Harrison]]
+  - [[People/Matilda Hiskey|Matilda Hiskey]]
+  - [[People/Elizabeth How|Elizabeth How]]
+  - [[People/Emma Kelly|Emma Kelly]]
+  - [[People/James Lemmon|James Lemmon]]
+  - [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]
+  - [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]]
+  - [[People/Martha Eliza Lewis|Martha Eliza Lewis]]
+  - [[People/Oliver Warren Lewis|Oliver Warren Lewis]]
+- Updated [[People/James Kelly|James Kelly]] with census-summary chain evidence from 1841-1871 Peterborough entries.
+- Updated [[People Directory]] and [[Search Index]] to include newly added profiles and reference note.
+
 ## 2026-04-22 — Census summary extraction batch (pages 21-30)
 
 - Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]] for extraction coverage of pages 21-30.

@@ -17,7 +17,8 @@ tags:
 
 - A christening extract gives James Kelly christening date as 15 Aug 1830 at Peterborough, Northampton, England.
 - The same extract names his parents as William Kelly and Sarah.
-- Census citation notes include a 1871 citation entry for a James Kelly record (RG10 piece/folio/page reference in note text).
+- Census-summary pages include James Kelly in Peterborough entries for 1841, 1851, 1861, and 1871 with wife Martha and children including William, John James, Emma, Hannah, Georgiana, Harriet, and George.
+- The 1871 entry is cited in the summary as RG10 Piece 1517, Folio 85, Page 6.
 
 ## Research Gaps
 
@@ -29,5 +30,7 @@ tags:
 
 1. [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Shared Intake 2026-04-22 Certificates and Parish Extracts]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
-3. `References/raw/inbox/2026-04-22-intake/Certificates/JamesKellyBaptism1830.txt`
-4. `References/raw/inbox/2026-04-22-intake/Census/EnglishCensusCitations.txt`
+3. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
+4. `References/raw/inbox/2026-04-22-intake/Certificates/JamesKellyBaptism1830.txt`
+5. `References/raw/inbox/2026-04-22-intake/Census/EnglishCensusCitations.txt`
+6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
