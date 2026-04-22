@@ -8,6 +8,22 @@ tags:
 
 # Changelog
 
+## 2026-04-22 — Census summary extraction batch (pages 1-10)
+
+- Added new reference note [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]] documenting title/introduction context and early extracted census table statements.
+- Added new person profiles from extracted census-summary entries:
+  - [[People/Andrew Ault|Andrew Ault]]
+  - [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]]
+  - [[People/Frederick Ault|Frederick Ault]]
+  - [[People/Miller Mathias Tallman|Miller Mathias Tallman]]
+  - [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]]
+- Updated existing profiles with census-summary indexed date evidence:
+  - [[People/George Spicer|George Spicer]]
+  - [[People/Hattie Risden|Hattie Risden]]
+  - [[People/Lester Harold Spicer|Lester Harold Spicer]]
+  - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
+- Updated [[People Directory]] and [[Search Index]] to include newly added profiles and reference note.
+
 ## 2026-04-22 — Changelog ordering update
 
 - Reordered [[CHANGELOG]] entries into reverse chronological order so newest updates appear first.

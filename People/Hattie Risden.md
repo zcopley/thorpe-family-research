@@ -17,6 +17,7 @@ tags:
 
 - The staged lineage chain shows Hattie Risden paired with George Spicer.
 - The same chain places her as parent generation for Lester Harold Spicer.
+- The census-summary contents index lists `RISDEN, Hattie May` with dates 29 Mar 1877 to 11 Mar 1967.
 
 ## Research Gaps
 
@@ -27,4 +28,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]]
-2. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
+2. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]
+3. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

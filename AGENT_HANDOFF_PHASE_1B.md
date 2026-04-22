@@ -91,6 +91,22 @@ This phase moved from reconnaissance into actionable ingestion by staging high-v
 - Updated [[CHANGELOG]] with a dedicated deploy-visibility entry linking directly to updated pages.
 - Prepared commit/push verification flow to confirm GitHub Pages reflects these visibility changes.
 
+## 2026-04-22 Addendum — Census summary extraction batch (pages 1-10)
+
+- Added [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]] from `CensusSummaryIndividual.pdf` page-slice extraction.
+- Created new people pages from high-confidence early extracted entries:
+  - [[People/Andrew Ault|Andrew Ault]]
+  - [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]]
+  - [[People/Frederick Ault|Frederick Ault]]
+  - [[People/Miller Mathias Tallman|Miller Mathias Tallman]]
+  - [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]]
+- Updated existing person profiles with census-summary indexed date evidence:
+  - [[People/George Spicer|George Spicer]]
+  - [[People/Hattie Risden|Hattie Risden]]
+  - [[People/Lester Harold Spicer|Lester Harold Spicer]]
+  - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
+- Updated [[People Directory]] and [[Search Index]] to include new profiles and reference entry.
+
 ## Recommended Next Steps
 
 1. Process `CensusSummaryIndividual.pdf` in slices and map each summary page to existing/new `People/` profiles.

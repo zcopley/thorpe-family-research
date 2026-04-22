@@ -17,6 +17,7 @@ tags:
 
 - The staged lineage chain records Lester Harold Spicer paired with Ruby Bernice Prior.
 - The same chain places Lester Harold Spicer as parent generation above Karen Lu Spicer.
+- The census-summary contents index lists `SPICER, Lester Harold` with dates 14 Jul 1906 to 28 Jun 1974.
 
 ## Research Gaps
 
@@ -27,4 +28,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]]
-2. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
+2. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]
+3. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

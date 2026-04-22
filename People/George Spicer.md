@@ -17,6 +17,7 @@ tags:
 
 - The staged lineage chain shows George Spicer paired with Hattie Risden.
 - The same chain positions George Spicer between Charles Russell Spicer and Lester Harold Spicer.
+- The census-summary contents index lists `SPICER, George B` with dates 3 Sep 1864 to 15 May 1938.
 
 ## Research Gaps
 
@@ -27,4 +28,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]]
-2. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
+2. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]
+3. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

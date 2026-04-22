@@ -9,12 +9,17 @@ tags:
 # Search Index
 
 ## People
+- [[People/Andrew Ault|Andrew Ault]]
+- [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]]
+- [[People/Frederick Ault|Frederick Ault]]
 - [[People/George Spicer|George Spicer]]
 - [[People/Hattie Risden|Hattie Risden]]
 - [[People/James Kelly|James Kelly]]
 - [[People/John Kirby|John Kirby]]
 - [[People/Kezia Kirby|Kezia Kirby]]
+- [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]]
 - [[People/Lester Harold Spicer|Lester Harold Spicer]]
+- [[People/Miller Mathias Tallman|Miller Mathias Tallman]]
 - [[People/Robert Butch Thorpe|Robert "Butch" Thorpe]]
 - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - [[People/William Emblow|William Emblow]]
@@ -27,5 +32,6 @@ tags:
 ## References
 - [[References/Butch Thorpe Email|Butch Thorpe Email]]
 - [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
+- [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]
 - [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Shared Intake 2026-04-22 Certificates and Parish Extracts]]
 - [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]]
