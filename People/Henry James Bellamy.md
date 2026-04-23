@@ -19,6 +19,7 @@ tags:
 - The 1871 Bourn, Lincolnshire household includes `Henry BELLAMY` as son in the Richard Bellamy household.
 - The 1891 Peterborough entry lists Henry Bellamy as household head with wife Emma and children including Annie, George, and Archibald.
 - The 1901 Peterborough entry lists `Harry BELLAMY` as head with wife Emma and children including George William, James A, Albert Victor, Olive Winifred, and Milicent May.
+- The Burial Sites book places Henry James Bellamy at Eastfield Cemetery in Peterborough, Northamptonshire, England (page 7), Block 15, Grave 5610, Burial no. 8556, with date of death 16 February 1948 and no visible stone. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Eastfield+Cemetery+Peterborough+Northamptonshire+England).
 
 ## Research Gaps
 
@@ -30,4 +31,6 @@ tags:
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
-3. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

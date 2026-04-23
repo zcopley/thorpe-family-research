@@ -8,6 +8,67 @@ tags:
 
 # Changelog
 
+## 2026-04-23 — Spicer and Prior diagrams added
+
+- Added Mermaid diagrams to [[People/Charles Russell Spicer|Charles Russell Spicer]], [[People/Hattie May Risden|Hattie May Risden]], [[People/Lester Harold Spicer|Lester Harold Spicer]], [[People/Nathan Spicer|Nathan Spicer]], and [[People/Arthur Edwin Prior|Arthur Edwin Prior]].
+- These diagrams extend the existing branch/household visualization pattern into the Spicer and Prior pages with source-limited lineages and family groupings.
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1Y|Agent Handoff — Phase 1Y]].
+
+## 2026-04-23 — More Mermaid diagrams added
+
+- Added Mermaid diagrams to [[People/George B Spicer|George B. Spicer]], [[People/Frederick Thorogood|Frederick Thorogood]], [[People/James Kelly|James Kelly]], [[People/William Henry Palmer|William Henry Palmer]], [[People/Emily Munson|Emily Munson]], and [[People/Emma Kelly|Emma Kelly]].
+- These diagrams cover family lines, marriage links, and household sketches already supported by the source text.
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1X|Agent Handoff — Phase 1X]].
+
+## 2026-04-23 — Mermaid diagrams added
+
+- Added Mermaid diagrams to [[Topics/Lemmon Blake Thorpe Branch Summary]], [[Topics/Identity Reconciliation Matrix]], [[Topics/Spelling and Identity Reconciliations]], [[People/John Wheeler Risden|John Wheeler Risden]], [[People/Mary Burgett|Mary Burgett]], and [[People/Wynat Lewis|Wynat Lewis]].
+- Used the diagrams to show the compiled branch structure, the reconciliation queue, spelling families, and two household sketches.
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1W|Agent Handoff — Phase 1W]].
+
+## 2026-04-23 — Mary Greenwood reconciliation clarified
+
+- Clarified that [[People/Mary Greenwood|Mary Greenwood]] is a separate 1850 mortality-record identity for `Mary BERGETT`, not a merge with [[People/Mary Burgett|Mary Burgett]].
+- Updated [[Topics/Identity Reconciliation Matrix]] and [[Topics/Spelling and Identity Reconciliations]] to mark the Greenwood/Burgett split as resolved and to preserve `GREENWOOD` as compiler metadata if needed.
+- Updated [[People/Mary Greenwood|Mary Greenwood]] and [[People/Mary Burgett|Mary Burgett]] with the corrected distinction.
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1V|Agent Handoff — Phase 1V]].
+
+## 2026-04-23 — Burial book index-only pass
+
+- Added index-only burial-book notes to [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]], [[People/Frederick Ault|Frederick Ault]], [[People/James Kelly|James Kelly]], [[People/James Thorogood|James Thorogood]], [[People/John K Palmer|John K Palmer]], [[People/Mary Sorrell|Mary Sorrell]], [[People/Mary Wheeler|Mary Wheeler]], and [[People/Oliver Warren Lewis|Oliver Warren Lewis]].
+- Created [[People/Jane Wilson|Jane Wilson]] as a minimal burial-index page and added it to [[People Directory]] and [[Search Index]].
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1U|Agent Handoff — Phase 1U]].
+
+## 2026-04-23 — Burial book fourth batch
+
+- Added burial-book evidence and map links to [[People/Angeline Caswell|Angeline Caswell]], [[People/Benjamin B Tallman|Benjamin B Tallman]], [[People/Elizabeth Maria Bangle|Elizabeth Maria Bangle]], [[People/Emma Kelly|Emma Kelly]], [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]], [[People/Henry James Bellamy|Henry James Bellamy]], [[People/John Wheeler Risden|John Wheeler Risden]], [[People/Louis S Jr Bangle|Louis S Jr Bangle]], [[People/Martha Eliza Lewis|Martha Eliza Lewis]], [[People/May Aleen Palmer|May Aleen Palmer]], [[People/Matilda Baxter|Matilda Baxter]], and [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]].
+- Created [[People/Major McIntyre|Major McIntyre]] and [[People/Sophronia Burdick|Sophronia Burdick]] from burial-book entries and added them to [[People Directory]] and [[Search Index]].
+- Updated [[People/John Wheeler Risden|John Wheeler Risden]] with Linwood Cemetery context and reiterated the ambiguity around [[People/Sarah Shutts|Sarah Shutts]].
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1T|Agent Handoff — Phase 1T]].
+
+## 2026-04-23 — Burial book third batch
+
+- Added burial-book evidence and map links to [[People/Angeline Caswell|Angeline Caswell]], [[People/Benjamin B Tallman|Benjamin B Tallman]], [[People/Elizabeth Maria Bangle|Elizabeth Maria Bangle]], [[People/Emma Kelly|Emma Kelly]], [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]], [[People/Henry James Bellamy|Henry James Bellamy]], [[People/Louis S Jr Bangle|Louis S Jr Bangle]], [[People/Martha Eliza Lewis|Martha Eliza Lewis]], [[People/May Aleen Palmer|May Aleen Palmer]], [[People/Matilda Baxter|Matilda Baxter]], and [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]].
+- Created [[People/Dinah Boone|Dinah Boone]] and [[People/Sarah Shutts|Sarah Shutts]] from burial-book entries and added them to [[People Directory]] and [[Search Index]].
+- Updated [[People/Benjamin B Tallman|Benjamin B Tallman]] and [[People/May Aleen Palmer|May Aleen Palmer]] with spouse/family burial-book context.
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1S|Agent Handoff — Phase 1S]].
+
+## 2026-04-23 — Burial book second batch
+
+- Added burial-book evidence and map links to [[People/Benjamin B Tallman|Benjamin B Tallman]], [[People/Elizabeth Maria Bangle|Elizabeth Maria Bangle]], [[People/Emma Kelly|Emma Kelly]], [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]], [[People/Henry James Bellamy|Henry James Bellamy]], [[People/Louis S Jr Bangle|Louis S Jr Bangle]], [[People/Martha Eliza Lewis|Martha Eliza Lewis]], [[People/Matilda Baxter|Matilda Baxter]], and [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]].
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1R|Agent Handoff — Phase 1R]].
+
+## 2026-04-23 — Burial book extraction into person pages
+
+- Added burial-book evidence, cemetery locations, and map links to the major existing person pages for [[People/Arthur Edwin Prior|Arthur Edwin Prior]], [[People/Emily Munson|Emily Munson]], [[People/Frederick Thorogood|Frederick Thorogood]], [[People/George B Spicer|George B. Spicer]], [[People/Grace Caroline Thorogood|Grace Caroline Thorogood]], [[People/Hattie May Risden|Hattie May Risden]], [[People/James Lemmon|James Lemmon]], [[People/James Munson|James Munson]], [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]], [[People/Lester Harold Spicer|Lester Harold Spicer]], [[People/Mary Ann Thorogood|Mary Ann Thorogood]], [[People/Mary Burgett|Mary Burgett]], [[People/Miller Mathias Tallman|Miller Mathias Tallman]], [[People/Nancy West Rowland|Nancy West Rowland]], [[People/Nathan Spicer|Nathan Spicer]], [[People/Oliver Warren Prior|Oliver Warren Prior]], [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]], [[People/Rebecca Blake|Rebecca Blake]], [[People/Ruby Bernice Prior|Ruby Bernice Prior]], [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]], [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]], [[People/Watson Moses Risden|Watson Moses Risden]], and [[People/William Henry Palmer|William Henry Palmer]]; the session was summarized in [[AGENT_HANDOFF_PHASE_1P|Agent Handoff — Phase 1P]] and [[AGENT_HANDOFF_PHASE_1Q|Agent Handoff — Phase 1Q]].
+- Created [[People/Emilie J. Thorp|Emilie J. Thorp]] from the burial book's side-branch entry at DeYo-Bolls Cemetery and added it to [[People Directory]] and [[Search Index]].
+- Updated [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]] with convenience Google Maps links for the featured cemeteries.
+
+## 2026-04-23 — Burial site map links added
+
+- Added convenience Google Maps lookup links to [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]] for the featured cemeteries.
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1P|Agent Handoff — Phase 1P]].
+
 ## 2026-04-23 — Local tool-state ignored
 
 - Added `.abacusai/` and `.codex` to `/.gitignore` so local agent and workspace tooling state stays out of version control.

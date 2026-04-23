@@ -20,6 +20,7 @@ tags:
 - The 1870 Green Creek Township, Clyde entry includes Uriah B. Lemmon in a John M. Lemmon household context.
 - The 1880 Clyde entry lists Uriah B. Lemmon with spouse Sarah Lemmon.
 - The Thorpe pedigree timeline includes `Uriah Blake Lemmon 1808-1887` on the same compiled branch chart that also shows Rebecca Blake and James Lemmon.
+- The Burial Sites book places Uriah Blake Lemmon at McPherson Cemetery in Clyde, Ohio (page 16), with date of death 15 Feb 1887 and inscription `LEMMON`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=McPherson+Cemetery+Clyde+Ohio).
 
 ## Research Gaps
 
@@ -30,4 +31,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

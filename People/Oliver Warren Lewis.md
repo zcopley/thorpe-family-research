@@ -19,6 +19,7 @@ tags:
 - The 1850 Burlington, Racine County, Wisconsin table includes Oliver Lewis in a multi-member Lewis household.
 - The 1860 Ripon 1st Ward, Fond du Lac, Wisconsin household includes Oliver Lewis as an adult member.
 - The 1880 Grand Meadow Township, Mower County, Minnesota table lists Oliver Lewis as household head with wife Elizabeth and sons George and William.
+- The Burial Sites book index lists Oliver Warren Lewis as `1806-1892`, but no separate cemetery page was identified in the extracted text.
 
 ## Research Gaps
 
@@ -29,4 +30,5 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+3. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

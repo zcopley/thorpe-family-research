@@ -11,6 +11,37 @@ tags:
 
 This page summarizes the branch-level evidence currently available in the vault for the Lemmon, Blake, and Thorpe cluster.
 
+## Branch Diagram
+
+```mermaid
+graph TD
+  UBT[Uriah Blake Thorpe<br/>1878-1959]
+  UBL[Uriah Blake Lemmon<br/>1808-1887]
+  JL[James Lemmon<br/>1779-1854]
+  RB[Rebecca Blake<br/>1779-1855]
+  SAL[Sarah Annett Lemmon<br/>1841-1886]
+  HM[Hugh Lemmon<br/>1754-1824]
+  MM[Martha McHenry]
+  RBlake[Richard Blake]
+  DS[Damaris Smedley]
+  WM[William McIntyre]
+  MC[Major McIntyre]
+  RC[Rosanna Campbell]
+
+  UBL --> JL
+  UBL --> RB
+  JL --> HM
+  JL --> MM
+  RB --> RBlake
+  RB --> DS
+  SAL --> UBT
+  HM --> WM
+  HM --> RC
+  WM --> MC
+```
+
+This diagram is a branch-level sketch only. It reflects the compiled pedigree timeline, not a standalone proof of each relationship.
+
 ## What the Timeline Shows
 
 The Thorpe pedigree timeline places the following people on the same compiled branch chart:
@@ -56,4 +87,3 @@ Use this page when you need a concise explanation of why the Thorpe and Lemmon p
 5. [[People/James Lemmon|James Lemmon]]
 6. [[People/Rebecca Blake|Rebecca Blake]]
 7. [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]
-

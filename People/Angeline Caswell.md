@@ -18,6 +18,7 @@ tags:
 - A census-summary entry gives Angeline Caswell as born 7 Oct 1821 and died 8 Nov 1908.
 - The section includes 1860 Michigan and 1870/1880 Wisconsin Bangle household records with Angeline Bangle listed as spouse.
 - A 1900 Eau Claire County, Wisconsin entry includes `Cazwell BANGLE`, age 76, in an Augusta household extract.
+- The Burial Sites book places Angeline Caswell at Augusta, Wisconsin (page 12) and notes that daughter Wealthy is buried with L.S. Bangle and Angeline. The inscription reads `MRS L.S. BANGLE / AND MISS W. BANGLE`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Augusta+Wisconsin).
 
 ## Research Gaps
 
@@ -28,4 +29,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

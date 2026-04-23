@@ -19,13 +19,14 @@ tags:
 - The same extract records an 1850 Iowa mortality schedule entry naming `Mary BERGETT`, female, age 38, born England.
 - The entry notes death in March with cause recorded as fever and illness duration of 3 days.
 - The extract cites `Series: A1156, Roll: 54, Page: 337, Line #6`.
-- The same source page flags this as a Burgett-linked individual, which is why the Greenwood title remains under reconciliation.
+- The same source page flags this as a Burgett-linked individual, but the age and death timing make it a separate Mary Bergett identity from [[People/Mary Burgett|Mary Burgett]] (1835-1918).
+- The `GREENWOOD, Mary` heading appears to be compiler metadata for the mortality-schedule row, not the best canonical surname for the person.
 
 ## Research Gaps
 
-1. Confirm whether Mary Greenwood and Mary Bergett in this extract are the same identity in the compiler's framework.
-2. Validate mortality-schedule line details from image-level records.
-3. Clarify relationship links to Burgett household entries.
+1. Validate mortality-schedule line details from image-level records.
+2. Determine whether the `GREENWOOD` heading should be preserved only as an index label or replaced by a more neutral mortality-record title.
+3. Clarify the relationship of this Mary Bergett entry to the William Burgett household.
 
 ## Sources
 

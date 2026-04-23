@@ -20,6 +20,7 @@ tags:
 - The 1860 and 1870 entries place Sarah Thorp in Monroe Thorp households.
 - The 1880 Clay Township, Grundy County, Iowa table lists Sarah Thorpe in an M. Thorpe household.
 - The Thorpe pedigree timeline includes `Sarah Annett Lemmon 1841-1886` on the same compiled branch chart as the Lemmon and Thorpe family lines.
+- The Burial Sites book places Sarah Annett Lemmon at Oakland Cemetery in Beaman, Iowa (page 15), Lot 21, with date of death 6 August 1886 and inscription `SARAH ANNETT THORP / DIED AUG. 6, 1886 / AGED 45 YRS. 7M. 7D.`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Oakland+Cemetery+Beaman+Iowa).
 
 ## Research Gaps
 
@@ -30,4 +31,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

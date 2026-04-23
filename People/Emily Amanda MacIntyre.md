@@ -18,6 +18,7 @@ tags:
 - A census-summary entry gives Emily Amanda MacIntyre as born about 29 Sep 1816 and died 9 Jul 1860.
 - The profile section reuses 1850 and 1860 Townsend Township, Sandusky County, Ohio Lemmon/Lemon household tables where Emily A. Lemmon/Lemon appears as spouse.
 - The cited extracts include M432 Roll 726 (1850) and M653 Roll 1032 (1860).
+- The Burial Sites book places Emily Amanda MacIntyre at Tew Cemetery in Townsend Township, Sandusky County, Ohio (page 18), with date of death 9 July 1860 and inscription `EMILY A. / wife of / U. B. LEMMON / DIED / July 9, 1860 / AGED / 43 ys 9mo. & 10 d.`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Tew+Cemetery+Townsend+Township+Sandusky+County+Ohio).
 
 ## Research Gaps
 
@@ -28,4 +29,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

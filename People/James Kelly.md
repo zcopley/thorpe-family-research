@@ -19,6 +19,37 @@ tags:
 - The same extract names his parents as William Kelly and Sarah.
 - Census-summary pages include James Kelly in Peterborough entries for 1841, 1851, 1861, and 1871 with wife Martha and children including William, John James, Emma, Hannah, Georgiana, Harriet, and George.
 - The 1871 entry is cited in the summary as RG10 Piece 1517, Folio 85, Page 6.
+- The Burial Sites book index also lists James Kelly as `c1825-1903`, but the extracted text did not yield a separate cemetery page.
+
+## Family Diagram
+
+```mermaid
+graph TD
+  WK[William Kelly]
+  SK[Sarah]
+  JK[James Kelly<br/>1830-1903?]
+  M[Martha Kelly]
+  W[William]
+  JJ[John James]
+  E[Emma Kelly]
+  H[Hannah]
+  G[Georgiana]
+  Ht[Harriet]
+  Geo[George]
+
+  WK --- SK
+  WK --> JK
+  JK --- M
+  JK --> W
+  JK --> JJ
+  JK --> E
+  JK --> H
+  JK --> G
+  JK --> Ht
+  JK --> Geo
+```
+
+This is a household sketch based on the parish extract and the census-summary family groupings.
 
 ## Research Gaps
 
@@ -31,6 +62,7 @@ tags:
 1. [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Shared Intake 2026-04-22 Certificates and Parish Extracts]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
-4. `References/raw/inbox/2026-04-22-intake/Certificates/JamesKellyBaptism1830.txt`
-5. `References/raw/inbox/2026-04-22-intake/Census/EnglishCensusCitations.txt`
-6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+5. `References/raw/inbox/2026-04-22-intake/Certificates/JamesKellyBaptism1830.txt`
+6. `References/raw/inbox/2026-04-22-intake/Census/EnglishCensusCitations.txt`
+7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

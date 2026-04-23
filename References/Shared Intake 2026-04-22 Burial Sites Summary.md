@@ -65,11 +65,15 @@ The book contains detailed burial information for the following individuals:
 | Thorp, Emilie J. | 46 | |
 
 ## Featured Cemeteries
-- **Cedar Memorial Cemetery** (p. 48)
-- **Fairview Cemetery** (p. 49)
-- **Linwood Cemetery** (p. 50)
-- **McPherson Cemetery**, Clyde, Ohio (p. 51)
-- **Spicer/Spooner Cemetery** (p. 52)
+Google Maps links below are convenience links for location lookup, not source evidence.
+
+| Cemetery | Page | Map |
+|----------|------|-----|
+| Cedar Memorial Cemetery | 48 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cedar+Memorial+Cemetery) |
+| Fairview Cemetery | 49 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fairview+Cemetery) |
+| Linwood Cemetery | 50 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Linwood+Cemetery) |
+| McPherson Cemetery, Clyde, Ohio | 51 | [Google Maps](https://www.google.com/maps/search/?api=1&query=McPherson+Cemetery+Clyde+Ohio) |
+| Spicer/Spooner Cemetery | 52 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spicer+Spooner+Cemetery) |
 
 ## Key Technical Artifacts
 - The source includes **GPS coordinates** (Latitude/Longitude) for specific grave markers, collected using smart phone technology.

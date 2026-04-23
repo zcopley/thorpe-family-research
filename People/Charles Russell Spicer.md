@@ -19,6 +19,22 @@ tags:
 - The Spicer lineage note positions Charles Russell Spicer between Nathan Spicer and George B. Spicer.
 - The lineage chain pairs Charles Russell Spicer with Mary Burgett.
 
+## Family Diagram
+
+```mermaid
+graph TD
+  NS[Nathan Spicer]
+  CRS[Charles Russell Spicer<br/>1822-1887]
+  GBS[George B. Spicer]
+  MB[Mary Burgett]
+
+  NS --> CRS
+  CRS --- MB
+  CRS --> GBS
+```
+
+This is a lineage sketch from the Spicer note and census-summary index, not a complete household chart.
+
 ## Research Gaps
 
 1. Verify dates and places against US census records.

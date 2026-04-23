@@ -18,6 +18,23 @@ tags:
 - The staged lineage chain shows George Spicer paired with Hattie Risden.
 - The same chain positions George Spicer between Charles Russell Spicer and Lester Harold Spicer.
 - The census-summary contents index lists `SPICER, George B` with dates 3 Sep 1864 to 15 May 1938.
+- The Burial Sites book places George B. Spicer at Spring Grove Cemetery near Covington, Iowa (page 32), Lot 88, Space 5, with GPS coordinates `42°1’47.6”N 91°46’6.2”W`, date of death 15 May 1938, and inscription `FATHER / GEORGE SPICER / 1864 — 1938`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Spring+Grove+Cemetery+Covington+IA).
+
+## Family Diagram
+
+```mermaid
+graph TD
+  CRS[Charles Russell Spicer]
+  GBS[George B. Spicer<br/>1864-1938]
+  HMR[Hattie Risden / Hattie May Risden]
+  LHS[Lester Harold Spicer]
+
+  CRS --> GBS
+  GBS --- HMR
+  GBS --> LHS
+```
+
+This is a compact lineage sketch from the staged Spicer line and burial-book context.
 
 ## Research Gaps
 
@@ -29,5 +46,7 @@ tags:
 
 1. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]]
 2. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]
-3. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
-4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+5. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
+6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

@@ -19,6 +19,7 @@ tags:
 - The 1880 Afton Township, Cherokee County, Iowa extract lists Miller M. Tallman as head, married, age 39, occupation farmer, born Ohio.
 - The 1900 Sioux City, Woodbury County, Iowa extract lists Miller M. Tallman as head, birth month/year Apr 1841, occupation teamster.
 - The 1910 and 1920 Iowa Soldiers' Home extracts in Marshall County list Miller M. Tallman as head/member with wife Elizabeth P. Tallman.
+- The Burial Sites book places Miller Mathias Tallman at Iowa Veterans’ Home Cemetery in Marshalltown, Iowa (page 38), South Section, Row 12, Grave 4, with date of death 8 April 1921. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Iowa+Veterans+Home+Cemetery+Marshalltown+IA).
 
 ## Research Gaps
 
@@ -29,4 +30,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

@@ -44,11 +44,20 @@ tags:
 ### [[People/Emily Munson|Emily Munson]]
 - Felstead-to-Chelmsford Munson/Thorogood census-summary chain from 1871-1911.
 
+### [[People/Emilie J. Thorp|Emilie J. Thorp]]
+- Side-branch Thorp burial-book entry at DeYo-Bolls Cemetery.
+
 ### [[People/Frederick Ault|Frederick Ault]]
 - 1850 Meigs County, Ohio household-head entry staged from census-summary pages.
 
 ### [[People/Angeline Caswell|Angeline Caswell]]
 - Bangle household entries across 1860-1900 census-summary pages including 1900 Augusta listing.
+
+### [[People/Dinah Boone|Dinah Boone]]
+- Tallman family spouse represented in the burial book at Tallman Cemetery.
+
+### [[People/Major McIntyre|Major McIntyre]]
+- McIntyre burial-book entry at Tew Cemetery.
 
 ### [[People/Catherine Filkins|Catherine Filkins]]
 - 1850/1860 New York Johnson-Spicer household entries staged from census-summary pages.
@@ -85,6 +94,9 @@ tags:
 
 ### [[People/James Archibald Bellamy|James Archibald Bellamy]]
 - Bellamy descendant tracked across Peterborough and Chelmsford census-summary entries.
+
+### [[People/Jane Wilson|Jane Wilson]]
+- Burial Sites book index-only name; no separate cemetery page identified yet.
 
 ### [[People/James Bellamy|James Bellamy]]
 - Early Bellamy-line ancestor with 1841-1861 Bourn census-summary records.
@@ -182,8 +194,14 @@ tags:
 ### [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]
 - Lemmon-to-Thorp/Thorpe census-summary chain across 1850-1880 entries.
 
+### [[People/Sarah Shutts|Sarah Shutts]]
+- Ambiguous McIntyre burial-book entry at Tew Cemetery.
+
 ### [[People/Saphronia Burdick|Saphronia Burdick]]
 - 1870 Lapeer, Michigan RISDEN-household census-summary entry.
+
+### [[People/Sophronia Burdick|Sophronia Burdick]]
+- Risden-linked burial-book cemetery entry in the Linwood Cemetery index.
 
 ### [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]
 - Thorp-line ancestor with 1878-1959 dates recorded in census-summary index.

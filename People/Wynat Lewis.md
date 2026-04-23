@@ -22,6 +22,34 @@ tags:
 - The 1850 household includes Susan, Lousa, Eliza, Alonzo, Oliver, Marth, Marsh, Erastus DARLING, and Sarah DARLING.
 - The 1860 household includes Susan, Oliver, Marshal, Elizabeth, and Martha E. Lewis.
 
+## Household Diagram
+
+```mermaid
+graph TD
+  WL[Wynat / Wynant Lewis]
+  S[Susan]
+  L[Louisa]
+  E[Eliza]
+  A[Alonzo]
+  O[Oliver]
+  M[Martha / Martha E.]
+  MD[Marshall / Marsh]
+  ED[Erastus Darling]
+  SD[Sarah Darling]
+
+  WL --- S
+  WL --> L
+  WL --> E
+  WL --> A
+  WL --> O
+  WL --> M
+  WL --> MD
+  WL --> ED
+  WL --> SD
+```
+
+This diagram is a household sketch from the 1850 and 1860 census-summary extracts. It is deliberately literal and should not be read as a completed descendant chart.
+
 ## Research Gaps
 
 1. Resolve whether `Wynat` is a compiler/OCR form for `Wynant`, and whether `W.W.` expands to `Wynant Williamson` rather than `William`.

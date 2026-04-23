@@ -19,6 +19,7 @@ tags:
 - The 1860 Bridge Creek Township, Eau Claire County, Michigan entry lists Lewis Bangle as a farmer.
 - The 1870 Otter Creek Township, Eau Claire County, Wisconsin entry lists `L. S. BANGLE`, age 46, farmer.
 - The 1880 Otter Creek Township entry lists `Lewis S. BANGLE`, age 56, with wife Angeline and children including Welthy O., William H., and Robert E.
+- The Burial Sites book places Louis S. Bangle at Augusta, Wisconsin (page 5), with date of death 5 Feb 1893 and inscription `L.S. BANGLE / BORN DEC 1, 1822 / DIED FEB. 5, 1893 / AGED 69 YRS 1 MO`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Augusta+Wisconsin).
 
 ## Research Gaps
 
@@ -29,4 +30,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

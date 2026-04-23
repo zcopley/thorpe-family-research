@@ -17,6 +17,23 @@ tags:
 
 - A census-summary entry gives Frederick Thorogood as born 25 Mar 1865 and died 18 Sep 1943.
 - The extraction notes a UK census sequence spanning 1871 through 1911.
+- The Burial Sites book places Frederick Thorogood at Chelmsford Borough Cemetery in Chelmsford, Essex, England (page 39), Grave 4827, and the inscription says `FREDERICK THOROGOOD / AGED 78 YEARS / Death divides but memory clings`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Chelmsford+Borough+Cemetery+Essex+England).
+
+## Family Diagram
+
+```mermaid
+graph TD
+  FT[Frederick Thorogood<br/>1865-1943]
+  EM[Emily Munson Thorogood<br/>1862-1932]
+  MUN[Munson household]
+  THO[Thorogood household]
+
+  FT --- EM
+  EM --> MUN
+  FT --> THO
+```
+
+This sketch keeps the marriage link visible while leaving the earlier household sequence as separate source-backed context.
 
 ## Research Gaps
 
@@ -26,4 +43,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]
-2. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
+4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`

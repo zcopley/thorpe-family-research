@@ -19,6 +19,7 @@ tags:
 - The 1850 Townsend Township, Sandusky County, Ohio table includes Rebecca Lemmon in a household with James Lemmon and other Lemmon/Harkins members.
 - The extract cites Series M432, Roll 726, Page 476.
 - The Thorpe pedigree timeline includes `Rebecca Blake 1779-1855` on the same compiled branch chart as James Lemmon and Uriah Blake Lemmon.
+- The Burial Sites book places Rebecca Blake Lemmon at Tew Cemetery in Townsend Township, Sandusky County, Ohio (page 9), Section 25-17-5, Lat. 412203N Long. 0825125W, with date of death 29 March 1855 and inscription `REBECCA / wife of / JAMES LEMMON / DIED / Mar. 29, 1855 / Aged / 75 Yrs. 5.M. 3d`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Tew+Cemetery+Townsend+Township+Sandusky+County+Ohio).
 
 ## Research Gaps
 
@@ -29,4 +30,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

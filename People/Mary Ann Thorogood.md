@@ -17,6 +17,7 @@ tags:
 
 - A census-summary entry gives Mary Ann Thorogood as born 21 Mar 1832 and died 17 Jul 1916.
 - The extraction notes a UK census sequence for Mary Ann Thorogood from 1841 through 1911.
+- The Burial Sites book places Mary Ann Thorogood at Felsted Congregational Burial Ground (United Reformed Church) in Felsted, Essex, England (page 41), with inscription `IN MEMORY OF / OUR DEAR MOTHER / MARY ANN MUNSON / WHO DIED 17th JULY 1916 / AGED 84 YEARS`. The page also carries an OCR date-of-death field that appears inconsistent and should be treated cautiously. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Felsted+Congregational+Burial+Ground+Felsted+Essex+England).
 
 ## Research Gaps
 
@@ -26,4 +27,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]
-2. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
+2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+3. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
+4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`

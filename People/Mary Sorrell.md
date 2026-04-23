@@ -17,6 +17,7 @@ tags:
 
 - A census-summary entry gives Mary Sorrell as born about 1823 and died 20 Jun 1897.
 - The extraction lists a UK sequence for Mary Sorrell from 1841 through 1891 across Essex and Hertfordshire entries.
+- The Burial Sites book index lists Mary Sorrell as `c1827-1897`, but the extracted text did not reveal a standalone cemetery page.
 
 ## Research Gaps
 
@@ -27,3 +28,4 @@ tags:
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]
 2. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
+3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
