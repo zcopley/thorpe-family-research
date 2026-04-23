@@ -19,6 +19,7 @@ tags:
 - The 1850 and 1860 Townsend Township, Sandusky County, Ohio entries list Uriah B. Lemmon/Lemon as household head with Emily A. and children.
 - The 1870 Green Creek Township, Clyde entry includes Uriah B. Lemmon in a John M. Lemmon household context.
 - The 1880 Clyde entry lists Uriah B. Lemmon with spouse Sarah Lemmon.
+- The Thorpe pedigree timeline includes `Uriah Blake Lemmon 1808-1887` on the same compiled branch chart that also shows Rebecca Blake and James Lemmon.
 
 ## Research Gaps
 

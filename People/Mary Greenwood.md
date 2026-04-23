@@ -15,10 +15,11 @@ tags:
 
 ## Source-Cited Facts
 
-- A census-summary entry gives Mary Greenwood as born about 1812 and died in March 1850.
-- The 1850 Iowa mortality schedule extract lists `Mary BERGETT`, female, age 38, born England.
+- The extracted census summary page 30 labels this profile `GREENWOOD, Mary (c. 1812 - Mar 1850)`.
+- The same extract records an 1850 Iowa mortality schedule entry naming `Mary BERGETT`, female, age 38, born England.
 - The entry notes death in March with cause recorded as fever and illness duration of 3 days.
-- The extract cites Series A1156, Roll 54, Page 337, Line 6.
+- The extract cites `Series: A1156, Roll: 54, Page: 337, Line #6`.
+- The same source page flags this as a Burgett-linked individual, which is why the Greenwood title remains under reconciliation.
 
 ## Research Gaps
 

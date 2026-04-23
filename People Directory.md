@@ -17,6 +17,9 @@ tags:
 ### [[People/Amy E Critton|Amy E Critton]]
 - Walnut Township, Ohio Miller household entries staged from 1850-1870 census-summary pages.
 
+### [[People/Ann Sorrell|Ann Sorrell]]
+- Canonical Sorrell-line maternal profile reconstructed from 1841-1871 census-summary entries and cross-reference mappings.
+
 ### [[People/Andrew Ault|Andrew Ault]]
 - 1850 Island Creek Township, Jefferson County, Ohio household extract staged from census-summary pages.
 
@@ -58,6 +61,9 @@ tags:
 
 ### [[People/Elizabeth Brooks|Elizabeth Brooks]]
 - Census-summary indexed profile with Ault-household crossover entry in 1850 Ohio extraction.
+
+### [[People/Eleanor Emblow|Eleanor Emblow]]
+- Canonical Emblow-line maternal profile reconstructed from Peterborough census-summary entries and cross-reference mappings.
 
 ### [[People/Elizabeth Harrison|Elizabeth Harrison]]
 - 1850 Violet Township, Fairfield County, Ohio Tallman-household census-summary entry.
@@ -205,6 +211,84 @@ tags:
 
 ### [[People/William Kelly|William Kelly]]
 - Identified as father in James Kelly christening extract and probable match to 1840 burial entry.
+
+### [[People/Benjamin B Tallman|Benjamin B Tallman]]
+- Tallman-line individual indexed with an 1850-1880 Iowa census-summary sequence.
+
+### [[People/Frederick Thorogood|Frederick Thorogood]]
+- Thorogood-line individual indexed with a UK 1871-1911 census-summary sequence.
+
+### [[People/Grace Caroline Thorogood|Grace Caroline Thorogood]]
+- Indexed Thorogood-line profile currently staged with date-only evidence pending full census extraction linkage.
+
+### [[People/James Sorrell|James Sorrell]]
+- Sorrell-line individual tracked in UK census-summary entries from 1841 to 1871.
+
+### [[People/James Thorogood|James Thorogood]]
+- Thorogood-line individual tracked in UK census-summary entries from 1841 to 1871.
+
+### [[People/Jane Wager|Jane Wager]]
+- Cross-referenced individual linked to the William Monroe Thorp census-summary chain.
+
+### [[People/Jesse Rowland|Jesse Rowland]]
+- Rowland-line individual tracked across Indiana and Iowa census-summary entries from 1850 to 1870.
+
+### [[People/John Tallman|John Tallman]]
+- Tallman-line individual represented by an 1850 Fairfield County, Ohio census-summary entry.
+
+### [[People/Joseph Thorogood|Joseph Thorogood]]
+- Thorogood-line individual tracked in UK census-summary entries from 1841 to 1871.
+
+### [[People/Mary Ann Thorogood|Mary Ann Thorogood]]
+- Thorogood-line individual tracked in UK census-summary entries from 1841 to 1911.
+
+### [[People/Mary Sorrell|Mary Sorrell]]
+- Sorrell-line individual tracked in UK census-summary entries from 1841 to 1891.
+
+### [[People/Nancy West Rowland|Nancy West Rowland]]
+- Rowland-line descendant indexed with explicit birth and death dates and linked extraction notes.
+
+### [[People/Ann Unknown|Ann Unknown]]
+- Transitional alias profile mapped to [[People/Ann Sorrell|Ann Sorrell]].
+
+### [[People/Eleanor Unknown|Eleanor Unknown]]
+- Transitional alias profile mapped to [[People/Eleanor Emblow|Eleanor Emblow]].
+
+### [[People/Hannah Waller|Hannah Waller]]
+- Cross-referenced profile linked to the Hannah Beneworth extraction chain.
+
+### [[People/Jane Willson|Jane Willson]]
+- Cross-referenced profile linked to the John K Palmer extraction chain.
+
+### [[People/John Whitfield|John Whitfield]]
+- Whitfield-line profile with 1841 Donington census-summary placement and unresolved birth date.
+
+### [[People/Mary Van Horn|Mary Van Horn]]
+- Cross-referenced profile linked to the Peter Palmer extraction chain.
+
+### [[People/Mary Wheeler|Mary Wheeler]]
+- Cross-referenced profile linked to the Frederick Ault extraction chain.
+
+### [[People/Mary Whitfield|Mary Whitfield]]
+- Whitfield-line profile with UK census-summary sequence spanning 1841-1911.
+
+### [[People/Sarah Unknown|Sarah Unknown]]
+- Transitional alias profile mapped to [[People/Sarah Kelly|Sarah Kelly]].
+
+### [[People/Susan Unknown|Susan Unknown]]
+- Transitional alias profile mapped to [[People/Susan Lewis|Susan Lewis]].
+
+### [[People/Ann Sorrell|Ann Sorrell]]
+- Canonical Sorrell-line maternal profile reconstructed from census-summary evidence.
+
+### [[People/Eleanor Emblow|Eleanor Emblow]]
+- Canonical Emblow-line maternal profile reconstructed from census-summary evidence.
+
+### [[People/Sarah Kelly|Sarah Kelly]]
+- Canonical Kelly-line maternal profile reconstructed from census-summary evidence.
+
+### [[People/Susan Lewis|Susan Lewis]]
+- Canonical Lewis-line maternal profile reconstructed from census-summary evidence.
 
 ## Pending Extraction
 

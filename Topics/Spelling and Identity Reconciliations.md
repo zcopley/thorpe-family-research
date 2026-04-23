@@ -11,6 +11,9 @@ tags:
 
 This page documents known name spelling variants and identity-merge intentions discovered across the [[References/raw/inbox/2026-04-22-intake/|2026-04-22 Intake]] files.
 
+For a ranked view of the unresolved work, see [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]].
+For a compact branch summary of the Lemmon/Blake/Torpe cluster, see [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon Blake Thorpe Branch Summary]].
+
 ## High-Confidence Spelling Variants
 
 | Canonical Surnames | Observed Variants | Context and Examples |
@@ -33,12 +36,30 @@ This page documents known name spelling variants and identity-merge intentions d
 
 ## Pending Reconciliations
 
+- **UNKNOWN placeholder identities mapped by census cross references**
+  - `UNKNOWN, Ann` is cross-referenced from `SORREL, Ann` and appears in extraction household entries as `Ann SORREL/SORRELL`.
+  - `UNKNOWN, Eleanor` is cross-referenced from `EMBLOW, Eleanor/Elenor/Ellen` and appears in extraction household entries as spouse of [[People/Joseph Emblow|Joseph Emblow]].
+  - `UNKNOWN, Sarah (Barton?)` is cross-referenced from `KELLEY, Sarah` and `KELLY, Sarah` and appears in extraction household entries as `Sarah KELLY` in Peterborough almshouse records.
+  - `UNKNOWN, Susan` is cross-referenced from `LEWIS, Susan` and appears in extraction household entries as `Susan LEWIS` in the Wynat Lewis household.
+  - Canonical profiles have now been created for tracking and future merge finalization:
+    - [[People/Ann Sorrell|Ann Sorrell]]
+    - [[People/Eleanor Emblow|Eleanor Emblow]]
+    - [[People/Sarah Kelly|Sarah Kelly]]
+    - [[People/Susan Lewis|Susan Lewis]]
+  - The canonical pages now include page-level anchors from `References/raw/extracted/CensusSummaryIndividual.txt`, but image-level verification is still pending for the entries with missing piece/folio/page fields.
+  - Transitional alias pages retained for traceability:
+    - [[People/Ann Unknown|Ann Unknown]]
+    - [[People/Eleanor Unknown|Eleanor Unknown]]
+    - [[People/Sarah Unknown|Sarah Unknown]]
+    - [[People/Susan Unknown|Susan Unknown]]
+
 - **Mary Greenwood vs Mary Bergett**
-  - The 1850 mortality schedule entry for `Mary Bergett` (died March 1850, age 38) needs to be reconciled with the [[People/Mary Greenwood|Mary Greenwood]] profile if she is the spouse of [[People/William Burgett|William Burgett]].
+  - The 1850 mortality schedule entry for `Mary Bergett` (died March 1850, age 38) is now tracked on [[People/Mary Greenwood|Mary Greenwood]] using the compiler's `GREENWOOD, Mary (c. 1812 - Mar 1850)` heading, but the identity bridge to the Burgett household remains unconfirmed.
 - **Uriah Blake Thorpe vs Uriah Blake Lemmon**
-  - Evaluate the shared given names for maternal-line naming conventions between [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] (born 1878) and [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] (born 1808).
+  - The Thorpe pedigree timeline places [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] (1878-1959), [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] (1808-1887), [[People/James Lemmon|James Lemmon]] (1779-1854), [[People/Rebecca Blake|Rebecca Blake]] (1779-1855), and [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] (1841-1886) on the same compiled branch chart. That supports a branch-level connection, but not a direct identity merge between the two Uriahs.
 - **Wynat vs William Lewis**
-  - The census-summary index lists `LEWIS, Wynat (William?)`. Reconcile [[People/Wynat Lewis|Wynat Lewis]] once primary image records are reviewed.
+  - The census-summary index lists `LEWIS, Wynat (William?)`, but the pedigree timeline names the person `Wynant Williamson Lewis c1781-after 1860`. The best-supported in-repo full form is therefore `Wynant Williamson Lewis`, while `William` remains an unconfirmed expansion of the OCR/compiler shorthand. Reconcile [[People/Wynat Lewis|Wynat Lewis]] once primary image records are reviewed.
+  - A Welsh etymology is not supported by the current source set. Treat `Wynat` as an uncertain spelling form until a primary record or family paper supports a different reading.
 
 ## Action Plan for Batch Ingestion
 

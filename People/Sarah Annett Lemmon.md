@@ -19,6 +19,7 @@ tags:
 - The 1850 Townsend Township, Sandusky County, Ohio Lemmon household includes Sarah A. Lemmon as a child.
 - The 1860 and 1870 entries place Sarah Thorp in Monroe Thorp households.
 - The 1880 Clay Township, Grundy County, Iowa table lists Sarah Thorpe in an M. Thorpe household.
+- The Thorpe pedigree timeline includes `Sarah Annett Lemmon 1841-1886` on the same compiled branch chart as the Lemmon and Thorpe family lines.
 
 ## Research Gaps
 

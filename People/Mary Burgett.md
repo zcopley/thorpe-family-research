@@ -17,6 +17,7 @@ tags:
 
 - A census-summary entry gives Mary Burgett as born 19 Sep 1835 and died 28 Jan 1918.
 - The section includes 1850 Brush Run Township, Iowa County, Iowa household records for the Bergett family.
+- The same source batch also contains a separate 1850 Iowa mortality schedule entry for `Mary BERGETT` that is currently tracked as [[People/Mary Greenwood|Mary Greenwood]].
 - Later entries in the same section include Mary Spicer in Linn County, Iowa households, including 1900 Clinton Township (`Mary SPICER`, relation mother) and 1910 Maine Township (`Mary SPICER`, relation mother-in-law in a Duffield household).
 
 ## Research Gaps

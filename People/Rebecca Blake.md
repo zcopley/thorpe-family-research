@@ -18,6 +18,7 @@ tags:
 - A census-summary entry gives Rebecca Blake as born 26 Oct 1779 and died 29 Mar 1855.
 - The 1850 Townsend Township, Sandusky County, Ohio table includes Rebecca Lemmon in a household with James Lemmon and other Lemmon/Harkins members.
 - The extract cites Series M432, Roll 726, Page 476.
+- The Thorpe pedigree timeline includes `Rebecca Blake 1779-1855` on the same compiled branch chart as James Lemmon and Uriah Blake Lemmon.
 
 ## Research Gaps
 
