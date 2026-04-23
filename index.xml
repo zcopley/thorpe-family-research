@@ -6,65 +6,65 @@
       <description>Last 10 notes on Thorpe Family History</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Agent Handoff — Phase 1B</title>
-    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1B</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1B</guid>
-    <description><![CDATA[ Phase 1B Handoff: Shared Intake Batch-1 Ingestion Overview This phase moved from reconnaissance into actionable ingestion by staging high-value shared-intake files into References/raw/inbox/2026-04-22-intake/, creating text-first reference notes, and adding initial person pages constrained to source... ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1D</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1D</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1D</guid>
+    <description><![CDATA[ Phase 1D Handoff: Census Ingestion Batch (Rowland, Sorrell, Tallman, Thorogood, Wager) Overview This phase continued census-index ingestion by adding 12 new person pages centered on Rowland, Sorrell, Tallman, Thorogood, and Wager entries from the Ancestors in the Census.txt list, with supporting con... ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Alzina Morgan</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Alzina-Morgan</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Alzina-Morgan</guid>
-    <description><![CDATA[ Alzina Morgan Biographical Profile Name: Alzina Morgan Role in this project: Pryor-linked individual represented in 1860 Ohio census-summary extraction. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1E</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1E</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1E</guid>
+    <description><![CDATA[ Phase 1E Handoff: Final Ancestors Index Coverage Overview This phase completed creation of person pages for the remaining uncreated names from Ancestors in the Census.txt, including conservative placeholder handling for UNKNOWN entries. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Amy E Critton</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Amy-E-Critton</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Amy-E-Critton</guid>
-    <description><![CDATA[ Amy E Critton Biographical Profile Name: Amy E Critton Role in this project: Miller-line ancestor represented in repeated Walnut Township, Ohio census-summary entries. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1F</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1F</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1F</guid>
+    <description><![CDATA[ Phase 1F Handoff: UNKNOWN Identity Evidence Enrichment Overview This phase focused on strengthening evidence for the four UNKNOWN placeholder profiles by using direct extracted census text and cross-reference lines from CensusSummaryIndividual.txt. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Andrew Ault</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Andrew-Ault</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Andrew-Ault</guid>
-    <description><![CDATA[ Andrew Ault Biographical Profile Name: Andrew Ault Role in this project: Direct ancestor listed in the census-summary index and early US census table extracts. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1G</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1G</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1G</guid>
+    <description><![CDATA[ Phase 1G Handoff: Canonicalization of UNKNOWN Placeholders Overview This phase converted the four UNKNOWN placeholder identities into canonical surname-based profiles using evidence already extracted from census text and cross-reference mappings. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Angeline Caswell</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Angeline-Caswell</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Angeline-Caswell</guid>
-    <description><![CDATA[ Angeline Caswell Biographical Profile Name: Angeline Caswell Role in this project: Bangle-linked ancestor represented in 1860-1900 census-summary entries. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1H</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1H</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1H</guid>
+    <description><![CDATA[ Phase 1H Handoff: Canonical profile evidence enrichment Overview This phase tightened the source grounding for the four canonical profiles created from the former UNKNOWN placeholders. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Arthur Jr Munson</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Arthur-Jr-Munson</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Arthur-Jr-Munson</guid>
-    <description><![CDATA[ Arthur Jr Munson Biographical Profile Name: Arthur Jr Munson Role in this project: Essex Munson-line ancestor represented in 1841 and 1851 census-summary extracts. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1I</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1I</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1I</guid>
+    <description><![CDATA[ Phase 1I Handoff: Burgett/Greenwood reconciliation tightening Overview This pass did not finalize a merge. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Catherine Filkins</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Catherine-Filkins</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Catherine-Filkins</guid>
-    <description><![CDATA[ Catherine Filkins Biographical Profile Name: Catherine Filkins Role in this project: Johnson/Spicer-linked ancestor represented in 1850 and 1860 New York census-summary entries. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1J</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1J</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1J</guid>
+    <description><![CDATA[ Phase 1J Handoff: Lewis/Wynat full-name clarification Overview This pass tightened the strongest remaining Lewis reconciliation that can be improved with source material already in the repository. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Elizabeth Brooks</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Elizabeth-Brooks</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Elizabeth-Brooks</guid>
-    <description><![CDATA[ Elizabeth Brooks Biographical Profile Name: Elizabeth Brooks Role in this project: Direct ancestor indexed in census-summary entries with Ault-linked household overlap. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1K</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1K</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1K</guid>
+    <description><![CDATA[ Phase 1K Handoff: Wynat etymology caution note Overview This pass folded the Welsh-etymology question back into the vault as a cautionary note. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Elizabeth Harrison</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Elizabeth-Harrison</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Elizabeth-Harrison</guid>
-    <description><![CDATA[ Elizabeth Harrison Biographical Profile Name: Elizabeth Harrison Role in this project: Tallman-linked ancestor represented in 1850 Ohio census-summary extraction. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1L</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1L</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1L</guid>
+    <description><![CDATA[ Phase 1L Handoff: Thorpe/Lemmon pedigree branch clarification Overview This pass used the Thorpe pedigree timeline to strengthen the Lemmon/Thorpe branch context across several pages. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Elizabeth How</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Elizabeth-How</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Elizabeth-How</guid>
-    <description><![CDATA[ Elizabeth How Biographical Profile Name: Elizabeth How Role in this project: Munson-line ancestor represented in 1841 Essex census-summary extraction. ]]></description>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Agent Handoff — Phase 1M</title>
+    <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1M</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_1M</guid>
+    <description><![CDATA[ Phase 1M Handoff: Identity reconciliation matrix Overview This pass created a compact ranked matrix for the unresolved identity questions that can still be improved with the source material already in the vault. ]]></description>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

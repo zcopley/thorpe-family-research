@@ -1,0 +1,1147 @@
+startDocument()
+  startPage(svg:height: 8.5000in, svg:width: 11.0000in)
+    setStyle(draw:distance: 1.5001pt, draw:dots1: 1, draw:dots1-length: 0.5000pt, draw:dots2: 1, draw:dots2-length: 0.5000pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0069in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 0.8131in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 0.8131in, svg:y: 7.9078in)))
+    setStyle(draw:distance: 1.5001pt, draw:dots1: 1, draw:dots1-length: 0.5000pt, draw:dots2: 1, draw:dots2-length: 0.5000pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0069in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.5000in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 5.5000in, svg:y: 7.9078in)))
+    setStyle(draw:distance: 1.5001pt, draw:dots1: 1, draw:dots1-length: 0.5000pt, draw:dots2: 1, draw:dots2-length: 0.5000pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0069in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 10.1869in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 10.1869in, svg:y: 7.9078in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.2818in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 1.2818in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.7504in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 1.7504in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.2191in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 2.2191in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.6878in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 2.6878in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.1565in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 3.1565in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.6252in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 3.6252in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0939in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 4.0939in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.5626in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 4.5626in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.0313in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 5.0313in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.9687in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 5.9687in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.4374in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 6.4374in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.9061in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 6.9061in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 7.3748in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 7.3748in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 7.8435in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 7.8435in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.3122in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 8.3122in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.7808in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 8.7808in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 9.2495in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 9.2495in, svg:y: 7.8602in)))
+    setStyle(draw:distance: 1.0800pt, draw:dots1: 1, draw:dots1-length: 0.2160pt, draw:dots2: 1, draw:dots2-length: 0.2160pt, draw:fill: none, draw:stroke: dash, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 9.7182in, svg:y: 0.5922in), (librevenge:path-action: L, svg:x: 9.7182in, svg:y: 7.8602in)))
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4326in, svg:x: 4.3082in, svg:y: 7.0812in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (072, 093)
+            insertLineBreak
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.2816in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.3351in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.2816in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4253in, svg:x: 5.4175in, svg:y: 7.0886in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (119, 120)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.6877in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.7412in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.6877in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1769in, svg:x: 4.7877in, svg:y: 7.0886in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (041)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.7503in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.8038in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.7503in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.6807in, svg:x: 2.7202in, svg:y: 7.0886in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (022, 023, 170)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.1099in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.1634in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.1099in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1773in, svg:x: 3.1825in, svg:y: 7.0886in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (113)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.1567in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.2103in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.1567in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1769in, svg:x: 3.8183in, svg:y: 7.0886in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (071)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.9535in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.0070in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.9535in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+    endLayer
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4336in, svg:x: 4.3200in, svg:y: 0.9966in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (049, 180)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1867in, svg:x: 1.4747in, svg:y: 0.9985in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (046)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.6101in, svg:y: 0.8734in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.6636in, svg:y: 0.9270in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.6101in, svg:y: 0.8734in), (librevenge:path-action: Z)))
+    endLayer
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.2816in, svg:y: 0.8734in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.3351in, svg:y: 0.9270in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.2816in, svg:y: 0.8734in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.0945in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.1480in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.0945in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.2816in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.3351in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.2816in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.9850in, svg:y: 1.8112in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.0385in, svg:y: 1.8647in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.9850in, svg:y: 1.8112in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1872in, svg:x: 2.0147in, svg:y: 1.9481in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (045)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.2032in, svg:y: 1.8112in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.2568in, svg:y: 1.8647in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.2032in, svg:y: 1.8112in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1769in, svg:x: 6.2149in, svg:y: 1.9312in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (161)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1769in, svg:x: 4.3173in, svg:y: 6.6035in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (061)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.4226in, svg:y: 7.4355in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.4761in, svg:y: 7.4890in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.4226in, svg:y: 7.4355in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1849in, svg:x: 1.4331in, svg:y: 7.5801in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (069)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.7814in, svg:y: 7.4355in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.8349in, svg:y: 7.4890in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.7814in, svg:y: 7.4355in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1864in, svg:x: 5.8129in, svg:y: 7.5801in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (140)
+            insertLineBreak
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1855in, svg:x: 1.1362in, svg:y: 6.6162in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (063)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4334in, svg:x: 4.0748in, svg:y: 3.8088in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (177, 178)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0472in, svg:y: 3.6870in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.1008in, svg:y: 3.7405in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.0472in, svg:y: 3.6870in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0399in, svg:width: 0.1839in, svg:x: 4.9081in, svg:y: 3.8088in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (124)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.8909in, svg:y: 3.6870in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.9444in, svg:y: 3.7405in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.8909in, svg:y: 3.6870in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1872in, svg:x: 5.2430in, svg:y: 3.8088in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (125)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.3596in, svg:y: 3.6870in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.4131in, svg:y: 3.7405in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.3596in, svg:y: 3.6870in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1849in, svg:x: 5.4994in, svg:y: 3.8088in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (179)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.4533in, svg:y: 3.6870in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.5069in, svg:y: 3.7405in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.4533in, svg:y: 3.6870in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1849in, svg:x: 5.4994in, svg:y: 2.3936in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (179)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.4533in, svg:y: 2.2799in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.5069in, svg:y: 2.3334in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.4533in, svg:y: 2.2799in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1855in, svg:x: 5.3918in, svg:y: 4.7218in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (083)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.5471in, svg:y: 4.6233in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.6006in, svg:y: 4.6768in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.5471in, svg:y: 4.6233in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1855in, svg:x: 5.5869in, svg:y: 6.1434in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (083)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.5471in, svg:y: 6.0294in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.6006in, svg:y: 6.0829in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.5471in, svg:y: 6.0294in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1867in, svg:x: 5.7860in, svg:y: 3.3336in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (126)
+            insertLineBreak
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.7345in, svg:y: 3.2172in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.7881in, svg:y: 3.2708in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.7345in, svg:y: 3.2172in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4310in, svg:x: 6.3787in, svg:y: 3.3336in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (193, 194)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.3438in, svg:y: 3.2172in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.3974in, svg:y: 3.2708in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.3438in, svg:y: 3.2172in), (librevenge:path-action: Z)))
+    endLayer
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1855in, svg:x: 4.0703in, svg:y: 2.3936in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (053)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0472in, svg:y: 2.2799in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.1008in, svg:y: 2.3334in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.0472in, svg:y: 2.2799in), (librevenge:path-action: Z)))
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1872in, svg:x: 4.7555in, svg:y: 2.3936in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (075)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.8909in, svg:y: 2.2799in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.9444in, svg:y: 2.3334in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.8909in, svg:y: 2.2799in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.9846in, svg:y: 2.2799in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.0382in, svg:y: 2.3334in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.9846in, svg:y: 2.2799in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1867in, svg:x: 5.0152in, svg:y: 2.3936in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (076)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4326in, svg:x: 5.2459in, svg:y: 2.8655in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (067, 163)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.5002in, svg:y: 2.7485in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.5537in, svg:y: 2.8021in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.5002in, svg:y: 2.7485in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1863in, svg:x: 5.6384in, svg:y: 2.8655in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (128)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.7814in, svg:y: 2.7485in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.8349in, svg:y: 2.8021in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.7814in, svg:y: 2.7485in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.3993in, svg:x: 5.9199in, svg:y: 2.8655in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (188-191)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.1564in, svg:y: 2.7485in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.2099in, svg:y: 2.8021in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.1564in, svg:y: 2.7485in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1860in, svg:x: 6.2800in, svg:y: 2.8655in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (192)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.2501in, svg:y: 2.7485in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.3036in, svg:y: 2.8021in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.2501in, svg:y: 2.7485in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.6723in, svg:y: 1.3425in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.7258in, svg:y: 1.3960in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.6723in, svg:y: 1.3425in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1855in, svg:x: 3.5534in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (013)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.9066in, svg:y: 1.3425in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.9602in, svg:y: 1.3960in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.9066in, svg:y: 1.3425in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1897in, svg:x: 3.7878in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (077)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0472in, svg:y: 1.3425in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.1008in, svg:y: 1.3960in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.0472in, svg:y: 1.3425in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1839in, svg:x: 4.0697in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (054)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.2347in, svg:y: 1.3425in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.2883in, svg:y: 1.3960in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.2347in, svg:y: 1.3425in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1863in, svg:x: 4.2648in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (078)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.6565in, svg:y: 1.3425in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.7101in, svg:y: 1.3960in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.6565in, svg:y: 1.3425in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1864in, svg:x: 4.6942in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (080)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.3907in, svg:y: 1.3425in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.4442in, svg:y: 1.3960in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 6.3907in, svg:y: 1.3425in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1867in, svg:x: 6.4460in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (246)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.0630in, svg:y: 1.3425in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.1165in, svg:y: 1.3960in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.0630in, svg:y: 1.3425in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1769in, svg:x: 3.1087in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (001)
+          closeSpan
+        closeParagraph
+      endTextObject
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.6791in, svg:x: 2.6573in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (014, 048, 169)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.5628in, svg:y: 1.3425in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.6163in, svg:y: 1.3960in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.5628in, svg:y: 1.3425in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1849in, svg:x: 4.4432in, svg:y: 1.4686in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (079)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0472in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.1008in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.0472in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1839in, svg:x: 4.0697in, svg:y: 7.0886in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (054)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1839in, svg:x: 4.2219in, svg:y: 6.1434in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (024)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.1879in, svg:y: 6.0294in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.2414in, svg:y: 6.0829in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.1879in, svg:y: 6.0294in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1860in, svg:x: 5.0626in, svg:y: 6.1434in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (082)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.0315in, svg:y: 6.0294in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.0850in, svg:y: 6.0829in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.0315in, svg:y: 6.0294in), (librevenge:path-action: Z)))
+    endLayer
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.7507in, svg:y: 7.4355in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.8042in, svg:y: 7.4890in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.7507in, svg:y: 7.4355in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.2194in, svg:y: 7.4355in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.2729in, svg:y: 7.4890in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.2194in, svg:y: 7.4355in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.6880in, svg:y: 7.4355in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.7416in, svg:y: 7.4890in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.6880in, svg:y: 7.4355in), (librevenge:path-action: Z)))
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.3131in, svg:y: 7.4355in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.3666in, svg:y: 7.4890in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.3131in, svg:y: 7.4355in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1855in, svg:x: 2.3311in, svg:y: 7.5801in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (073)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.4222in, svg:y: 7.4355in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.4757in, svg:y: 7.4890in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.4222in, svg:y: 7.4355in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4204in, svg:x: 4.4358in, svg:y: 7.5727in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (118, 117)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      startLayer ()
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0411in, svg:width: 0.2030in, svg:x: 4.5893in, svg:y: 6.5295in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+              insertText (Obit)
+            closeSpan
+          closeParagraph
+        endTextObject
+        setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.5797in, svg:y: 6.5021in), (librevenge:path-action: L, svg:x: 4.5797in, svg:y: 6.6016in), (librevenge:path-action: L, svg:x: 4.7002in, svg:y: 6.6016in), (librevenge:path-action: L, svg:x: 4.7002in, svg:y: 6.5021in), (librevenge:path-action: L, svg:x: 4.5797in, svg:y: 6.5021in), (librevenge:path-action: Z)))
+      endLayer
+      startLayer ()
+        setStyle(draw:fill: solid, draw:fill-color: #eceded, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.4380in, svg:y: 6.5148in), (librevenge:path-action: C, svg:x: 4.5409in, svg:x1: 4.4723in, svg:x2: 4.5066in, svg:y: 6.5148in, svg:y1: 6.4973in, svg:y2: 6.4973in), (librevenge:path-action: L, svg:x: 4.5409in, svg:y: 6.6016in), (librevenge:path-action: L, svg:x: 4.4380in, svg:y: 6.6016in), (librevenge:path-action: L, svg:x: 4.4380in, svg:y: 6.5148in), (librevenge:path-action: Z)))
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0398in, svg:width: 0.1804in, svg:x: 4.4446in, svg:y: 6.5378in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+              insertText (RIP)
+            closeSpan
+          closeParagraph
+        endTextObject
+      endLayer
+    endLayer
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.2820in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.3355in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.2820in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.7507in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.8042in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.7507in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.2194in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.2729in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.2194in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.6880in, svg:y: 6.4899in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.7416in, svg:y: 6.5434in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.6880in, svg:y: 6.4899in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.1256in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.1791in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.1256in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1867in, svg:x: 1.9946in, svg:y: 6.6162in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (176)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.3131in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.3666in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.3131in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1855in, svg:x: 2.3539in, svg:y: 6.6162in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (073)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.4226in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.4761in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.4226in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1769in, svg:x: 1.3078in, svg:y: 6.6162in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (091)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.5632in, svg:y: 6.4981in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.6167in, svg:y: 6.5516in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.5632in, svg:y: 6.4981in), (librevenge:path-action: Z)))
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1860in, svg:x: 1.5751in, svg:y: 6.6162in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (092)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #eceded, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.3298in, svg:y: 1.8279in), (librevenge:path-action: C, svg:x: 6.4327in, svg:x1: 6.3641in, svg:x2: 6.3984in, svg:y: 1.8279in, svg:y1: 1.8103in, svg:y2: 1.8103in), (librevenge:path-action: L, svg:x: 6.4327in, svg:y: 1.9147in), (librevenge:path-action: L, svg:x: 6.3298in, svg:y: 1.9147in), (librevenge:path-action: L, svg:x: 6.3298in, svg:y: 1.8279in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0398in, svg:width: 0.1804in, svg:x: 6.3364in, svg:y: 1.8509in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (RIP)
+          closeSpan
+        closeParagraph
+      endTextObject
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0411in, svg:width: 0.2030in, svg:x: 6.4912in, svg:y: 1.8423in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (Obit)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.4815in, svg:y: 1.8149in), (librevenge:path-action: L, svg:x: 6.4815in, svg:y: 1.9144in), (librevenge:path-action: L, svg:x: 6.6021in, svg:y: 1.9144in), (librevenge:path-action: L, svg:x: 6.6021in, svg:y: 1.8149in), (librevenge:path-action: L, svg:x: 6.4815in, svg:y: 1.8149in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.5006in, svg:y: 1.8112in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.5541in, svg:y: 1.8647in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.5006in, svg:y: 1.8112in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1769in, svg:x: 2.3595in, svg:y: 1.9481in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (181)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.9693in, svg:y: 1.8112in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 3.0228in, svg:y: 1.8647in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.9693in, svg:y: 1.8112in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.6711in, svg:x: 2.2482in, svg:y: 1.9408in)
+        openParagraph (fo:text-align: end)
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (100, 006, 051)
+          closeSpan
+        closeParagraph
+      endTextObject
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4320in, svg:x: 2.9860in, svg:y: 1.9408in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (050, 099)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.8755in, svg:y: 1.8112in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.9290in, svg:y: 1.8647in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.8755in, svg:y: 1.8112in), (librevenge:path-action: Z)))
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.9224in, svg:y: 1.8112in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.9759in, svg:y: 1.8647in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.9224in, svg:y: 1.8112in), (librevenge:path-action: Z)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.3596in, svg:y: 1.8112in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.4131in, svg:y: 1.8647in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.3596in, svg:y: 1.8112in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0399in, svg:width: 0.1897in, svg:x: 5.2181in, svg:y: 1.9359in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (127)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.4885in, svg:y: 1.8112in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.5421in, svg:y: 1.8647in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.4885in, svg:y: 1.8112in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1872in, svg:x: 5.5241in, svg:y: 1.9359in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (195)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      startLayer ()
+        setStyle(draw:fill: solid, draw:fill-color: #eceded, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.3683in, svg:y: 0.8901in), (librevenge:path-action: C, svg:x: 4.4712in, svg:x1: 4.4026in, svg:x2: 4.4369in, svg:y: 0.8901in, svg:y1: 0.8726in, svg:y2: 0.8726in), (librevenge:path-action: L, svg:x: 4.4712in, svg:y: 0.9769in), (librevenge:path-action: L, svg:x: 4.3683in, svg:y: 0.9769in), (librevenge:path-action: L, svg:x: 4.3683in, svg:y: 0.8901in), (librevenge:path-action: Z)))
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0398in, svg:width: 0.1804in, svg:x: 4.3749in, svg:y: 0.9132in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+              insertText (RIP)
+            closeSpan
+          closeParagraph
+        endTextObject
+      endLayer
+      startLayer ()
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0411in, svg:width: 0.2030in, svg:x: 4.5247in, svg:y: 0.9048in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+              insertText (Obit)
+            closeSpan
+          closeParagraph
+        endTextObject
+        setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.5150in, svg:y: 0.8774in), (librevenge:path-action: L, svg:x: 4.5150in, svg:y: 0.9769in), (librevenge:path-action: L, svg:x: 4.6356in, svg:y: 0.9769in), (librevenge:path-action: L, svg:x: 4.6356in, svg:y: 0.8774in), (librevenge:path-action: L, svg:x: 4.5150in, svg:y: 0.8774in), (librevenge:path-action: Z)))
+      endLayer
+    endLayer
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.7507in, svg:y: 0.8736in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.8042in, svg:y: 0.9272in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 1.7507in, svg:y: 0.8736in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.2194in, svg:y: 0.8736in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.2729in, svg:y: 0.9272in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.2194in, svg:y: 0.8736in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.6880in, svg:y: 0.8736in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.7416in, svg:y: 0.9272in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.6880in, svg:y: 0.8736in), (librevenge:path-action: Z)))
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.5006in, svg:y: 0.8672in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.5541in, svg:y: 0.9207in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.5006in, svg:y: 0.8672in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4326in, svg:x: 2.2688in, svg:y: 0.9912in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (004, 003)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.7583in, svg:y: 0.8739in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.8119in, svg:y: 0.9275in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.7583in, svg:y: 0.8739in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4332in, svg:x: 2.5787in, svg:y: 0.9912in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (103, 162)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.8755in, svg:y: 0.8739in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.9290in, svg:y: 0.9275in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.8755in, svg:y: 0.8739in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4240in, svg:x: 2.8602in, svg:y: 0.9912in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (006, )
+          closeSpan
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (051)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.9224in, svg:y: 0.8738in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.9759in, svg:y: 0.9273in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 2.9224in, svg:y: 0.8738in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0480in, svg:width: 0.4026in, svg:x: 2.8973in, svg:y: 1.0549in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (037,098)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #eceded, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.9161in, svg:y: 7.4522in), (librevenge:path-action: C, svg:x: 6.0190in, svg:x1: 5.9504in, svg:x2: 5.9847in, svg:y: 7.4522in, svg:y1: 7.4346in, svg:y2: 7.4346in), (librevenge:path-action: L, svg:x: 6.0190in, svg:y: 7.5390in), (librevenge:path-action: L, svg:x: 5.9161in, svg:y: 7.5390in), (librevenge:path-action: L, svg:x: 5.9161in, svg:y: 7.4522in), (librevenge:path-action: Z)))
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0398in, svg:width: 0.1804in, svg:x: 5.9227in, svg:y: 7.4752in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (RIP)
+          closeSpan
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0411in, svg:width: 0.2030in, svg:x: 6.0674in, svg:y: 7.4666in)
+        openParagraph ()
+          openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+            insertText (Obit)
+          closeSpan
+        closeParagraph
+      endTextObject
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.0578in, svg:y: 7.4392in), (librevenge:path-action: L, svg:x: 6.0578in, svg:y: 7.5387in), (librevenge:path-action: L, svg:x: 6.1783in, svg:y: 7.5387in), (librevenge:path-action: L, svg:x: 6.1783in, svg:y: 7.4392in), (librevenge:path-action: L, svg:x: 6.0578in, svg:y: 7.4392in), (librevenge:path-action: Z)))
+    endLayer
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.8751in, svg:y: 4.6794in), (librevenge:path-action: L, svg:x: 5.8751in, svg:y: 6.0853in)))
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.2816in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.3351in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 4.2816in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0399in, svg:width: 0.1860in, svg:x: 5.8665in, svg:y: 7.0886in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+          insertText (142)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.8283in, svg:y: 6.9668in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.8818in, svg:y: 7.0203in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 5.8283in, svg:y: 6.9668in), (librevenge:path-action: Z)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.5002in, svg:y: 2.3362in), (librevenge:path-action: L, svg:x: 5.5002in, svg:y: 3.7424in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0472in, svg:y: 1.3961in), (librevenge:path-action: L, svg:x: 4.0472in, svg:y: 7.0199in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.1879in, svg:y: 1.3961in), (librevenge:path-action: L, svg:x: 4.1879in, svg:y: 7.0215in)))
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0774in, svg:width: 2.7033in, svg:x: 1.6314in, svg:y: 0.7865in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Raymond Miller Thorpe )
+          insertSpace
+          insertText (1917 - 1974)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0772in, svg:width: 2.9843in, svg:x: 5.5479in, svg:y: 2.6760in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Rachel Lorelei Carpenter Thorpe )
+          insertSpace
+          insertText (2000 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0765in, svg:width: 2.5674in, svg:x: 3.0935in, svg:y: 1.2715in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Robert Archer John Thorpe )
+          insertSpace
+          insertText (1948 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0774in, svg:width: 2.9475in, svg:x: 4.1549in, svg:y: 2.2074in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Lancelot Aubrey Duncan Thorpe )
+          insertSpace
+          insertText (1969 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0774in, svg:width: 3.0689in, svg:x: 2.0660in, svg:y: 1.7258in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Patricia Margaret Bellamy )
+          insertSpace
+          insertSpace
+          insertSpace
+          insertSpace
+          insertSpace
+          insertText (1925 - 2015)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0782in, svg:width: 3.0214in, svg:x: 5.7843in, svg:y: 3.1398in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Benjamin John Carpenter Thorpe )
+          insertSpace
+          insertText (2005 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0782in, svg:width: 2.9086in, svg:x: 5.7615in, svg:y: 4.9965in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Wyatt Alexander Thorpe Copley )
+          insertSpace
+          insertText (2004 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0772in, svg:width: 2.4392in, svg:x: 1.1703in, svg:y: 6.4110in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Lester Harold Spicer )
+          insertSpace
+          insertText (1906 -1974)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0774in, svg:width: 2.4162in, svg:x: 4.2813in, svg:y: 5.9503in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Wendolyn Lorelei Thorpe )
+          insertSpace
+          insertText (1972 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0772in, svg:width: 1.7472in, svg:x: 3.1918in, svg:y: 6.8816in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Karen Lu Spicer )
+          insertSpace
+          insertText (1949 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0783in, svg:width: 2.7067in, svg:x: 5.9245in, svg:y: 5.4882in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (August Quinn Thorpe Copley )
+          insertSpace
+          insertText (2008 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0774in, svg:width: 2.3733in, svg:x: 1.4754in, svg:y: 7.3491in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Ruby Bernice Prior )
+          insertSpace
+          insertText (1913 - 2006)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.0630in, svg:y: 0.9270in), (librevenge:path-action: L, svg:x: 3.0630in, svg:y: 1.8779in)))
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.1099in, svg:y: 7.0203in), (librevenge:path-action: L, svg:x: 6.3898in, svg:y: 7.0203in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.1099in, svg:y: 7.0203in), (librevenge:path-action: L, svg:x: 6.3898in, svg:y: 7.0203in)))
+    endLayer
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.1099in, svg:y: 6.5508in), (librevenge:path-action: L, svg:x: 3.1099in, svg:y: 7.4892in)))
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.6877in, svg:y: 5.1455in), (librevenge:path-action: L, svg:x: 6.3908in, svg:y: 5.1455in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.6877in, svg:y: 5.1455in), (librevenge:path-action: L, svg:x: 6.3908in, svg:y: 5.1455in)))
+    endLayer
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.6877in, svg:y: 4.6763in), (librevenge:path-action: L, svg:x: 5.6877in, svg:y: 6.0884in)))
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.1878in, svg:y: 6.0829in), (librevenge:path-action: L, svg:x: 6.3909in, svg:y: 6.0829in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.1878in, svg:y: 6.0829in), (librevenge:path-action: L, svg:x: 6.3905in, svg:y: 6.0829in)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.8751in, svg:y: 5.6142in), (librevenge:path-action: L, svg:x: 6.3889in, svg:y: 5.6142in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.8751in, svg:y: 5.6142in), (librevenge:path-action: L, svg:x: 6.3889in, svg:y: 5.6142in)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.7345in, svg:y: 3.2708in), (librevenge:path-action: L, svg:x: 6.3910in, svg:y: 3.2708in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.7345in, svg:y: 3.2708in), (librevenge:path-action: L, svg:x: 6.3910in, svg:y: 3.2708in)))
+    endLayer
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.7345in, svg:y: 2.3362in), (librevenge:path-action: L, svg:x: 5.7345in, svg:y: 3.7424in)))
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0488in, svg:y: 2.3334in), (librevenge:path-action: L, svg:x: 6.3910in, svg:y: 2.3334in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0488in, svg:y: 2.3334in), (librevenge:path-action: L, svg:x: 6.3910in, svg:y: 2.3334in)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.5002in, svg:y: 2.8021in), (librevenge:path-action: L, svg:x: 6.3923in, svg:y: 2.8021in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.5002in, svg:y: 2.8021in), (librevenge:path-action: L, svg:x: 6.3923in, svg:y: 2.8021in)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.4220in, svg:y: 7.4882in), (librevenge:path-action: L, svg:x: 5.7815in, svg:y: 7.4882in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.4220in, svg:y: 7.4882in), (librevenge:path-action: L, svg:x: 5.7815in, svg:y: 7.4882in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.4220in, svg:y: 7.4483in), (librevenge:path-action: L, svg:x: 1.4220in, svg:y: 7.5281in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.7814in, svg:y: 7.4483in), (librevenge:path-action: L, svg:x: 5.7814in, svg:y: 7.5281in)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.0962in, svg:y: 6.5516in), (librevenge:path-action: L, svg:x: 4.2817in, svg:y: 6.5516in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.0962in, svg:y: 6.5516in), (librevenge:path-action: L, svg:x: 4.2817in, svg:y: 6.5516in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.0962in, svg:y: 6.5117in), (librevenge:path-action: L, svg:x: 1.0962in, svg:y: 6.5915in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.2817in, svg:y: 6.5117in), (librevenge:path-action: L, svg:x: 4.2817in, svg:y: 6.5915in)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.9854in, svg:y: 1.8647in), (librevenge:path-action: L, svg:x: 6.2032in, svg:y: 1.8647in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.9854in, svg:y: 1.8647in), (librevenge:path-action: L, svg:x: 6.2032in, svg:y: 1.8647in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.9854in, svg:y: 1.8248in), (librevenge:path-action: L, svg:x: 1.9854in, svg:y: 1.9046in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.2032in, svg:y: 1.8248in), (librevenge:path-action: L, svg:x: 6.2032in, svg:y: 1.9046in)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.6130in, svg:y: 0.9270in), (librevenge:path-action: L, svg:x: 4.2852in, svg:y: 0.9270in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.6130in, svg:y: 0.9270in), (librevenge:path-action: L, svg:x: 4.2852in, svg:y: 0.9270in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.6130in, svg:y: 0.8871in), (librevenge:path-action: L, svg:x: 1.6130in, svg:y: 0.9668in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.2852in, svg:y: 0.8871in), (librevenge:path-action: L, svg:x: 4.2852in, svg:y: 0.9668in)))
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.0630in, svg:y: 1.3960in), (librevenge:path-action: L, svg:x: 6.3907in, svg:y: 1.3960in)))
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.0630in, svg:y: 1.3960in), (librevenge:path-action: L, svg:x: 6.3907in, svg:y: 1.3960in)))
+    endLayer
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0772in, svg:width: 2.3848in, svg:x: 4.0862in, svg:y: 3.6125in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Cherise Marie Carpenter )
+          insertSpace
+          insertText (1969 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0782in, svg:width: 2.5401in, svg:x: 4.1549in, svg:y: 4.5530in)
+      openParagraph ()
+        openSpan(fo:color: #1b1918, fo:font-size: 6.0000pt, style:font-name: Arial)
+          insertText (Zachery Robertson Copley )
+          insertSpace
+          insertText (1969 -)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startLayer ()
+      startLayer ()
+        setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0290in, svg:y: 3.7395in), (librevenge:path-action: L, svg:x: 6.3910in, svg:y: 3.7395in)))
+        setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0290in, svg:y: 3.7395in), (librevenge:path-action: L, svg:x: 6.3910in, svg:y: 3.7395in)))
+      endLayer
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0290in, svg:y: 3.6996in), (librevenge:path-action: L, svg:x: 4.0290in, svg:y: 3.7793in)))
+    endLayer
+    startLayer ()
+      startLayer ()
+        setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0417in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0246in, svg:y: 4.6768in), (librevenge:path-action: L, svg:x: 6.3910in, svg:y: 4.6768in)))
+        setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #ffffff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0208in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0246in, svg:y: 4.6768in), (librevenge:path-action: L, svg:x: 6.3910in, svg:y: 4.6768in)))
+      endLayer
+      setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0246in, svg:y: 4.6370in), (librevenge:path-action: L, svg:x: 4.0246in, svg:y: 4.7167in)))
+    endLayer
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.2437in, svg:width: 1.4512in, svg:x: 0.0874in, svg:y: 7.9870in)
+      openParagraph (fo:text-align: center)
+        openSpan(fo:color: #1b1918, fo:font-size: 24.0000pt, style:font-name: Arial)
+          insertText (1900)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.2437in, svg:width: 1.4512in, svg:x: 4.7744in, svg:y: 7.9870in)
+      openParagraph (fo:text-align: center)
+        openSpan(fo:color: #1b1918, fo:font-size: 24.0000pt, style:font-name: Arial)
+          insertText (2000)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.2437in, svg:width: 1.4512in, svg:x: 9.4613in, svg:y: 7.9870in)
+      openParagraph (fo:text-align: center)
+        openSpan(fo:color: #1b1918, fo:font-size: 24.0000pt, style:font-name: Arial)
+          insertText (2100)
+        closeSpan
+      closeParagraph
+    endTextObject
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none, svg:fill-rule: evenodd)
+      drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.5330in, svg:y: 6.6221in), (librevenge:path-action: L, svg:x: 8.5330in, svg:y: 7.6962in), (librevenge:path-action: L, svg:x: 10.1250in, svg:y: 7.6962in), (librevenge:path-action: L, svg:x: 10.1250in, svg:y: 6.6221in), (librevenge:path-action: L, svg:x: 8.5330in, svg:y: 6.6221in), (librevenge:path-action: Z)))
+      startLayer ()
+        startLayer ()
+          startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0411in, svg:width: 0.2030in, svg:x: 8.6344in, svg:y: 7.5685in)
+            openParagraph ()
+              openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+                insertText (Obit)
+              closeSpan
+            closeParagraph
+          endTextObject
+          setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+          drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.6247in, svg:y: 7.5411in), (librevenge:path-action: L, svg:x: 8.6247in, svg:y: 7.6406in), (librevenge:path-action: L, svg:x: 8.7453in, svg:y: 7.6406in), (librevenge:path-action: L, svg:x: 8.7453in, svg:y: 7.5411in), (librevenge:path-action: L, svg:x: 8.6247in, svg:y: 7.5411in), (librevenge:path-action: Z)))
+        endLayer
+        startLayer ()
+          setStyle(draw:fill: solid, draw:fill-color: #eceded, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #1b1918, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+          drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.6336in, svg:y: 7.3811in), (librevenge:path-action: C, svg:x: 8.7364in, svg:x1: 8.6678in, svg:x2: 8.7021in, svg:y: 7.3811in, svg:y1: 7.3635in, svg:y2: 7.3635in), (librevenge:path-action: L, svg:x: 8.7364in, svg:y: 7.4679in), (librevenge:path-action: L, svg:x: 8.6336in, svg:y: 7.4679in), (librevenge:path-action: L, svg:x: 8.6336in, svg:y: 7.3811in), (librevenge:path-action: Z)))
+          startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0398in, svg:width: 0.1804in, svg:x: 8.6401in, svg:y: 7.4041in)
+            openParagraph ()
+              openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+                insertText (RIP)
+              closeSpan
+            closeParagraph
+          endTextObject
+        endLayer
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0808in, svg:width: 2.1585in, svg:x: 8.8041in, svg:y: 7.3775in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 8.0000pt, style:font-name: Arial)
+              insertText (Burial site determined)
+            closeSpan
+          closeParagraph
+        endTextObject
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.1043in, svg:width: 0.8534in, svg:x: 8.8041in, svg:y: 7.5464in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 8.0000pt, style:font-name: Arial)
+              insertText (Obituary)
+            closeSpan
+          closeParagraph
+        endTextObject
+        setStyle(draw:fill: solid, draw:fill-color: #009ee0, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0030in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.6850in, svg:y: 7.0325in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 8.7385in, svg:y: 7.0861in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 8.6850in, svg:y: 7.0325in), (librevenge:path-action: Z)))
+        setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #009ee0, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.6850in, svg:y: 7.2046in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 8.7385in, svg:y: 7.2581in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 8.6850in, svg:y: 7.2046in), (librevenge:path-action: Z)))
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0822in, svg:width: 1.6803in, svg:x: 8.8041in, svg:y: 7.0470in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 8.0000pt, style:font-name: Arial)
+              insertText (Found in Census)
+            closeSpan
+          closeParagraph
+        endTextObject
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.1043in, svg:width: 2.4956in, svg:x: 8.8041in, svg:y: 7.2059in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 8.0000pt, style:font-name: Arial)
+              insertText (Possibly found in Census)
+            closeSpan
+          closeParagraph
+        endTextObject
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0822in, svg:width: 1.8966in, svg:x: 8.8041in, svg:y: 6.8761in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 8.0000pt, style:font-name: Arial)
+              insertText (Possible Certificate)
+            closeSpan
+          closeParagraph
+        endTextObject
+        setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.6850in, svg:y: 6.8616in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 8.7385in, svg:y: 6.9152in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 8.6850in, svg:y: 6.8616in), (librevenge:path-action: Z)))
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0822in, svg:width: 0.9949in, svg:x: 8.8041in, svg:y: 6.7136in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 8.0000pt, style:font-name: Arial)
+              insertText (Certificate)
+            closeSpan
+          closeParagraph
+        endTextObject
+        setStyle(draw:fill: solid, draw:fill-color: #e30016, draw:stroke: solid, svg:fill-rule: evenodd, svg:stroke-color: #e30016, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0139in)
+        drawPath (svg:d: ((librevenge:path-action: M, svg:x: 8.6850in, svg:y: 6.6991in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 8.7385in, svg:y: 6.7527in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: true, svg:rx: 0.0535in, svg:ry: 0.0535in, svg:x: 8.6850in, svg:y: 6.6991in), (librevenge:path-action: Z)))
+        startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.0406in, svg:width: 0.1864in, svg:x: 8.7349in, svg:y: 6.8085in)
+          openParagraph ()
+            openSpan(fo:color: #1b1918, fo:font-size: 4.0000pt, style:font-name: Arial)
+              insertText (000)
+            closeSpan
+          closeParagraph
+        endTextObject
+      endLayer
+    endLayer
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 0.1033in, svg:width: 1.2838in, svg:x: 8.2035in, svg:y: 8.0979in)
+      openParagraph (fo:text-align: end)
+        openSpan(fo:color: #e30016, fo:font-size: 8.0000pt, style:font-name: Arial)
+          insertText (22 May 2019)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument
