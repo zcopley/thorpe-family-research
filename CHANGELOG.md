@@ -8,6 +8,12 @@ tags:
 
 # Changelog
 
+## 2026-04-23 — Pedigree timeline text mined
+
+- Added extracted timeline file references, branch highlights, discrepancy candidates, and record-reference leads to [[Topics/Thorpe Pedigree Timelines]].
+- Captured the most useful timeline-derived conflicts for [[People/Arthur Edwin Prior|Arthur Edwin Prior]], [[People/John Wheeler Risden|John Wheeler Risden]], [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]], and [[People/James Kelly|James Kelly]].
+- Recorded the change in [[AGENT_HANDOFF_PHASE_1Z|Agent Handoff — Phase 1Z]].
+
 ## 2026-04-23 — Spicer and Prior diagrams added
 
 - Added Mermaid diagrams to [[People/Charles Russell Spicer|Charles Russell Spicer]], [[People/Hattie May Risden|Hattie May Risden]], [[People/Lester Harold Spicer|Lester Harold Spicer]], [[People/Nathan Spicer|Nathan Spicer]], and [[People/Arthur Edwin Prior|Arthur Edwin Prior]].
