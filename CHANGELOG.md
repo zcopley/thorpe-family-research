@@ -11,6 +11,7 @@ tags:
 ## 2026-04-22 — PDF source text extraction
 
 - Extracted and staged text content from multiple PDF sources for easier reference:
+  - [[References/Shared Intake 2026-04-22 Burial Sites Summary|Burial Sites Summary]] (Extracted from 36MB source PDF)
   - [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Census Summary Individuals p61-p96]]
   - [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Pedigree Timeline Thorpe]]
   - [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Pedigree Timeline Prior]]

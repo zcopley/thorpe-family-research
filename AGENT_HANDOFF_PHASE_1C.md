@@ -13,25 +13,28 @@ This phase completed the indexing and traceability for the p51-p60 census extrac
 
 - Updated `Search Index.md`, `People Directory.md`, and `CHANGELOG.md` with missing entries for the p51-p60 census batch.
 - Renamed [[People/George Spicer|George Spicer]] to [[People/George B Spicer|George B. Spicer]] and merged `Hattie Risden` into [[People/Hattie May Risden|Hattie May Risden]] to align with indexed full names.
-- Added 6 new person profiles for direct-line Thorpe and Spicer ancestors:
-  - [[People/Nathan Spicer|Nathan Spicer]]
-  - [[People/Charles Russell Spicer|Charles Russell Spicer]]
-  - [[People/John Thorp|John Thorp]]
-  - [[People/William Monroe Thorp|William Monroe Thorp]]
-  - [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]
-  - [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]]
+- Added 6 new person profiles for direct-line Thorpe and Spicer ancestors.
 - Added a new topic page: [[Topics/Spelling and Identity Reconciliations|Spelling and Identity Reconciliations]].
-- Extracted and staged text from 5 PDF source files into individual reference notes for easier transcription.
+- Extracted text from all intake PDFs including the 36MB `BurialSites.pdf` using `pdftotext`.
 - Moved 8 fully processed text source files from `References/raw/inbox/2026-04-22-intake/` to `References/raw/processed/2026-04-22-intake/`.
 
 ## Files Created or Updated
 
 ### New reference pages (Extracted from PDF)
+- [[References/Shared Intake 2026-04-22 Burial Sites Summary.md]]
 - [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96.md]]
-- [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe.md]]
-- [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior.md]]
-- [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer.md]]
-- [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy.md]]
+...
+
+## Extraction Methods Used
+
+For large PDFs exceeding the 20MB tool limit, the following bash command was used to extract searchable text:
+
+```bash
+pdftotext "source.pdf" "output.txt"
+```
+
+This produced a manageable 30KB text artifact for the 36MB Burial Sites PDF.
+
 
 ### New person pages
 - [[People/Nathan Spicer.md]]
