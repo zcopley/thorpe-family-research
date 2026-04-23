@@ -3,5 +3,7 @@ node_modules
 public
 .quartz-cache
 .obsidian
+.abacusai/
+.codex
 .DS_Store
 *.broken-*

@@ -8,6 +8,11 @@ tags:
 
 # Changelog
 
+## 2026-04-23 — Local tool-state ignored
+
+- Added `.abacusai/` and `.codex` to `/.gitignore` so local agent and workspace tooling state stays out of version control.
+- Removed `.abacusai/config.json` from version control while leaving the local file on disk as private workspace configuration.
+
 ## 2026-04-23 — Lemmon/Blake/Torpe branch summary added
 
 - Added [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon Blake Thorpe Branch Summary]] to capture the pedigree-timeline branch context in one place.
