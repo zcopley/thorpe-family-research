@@ -8,6 +8,13 @@ tags:
 
 # Changelog
 
+## 2026-04-24 — Mermaid diagram styling and vault privacy
+
+- Updated all 17 Mermaid diagrams across person and topic pages with explicit styling for text legibility: dark text (#000000) on light backgrounds with readable font size (14px).
+- Added `draft: true` frontmatter to all `AGENT_HANDOFF_PHASE_*.md` files and agent guidance files (`AGENTS.md`) to hide internal coordination documents from the published vault while keeping them accessible in git.
+- Removed references to agent handoff files from public-facing pages (`index.md`, `Home.md`).
+- Updated `AGENTS.md` with guidance for future agents on Mermaid styling requirements and vault privacy practices.
+
 ## 2026-04-23 — Pedigree timeline text mined
 
 - Added extracted timeline file references, branch highlights, discrepancy candidates, and record-reference leads to [[Topics/Thorpe Pedigree Timelines]].

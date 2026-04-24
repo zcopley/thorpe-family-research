@@ -17,6 +17,7 @@ For a compact branch summary of the Lemmon/Blake/Torpe cluster, see [[Topics/Lem
 ## Variant Map
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph LR
   Thorpe[Thorpe]
   Thorp[Thorp]

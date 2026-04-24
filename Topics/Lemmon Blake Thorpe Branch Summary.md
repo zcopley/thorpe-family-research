@@ -14,6 +14,7 @@ This page summarizes the branch-level evidence currently available in the vault 
 ## Branch Diagram
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
   UBT[Uriah Blake Thorpe<br/>1878-1959]
   UBL[Uriah Blake Lemmon<br/>1808-1887]

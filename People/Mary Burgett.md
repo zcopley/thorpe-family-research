@@ -24,6 +24,7 @@ tags:
 ## Family Diagram
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
   WB[William Burgett<br/>c1807-c1850]
   MB[Mary Burgett<br/>1835-1918]

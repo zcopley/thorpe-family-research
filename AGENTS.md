@@ -54,8 +54,31 @@ At the end of each meaningful work session:
   - `npm run test`
   - `npm run build`
 
+## Mermaid Diagram Styling
+
+All Mermaid diagrams must include explicit styling to ensure text legibility in both light and dark themes:
+
+```
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
+```
+
+Add this as the first line inside each Mermaid code block. This ensures:
+- Dark text (#000000) for maximum contrast
+- Dark border and line colors (#333333)
+- Readable font size (14px)
+
+Test diagrams in both light and dark browser themes before committing.
+
+## Agent Files and Vault Privacy
+
+- **Agent coordination files** (`AGENTS.md`, `AGENT_HANDOFF_PHASE_*.md`, `CLAUDE.md`, `GEMINI.md`) must have `draft: true` in frontmatter to exclude them from the published vault.
+- Files with `draft: true` are invisible to human visitors but fully accessible in git and to agents reading the working repo.
+- This keeps internal working notes out of the public wiki while preserving handoff continuity.
+- When creating new agent guidance or handoff files, always remember to add `draft: true` to the frontmatter.
+
 ## Do Not
 
 - Do not modify the Quartz framework internals unless explicitly requested.
 - Do not add unsourced genealogical assertions.
 - Do not remove raw source files from `References/raw/`.
+- Do not publish agent coordination files to the human-facing vault (always use `draft: true`).

@@ -22,6 +22,7 @@ tags:
 ## Family Diagram
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
   NS[Nathan Spicer<br/>1796-1873]
   CRS[Charles Russell Spicer]

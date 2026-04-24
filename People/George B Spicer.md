@@ -23,6 +23,7 @@ tags:
 ## Family Diagram
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
   CRS[Charles Russell Spicer]
   GBS[George B. Spicer<br/>1864-1938]

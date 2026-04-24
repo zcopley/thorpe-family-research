@@ -24,6 +24,7 @@ tags:
 ## Family Diagram
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
   EK[Emma Kelly / Emma Bellamy<br/>1861-1910]
   JK[James Kelly]

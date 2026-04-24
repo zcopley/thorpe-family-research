@@ -1,7 +1,9 @@
 ---
+draft: true
 title: Agent Handoff — Phase 1C
 date: 2026-04-22
 ---
+draft: true
 
 # Phase 1C Handoff: Census Index & High-Priority Ingestion
 

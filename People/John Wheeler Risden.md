@@ -23,6 +23,7 @@ tags:
 ## Family Diagram
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
   JWR[John Wheeler Risden<br/>1812-1892]
   SBR[Sophronia Burdick Risden]

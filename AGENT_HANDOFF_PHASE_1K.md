@@ -1,7 +1,9 @@
 ---
+draft: true
 title: Agent Handoff — Phase 1K
 date: 2026-04-23
 ---
+draft: true
 
 # Phase 1K Handoff: Wynat etymology caution note
 

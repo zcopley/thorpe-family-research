@@ -1,7 +1,9 @@
 ---
+draft: true
 title: Agent Handoff — Phase 1D
 date: 2026-04-23
 ---
+draft: true
 
 # Phase 1D Handoff: Census Ingestion Batch (Rowland, Sorrell, Tallman, Thorogood, Wager)
 
