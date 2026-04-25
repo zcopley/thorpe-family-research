@@ -220,19 +220,23 @@ document.addEventListener("nav", async () => {
     )
 
     const darkMode = document.documentElement.getAttribute("saved-theme") === "dark"
+    const nodeFill = darkMode ? computedStyleMap["--darkgray"] : computedStyleMap["--light"]
+    const nodeText = darkMode ? computedStyleMap["--light"] : computedStyleMap["--darkgray"]
+    const nodeBorder = darkMode ? computedStyleMap["--lightgray"] : computedStyleMap["--tertiary"]
+    const nodeLine = darkMode ? computedStyleMap["--lightgray"] : computedStyleMap["--darkgray"]
     mermaid.initialize({
       startOnLoad: false,
       securityLevel: "loose",
       theme: darkMode ? "dark" : "base",
       themeVariables: {
         fontFamily: computedStyleMap["--codeFont"],
-        primaryColor: computedStyleMap["--light"],
-        primaryTextColor: computedStyleMap["--darkgray"],
-        primaryBorderColor: computedStyleMap["--tertiary"],
-        lineColor: computedStyleMap["--darkgray"],
-        secondaryColor: computedStyleMap["--secondary"],
-        tertiaryColor: computedStyleMap["--tertiary"],
-        clusterBkg: computedStyleMap["--light"],
+        primaryColor: nodeFill,
+        primaryTextColor: nodeText,
+        primaryBorderColor: nodeBorder,
+        lineColor: nodeLine,
+        secondaryColor: darkMode ? computedStyleMap["--secondary"] : computedStyleMap["--lightgray"],
+        tertiaryColor: darkMode ? computedStyleMap["--tertiary"] : computedStyleMap["--highlight"],
+        clusterBkg: nodeFill,
         edgeLabelBackground: computedStyleMap["--highlight"],
       },
     })

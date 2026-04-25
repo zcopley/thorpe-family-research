@@ -8,7 +8,7 @@ tags:
 
 # Thorpe Family Research Vault
 
-![Sandusky and Ottawa, Ohio - 1896 Commemorative Biographical Record](assets/sandusky-ottawa-1896-titlepage.gif)
+![Sandusky and Ottawa, Ohio - 1896 Commemorative Biographical Record](/static/sandusky-ottawa-1896-titlepage.gif)
 
 Welcome to the Thorpe family research vault — a growing collection of genealogical research on the Thorpe family and their connected lines (Lemmon, Blake, Spicer, Palmer, and others). This project is separate from the Copley family vault and focuses on building accurate, source-grounded family profiles spanning three centuries and two continents.
 
