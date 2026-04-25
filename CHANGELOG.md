@@ -8,6 +8,13 @@ tags:
 
 # Changelog
 
+## 2026-04-25 — Restore Quartz build path for GitHub Pages deployment
+
+- Fixed the site build command in `package.json` so it calls the local Quartz bootstrap directly instead of `npx quartz`, which was failing in this environment because `npx` tried to create a cache under a read-only home directory.
+- Verified `npm run build` now completes successfully and emits the site into `public/`.
+- Verified `npm run test` still passes.
+- No content pages changed in this session.
+
 ## 2026-04-24 — Confirm Susan Lewis identity across Wisconsin censuses
 
 - **CONFIRMED:** [[People/Susan Lewis|Susan Lewis]] identity verified as single individual across 1850-1860 Wisconsin censuses.

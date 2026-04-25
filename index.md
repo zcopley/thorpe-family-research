@@ -1,7 +1,7 @@
 ---
 title: Thorpe Family History
 description: A genealogical research wiki for the Thorpe family, beginning with source material shared by Robert "Butch" Thorpe.
-date: 2026-04-21
+date: 2026-04-25
 ---
 
 # The Thorpe Family
@@ -12,7 +12,7 @@ Maintained by **Zach Copley** with source contributions from **Robert "Butch" Th
 
 ## Latest Deployment
 
-Latest deployed update: **2026-04-23 Pedigree timeline extraction and family branch diagrams**.
+Latest deployed update: **2026-04-25 Restore Quartz build path for GitHub Pages deployment**.
 
 - See [[CHANGELOG|Changelog]] for full change history.
 - Quick links to recent intake outputs:
