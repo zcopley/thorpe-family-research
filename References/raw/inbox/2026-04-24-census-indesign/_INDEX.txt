@@ -1,0 +1,99 @@
+# Census InDesign Summaries Index — 2026-04-24 Intake
+
+This directory contains 88 extracted text files from individual Census InDesign summary PDFs.
+Each file is named CensusSummary-{FirstName}{LastName}.txt and contains:
+- Person's biographical header (birth/death dates)
+- Multiple census entries (typically 1841-1871 UK censuses)
+- Household relationships and occupations
+- Precise source citations (HO107, RG9, RG10, RG11, RG12, RG13 references)
+- Geographic locations and field details
+
+Files extracted:
+AultAndrew
+AultElizabeth
+AultFrederick
+BangleElizabeth
+BangleLouisS
+BartonSarah
+BaxterMatilda
+BellamyHenryJames
+BellamyJames
+BellamyJamesA
+BellamyRichard
+BeneworthHannah
+BevisAnn
+BlakeRebecca
+BrooksElizabeth
+BurdickSaphronia
+BurgettMary
+BurgettWilliam
+CaswellAngeline
+CrittonAmy
+EmblowJoseph
+EmblowMartha
+FilkinsCatherine
+GreenwoodMary
+HarrisonElizabeth
+HiskeyMatilda
+HowElizabeth
+IrelandEleanor
+KellyEmma
+KellyJames
+LemmonJames
+LemmonSarah
+LemmonUriah
+LewisMartha
+LewisOliver
+LewisWynat
+McIntyreEmily
+MerrillSusan
+MillerMathias
+MillerRomancy
+MorganAlzina
+MunsonArthur1788-1855
+MunsonEmily
+MunsonJames
+PalmerJohnK
+PalmerMay p1
+PalmerMay p2
+PalmerPeter
+PalmerWilliam
+PriorArthur
+PriorJoseph
+PriorOliver
+PriorRuby
+QuackenbushElizabeth
+RisdenHattie
+RisdenJohnW
+RisdenWatson
+RowlandJesse
+RowlandNancyW
+SorrellJames
+SorrellMary
+SpicerCharlesRussell
+SpicerGeorge p1
+SpicerGeorge p2
+SpicerLester
+SpicerNathan1796-1873
+TallmanBenjaminB
+TallmanJohn
+TallmanLenore
+TallmanMiller p1
+TallmanMiller p2
+ThorogoodFrederick
+ThorogoodGrace
+ThorogoodJames
+ThorogoodJoseph
+ThorogoodMaryAnn
+ThorpJohn
+ThorpWilliamMonroe
+ThorpeRaymond
+ThorpeUriahB
+VanHornMary
+WagerJane
+WallerHannah
+WheelerMary
+WhitfieldJohn
+WhitfieldMary p1
+WhitfieldMary p2
+WillsonJane
