@@ -8,6 +8,22 @@ tags:
 
 # Changelog
 
+## 2026-04-24 — Census InDesign summaries and book outprints intake
+
+- Scanned shared intake folder and extracted text from 88 Census InDesign summary PDFs using pdftotext.
+- Created comprehensive reference page: [[References/Shared Intake 2026-04-24 Census InDesign Summaries]].
+- Identified 88 individual census summaries covering 1841-1871 UK records with household data, occupations, and precise source citations.
+- Of these 88 individuals: 61 already have people pages in the vault; 27 are new or require new pages.
+- Identified additional book outprints material in shared intake:
+  - Samuel Miller genealogy (9 pages)
+  - Settlers by the Long Grey Trail (26 pages)
+  - Sandusky & Ottawa Ohio History (4 pages)
+  - MacIntyre genealogy (5 pages)
+  - Thomas Durfee genealogy (11 pages)
+  - Grand Army records (Watson Moses Risden)
+  - Lemmon John M entry from Sandusky-Beers publication
+- Staged 88 extracted text files in `References/raw/inbox/2026-04-24-census-indesign/` for future integration.
+
 ## 2026-04-24 — Mermaid diagram styling and vault privacy
 
 - Updated all 17 Mermaid diagrams across person and topic pages with explicit styling for text legibility: dark text (#000000) on light backgrounds with readable font size (14px).
