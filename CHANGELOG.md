@@ -8,6 +8,14 @@ tags:
 
 # Changelog
 
+## 2026-04-24 — Confirm Sarah Kelly identity as widow and almshouse resident
+
+- **CONFIRMED:** [[People/Sarah Kelly|Sarah Kelly]] identity verified as single individual across 1841-1861.
+- **Evidence:** Clear family relationship to [[People/James Kelly|James Kelly]] (b. 1830); consistent life progression (household member → widow → almshouse resident).
+- **Clarified:** "Barton?" notation was census summary filename reference, not maiden-surname clue; no Barton surname evidence found.
+- **Updated** [[People/Sarah Kelly|Sarah Kelly]] with detailed source citations from [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]].
+- **Updated** [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]] to mark Sarah Kelly as resolved; 3 of 7 uncertain identities now confirmed.
+
 ## 2026-04-24 — Confirm Ann Sorrell identity across four-decade census span
 
 - **CONFIRMED:** [[People/Ann Sorrell|Ann Sorrell]] identity verified as single individual across 1841-1871.
