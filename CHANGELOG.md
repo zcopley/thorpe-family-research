@@ -8,6 +8,27 @@ tags:
 
 # Changelog
 
+## 2026-04-24 — Create 13 new people pages from Census InDesign summaries
+
+- Created 13 new people pages from the Census InDesign summary extracts:
+  - [[People/Elizabeth Ault|Elizabeth Ault]]
+  - [[People/Elizabeth Bangle|Elizabeth Bangle]]
+  - [[People/Louis S Bangle|Louis S Bangle]]
+  - [[People/Sarah Barton|Sarah Barton]]
+  - [[People/James A Bellamy|James A Bellamy]]
+  - [[People/Ann Bevis|Ann Bevis]]
+  - [[People/Amy Critton|Amy Critton]]
+  - [[People/Eleanor Ireland|Eleanor Ireland]]
+  - [[People/Martha Lewis|Martha Lewis]]
+  - [[People/Oliver Lewis|Oliver Lewis]]
+  - [[People/Emily McIntyre|Emily McIntyre]]
+  - [[People/Susan Merrill|Susan Merrill]]
+  - [[People/Mary Whitfield|Mary Whitfield]]
+- Updated [[People Directory]] to include all 112 people pages (46 new from 2026-04-24 intake).
+- Updated [[Search Index]] with full people list and topic/reference links.
+- Created placeholder-format pages with references to detailed census extracts for future enrichment.
+- Note: Additional individuals from Census InDesign summaries already have existing people pages.
+
 ## 2026-04-24 — Census InDesign summaries and book outprints intake
 
 - Scanned shared intake folder and extracted text from 88 Census InDesign summary PDFs using pdftotext.
