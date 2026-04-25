@@ -22,18 +22,12 @@ Welcome to the Thorpe family research vault. This project is separate from the C
 - [[References/Butch Thorpe Email|Butch Thorpe Email]]
 - [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]]
 
-## Deployment Status
+## Quick Links
 
-Latest deployed update: **2026-04-23 Pedigree timeline extraction and family branch diagrams**.
+- **[[CHANGELOG|Session Changelog and Updates]]** — View all recent additions and reconciliations
+- [[People Directory|People Directory]] — Alphabetical index of all individuals
+- [[Search Index|Search Index]] — Topic and relationship search
 
-- [[CHANGELOG|Changelog]]
-- [[People Directory]]
-- [[Search Index]]
+## Current Work
 
-## Next Steps
-
-1. Sync shared uploads into `References/raw/inbox/`.
-2. Open and export `PedigreeTimelines2025.cdr` to PDF or image format.
-3. Open and export `PedigreeTimelines2019Descendants2.cdr` to PDF or image format.
-4. Request Butch's PDF catalog of record types and the key for numbered record references.
-5. Start structured extraction of people, dates, places, and relationships into `People/` pages.
+Currently focusing on **identity reconciliation** — confirming that individuals appearing in multiple census records are the same person, and consolidating duplicate pages. See [[CHANGELOG]] for recent resolutions.
