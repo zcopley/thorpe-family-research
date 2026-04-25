@@ -17,6 +17,7 @@ tags:
 
 - A census-summary entry gives James Sorrell as born about 1799 and died about 1877.
 - The extraction lists a UK sequence for James Sorrell across 1841 (Essex, Boreham), 1851 (Essex, Boreham), 1861 (Hertfordshire, Wormley), and 1871 (Middlesex, Shoreditch).
+- The Bellamy pedigree timeline also places a James Sorrell branch in the Bellamy collateral cluster and flags the father/son naming overlap as a transcription issue.
 
 ## Research Gaps
 
@@ -26,4 +27,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]
-2. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
+3. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+4. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`

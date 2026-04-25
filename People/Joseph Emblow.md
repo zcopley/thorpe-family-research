@@ -18,6 +18,7 @@ tags:
 - A census-summary entry gives Joseph Emblow as baptized 27 Jul 1800 and died about 1879.
 - The 1841, 1851, 1861, and 1871 Peterborough Church Street entries list Joseph Emblow with spouse Eleanor/Elenor/Ellen and children including Jane and Catherine.
 - The section includes explicit citations for 1841 HO107, 1861 RG9, and 1871 RG10 references as listed.
+- The Bellamy pedigree timeline places Joseph Emblow in the Bellamy collateral branch as the father of Martha Emblow.
 
 ## Research Gaps
 
@@ -29,4 +30,6 @@ tags:
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
-3. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
+4. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

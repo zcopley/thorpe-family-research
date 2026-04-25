@@ -18,6 +18,7 @@ tags:
 - A census-summary entry gives Martha Emblow as born about 1830 and died 21 Jul 1903.
 - The 1841 Peterborough entry places Martha Emblow in Joseph Emblow's household.
 - The 1851 through 1901 entries track Martha Kelly in Peterborough households, including occupations tailoress/dressmaker and widow/head roles in later years.
+- The Bellamy pedigree timeline places Martha Emblow in the Bellamy collateral branch as the parent generation of Emma Kelly.
 
 ## Research Gaps
 
@@ -29,4 +30,6 @@ tags:
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
-3. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
+4. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

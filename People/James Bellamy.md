@@ -19,6 +19,7 @@ tags:
 - The 1841 Bourn, Lincolnshire entry at Castle Yard lists James Bellamy with occupation shown as miller and includes Richard Bellamy in the same entry.
 - The 1851 Bourn South Street entry lists James Bellamy as widower and `Bede House Man (formerly a miller and baker)`.
 - The 1861 Bourn South Street entry lists James Bellamy as widower and `Bedehouse Man (formerly a baker)`.
+- The Bellamy pedigree timeline places James Bellamy in the early Bellamy branch and also shows an even earlier William Bellamy line that needs careful reconciliation.
 
 ## Research Gaps
 
@@ -30,4 +31,6 @@ tags:
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
-3. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
+4. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

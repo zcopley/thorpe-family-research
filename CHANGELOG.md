@@ -8,6 +8,12 @@ tags:
 
 # Changelog
 
+## 2026-04-25 — Transcribe Bellamy pedigree timeline into branch pages
+
+- Added Bellamy timeline citations to the Bellamy, Kelly, Emblow, Munson, Thorogood, and Sorrell branch pages, including [[People/James Bellamy]], [[People/Richard Bellamy]], [[People/Henry James Bellamy]], [[People/James Archibald Bellamy]], [[People/William Kelly]], [[People/James Kelly]], [[People/Emma Kelly]], [[People/Joseph Emblow]], [[People/Martha Emblow]], [[People/Emily Munson]], [[People/Mary Ann Thorogood]], [[People/Frederick Thorogood]], [[People/James Sorrell]], and [[People/Mary Sorrell]].
+- Preserved the James Kelly discrepancy as a research gap instead of forcing a resolution.
+- Added [[AGENT_HANDOFF_PHASE_2F]] for the Bellamy transcription pass.
+
 ## 2026-04-25 — Transcribe Prior pedigree timeline into existing branch pages
 
 - Added Prior pedigree timeline citations to [[People/Joseph Warren Prior]], [[People/Arthur Edwin Prior]], [[People/Oliver Warren Prior]], [[People/Martha Eliza Lewis]], [[People/May Aleen Palmer]], [[People/Ruby Bernice Prior]], and [[People/Alzina Morgan]].

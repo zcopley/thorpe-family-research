@@ -19,6 +19,7 @@ tags:
 - The 1891 Peterborough household includes `Archibald BELLAMY` as son in the Henry and Emma Bellamy family.
 - The 1901 Peterborough household includes `James A BELLAMY` as son.
 - The 1911 Chelmsford entry includes `James Archibold BELLAMY` as a boarder, age 22.
+- The Bellamy pedigree timeline places James Archibald Bellamy as the next generation after Henry James Bellamy.
 
 ## Research Gaps
 
@@ -29,4 +30,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
+3. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
