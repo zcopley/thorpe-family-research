@@ -8,6 +8,12 @@ tags:
 
 # Changelog
 
+## 2026-04-25 — Replace landing page image and scale it down
+
+- Replaced the oversized Sandusky title-page image on `[[index]]` with a more visually interesting Tallman cemetery monument photo.
+- Scaled the landing page image to half-width so it no longer dominates the page layout.
+- Kept the change limited to the landing page presentation.
+
 ## 2026-04-25 — Transcribe Bellamy pedigree timeline into branch pages
 
 - Added Bellamy timeline citations to the Bellamy, Kelly, Emblow, Munson, Thorogood, and Sorrell branch pages, including [[People/James Bellamy]], [[People/Richard Bellamy]], [[People/Henry James Bellamy]], [[People/James Archibald Bellamy]], [[People/William Kelly]], [[People/James Kelly]], [[People/Emma Kelly]], [[People/Joseph Emblow]], [[People/Martha Emblow]], [[People/Emily Munson]], [[People/Mary Ann Thorogood]], [[People/Frederick Thorogood]], [[People/James Sorrell]], and [[People/Mary Sorrell]].

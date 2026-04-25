@@ -6,7 +6,7 @@ date: 2026-04-25
 
 # The Thorpe Family
 
-![Sandusky and Ottawa, Ohio - 1896 Commemorative Biographical Record](assets/sandusky-ottawa-1896-titlepage.gif)
+<img src="assets/tallman-monument.png" alt="Tallman family monument at the cemetery" style="display:block; width:50%; max-width:340px; height:auto; margin: 1rem auto 1.5rem auto;" />
 
 This vault is the starting point for a dedicated Thorpe family research project.
 
