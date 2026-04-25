@@ -43,7 +43,7 @@ The diagram is a visual index of the current queue. It does not imply any merge 
 
 | Item | Current Evidence Strength | What the Vault Already Supports | Next Best Step |
 |------|---------------------------|----------------------------------|-----------------|
-| [[People/Ann Sorrell|Ann Sorrell]] | High | Page-level census-summary anchors for 1841, 1851, 1861, and 1871; cross-reference mapping to `UNKNOWN, Ann`. | Verify the underlying census images, especially the 1861 and 1871 entries without piece/folio/page data. |
+| [[People/Ann Sorrell|Ann Sorrell]] | **RESOLVED** | 30-year census sequence (1841-1871) as wife of James Sorrell; age progression and household consistency confirmed; name variant (Sorrel/Sorrell) documented. | ✓ Identity confirmed via source text. Image verification pending (GSU rolls available). |
 | [[People/Eleanor Emblow|Eleanor Emblow]] | **RESOLVED** | 30-year census sequence (1841-1871) as wife of Joseph Emblow; name variants (Eleanor/Elenor/Ellen) consolidated; duplicate "Eleanor Ireland" page deleted. | ✓ Identity confirmed and consolidated. |
 | [[People/Sarah Kelly|Sarah Kelly]] | High | Page-level census-summary anchors for 1841, 1851, and 1861; cross-reference mapping to `UNKNOWN, Sarah`. | Verify the 1851 and 1861 images, then decide whether `Barton?` is a real clue or a transcription artifact. |
 | [[People/Susan Lewis|Susan Lewis]] | High | Page-level census-summary anchor for 1850 Wisconsin household; cross-reference mapping to `UNKNOWN, Susan`. | Verify the 1850 household image and look for later records that confirm death or continuation. |

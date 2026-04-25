@@ -8,6 +8,13 @@ tags:
 
 # Changelog
 
+## 2026-04-24 — Confirm Ann Sorrell identity across four-decade census span
+
+- **CONFIRMED:** [[People/Ann Sorrell|Ann Sorrell]] identity verified as single individual across 1841-1871.
+- **Evidence:** Perfect age progression (40 → 52 → 63 → 72 years); consistent spouse (James Sorrell); stable household composition; consistent birthplace (Essex, Waltham).
+- **Updated** [[People/Ann Sorrell|Ann Sorrell]] with detailed source citations from [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]].
+- **Updated** [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]] to mark Ann Sorrell as resolved; 2 of 7 uncertain identities now confirmed.
+
 ## 2026-04-24 — Reconcile Eleanor Emblow identity and consolidate duplicates
 
 - **RESOLVED:** Eliminated duplicate [[People/Eleanor Ireland|Eleanor Ireland]] page (was mislabeled variant of Eleanor Emblow).
