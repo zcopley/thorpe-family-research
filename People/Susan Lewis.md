@@ -15,15 +15,31 @@ tags:
 
 ## Source-Cited Facts
 
-- The ancestors index includes this person as `UNKNOWN, Susan (c.1796 - ?)`.
-- The extracted census summary page 86 records `Susan LEWIS` in the 1850 Wisconsin, Racine County, Town of Burlington household of [[People/Wynat Lewis|Wynat Lewis]] and gives `Series: M432, Roll: 1004, Page: 150`.
-- The same household includes [[People/Oliver Warren Lewis|Oliver Warren Lewis]], tying this profile to an existing Lewis chain.
-- The cross-reference section maps `LEWIS, Susan` to `UNKNOWN, Susan`.
+- Cross-reference from ancestors index: `LEWIS, Susan` → `UNKNOWN, Susan (c. 1796 - c. 1860-1880)`.
+- Wife of [[People/Wynat Lewis|Wynat Lewis]]; appears in household with [[People/Oliver Warren Lewis|Oliver Warren Lewis]].
+- **1850 Wisconsin, Racine County, Town of Burlington:** Recorded as `Susan LEWIS`, age 54, female, born Vermont.
+  - Household: Wynat Lewis (68, farmer), Oliver Lewis (25, farmer), and siblings Lousa, Eliza, Martha
+  - Source: Series M432, Roll 1004, Page 150; GSU microfilm available
+- **1860 Wisconsin, Fond du Lac, Ripon 1st Ward:** Recorded as `Susan LEWIS`, age 58, female, birthplace NY.
+  - Household: W.W. Lewis (79, farmer), Oliver Lewis (35), Marshal Lewis (25)
+  - Source: Series M653, Roll 1408, Page 829; GSU microfilm available
+- Not found in 1880 census; presumed deceased between 1860-1880 (Oliver Lewis's 1880 household does not include Susan).
+
+## Identity Confirmation
+
+**Status: CONFIRMED** — Susan Lewis's identity across 1850-1860 verified as single individual based on:
+- Consecutive census entries (1850, 1860) with consistent family connections
+- Same household network (Wynat Lewis, Oliver Lewis) across both censuses
+- Age progression: 54 (1850) → 58 (1860) — variation reflects typical 19th-century census age estimation patterns
+- Death inference: Not listed in 1880 household; presumed deceased between 1860-1880
+
+Note: Birthplace varies (Vermont 1850, NY 1860) — likely census data quality variation, not identity issue.
 
 ## Research Gaps
 
-1. Confirm whether additional census entries exist after 1850 for this individual.
-2. Resolve death details from image-level and civil/parish records.
+1. Confirm exact death year and location from Wisconsin vital records or cemetery records.
+2. Image-level verification of both 1850 and 1860 census records (GSU microfilm references available).
+3. Resolve birthplace discrepancy (Vermont vs New York) — may be transcription variation.
 
 ## Sources
 

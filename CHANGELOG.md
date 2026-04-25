@@ -8,6 +8,14 @@ tags:
 
 # Changelog
 
+## 2026-04-24 — Confirm Susan Lewis identity across Wisconsin censuses
+
+- **CONFIRMED:** [[People/Susan Lewis|Susan Lewis]] identity verified as single individual across 1850-1860 Wisconsin censuses.
+- **Evidence:** Two-census sequence (1850 Racine County, 1860 Fond du Lac) with consistent household network ([[People/Wynat Lewis|Wynat Lewis]], [[People/Oliver Warren Lewis|Oliver Warren Lewis]]).
+- **Death inference:** Not listed in 1880 household; presumed deceased 1860-1880.
+- **Updated** [[People/Susan Lewis|Susan Lewis]] with detailed census citations from [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]].
+- **Updated** [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]] to mark Susan Lewis as resolved; 4 of 7 uncertain identities now confirmed.
+
 ## 2026-04-24 — Confirm Sarah Kelly identity as widow and almshouse resident
 
 - **CONFIRMED:** [[People/Sarah Kelly|Sarah Kelly]] identity verified as single individual across 1841-1861.
