@@ -25,7 +25,6 @@ tags:
 - [[People/Charles Russell Spicer|Charles Russell Spicer]]
 - [[People/Dinah Boone|Dinah Boone]]
 - [[People/Eleanor Emblow|Eleanor Emblow]]
-- [[People/Eleanor Ireland|Eleanor Ireland]]
 - [[People/Eleanor Unknown|Eleanor Unknown]]
 - [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]]
 - [[People/Elizabeth Ault|Elizabeth Ault]]

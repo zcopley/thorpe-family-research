@@ -8,6 +8,15 @@ tags:
 
 # Changelog
 
+## 2026-04-24 — Reconcile Eleanor Emblow identity and consolidate duplicates
+
+- **RESOLVED:** Eliminated duplicate [[People/Eleanor Ireland|Eleanor Ireland]] page (was mislabeled variant of Eleanor Emblow).
+- **Consolidated:** Eleanor/Elenor/Ellen spelling variants across 1841-1871 Peterborough censuses now documented as single identity.
+- **Updated** [[People/Eleanor Emblow|Eleanor Emblow]] with detailed source citations and consolidated household information.
+- **Updated** [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]] to mark Eleanor Emblow as resolved.
+- **Verified** Mary Greenwood ≠ Mary Burgett distinction (separate identities, correctly documented).
+- People Directory and Search Index updated: now 111 individuals (was 112 with duplicate).
+
 ## 2026-04-24 — Catalog book outprints collection and create references
 
 - Discovered and inventoried the comprehensive [[References/Book Outprints Collection|Book Outprints Collection]] containing 31 genealogical and historical books with 77 extracted pages.

@@ -15,17 +15,27 @@ tags:
 
 ## Source-Cited Facts
 
-- The ancestors index includes this person as `UNKNOWN, Eleanor (c. 1795 - c. 1874)`.
-- The extracted census summary page 84 records `Eleanor EMBLOW` in the 1841 Northamptonshire, Peterborough household of [[People/Joseph Emblow|Joseph Emblow]]; the extract does not provide piece/folio/page fields for that entry.
-- The extracted census summary page 85 records `Elenor EMBLOW` in the 1861 Northamptonshire, Peterborough household of [[People/Joseph Emblow|Joseph Emblow]]; the extract again omits piece/folio/page fields.
-- The extracted census summary page 85 records `Ellen EMBLOW` in the 1871 Northamptonshire, Peterborough household of [[People/Joseph Emblow|Joseph Emblow]]; the extract again omits piece/folio/page fields.
-- Later entries include daughters Jane and Catherine in the same household sequence.
-- The cross-reference section maps `EMBLOW, Eleanor`, `EMBLOW, Elenor`, and `EMBLOW, Ellen` to `UNKNOWN, Eleanor`.
+- Married to [[People/Joseph Emblow|Joseph Emblow]] (b. 27 Jul 1800 Bap, c. 1879).
+- **1841 Peterborough, Church Street:** Recorded as `Eleanor EMBLOW`, age 40, born Northamptonshire.
+  - Source: HO107, Piece 817, Book 1, ED 1, Folio 15, Page 21, Line 9; GSU Roll 438883
+- **1861 Peterborough, Thompson's Yard, Church Street:** Recorded as `Elenor EMBLOW`, age 64, wife, born Nassington, Northamptonshire.
+  - Source: RG9, Piece 967, Folio 64, Page 17; GSU Roll 542729
+- **1871 Peterborough, Church Street (Thompson's the Butchers Yard):** Recorded as `Ellen EMBLOW`, age 77, wife, born Nassington, Northamptonshire.
+  - Source: RG10, Piece 1519, Folio 25, Page 16; GSU Roll 829777
+- Children included in household: Charles (son, tailor apprentice), Martha (daughter), George (son), Jane (daughter), Catherine (daughter).
+- Name spelling variants (Eleanor/Elenor/Ellen) are consistent with census transcription practices; canonical form is Eleanor.
+
+## Notes
+
+- **Name variants:** Eleanor (1841), Elenor (1861), Ellen (1871) — all represent the same individual across ~30-year census span.
+- **Deleted duplicate:** Eleanor Ireland page (mislabeled as separate person; actually Eleanor Emblow household entry).
+- Previous cross-reference as `UNKNOWN, Eleanor` from ancestors index is now consolidated.
 
 ## Research Gaps
 
-1. Confirm exact standard name form (Eleanor/Elenor/Ellen) for canonical usage.
-2. Validate death-year estimate (`c. 1874`) against image-level and civil/parish records.
+1. Confirm birth year from original HO107 image for 1841 entry (piece/folio/page fields incomplete in extract).
+2. Validate death-year estimate (`c. 1874`) against parish or civil records.
+3. Confirm Nassington birthplace from RG9/RG10 image-level verification.
 
 ## Sources
 

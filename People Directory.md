@@ -41,7 +41,6 @@ tags:
 ### E
 
 - [[People/Eleanor Emblow|Eleanor Emblow]]
-- [[People/Eleanor Ireland|Eleanor Ireland]]
 - [[People/Eleanor Unknown|Eleanor Unknown]]
 - [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]]
 - [[People/Elizabeth Ault|Elizabeth Ault]]
@@ -182,4 +181,4 @@ tags:
 
 ## Summary
 
-Total individuals: 112
+Total individuals: 111
