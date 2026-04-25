@@ -8,6 +8,18 @@ tags:
 
 # Changelog
 
+## 2026-04-25 — Add agent guardrails for landing page and deploy workflow
+
+- Strengthened the shared agent instructions in [[AGENTS]], [[CLAUDE]], and [[GEMINI]] so the next agent knows `index.md` is the public landing page and `Home.md` is a separate orientation page.
+- Added explicit reminders to verify `public/index.html` after landing-page changes and to commit and push after a successful build so GitHub Pages can redeploy.
+- Documented the update in [[AGENT_HANDOFF_PHASE_2D]].
+
+## 2026-04-25 — Move title page image to landing page
+
+- Added the Sandusky and Ottawa, Ohio title-page image to the root landing page `[[index]]` so it appears on the site home screen, not only on `[[Home]]`.
+- Kept the image on `[[Home]]` as well, so both the landing page and the orientation page show the same historical visual.
+- No source content changed; this is a presentation/layout update.
+
 ## 2026-04-25 — Restore Quartz build path for GitHub Pages deployment
 
 - Fixed the site build command in `package.json` so it calls the local Quartz bootstrap directly instead of `npx quartz`, which was failing in this environment because `npx` tried to create a cache under a read-only home directory.

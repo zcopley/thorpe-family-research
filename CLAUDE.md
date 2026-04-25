@@ -29,6 +29,12 @@ A genealogical research wiki for the Thorpe family, maintained as a separate pro
 - `Search Index.md` — keyword and entity index
 - `CHANGELOG.md` — chronological change log with WikiLinks
 
+## Landing Page Semantics
+
+- `index.md` is the public landing page at `/`.
+- `Home.md` is a secondary orientation page.
+- When a request mentions the "home page" or "landing page," default to `index.md` unless the user explicitly means `Home.md`.
+
 ## Content Rules
 
 ### Frontmatter
@@ -56,6 +62,8 @@ Every page should include:
 - Required runtime: Node 22+
 - Build command: `npm run build`
 - Do not use `npx quartz build` without `-d .`
+- After landing-page changes, verify the generated `public/index.html` matches the intended source before pushing.
+- After a successful build, commit and push to `main` so the GitHub Actions deploy job can publish the update.
 
 ## Current Priority
 

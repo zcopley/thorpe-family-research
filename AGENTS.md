@@ -16,6 +16,12 @@ These instructions apply to the entire `thorpe-family-research` repository.
 
 Build and maintain a source-grounded genealogical wiki for the Thorpe family as a standalone Quartz vault.
 
+## Landing Page Semantics
+
+- `index.md` is the public site landing page at `/`.
+- `Home.md` is a secondary orientation page.
+- If a user says "home page" or "landing page," default to `index.md` unless they explicitly mean `Home.md`.
+
 ## Content Requirements
 
 - Use `[[WikiLinks]]` for internal links.
@@ -53,6 +59,9 @@ At the end of each meaningful work session:
 - Validate with:
   - `npm run test`
   - `npm run build`
+- After a landing-page or deploy-related change, inspect the generated `public/index.html` before pushing.
+- Do not rely on `npx quartz build`; use the local bootstrap path already wired in `package.json`.
+- After a successful build, commit the change and `git push` so GitHub Pages can redeploy.
 
 ## Mermaid Diagram Styling
 

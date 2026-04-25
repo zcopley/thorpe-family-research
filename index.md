@@ -6,6 +6,8 @@ date: 2026-04-25
 
 # The Thorpe Family
 
+![Sandusky and Ottawa, Ohio - 1896 Commemorative Biographical Record](assets/sandusky-ottawa-1896-titlepage.gif)
+
 This vault is the starting point for a dedicated Thorpe family research project.
 
 Maintained by **Zach Copley** with source contributions from **Robert "Butch" Thorpe**.

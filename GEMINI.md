@@ -20,6 +20,12 @@ Maintain a source-grounded Thorpe family genealogy wiki in Quartz v4 as a standa
 4. Keep `Search Index.md` and `People Directory.md` synchronized with newly added pages.
 5. Update `CHANGELOG.md` each session with WikiLinks to all changed or created pages.
 
+## Landing Page Semantics
+
+- `index.md` is the public site landing page at `/`.
+- `Home.md` is a separate orientation page.
+- If the user says "home page," treat that as `index.md` unless they explicitly point to `Home.md`.
+
 ## Source Handling Rules
 
 - Current core sources include:
@@ -46,6 +52,8 @@ tags:
 - Node: `>=22`
 - Build: `npm run build`
 - Deployment workflow: `.github/workflows/deploy.yml`
+- After a build or landing-page change, inspect `public/index.html` to confirm the emitted landing page matches the intended source.
+- After a successful build, push the commit so the deploy workflow can update GitHub Pages.
 
 ## Working Principle
 
