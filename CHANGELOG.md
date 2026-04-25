@@ -8,6 +8,18 @@ tags:
 
 # Changelog
 
+## 2026-04-24 — Catalog book outprints collection and create references
+
+- Discovered and inventoried the comprehensive [[References/Book Outprints Collection|Book Outprints Collection]] containing 31 genealogical and historical books with 77 extracted pages.
+- Created master reference page listing all 31 books with priority marking for direct-line connections.
+- Created 13 individual reference pages for priority genealogical books:
+  - Spicer lines: [[References/Book Outprints — Descendants of Nathan Spicer|Descendants of Nathan Spicer]], [[References/Book Outprints — Descendants of Peter Spicer 1|Peter Spicer 1]], [[References/Book Outprints — Descendants of Peter Spicer Supplement|Peter Spicer Supplement]]
+  - Lemmon line: [[References/Book Outprints — Descendants of Hugh Lemmon|Descendants of Hugh Lemmon]]
+  - Miller/Thorpe: [[References/Book Outprints — Genealogy and History of Samuel Miller|Samuel Miller genealogy]], [[References/Book Outprints — Autobiography of Clyde Thorpe|Clyde Thorpe autobiography]], [[References/Book Outprints — Durfee|Durfee genealogy]]
+  - Supporting families: MacIntyre, Palmer, Tallman (3 books), Boone Family, Settlers by the Long Grey Trail
+- Books available as GIF images (scanned pages) in shared intake folder; 77 files total.
+- Next steps: OCR extraction, text transcription, and linking to relevant people pages.
+
 ## 2026-04-24 — Create 13 new people pages from Census InDesign summaries
 
 - Created 13 new people pages from the Census InDesign summary extracts:
