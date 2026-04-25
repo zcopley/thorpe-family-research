@@ -18,6 +18,7 @@ tags:
 - A census-summary entry gives Alzina Morgan with unknown birth date and estimated death about 1862.
 - The 1860 Penfield, Lorain County, Ohio entry lists Warren Pryor, Alzina Pryor, Jessie Pryor, and Arthur Pryor.
 - The extract cites M653 Roll 1008 Page 34.
+- The Prior pedigree timeline places `Alzina Morgan` (c.1832-1862) alongside `Joseph Warren Washington Prior` at the head of the Prior branch.
 
 ## Research Gaps
 
@@ -28,4 +29,6 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
-2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
+3. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
+4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

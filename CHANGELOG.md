@@ -8,6 +8,13 @@ tags:
 
 # Changelog
 
+## 2026-04-25 — Transcribe Prior pedigree timeline into existing branch pages
+
+- Added Prior pedigree timeline citations to [[People/Joseph Warren Prior]], [[People/Arthur Edwin Prior]], [[People/Oliver Warren Prior]], [[People/Martha Eliza Lewis]], [[People/May Aleen Palmer]], [[People/Ruby Bernice Prior]], and [[People/Alzina Morgan]].
+- Captured the timeline's head-of-branch naming for [[People/Joseph Warren Prior|Joseph Warren Washington Prior]] and the Arthur/Oliver/Martha/May/Ruby sequence from [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior]].
+- Preserved the existing Arthur birth-year mismatch as an explicit research gap rather than forcing a premature resolution.
+- Added [[AGENT_HANDOFF_PHASE_2E]] for the next agent.
+
 ## 2026-04-25 — Add agent guardrails for landing page and deploy workflow
 
 - Strengthened the shared agent instructions in [[AGENTS]], [[CLAUDE]], and [[GEMINI]] so the next agent knows `index.md` is the public landing page and `Home.md` is a separate orientation page.

@@ -19,6 +19,7 @@ tags:
 - The same chain places Ruby Bernice Prior in the parent generation of Karen Lu Spicer.
 - The census-summary contents index lists `PRIOR, Ruby Bernice` with dates 24 Apr 1913 to 1 Aug 2006.
 - Census-summary profile pages include Ruby Prior in 1920 and 1930 Cedar Rapids households of Oliver and May Prior, where Ruby appears as a daughter.
+- The Prior pedigree timeline places `Ruby Bernice Prior` (1913-2006) in the Oliver and May Prior household line.
 - The Burial Sites book places Ruby Bernice Prior at Cedar Memorial Cemetery in Cedar Rapids, Iowa (page 27), `64K Last Supper, Space 4`, with GPS coordinates `42°1’24.2”N 91°38’17.4”W` and date of death 1 August 2006. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Cedar+Memorial+Cemetery+Cedar+Rapids+IA).
 
 ## Research Gaps
@@ -32,7 +33,9 @@ tags:
 1. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]]
 2. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]
 3. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]
-4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-5. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-6. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
-7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+4. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
+5. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+6. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
+7. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+8. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/SPICLINE.txt`
+9. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

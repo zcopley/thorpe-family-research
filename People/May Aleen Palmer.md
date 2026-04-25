@@ -19,6 +19,7 @@ tags:
 - The 1900 Frankford Township, Mower County, Minnesota entry lists May Palmer as daughter in William and Elizabeth Palmer's household.
 - The 1910 East Waterloo Township, Black Hawk County, Iowa entry lists May Prior as wife of Oliver Prior.
 - The 1920 and 1930 Cedar Rapids, Linn County, Iowa entries continue Oliver and May Prior households with children and later Cashman grandchildren in 1930.
+- The Prior pedigree timeline places `May Aleen Palmer` (1886-1979) in the generation following `William Henry Palmer` and `John K Palmer`.
 - The Burial Sites book places May Aleen Palmer at Cedar Memorial Cemetery in Cedar Rapids, Iowa (page 23), `110 Lakeview, Space 5`, with GPS coordinates `42°1’25.1”N 91°37’47.2”W`, date of death 21 May 1979, and inscription `OUR MOM / MAY A. PRIOR / MAY 1, 1886 / MAY 21, 1979`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Cedar+Memorial+Cemetery+Cedar+Rapids+IA).
 
 ## Research Gaps
@@ -30,6 +31,8 @@ tags:
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
-2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
+3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+4. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
+5. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
