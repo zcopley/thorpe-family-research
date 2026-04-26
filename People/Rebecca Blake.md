@@ -15,11 +15,30 @@ tags:
 
 ## Source-Cited Facts
 
-- A census-summary entry gives Rebecca Blake as born 26 Oct 1779 and died 29 Mar 1855.
-- The 1850 Townsend Township, Sandusky County, Ohio table includes Rebecca Lemmon in a household with James Lemmon and other Lemmon/Harkins members.
-- The extract cites Series M432, Roll 726, Page 476.
-- The Thorpe pedigree timeline includes `Rebecca Blake 1779-1855` on the same compiled branch chart as James Lemmon and Uriah Blake Lemmon.
-- The Burial Sites book places Rebecca Blake Lemmon at Tew Cemetery in Townsend Township, Sandusky County, Ohio (page 9), Section 25-17-5, Lat. 412203N Long. 0825125W, with date of death 29 March 1855 and inscription `REBECCA / wife of / JAMES LEMMON / DIED / Mar. 29, 1855 / Aged / 75 Yrs. 5.M. 3d`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Tew+Cemetery+Townsend+Township+Sandusky+County+Ohio).
+- **Birth/Death:** Born 26 Oct 1779; died 29 Mar 1855 (age 75 years, 5 months, 3 days per burial record).
+- **Burial:** Tew Cemetery, Townsend Township, Sandusky County, Ohio; Section 25-17-5, Coordinates 412203N 0825125W; inscription reads `REBECCA / wife of / JAMES LEMMON / DIED / Mar. 29, 1855 / Aged / 75 Yrs. 5.M. 3d`; Burial Sites book, page 9.
+- **Spouse:** [[People/James Lemmon|James Lemmon]] (1779-1854); married name: Lemmon
+
+## Census Records and Household Context
+
+### 1850 Ohio Census — Sandusky County, Townsend Township
+- **Head:** `James Lemmon`, male, age 71, farmer, born Pennsylvania
+- **Rebecca Lemmon** (spouse), female, age 71, born Pennsylvania
+- **Household composition:**
+  - `Mathew? Lemmon`, male, age 38, farmer, born New York (son)
+  - `Sarah Lemmon`, female, age 21, born New York (daughter) — later [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]
+  - `Frank Lemmon`, male, age 1, born Ohio (grandson or younger son)
+  - `Nathan Harkins`, male, age 12, born New York (boarder/relative)
+  - `David Lemmon`, male, age 21, farmer, born New York (son or relative)
+- **Source:** Series M432, Roll 726, Page 476, R/F 1173/1198; GSU microfilm available
+
+## Family Connections
+
+- **Husband:** [[People/James Lemmon|James Lemmon]] (b. 1779 Pennsylvania) — farmer, patriarch of Ohio Lemmon line
+- **Children identified:** Matthew, Sarah (later Annett), Frank, David (likely sons)
+- **Age at 1850 census:** 71 years old (born 1779)
+- **Pedigree significance:** Links the Blake surname to Lemmon family; appears on same timeline chart as [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] and [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]
+- **Burial location:** Same cemetery (Tew) as husband James Lemmon, adjacent plots in same section
 
 ## Research Gaps
 
