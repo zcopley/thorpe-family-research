@@ -96,7 +96,7 @@ graph TD
   EPA --> LT
 ```
 
-Elizabeth Plomey's life arc spans Ohio childhood (1850-1860), migration to Iowa (1880), farming partnership (1880-1900), and veteran care facility residence (1910-1920).
+Elizabeth Plomey bridges three states and five decades: Ohio childhood (1850-1860), Iowa farming marriage (1880-1900), Sioux City teamster's household (1900), and shared Iowa Soldiers' Home residence with husband (1910-1920).
 
 ## Research Gaps
 

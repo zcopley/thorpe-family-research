@@ -33,9 +33,29 @@ tags:
 ## Family Connections
 
 - **Wife:** Mary Ault (b. ~1802 Massachusetts)
-- **Children identified:** Charles B., Mehitable, Elizabeth (later Plomey)
+- **Children identified:** Charles B. (b. ~1826), Mehitable (b. ~1836), Elizabeth Plomey (b. 1841, later [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]])
 - **Occupation:** Carpenter (skilled tradesman in Ohio)
 - **Pedigree significance:** Father of [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]], who married [[People/Miller Mathias Tallman|Miller Mathias Tallman]] and migrated to Iowa
+
+## Family Diagram
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
+graph TD
+  FA["Frederick Ault<br/>1795-c.1857<br/>Carpenter, Ohio"]
+  MA["Mary Ault<br/>b. ~1802<br/>Massachusetts"]
+  
+  CB["Charles B.<br/>b. ~1826"]
+  ME["Mehitable<br/>b. ~1836"]
+  EPA["Elizabeth Plomey<br/>1841-1926<br/>→ Miller Tallman"]
+  
+  FA --- MA
+  FA --> CB
+  FA --> ME
+  FA --> EPA
+```
+
+Frederick Ault bridges the Ohio Ault family line from patriarch Andrew Ault to the Iowa Tallman connection through his daughter Elizabeth Plomey's marriage to Miller Mathias Tallman.
 
 ## Research Gaps
 

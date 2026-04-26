@@ -78,7 +78,7 @@ graph TD
   MMT --> LT
 ```
 
-Miller Mathias’s census progression shows transition from rural farming (1880) to urban teamster work (1900) to veteran facility residence (1910-1920).
+Miller Mathias demonstrates the trajectory of a Civil War veteran: farming in rural Iowa (1880), transitioning to urban teamster work in Sioux City (1900), and finally entering the Iowa Soldiers’ Home for long-term care (1910-1920) until his death in 1921.
 
 ## Research Gaps
 

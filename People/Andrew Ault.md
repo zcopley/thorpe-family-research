@@ -40,15 +40,12 @@ tags:
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
-  AA["Andrew Ault<br/>1769-1852<br/>Farmer, New York born"]
+  AA["Andrew Ault<br/>1769-1852<br/>Farmer, Ohio"]
   EA["Elizabeth Ault<br/>b. ~1767<br/>New York"]
-  AP["Amy Palmer<br/>Age 17 in 1850<br/>Likely granddaughter"]
-  
-  AA --- EA
-  AA --> AP
+  AP["Amy Palmer<br/>Age 17 in 1850<br/>Relative"]
 ```
 
-Andrew Ault represents the earliest generation in the documented Ault line, with a 80+ year lifespan spanning New York to Ohio settlement.
+Andrew Ault represents the earliest generation in the documented Ault line, with an 82-year lifespan (1769-1852) spanning New York to Ohio settlement. The 1850 household in Jefferson County shows an elderly couple with a young relative (Amy Palmer, age 17).
 
 ## Research Gaps
 
