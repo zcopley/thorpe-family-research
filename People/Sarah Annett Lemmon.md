@@ -15,12 +15,54 @@ tags:
 
 ## Source-Cited Facts
 
-- A census-summary entry gives Sarah Annett Lemmon as born 21 Mar 1841 and died 6 Aug 1886.
-- The 1850 Townsend Township, Sandusky County, Ohio Lemmon household includes Sarah A. Lemmon as a child.
-- The 1860 and 1870 entries place Sarah Thorp in Monroe Thorp households.
-- The 1880 Clay Township, Grundy County, Iowa table lists Sarah Thorpe in an M. Thorpe household.
-- The Thorpe pedigree timeline includes `Sarah Annett Lemmon 1841-1886` on the same compiled branch chart as the Lemmon and Thorpe family lines.
-- The Burial Sites book places Sarah Annett Lemmon at Oakland Cemetery in Beaman, Iowa (page 15), Lot 21, with date of death 6 August 1886 and inscription `SARAH ANNETT THORP / DIED AUG. 6, 1886 / AGED 45 YRS. 7M. 7D.`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Oakland+Cemetery+Beaman+Iowa).
+- **Birth/Death:** Born 21 Mar 1841; died 6 Aug 1886 (age 45 years, 7 months, 7 days per burial record).
+- **Burial:** Oakland Cemetery, Beaman, Iowa; Lot 21; inscription reads `SARAH ANNETT THORP / DIED AUG. 6, 1886 / AGED 45 YRS. 7M. 7D.`; Burial Sites book, page 15.
+- **Maiden surname:** Lemmon; married name: Thorp/Thorpe (Monroe/Munroe Thorpe)
+
+## Census Records and Life Progression
+
+### 1850 Ohio Census — Sandusky County, Townsend Township (as child)
+- **Head:** `Euriah B. Lemmon`, male, farmer
+- **Sarah A. Lemmon** appears in [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]]'s household as a daughter
+- **Age:** ~9 years old
+- **Source:** Series M432, Roll 726, Pages 476-477; GSU microfilm available
+
+### 1860 Ohio Census — Sandusky County, Townsend Township (as wife)
+- **Head:** `Munroe Thorp`, male (spelling variant of Monroe)
+- **Sarah Thorp**, female, married
+- **Children:** Emily J. Thorp
+- **Other household member:** Omar Tanner, farm laborer
+- **Source:** Series M653, Roll 1032, Page 54; GSU microfilm available
+
+### 1870 Iowa Census — Marshall County, Marshall Township, Ward 5
+- **Head:** `Monore Thorp`, male, age ~40, retired farmer, born New York
+- **Sarah Thorp**, female, age ~29, keeping house, born Ohio
+- **Children:**
+  - Hattie Thorp, female, at home
+  - Nettie Thorp, female, at home
+  - Clyde Thorp, male, age ~5 (born September in Iowa)
+- **Other household member:** Omar Tanner, farm laborer
+- **Source:** Series M593, Roll 410, Page 486; GSU microfilm available
+
+### 1880 Iowa Census — Grundy County, Clay Township
+- **Head:** `M. Thorpe` (Monroe), male, age ~52, farmer, born New York
+- **Sarah Thorpe**, female, age ~39, keeping house, born Ohio
+- **Children in household:**
+  - Hattie Thorpe, daughter, age ~23, at home
+  - Nettie Thorpe, daughter, age ~21, school teacher
+  - Clyde Thorpe, son, age ~17, at home
+  - Gertrude Thorpe, daughter, age ~15, at home
+  - U.B. Thorpe, son, age ~13, at home
+- **Boarder:** Ch. Richards, male, laborer
+- **Source:** Series T9, Roll 341, Page 388C, Fam Hist Lib Film 1254341
+
+## Family Connections
+
+- **Father:** [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] (1808-1887) — Ohio patriarch
+- **Husband:** Monroe (Munroe) Thorpe (b. ~1828 New York) — farmer in Ohio and Iowa
+- **Children identified:** Emily J., Hattie, Nettie, Clyde, Gertrude, U.B. (Uriah Blake?)
+- **Lemmon branch:** Direct child of Uriah Blake Lemmon; carries Lemmon name forward as "Annett" to Thorpe line
+- **Pedigree connection:** [[Topics/Lemmon Blake Thorpe Branch Summary|Links the Lemmon and Thorpe family branches]] through marriage
 
 ## Research Gaps
 

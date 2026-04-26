@@ -15,12 +15,38 @@ tags:
 
 ## Source-Cited Facts
 
-- A census-summary entry gives Uriah Blake Lemmon as born 16 Mar 1808 and died 15 Feb 1887.
-- The 1850 and 1860 Townsend Township, Sandusky County, Ohio entries list Uriah B. Lemmon/Lemon as household head with Emily A. and children.
-- The 1870 Green Creek Township, Clyde entry includes Uriah B. Lemmon in a John M. Lemmon household context.
-- The 1880 Clyde entry lists Uriah B. Lemmon with spouse Sarah Lemmon.
-- The Thorpe pedigree timeline includes `Uriah Blake Lemmon 1808-1887` on the same compiled branch chart that also shows Rebecca Blake and James Lemmon.
-- The Burial Sites book places Uriah Blake Lemmon at McPherson Cemetery in Clyde, Ohio (page 16), with date of death 15 Feb 1887 and inscription `LEMMON`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=McPherson+Cemetery+Clyde+Ohio).
+- **Birth/Death:** Born 16 Mar 1808; died 15 Feb 1887 (age 78).
+- **Burial:** McPherson Cemetery, Clyde, Ohio (inscription: `LEMMON`); Burial Sites book, page 16.
+
+## Census Records and Household Context
+
+### 1850 Ohio Census — Sandusky County, Townsend Township
+- **Head:** `Euriah B. Lemmon`, male, farmer, born New York
+- **Household:** Emily A. Lemmon (wife), Wm H. Lemmon (son), John M. Lemmon (son), Sarah A. Lemmon (daughter), Rebecca A. Lemmon (daughter), Cyrus A. Lemmon (son), M. Burton Lemmon (son)
+- **Source:** Series M432, Roll 726, Pages 476-477; GSU microfilm available
+
+### 1860 Ohio Census — Sandusky County, Townsend Township
+- **Head:** `Uriah B. Lemmon`, male, age ~52, master farmer, born New York
+- **Household:** Emily A. Lemmon (wife, age ~54), Rebecca A. Lemmon (age ~60, daughter), Cyrus A. Lemmon (son), Emily E. Lemmon (daughter), Nathaniel Lemmon (son)
+- **Source:** Series M653, Roll 1032, Page 54; GSU microfilm available
+
+### 1870 Ohio Census — Sandusky County, Green Creek Township, Clyde
+- **Position:** Living in household of son John M. Lemmon (lawyer, age ~40)
+- **Head:** `Jno M. Lemmon`, male, lawyer, born Ohio
+- **Household:** Uriah B. Lemmon (age ~62, father, retired farmer), John M. Lemmon (son), Annie Lemmon, Mack Lemmon, Annie Havice (housekeeper, Pennsylvania)
+- **Source:** Series M593, Roll 1264, Page 125; GSU microfilm available
+
+### 1880 Ohio Census — Sandusky County, Clyde
+- **Head:** `Uriah B. Lemmon`, male, age ~72, retired farmer, born New York
+- **Household:** Sarah Lemmon (wife, age ~60, keeping house, born New York)
+- **Source:** Series T9, Roll 1063, Page 63A; Fam Hist Lib Film 1255063
+
+## Family Connections
+
+- **Wife:** Emily A. Lemmon (first wife, 1850-1860s), then Sarah Lemmon (1880)
+- **Children identified in census:** William H., John M., Sarah A., Rebecca A., Cyrus A., M. Burton, Emily E., Nathaniel
+- **Son John M. Lemmon** became a lawyer in Ohio; his household included Uriah in 1870
+- Related to [[People/James Lemmon|James Lemmon]] (likely father or brother); pedigree timeline links to Rebecca Blake line
 
 ## Identity Note
 

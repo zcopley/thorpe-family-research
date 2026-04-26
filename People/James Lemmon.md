@@ -15,11 +15,28 @@ tags:
 
 ## Source-Cited Facts
 
-- A census-summary entry gives James Lemmon as born 27 Jun 1779 and died 7 May 1854.
-- The 1850 Townsend Township, Sandusky County, Ohio table includes James Lemmon in a household with Rebecca Lemmon and other Lemmon/Harkins members.
-- The extract cites Series M432, Roll 726, Page 476.
-- The Thorpe pedigree timeline includes `James Lemmon 1779-1854` on the same compiled branch chart as Rebecca Blake and Uriah Blake Lemmon.
-- The Burial Sites book places James Lemmon at Tew Cemetery in Townsend Township, Sandusky County, Ohio (page 14), Section 25-17-5, Lat. 412203N Long. 0825125W, with date of death 7 May 1854 and inscription `JAMES LEMMON / DIED / May 7 1854 / Aged / 74 yrs.10M, 10d`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Tew+Cemetery+Townsend+Township+Sandusky+County+Ohio).
+- **Birth/Death:** Born 27 Jun 1779; died 7 May 1854 (age 74 years, 10 months, 10 days per burial record).
+- **Burial:** Tew Cemetery, Townsend Township, Sandusky County, Ohio; Section 25-17-5, Coordinates 412203N 0825125W; Burial Sites book, page 14.
+
+## Census Records and Household Context
+
+### 1850 Ohio Census — Sandusky County, Townsend Township
+- **Head:** `James Lemmon`, male, age 71, farmer, born Pennsylvania
+- **Spouse:** `Rebecca Lemmon`, female, age 71, born Pennsylvania
+- **Children in household:**
+  - `Mathew? Lemmon`, male, age 38, farmer, born New York
+  - `Sarah Lemmon`, female, age 21, born New York
+  - `Frank Lemmon`, male, age 1, born Ohio
+- **Boarder:** `Nathan Harkins`, male, age 12, born New York
+- **Related person:** `David Lemmon`, male, age 21, farmer, born New York
+- **Source:** Series M432, Roll 726, Page 476, R/F 1173/1198; GSU microfilm available
+
+## Family Connections
+
+- **Wife:** Rebecca Lemmon (b. Pennsylvania, age 71 in 1850)
+- **Children identified:** Mathew/Matthew, Sarah, Frank, David (possibly son; exact relationship unclear from census)
+- **Related to:** [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] (likely brother or father, appears in same township 1850-1860)
+- **Pedigree connection:** Linked to [[Topics/Lemmon Blake Thorpe Branch Summary|Blake family line]] via Rebecca; timeline shows him contemporaneous with [[People/Rebecca Blake|Rebecca Blake]] (1779-1855)
 
 ## Research Gaps
 
