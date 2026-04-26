@@ -40,6 +40,28 @@ tags:
 - **Pedigree significance:** Links the Blake surname to Lemmon family; appears on same timeline chart as [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] and [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]
 - **Burial location:** Same cemetery (Tew) as husband James Lemmon, adjacent plots in same section
 
+## Family Diagram
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
+graph TD
+  RB["Rebecca Blake<br/>1779-1855"]
+  JL["James Lemmon<br/>1779-1854"]
+  
+  MT["Matthew<br/>Farmer"]
+  SA["Sarah A.<br/>→ Monroe Thorpe"]
+  FL["Frank"]
+  DL["David<br/>Farmer"]
+  
+  RB --- JL
+  JL --> MT
+  JL --> SA
+  JL --> FL
+  JL --> DL
+```
+
+Rebecca Blake married James Lemmon and anchors the Blake-Lemmon connection; their daughter Sarah Annett carried the Lemmon line forward into the Thorpe branch.
+
 ## Research Gaps
 
 1. Confirm maiden-name linkage Blake-to-Lemmon from marriage/parish records.

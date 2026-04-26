@@ -48,6 +48,38 @@ tags:
 - **Son John M. Lemmon** became a lawyer in Ohio; his household included Uriah in 1870
 - Related to [[People/James Lemmon|James Lemmon]] (likely father or brother); pedigree timeline links to Rebecca Blake line
 
+## Family Diagram
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
+graph TD
+  UBL["Uriah Blake Lemmon<br/>1808-1887<br/>Master Farmer, Ohio"]
+  EA["Emily A. Lemmon<br/>First wife"]
+  SL["Sarah Lemmon<br/>Second wife, 1880"]
+  
+  WH["William H."]
+  JM["John M.<br/>Lawyer"]
+  SA["Sarah A.<br/>→ Thorpe line"]
+  RA["Rebecca A."]
+  CA["Cyrus A."]
+  MB["M. Burton"]
+  EE["Emily E."]
+  NL["Nathaniel"]
+  
+  UBL --> EA
+  UBL --> SL
+  UBL --> WH
+  UBL --> JM
+  UBL --> SA
+  UBL --> RA
+  UBL --> CA
+  UBL --> MB
+  UBL --> EE
+  UBL --> NL
+```
+
+Uriah Blake Lemmon was patriarch of the Ohio Lemmon line, with 8+ documented children across 1850-1880 censuses.
+
 ## Identity Note
 
 **Separate from [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]** (1878-1959, Iowa). These are different individuals:

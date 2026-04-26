@@ -83,25 +83,40 @@ tags:
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
-  HMR[Hattie May Risden<br/>1877-1967]
-  GS[George B. Spicer]
-  ED[Edith]
-  CH[Charles]
-  L[Lester]
-  C[Chester]
-  E[Edna]
-  M[Myron]
-
-  HMR --- GS
-  HMR --> ED
-  HMR --> CH
-  HMR --> L
-  HMR --> C
-  HMR --> E
-  HMR --> M
+  SAL["Sarah Annett Lemmon<br/>1841-1886<br/>Mother"]
+  HMR["Hattie May Risden<br/>1877-1967"]
+  
+  WR["Watson Risden<br/>~1880 marriage<br/>Cedar Rapids"]
+  GS["George B. Spicer<br/>~1900 marriage<br/>40-year partnership"]
+  
+  ME["Martha E. Risden<br/>Child with Risden"]
+  JE["James E. Risden<br/>Child with Risden"]
+  CW["Charles W. Risden<br/>Child with Risden"]
+  
+  ED["Edith<br/>with Spicer"]
+  CH["Charles S.<br/>with Spicer"]
+  G["George G.<br/>with Spicer"]
+  L["Lester H.<br/>with Spicer"]
+  C["Chester J.<br/>with Spicer"]
+  E["Edna<br/>with Spicer"]
+  M["Myron L.<br/>with Spicer"]
+  
+  SAL --> HMR
+  HMR --> WR
+  HMR --> GS
+  WR --> ME
+  WR --> JE
+  WR --> CW
+  GS --> ED
+  GS --> CH
+  GS --> G
+  GS --> L
+  GS --> C
+  GS --> E
+  GS --> M
 ```
 
-This is a simple family sketch based on the repeated census-summary household groupings.
+Hattie May bridges two marriages across Iowa household evolution: Watson Risden (Cedar Rapids 1880) and George B. Spicer (Clinton Township 1900-1940), with 7+ documented children and 50+ years of census household records.
 
 ## Research Gaps
 

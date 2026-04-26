@@ -64,6 +64,34 @@ tags:
 - **Lemmon branch:** Direct child of Uriah Blake Lemmon; carries Lemmon name forward as "Annett" to Thorpe line
 - **Pedigree connection:** [[Topics/Lemmon Blake Thorpe Branch Summary|Links the Lemmon and Thorpe family branches]] through marriage
 
+## Family Diagram
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
+graph TD
+  UBL["Uriah Blake Lemmon<br/>1808-1887<br/>Ohio farmer"]
+  SAL["Sarah Annett Lemmon<br/>1841-1886"]
+  MT["Monroe Thorpe<br/>~1828-?<br/>Farmer Ohio/Iowa"]
+  
+  EJ["Emily J. Thorpe"]
+  HT["Hattie Thorpe<br/>later Risden/Spicer"]
+  NT["Nettie Thorpe"]
+  CT["Clyde Thorpe"]
+  GT["Gertrude Thorpe"]
+  UBT["U.B. Thorpe"]
+  
+  UBL --> SAL
+  SAL --> MT
+  SAL --> EJ
+  SAL --> HT
+  SAL --> NT
+  SAL --> CT
+  SAL --> GT
+  SAL --> UBT
+```
+
+Sarah Annett bridges Lemmon family of Ohio with Thorpe family expansion into Iowa (1850s-1880s).
+
 ## Research Gaps
 
 1. Reconcile Lemmon-to-Thorp/Thorpe surname transition chronology.

@@ -33,10 +33,32 @@ tags:
 
 ## Family Connections
 
-- **Wife:** Rebecca Lemmon (b. Pennsylvania, age 71 in 1850)
+- **Wife:** [[People/Rebecca Blake|Rebecca Blake]] (b. Pennsylvania, age 71 in 1850)
 - **Children identified:** Mathew/Matthew, Sarah, Frank, David (possibly son; exact relationship unclear from census)
 - **Related to:** [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] (likely brother or father, appears in same township 1850-1860)
 - **Pedigree connection:** Linked to [[Topics/Lemmon Blake Thorpe Branch Summary|Blake family line]] via Rebecca; timeline shows him contemporaneous with [[People/Rebecca Blake|Rebecca Blake]] (1779-1855)
+
+## Family Diagram
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
+graph TD
+  JL["James Lemmon<br/>1779-1854<br/>Farmer, Pennsylvania"]
+  RB["Rebecca Blake<br/>1779-1855<br/>Pennsylvania"]
+  
+  MT["Matthew<br/>Age 38, farmer<br/>New York"]
+  SL["Sarah<br/>Age 21<br/>New York"]
+  FL["Frank<br/>Age 1<br/>Ohio"]
+  DL["David<br/>Age 21, farmer<br/>New York"]
+  
+  JL --> RB
+  JL --> MT
+  JL --> SL
+  JL --> FL
+  JL --> DL
+```
+
+1850 Sandusky County household: patriarch James Lemmon age 71 with wife Rebecca, spanning three generations of birth locations (Pennsylvania, New York, Ohio).
 
 ## Research Gaps
 
