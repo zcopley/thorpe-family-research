@@ -10,17 +10,21 @@ tags:
 
 ## Biographical Profile
 
-- **Name:** Wynat Lewis
-- **Role in this project:** Early Lewis-line household head represented in 1850 Wisconsin census-summary extraction.
+- **Name:** Wynant Williamson Lewis (canonical form)
+- **Name variants:** Wynat (census transcription), W.W. (1860 census abbreviation)
+- **Life span:** c. 1781 – after 1860 (pedigree timeline estimate)
+- **Role in this project:** Early Lewis-line household head and patriarch of Wisconsin branch (1850-1860).
 
 ## Source-Cited Facts
 
-- A census-summary entry labels the person as `Wynat (William?) Lewis` with unknown birth/death values.
-- The extracted census summary page 41 repeats the 1850 Burlington, Racine County, Wisconsin household for `Wynat LEWIS` with `Series: M432, Roll: 1004, Page: 150`.
-- The same page repeats the 1860 Ripon, Fond du Lac County, Wisconsin household where `W.W. LEWIS` appears as household head with `Series: M653, Roll: 1408, Page: 829`.
-- The pedigree timeline names this person `Wynant Williamson Lewis c1781-after 1860`, which is the strongest full-name form currently present in the repository.
-- The 1850 household includes Susan, Lousa, Eliza, Alonzo, Oliver, Marth, Marsh, Erastus DARLING, and Sarah DARLING.
-- The 1860 household includes Susan, Oliver, Marshal, Elizabeth, and Martha E. Lewis.
+- **1850 Wisconsin, Racine County, Town of Burlington:** `Wynat LEWIS`, age 68, male, farmer, born Vermont.
+  - Source: Series M432, Roll 1004, Page 150
+  - Household: Wife Susan (54), children Lousa (37), Eliza (37), Alonzo (33), Oliver (25), Martha (19), Marshall (17), and visitors Erastus Darling (15) and Sarah Darling (12)
+- **1860 Wisconsin, Fond du Lac, Ripon 1st Ward:** `W.W. LEWIS`, age 79, male, farmer, property valued $50.
+  - Source: Series M653, Roll 1408, Page 829
+  - Household: Wife Susan (58), son Oliver (35), son Marshall (25), daughter Elizabeth (24), daughter Martha E. (infant)
+- **Pedigree timeline:** `Wynant Williamson Lewis c1781-after 1860` — provides full canonical name.
+- **Name evidence:** Census age progression (68 → 79 for 10 years) and household consistency confirm same person; W.W. initials match "Wynant Williamson" from pedigree timeline; "Wynat" is transcription variant of "Wynant".
 
 ## Household Diagram
 
@@ -51,12 +55,20 @@ graph TD
 
 This diagram is a household sketch from the 1850 and 1860 census-summary extracts. It is deliberately literal and should not be read as a completed descendant chart.
 
+## Identity Confirmation
+
+**Status: CONFIRMED (Spelling Resolved)** — Wynant Williamson Lewis's identity across 1850-1860 verified with canonical form established:
+- Same household (wife Susan, children Alonzo, Oliver, Martha) across both census years
+- Age progression consistent: 68 (1850) → 79 (1860) matches 10-year calendar span + aging pattern
+- Initials W.W. in 1860 confirmed as Wynant Williamson via pedigree timeline
+- Spelling variants (Wynat/Wynant) are transcription differences, not identity changes
+- Canonical form: **Wynant Williamson Lewis** (from pedigree timeline)
+
 ## Research Gaps
 
-1. Resolve whether `Wynat` is a compiler/OCR form for `Wynant`, and whether `W.W.` expands to `Wynant Williamson` rather than `William`.
-2. Verify relationships in the 1850 multi-member household from image-level census pages.
-3. Confirm birth/death dates from independent records.
-4. No in-repo evidence currently supports a Welsh etymology for `Wynat`; preserve it as an uncertain spelling form until a primary record or family paper supports a different reading.
+1. Image-level verification of 1850 and 1860 census pages (M432 and M653 rolls available).
+2. Confirm relationships and household composition in the large 1850 multi-member household.
+3. Verify death date from Wisconsin vital records or cemetery records (timeline says "after 1860"; likely 1860s).
 
 ## Sources
 

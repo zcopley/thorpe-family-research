@@ -22,11 +22,21 @@ tags:
 - The Thorpe pedigree timeline includes `Uriah Blake Lemmon 1808-1887` on the same compiled branch chart that also shows Rebecca Blake and James Lemmon.
 - The Burial Sites book places Uriah Blake Lemmon at McPherson Cemetery in Clyde, Ohio (page 16), with date of death 15 Feb 1887 and inscription `LEMMON`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=McPherson+Cemetery+Clyde+Ohio).
 
+## Identity Note
+
+**Separate from [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]** (1878-1959, Iowa). These are different individuals:
+- Birth year difference: 70 years (1808 vs 1878)
+- Different locations: Ohio vs Iowa
+- Death dates: 1887 vs 1959
+- Different burial sites: McPherson Cemetery, Clyde vs Evergreen Cemetery, Grand Mound
+- Likely related through Blake family or Lemmon/Thorpe connection based on pedigree timeline grouping, but definitely different generations.
+
 ## Research Gaps
 
 1. Resolve Lemmon/Lemon spelling differences across decades.
 2. Validate apparent OCR ambiguity for sex markers in 1860 entries.
 3. Confirm the 1880 spouse identity against other Lemmon profile records.
+4. Clarify relationship to [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] via pedigree timeline or family records (possible uncle/nephew or cousin).
 
 ## Sources
 

@@ -35,6 +35,83 @@ pre {
   }
 }
 
+code.mermaid,
+#mermaid-container .mermaid-content {
+  svg {
+    .node rect,
+    .node circle,
+    .node ellipse,
+    .node polygon,
+    .node path,
+    .cluster rect {
+      fill: #f8fafc !important;
+      stroke: #374151 !important;
+    }
+
+    .nodeLabel,
+    .nodeLabel p,
+    .label,
+    .label p,
+    .label span {
+      color: #111827 !important;
+    }
+
+    text,
+    .label text,
+    .node text {
+      fill: #111827 !important;
+      color: #111827 !important;
+    }
+
+    .edgePath .path,
+    .flowchart-link {
+      stroke: #374151 !important;
+    }
+
+    marker path {
+      fill: #374151 !important;
+      stroke: #374151 !important;
+    }
+
+    .edgeLabel,
+    .edgeLabel p {
+      color: #111827 !important;
+      background-color: #ffffff !important;
+    }
+
+    .edgeLabel rect {
+      fill: #ffffff !important;
+      opacity: 1 !important;
+    }
+  }
+}
+
+:root[saved-theme="dark"] {
+  code.mermaid,
+  #mermaid-container .mermaid-content {
+    svg {
+      .node rect,
+      .node circle,
+      .node ellipse,
+      .node polygon,
+      .node path,
+      .cluster rect {
+        stroke: #94a3b8 !important;
+      }
+
+      .edgePath .path,
+      .flowchart-link {
+        stroke: #cbd5e1 !important;
+      }
+
+      marker path {
+        fill: #cbd5e1 !important;
+        stroke: #cbd5e1 !important;
+      }
+    }
+  }
+}
+
 #mermaid-container {
   position: fixed;
   contain: layout;

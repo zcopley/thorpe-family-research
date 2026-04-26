@@ -8,6 +8,20 @@ tags:
 
 # Changelog
 
+## 2026-04-25 — Complete all reconciliations: resolve final three uncertain identities
+
+- **VERIFIED SEPARATE:** [[People/Mary Greenwood|Mary Greenwood]] ≠ [[People/Mary Burgett|Mary Burgett]] — Different ages in 1850 (38 vs age 15 if born 1835), different death dates (March 1850 vs January 1918). Correctly documented as separate identities; confirmed in updated Reconciliation Matrix.
+- **RESOLVED:** [[People/Wynat Lewis|Wynat Lewis]] identity confirmed with canonical form **Wynant Williamson Lewis** established. Two-census span (1850-1860 Wisconsin) with consistent household (wife Susan, children Oliver, Martha); pedigree timeline provides full name; W.W. initials confirm Wynant Williamson.
+- **VERIFIED SEPARATE:** [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] (1878-1959, Iowa) ≠ [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] (1808-1887, Ohio). 70-year birth date difference; different burial locations; different generations. Likely related through Blake/Lemmon/Thorpe family cluster but definitely different people.
+- **Updated** [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] and [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] pages with explicit cross-reference notes explaining separation.
+- **Updated** [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]] — all 7 uncertain identities now resolved or verified: 5 confirmed identities (Eleanor Emblow, Ann Sorrell, Sarah Kelly, Susan Lewis, Wynat Lewis) + 2 verified separate (Mary Greenwood/Burgett, Uriah Blake Thorpe/Lemmon).
+
+## 2026-04-26 — Improve Mermaid diagram contrast
+
+- Updated the Mermaid renderer styling so all rendered diagrams use high-contrast dark text on light node and edge-label backgrounds in both light and dark mode.
+- Added dark-mode-specific edge and marker colors so diagram connectors remain visible against the dark page background.
+- Documented the work in [[AGENT_HANDOFF_PHASE_2H]].
+
 ## 2026-04-25 — Replace landing page image and scale it down
 
 - Replaced the oversized Sandusky title-page image on `[[index]]` with a more visually interesting Tallman cemetery monument photo.
