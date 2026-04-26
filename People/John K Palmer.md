@@ -57,26 +57,16 @@ tags:
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
-  JKP["John K. Palmer<br/>1821-1906<br/>Farmer, Pennsylvania born"]
+  JKP["John K. Palmer<br/>1821-1906<br/>Farmer → Day Laborer"]
   JP["Jane Palmer<br/>1824-?<br/>Pennsylvania"]
   
-  MP["Mary<br/>b. ~1845"]
-  EP["Elizabeth<br/>b. ~1846"]
-  WHP["William H.<br/>1851-1927<br/>→ Minnesota"]
-  EM["Emily<br/>b. ~1853"]
-  RP["Rosella<br/>b. ~1864"]
-  PP["Peter<br/>b. ~1866"]
+  WHP["William H.<br/>1851-1927<br/>→ Minnesota/Iowa"]
   
   JKP --- JP
-  JKP --> MP
-  JKP --> EP
   JKP --> WHP
-  JKP --> EM
-  JKP --> RP
-  JKP --> PP
 ```
 
-John K. Palmer represents the Wisconsin phase of the Palmer line, with occupation progression from farmer to day laborer in advanced age.
+John K. Palmer was the patriarch of the Wisconsin Palmer line (1821-1906), father of William Henry Palmer whose line extended into Minnesota and Iowa.
 
 ## Research Gaps
 
