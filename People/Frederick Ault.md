@@ -15,16 +15,34 @@ tags:
 
 ## Source-Cited Facts
 
-- A census-summary entry gives Frederick Ault as born 8 Mar 1795 and died about 1857.
-- The 1850 Salisbury Township, Meigs County, Ohio extract lists Frederick Ault as male, age 55, occupation carpenter, born Pennsylvania.
-- The same 1850 household includes Mary Ault and children including Elizabeth Ault.
-- The Burial Sites book index lists Frederick Ault as `1795-1857`, but no dedicated cemetery page was found in the extracted text.
+- **Birth/Death:** Born 8 Mar 1795; died about 1857 (age ~62).
+- **Occupation:** Carpenter
+- **Birthplace:** Pennsylvania
+
+## Census Records and Household Context
+
+### 1850 Ohio Census — Meigs County, Salisbury Township, District No. 98
+- **Head:** `Frederick AULT`, male, age 55, occupation carpenter, born Pennsylvania
+- **Spouse:** `Mary AULT`, female, age 48, born Massachusetts
+- **Children:**
+  - `Charles B. AULT`, male, age 24, born Ohio
+  - `Mehitable AULT`, female, age 14, born Ohio
+  - `Elizabeth AULT`, female, age 8, born Ohio (later [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]])
+- **Source:** Series M432, Roll 710, Page 175; GSU microfilm available
+
+## Family Connections
+
+- **Wife:** Mary Ault (b. ~1802 Massachusetts)
+- **Children identified:** Charles B., Mehitable, Elizabeth (later Plomey)
+- **Occupation:** Carpenter (skilled tradesman in Ohio)
+- **Pedigree significance:** Father of [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]], who married [[People/Miller Mathias Tallman|Miller Mathias Tallman]] and migrated to Iowa
 
 ## Research Gaps
 
-1. Confirm that the indexed death estimate `c.1857` is supported by independent records.
-2. Reconcile birthplace and household relationships with original census images.
-3. Extend profile with pre-1850 and post-1850 record coverage.
+1. Confirm death date and location from independent cemetery records.
+2. Validate household relationships from original census images.
+3. Determine relationship to [[People/Andrew Ault|Andrew Ault]] (same township, 1850).
+4. Extend profile with pre-1850 and post-1850 record coverage.
 
 ## Sources
 

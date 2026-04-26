@@ -15,17 +15,78 @@ tags:
 
 ## Source-Cited Facts
 
-- A census-summary entry gives Miller Mathias Tallman as born 14 Apr 1841 and died 8 Apr 1921.
-- The 1880 Afton Township, Cherokee County, Iowa extract lists Miller M. Tallman as head, married, age 39, occupation farmer, born Ohio.
-- The 1900 Sioux City, Woodbury County, Iowa extract lists Miller M. Tallman as head, birth month/year Apr 1841, occupation teamster.
-- The 1910 and 1920 Iowa Soldiers' Home extracts in Marshall County list Miller M. Tallman as head/member with wife Elizabeth P. Tallman.
-- The Burial Sites book places Miller Mathias Tallman at Iowa Veterans’ Home Cemetery in Marshalltown, Iowa (page 38), South Section, Row 12, Grave 4, with date of death 8 April 1921. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Iowa+Veterans+Home+Cemetery+Marshalltown+IA).
+- **Birth/Death:** Born 14 Apr 1841; died 8 Apr 1921 (age 79 years, 11 months, 25 days).
+- **Birthplace:** Ohio
+- **Occupations:** Farmer (1880), teamster (1900)
+- **Military Service:** Iowa Soldiers’ Home resident (1910-1920), suggesting Union veteran status
+- **Burial:** Iowa Veterans’ Home Cemetery, Marshalltown, Iowa; South Section, Row 12, Grave 4
+
+## Census Records and Life Progression
+
+### 1880 Iowa Census — Cherokee County, Afton Township (as farmer)
+- **Head:** `Miller M. TALLMAN`, male, married, age 39, occupation farmer, born Ohio
+- **Wife:** `Elizabeth TALLMAN` (née Ault), married, age 30, born Ohio, occupation keeping house
+- **Children:**
+  - `Willis G. TALLMAN`, male, single, age 6, born Iowa
+  - `Lena TALLMAN`, female, single, age 1, born Iowa
+- **Household also includes:**
+  - `Elbert WINN`, male, single, age 17, born Iowa
+  - `Mary AULT` (Elizabeth’s mother), female, widow, age 73, born Maine, occupation aged
+  - `Andrew RICHEY`, male, single, age 24, born Illinois, occupation farm laborer
+- **Source:** Fam Hist Lib Film 1254332, Page 52D; GSU microfilm available
+
+### 1900 Iowa Census — Woodbury County, Sioux City, p. 231R, Filmore Avenue (as teamster)
+- **Head:** `Miller M. TALLMAN`, male, race White, birthdate Apr 1841, age 58, occupation teamster
+- **Wife:** `Elizabeth P. TALLMAN` (née Ault), race White, birthdate Oct 1841, age 58
+- **Child:**
+  - `Lena P. TALLMAN`, female, race White, birthdate Feb 1879, age 21
+- **Note:** Household in Sioux City; occupation changed from farmer to teamster (urban/transport labor)
+- **Source:** Series T623, Roll 467, Page 231B; GSU microfilm available
+
+### 1910 Iowa Census — Marshall County, Linn Township, Iowa Soldiers’ Home
+- **Head:** `Miller M. TALLMAN`, male, race White, age 69, occupation none
+- **Wife:** `Elizabeth P. TALLMAN`, female, race White, age 68
+- **Note:** Residing at Iowa Soldiers’ Home; both listed as members
+- **Source:** Series T624, Roll 441, Page 72; GSU microfilm available
+
+### 1920 Iowa Census — Marshall County, Iowa Soldiers’ Home
+- **Head:** `Miller M. TALLMAN`, male, race White, age 78, occupation none, member of Soldiers’ Home
+- **Wife:** `Elizabeth TALLMAN`, female, race White, age 78, member of Soldiers’ Home
+- **Note:** Continued residence at Iowa Soldiers’ Home; married couple both identified as members
+- **Source:** Series T625, Roll 502, Pages 5B, ED 155; GSU microfilm available
+
+## Family Connections
+
+- **Wife:** [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]] (1841-1926), married c. 1880
+- **Children identified:** Willis G. Tallman (b. ~1874), Lena/Lena P. Tallman (b. 1879)
+- **Mother-in-law:** Mary Ault (b. ~1802), living with household in 1880
+- **Pedigree connection:** Married into [[People/Frederick Ault|Frederick Ault]]’s family; likely Union veteran based on Iowa Soldiers’ Home residence
+
+## Family Diagram
+
+```mermaid
+%%{init: {‘flowchart’: {‘htmlLabels’: true}, ‘theme’: ‘default’, ‘themeVariables’: {‘primaryTextColor’: ‘#000000’, ‘primaryBorderColor’: ‘#333333’, ‘lineColor’: ‘#333333’, ‘fontSize’: ‘14px’}}}%%
+graph TD
+  MMT["Miller Mathias Tallman<br/>1841-1921<br/>Farmer → Teamster → Veteran"]
+  EPA["Elizabeth Plomey Ault<br/>1841-1926"]
+  
+  WG["Willis G. Tallman<br/>b. ~1874"]
+  LT["Lena P. Tallman<br/>1879-?"]
+  
+  MMT --- EPA
+  MMT --> WG
+  MMT --> LT
+```
+
+Miller Mathias’s census progression shows transition from rural farming (1880) to urban teamster work (1900) to veteran facility residence (1910-1920).
 
 ## Research Gaps
 
-1. Confirm whether birthplace fields reported as Ohio/Ohio/Ohio in later entries represent corrected data or table normalization.
-2. Add military-service evidence for the Iowa Soldiers' Home placement.
-3. Validate all household links and ages from page images.
+1. Confirm Union military service record and identify regiment/unit.
+2. Locate Willis G. Tallman in later records (1880 shows age 6, implying birth ~1874).
+3. Trace Lena P. Tallman after 1900; identify marriage and descendants.
+4. Clarify relationship of Elbert Winn and Andrew Richey to the household in 1880.
+5. Determine exact reason for Iowa Soldiers’ Home admission (age, health, pension status).
 
 ## Sources
 
