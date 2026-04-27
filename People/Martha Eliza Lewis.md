@@ -10,27 +10,102 @@ tags:
 
 ## Biographical Profile
 
-- **Name:** Martha Eliza Lewis
-- **Role in this project:** Lewis-to-Prior branch ancestor represented in 1860-1920 census-summary sequences.
+- **Name:** Martha Eliza Lewis (later Martha Eliza Prior)
+- **Role in this project:** Lewis-to-Prior branch matriarch spanning Wisconsin (1860 childhood) to Minnesota/South Dakota (1900-1920) with documented multi-child household progression.
 
 ## Source-Cited Facts
 
-- A census-summary entry gives Martha Eliza Lewis as born 15 Dec 1859 and died 8 Dec 1923.
-- The 1860 Ripon 1st Ward, Fond du Lac, Wisconsin household includes infant Martha E. Lewis.
-- The 1900 Grand Meadows Township, Mower County, Minnesota table lists Martha Prior as wife of Arthur Prior.
-- The 1910 Brown County, South Dakota and 1920 Pine County, Minnesota entries continue Arthur and Martha Prior households.
-- The Prior pedigree timeline places `Martha Eliza Lewis` (1859-1923) in the Prior branch as the spouse of `Arthur Edwin Prior`.
-- The Burial Sites book places Martha Eliza Lewis at Brook Park Cemetery south of Brook Park, Minnesota (page 17), with inscription `PRIOR / MARTHA E. / DEC. 15, 1859 / DEC. 8. 1923` and date of death 8 Dec 1923. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Brook+Park+Cemetery+Brook+Park+Minnesota).
+- **Birth/Death:** Born 15 Dec 1859; died 8 Dec 1923 (age 63 years, 11 months, 23 days).
+- **Maiden surname:** Lewis; married name: Prior (married [[People/Arthur Prior|Arthur Edwin Prior]] c. 1900)
+- **Burial:** Brook Park Cemetery, Brook Park, Minnesota; inscription `PRIOR / MARTHA E. / DEC. 15, 1859 / DEC. 8. 1923`
+
+## Census Records and Life Progression
+
+### 1860 Wisconsin Census — Fond du Lac County, Ripon 1st Ward (as child)
+- **Head:** `W.W. LEWIS`, male, age 79, occupation farmer, born Massachusetts, property $50
+- **Susan LEWIS** (wife), female, age 58, born New York
+- **Oliver LEWIS** (son), male, age 35, born Vermont
+- **Elizabeth LEWIS**, female, age 25, born New York
+- **Martha E. LEWIS** (daughter), female, age 7/12 (infant), born Wisconsin
+- **Source:** Series M653, Roll 1408, Page 829; GSU microfilm available
+
+### 1900 Minnesota Census — Mower County, Grand Meadows Township (as wife)
+- **Head:** `Arthur PRIOR`, male, race White, birthdate July 1853, age 46, born Michigan, occupation farmer
+- **Martha PRIOR** (wife), female, race White, birthdate Dec 1859, age 40, born Wisconsin
+- **Children:**
+  - `Oliver W PRIOR`, male, race White, birthdate Mar 1880, age 20, born Minnesota, occupation farm laborer
+  - `George W PRIOR`, male, race White, birthdate Aug 1883, age 16, born Minnesota, occupation farm laborer
+  - `Lewis H PRIOR`, male, race White, birthdate Aug 1888, age 11, born Minnesota, occupation at school
+  - `Viva P PRIOR`, female, race White, birthdate Nov 1895, age 4, born Minnesota
+  - `Lora P PRIOR`, female, race White, birthdate Aug 1897, age 2, born Missouri
+- **Source:** Series T623, Roll 777, Page 180A; GSU microfilm available
+
+### 1910 South Dakota Census — Brown County, Hanson Township
+- **Head:** `Arthur PRIOR`, male, race White, age 56, occupation laborer, birthplace Michigan
+- **Martha PRIOR** (wife), female, race White, age 50, occupation none
+- **Children:**
+  - `Lora PRIOR`, female, race White, age 11
+  - `Arthur PRIOR` (son), male, race White, age 7
+  - `Lewis PRIOR` (son), male, race White, age 22, occupation laborer
+  - `Agnes PRIOR`, female, race White, age 21, occupation none
+- **Source:** Series T624, Roll 392, Page 15B; GSU microfilm available
+
+### 1920 Minnesota Census — Pine County, Pokegama Township
+- **Head:** `Arthur E. PRIOR`, male, race White, age 66, occupation farming
+- **Martha E. PRIOR** (wife), female, race White, age 60, occupation house keeping
+- **Child:**
+  - `Arthur E. PRIOR Jr`, male, race White, age 16, occupation none
+- **Source:** Series T625, Roll 849, Pages 15A, ED 76; GSU microfilm available
+
+## Family Connections
+
+- **Father:** [[People/Oliver Warren Lewis|Oliver Warren Lewis]] (1823-1892), Vermont farmer
+- **Mother:** Martha Lewis (b. ~1801)
+- **Husband:** [[People/Arthur Prior|Arthur Edwin Prior]] (b. 1853 Michigan), farmer/laborer
+- **Children identified:** Oliver W., George W., Lewis H., Viva P., Lora P., Agnes, Arthur Jr. (7+ children across 40+ years)
+- **Pedigree significance:** Represents Lewis family extension into Minnesota/South Dakota through Prior marriage; agricultural worker family
+
+## Family Diagram
+
+```mermaid
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
+graph TD
+  OWL["Oliver Warren Lewis<br/>1823-1892<br/>Vermont Farmer"]
+  MEL["Martha Eliza Lewis<br/>1859-1923<br/>Wisconsin child→Minnesota farmer's wife"]
+  AP["Arthur Edwin Prior<br/>1853-?<br/>Farmer/Laborer"]
+  
+  OW["Oliver W.<br/>b. 1880"]
+  GW["George W.<br/>b. 1883"]
+  LH["Lewis H.<br/>b. 1888"]
+  VP["Viva P.<br/>b. 1895"]
+  LP["Lora P.<br/>b. 1897"]
+  AG["Agnes<br/>b. ~1889"]
+  AJ["Arthur Jr.<br/>b. ~1904"]
+  
+  OWL --> MEL
+  MEL --- AP
+  AP --> OW
+  AP --> GW
+  AP --> LH
+  AP --> VP
+  AP --> LP
+  AP --> AG
+  AP --> AJ
+```
+
+Martha Eliza Lewis's life arc spans Wisconsin farm childhood (1860) through Minnesota agricultural partnership (1900) to South Dakota labor settlement (1910) and back to Minnesota in later years (1920).
 
 ## Research Gaps
 
-1. Validate all county/township labels and birth-place columns from image-level census pages.
-2. Resolve minor OCR uncertainty in 1910 table fields.
-3. Confirm marriage linkage between Martha Lewis and Arthur Prior from civil records.
+1. Locate Oliver Warren Lewis (father) in additional census records to establish full Lewis family lineage.
+2. Verify Arthur Prior's parentage and occupational transitions (farmer → laborer).
+3. Trace all children's adult lives in later records, especially sons Oliver W. and George W.
+4. Clarify South Dakota relocation in 1910 (economic or family reasons).
+5. Confirm return to Minnesota by 1920 and later life settlement.
 
 ## Sources
 
-1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
+1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p37-p48|Shared Intake 2026-04-22 Census Summary Individuals p37-p48]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
 3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 4. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
