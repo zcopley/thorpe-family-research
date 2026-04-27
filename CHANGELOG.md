@@ -8,6 +8,21 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Add guided branch-based visitor experience
+
+- Reworked the public landing page `[[index]]` so family visitors can start with branch stories instead of raw indexes.
+- Refreshed [[Home]] as a secondary orientation page that points back to the public landing page and the main research tools.
+- Upgraded [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon, Blake, and Thorpe Branch Summary]] as the core Thorpe-connected branch hub.
+- Created new visitor branch hubs for [[Topics/Spicer Risden Branch Summary|Spicer and Risden]], [[Topics/Palmer Prior Lewis Branch Summary|Palmer, Prior, and Lewis]], and [[Topics/Ault Tallman Branch Summary|Ault and Tallman]].
+- Updated [[Search Index]] with the new branch hubs and [[References/Book Outprints Collection|Book Outprints Collection]].
+- Added [[AGENT_HANDOFF_PHASE_2I]] for this visitor-experience pass.
+
+## 2026-04-26 — Family cluster enrichment continuity note
+
+- Local commits ahead of `origin/main` enriched the [[People/Hattie May Risden|Hattie May Risden]], [[People/James Lemmon|James Lemmon]], [[People/Rebecca Blake|Rebecca Blake]], [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]], and [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] pages with Mermaid diagrams.
+- Enriched Spicer, Ault-Tallman, Palmer, Lewis, and Tallman/Romancy pages with census household context and diagrams, including [[People/George B Spicer|George B. Spicer]], [[People/Charles Russell Spicer|Charles Russell Spicer]], [[People/Nathan Spicer|Nathan Spicer]], [[People/Lester Harold Spicer|Lester Harold Spicer]], [[People/Andrew Ault|Andrew Ault]], [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]], [[People/Frederick Ault|Frederick Ault]], [[People/Miller Mathias Tallman|Miller Mathias Tallman]], [[People/John K Palmer|John K Palmer]], [[People/May Aleen Palmer|May Aleen Palmer]], [[People/William Henry Palmer|William Henry Palmer]], [[People/Martha Eliza Lewis|Martha Eliza Lewis]], [[People/Oliver Warren Lewis|Oliver Warren Lewis]], [[People/Benjamin B Tallman|Benjamin B Tallman]], and [[People/Romancy Miller|Romancy Miller]].
+- This continuity note records the already-committed local content work so the public branch hubs can rely on the current enriched page state.
+
 ## 2026-04-25 — Complete all reconciliations: resolve final three uncertain identities
 
 - **VERIFIED SEPARATE:** [[People/Mary Greenwood|Mary Greenwood]] ≠ [[People/Mary Burgett|Mary Burgett]] — Different ages in 1850 (38 vs age 15 if born 1835), different death dates (March 1850 vs January 1918). Correctly documented as separate identities; confirmed in updated Reconciliation Matrix.

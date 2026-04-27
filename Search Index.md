@@ -123,6 +123,9 @@ tags:
 
 ## Topics
 - [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon Blake Thorpe Branch Summary]]
+- [[Topics/Spicer Risden Branch Summary|Spicer Risden Branch Summary]]
+- [[Topics/Palmer Prior Lewis Branch Summary|Palmer Prior Lewis Branch Summary]]
+- [[Topics/Ault Tallman Branch Summary|Ault Tallman Branch Summary]]
 - [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]]
 - [[Topics/Spelling and Identity Reconciliations|Spelling and Identity Reconciliations]]
 - [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]]
@@ -130,3 +133,4 @@ tags:
 ## References
 - [[References/Butch Thorpe Email|Butch Thorpe Email]]
 - [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Shared Intake 2026-04-24 Census InDesign Summaries]]
+- [[References/Book Outprints Collection|Book Outprints Collection]]
