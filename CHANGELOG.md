@@ -8,6 +8,41 @@ tags:
 
 # Changelog
 
+## 2026-04-28 — Finish name reconciliation cleanup after census-ingest placeholder removal
+
+- Restored and normalized person pages that were removed or malformed during the prior census-ingest cleanup:
+  - [[People/Hannah Waller|Hannah Waller]]
+  - [[People/Jane Wager|Jane Wager]]
+  - [[People/Jane Willson|Jane Willson]]
+  - [[People/John Tallman|John Tallman]]
+  - [[People/John Whitfield|John Whitfield]]
+  - [[People/Joseph Thorogood|Joseph Thorogood]]
+  - [[People/Mary Van Horn|Mary Van Horn]]
+  - [[People/Mary Whitfield|Mary Whitfield]]
+- Updated [[People Directory|People Directory]] so it again lists all 111 actual person pages with no missing or broken person links.
+- Confirmed [[Search Index|Search Index]] already matches the restored 111-person page set.
+- Repaired stale name links in [[Topics/Ireland, Rowland, Willson, Wager, and Waller Families Branch Summary|Ireland, Rowland, Willson, Wager, and Waller Families Branch Summary]], [[Topics/McIntyre, Merrill, Caswell, and Allied Families Branch Summary|McIntyre, Merrill, Caswell, and Allied Families Branch Summary]], [[People/Martha Eliza Lewis|Martha Eliza Lewis]], and [[People/May Aleen Palmer|May Aleen Palmer]].
+- Preserved source provenance by citing processed census files and existing 2026-04-22 intake summaries; unresolved people without one-to-one existing pages remain as research backlog rather than inferred profiles.
+
+## 2026-04-27 — Create migration narrative pages showing family settlement journeys
+
+- **Created 2 migration narrative pages** documenting multi-generational family settlement arcs across three states:
+  - [[Topics/Lewis Family Vermont to Minnesota Settlement Arc|Lewis Family Vermont to Minnesota Settlement Arc]] — 140-year multi-generational journey documenting Wynat Lewis patriarch Vermont origins (1782–1850s, 68+ years), Wisconsin intermediate settlement (Racine County 1850, Fond du Lac County 1860, 30 years), Minnesota consolidation (Mower County 1880–1923, 43 years); three-generation continuity (Wynat → Oliver Warren → Martha Eliza Lewis) showing successful frontier settlement pattern, farming occupational continuity across regions, and family economic advancement through agricultural land acquisition
+  - [[Topics/Spicer Family Iowa Agricultural Expansion Arc|Spicer Family Iowa Agricultural Expansion Arc]] — 80+ year multi-generational farming dynasty (Nathan Spicer c.1796–1873 founding through Lester Harold Spicer 1906–1974 continuation) spanning 178 years; four-generation consolidation in Iowa (Iowa County 1850s) through Linn County agricultural heartland (1880–1900); documented Charles Russell Spicer occupational volatility (Farmer→Chair maker→Farm laborer→Farmer 1850–1880) and George B. Spicer agricultural advancement (farm laborer→farmer 1880–1900)
+- **Each page includes:**
+  - Comprehensive multi-generational narrative across 2–4 generations
+  - Detailed census household snapshots with economic and occupational analysis
+  - Mermaid diagrams showing family structure and intergenerational relationships
+  - Geographic progression mapping (state/county transitions, settlement type shifts)
+  - Occupational continuity and economic advancement narratives
+  - Settlement timeline tables with key individuals and locations
+  - Research applications for genealogists, economic historians, migration historians, social historians
+  - Explicit documentation of research gaps and future investigation directions
+  - Cross-references to county geographic pages, family branch summaries, and individual person pages
+- **Coverage:** Lewis family Vermont 1782 → Wisconsin 1850–1880 → Minnesota/South Dakota 1880–1923 (140-year span); Spicer family Iowa County 1850s → Linn County 1880–1974 (80+ year span)
+- **Narrative integration:** Lewis arc completes Vermont→Wisconsin→Minnesota settlement progression documented across Racine County (1850 entry), Fond du Lac County (1860 continuation), Mower County Minnesota (1880 final settlement) geographic pages; Spicer arc consolidates Iowa settlement progression documented across Iowa County and Linn County geographic pages
+- **Build verified:** 220 input files, 770 output files.
+
 ## 2026-04-27 — Create Wisconsin county pages completing Lewis family migration arc
 
 - **Created 2 Wisconsin county reference pages** documenting Lewis family intermediate Wisconsin settlement before Minnesota:

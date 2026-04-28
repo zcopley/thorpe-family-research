@@ -20,7 +20,7 @@ tags:
 ## Key Ancestor Lines
 
 - [[People/Major McIntyre|Major McIntyre]] (1789–1842)
-- [[People/Mc Intyre Emily|Emily McIntyre]] (1816–1860)
+- [[People/Emily McIntyre|Emily McIntyre]] (1816–1860)
 - [[People/Susan Merrill|Susan Merrill]] (b. c.1817)
 - [[People/Angeline Caswell|Angeline Caswell]] (b. c.1818)
 - [[People/Amy Critton|Amy Critton]] (b. c.1820)
@@ -60,4 +60,3 @@ This family cluster is documented in:
 - Visit [[People Directory]] to find individual family members
 - Check [[Search Index]] for location, occupation, or date searches
 - Review [[CHANGELOG]] for ongoing research notes and updates
-

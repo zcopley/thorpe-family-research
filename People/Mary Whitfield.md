@@ -1,22 +1,22 @@
 ---
-title: :+,7),
+title: Mary Whitfield
 date: 2026-04-27
 tags:
   - "#thorpe-family"
   - "#person"
 ---
 
-# :+,7),
+# Mary Whitfield
 
 ## Biographical Profile
 
-- **Name:** :+,7),
+- **Name:** Mary Whitfield
 - **Role in this project:** Individual indexed in Census InDesign summary (2026-04-24 intake).
 
 ## Source-Cited Facts
 
-- Birth/death dates and detailed census records are available in census summaries.
-- **Dates:** (see census summary)
+- The census-summary header gives Mary Whitfield as born about 1819 and died 22 Mar 1918.
+- The census summaries trace Mary from an 1841 Little Bytham, Lincolnshire female-servant entry through later Bellamy household entries in Bourne.
 
 ## Census Records
 
@@ -30,7 +30,7 @@ Detailed census household data is available in the source file below.
 ## Sources
 
 1. [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Shared Intake 2026-04-24 Census InDesign Summaries]]
-2. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-WhitfieldMary p1.txt`
+2. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-WhitfieldMary p1.txt`
 
 
-1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-WhitfieldMary p2.txt`
+1. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-WhitfieldMary p2.txt`

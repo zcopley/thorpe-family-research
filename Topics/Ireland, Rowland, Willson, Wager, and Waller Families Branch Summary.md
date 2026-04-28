@@ -19,11 +19,11 @@ tags:
 
 ## Key Ancestor Lines
 
-- [[People/Ireland Eleanor|Eleanor Ireland]] (b. c.1824)
+- [[People/Eleanor Emblow|Eleanor Ireland / Eleanor Emblow]] (variant consolidated under Eleanor Emblow)
 - [[People/Jesse Rowland|Jesse Rowland]] (b. c.1818)
-- [[People/Rowland Nancy W|Nancy West Rowland]] (b. c.1814)
-- [[People/Jane Wager|Jane Wager]] (b. c.1808)
-- [[People/Waller Hannah|Hannah Waller]] (b. c.1806)
+- [[People/Nancy West Rowland|Nancy West Rowland]] (b. 10 Jan 1851)
+- [[People/Jane Wager|Jane Wager]] (b. c. Nov 1798)
+- [[People/Hannah Waller|Hannah Waller]] (b. c.1767)
 
 ## Family Structure
 
@@ -33,8 +33,8 @@ graph TD
     EI["Eleanor Ireland<br/>b. c.1824"]
     JR["Jesse Rowland<br/>b. c.1818"]
     NR["Nancy West Rowland<br/>b. c.1814"]
-    JW["Jane Wager<br/>b. c.1808"]
-    HW["Hannah Waller<br/>b. c.1806"]
+    JW["Jane Wager<br/>b. c. Nov 1798"]
+    HW["Hannah Waller<br/>b. c.1767"]
     
     JR --> NR
     EI -.Frontier network.- JR
@@ -59,4 +59,3 @@ This family cluster is documented in:
 - Visit [[People Directory]] to find individual family members
 - Check [[Search Index]] for location, occupation, or date searches
 - Review [[CHANGELOG]] for ongoing research notes and updates
-

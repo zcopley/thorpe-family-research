@@ -142,6 +142,10 @@ tags:
 - [[Topics/Occupational Context and Economic Patterns|Occupational Context and Economic Patterns]]
 - [[Topics/American Settlement and Migration Timeline|American Settlement and Migration Timeline]]
 
+### Migration Narrative Guides
+- [[Topics/Lewis Family Vermont to Minnesota Settlement Arc|Lewis Family Vermont to Minnesota Settlement Arc]]
+- [[Topics/Spicer Family Iowa Agricultural Expansion Arc|Spicer Family Iowa Agricultural Expansion Arc]]
+
 ### County and Parish Geographic Guides
 - [[Topics/Sandusky County Ohio - Lemmon Ault Settlement|Sandusky County, Ohio — Lemmon and Ault Settlement Center]]
 - [[Topics/Linn County Iowa - Spicer Risden Settlement|Linn County, Iowa — Spicer and Risden Settlement Center]]

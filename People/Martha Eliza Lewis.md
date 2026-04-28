@@ -16,7 +16,7 @@ tags:
 ## Source-Cited Facts
 
 - **Birth/Death:** Born 15 Dec 1859; died 8 Dec 1923 (age 63 years, 11 months, 23 days).
-- **Maiden surname:** Lewis; married name: Prior (married [[People/Arthur Prior|Arthur Edwin Prior]] c. 1900)
+- **Maiden surname:** Lewis; married name: Prior (married [[People/Arthur Edwin Prior|Arthur Edwin Prior]] c. 1900)
 - **Burial:** Brook Park Cemetery, Brook Park, Minnesota; inscription `PRIOR / MARTHA E. / DEC. 15, 1859 / DEC. 8. 1923`
 
 ## Census Records and Life Progression
@@ -61,7 +61,7 @@ tags:
 
 - **Father:** [[People/Oliver Warren Lewis|Oliver Warren Lewis]] (1823-1892), Vermont farmer
 - **Mother:** Martha Lewis (b. ~1801)
-- **Husband:** [[People/Arthur Prior|Arthur Edwin Prior]] (b. 1853 Michigan), farmer/laborer
+- **Husband:** [[People/Arthur Edwin Prior|Arthur Edwin Prior]] (b. 1853 Michigan), farmer/laborer
 - **Children identified:** Oliver W., George W., Lewis H., Viva P., Lora P., Agnes, Arthur Jr. (7+ children across 40+ years)
 - **Pedigree significance:** Represents Lewis family extension into Minnesota/South Dakota through Prior marriage; agricultural worker family
 

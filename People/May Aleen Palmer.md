@@ -16,7 +16,7 @@ tags:
 ## Source-Cited Facts
 
 - **Birth/Death:** Born 1 May 1886; died 21 May 1979 (age 93 years, 20 days).
-- **Maiden surname:** Palmer; married name: Prior (married [[People/Oliver Prior|Oliver Prior]] c. 1910)
+- **Maiden surname:** Palmer; married name: Prior (married [[People/Oliver Warren Prior|Oliver Prior]] c. 1910)
 - **Burial:** Cedar Memorial Cemetery, Cedar Rapids, Iowa; 110 Lakeview, Space 5; GPS 42°1’25.1”N 91°37’47.2”W; inscription `OUR MOM / MAY A. PRIOR / MAY 1, 1886 / MAY 21, 1979`
 
 ## Census Records and Life Progression
@@ -74,7 +74,7 @@ tags:
 
 - **Father:** [[People/William Henry Palmer|William Henry Palmer]] (1851-1927), Minnesota farmer
 - **Grandfather:** [[People/John K Palmer|John K Palmer]] (1821-1906), Wisconsin farmer
-- **Husband:** [[People/Oliver Prior|Oliver Prior]] (married c. 1910), foundry moulder
+- **Husband:** [[People/Oliver Warren Prior|Oliver Prior]] (married c. 1910), foundry moulder
 - **Children identified:** Martha E., Everett, Viola, Ruby, Ronald, Vergil, Maxine, La Verne, Oliver Jr., Clint (10+ children/stepchildren across three decades)
 - **Pedigree significance:** Represents Palmer-Prior marriage alliance and family expansion into Iowa industrial economy; bridge between Wisconsin farming (grandfather/father) and Iowa foundry/industrial labor (husband and children)
 
