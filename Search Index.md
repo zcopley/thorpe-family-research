@@ -153,6 +153,8 @@ tags:
 ### Occupational Profile Guides
 - [[Topics/Farmer Occupation Profile|Farmer Occupation Profile]]
 - [[Topics/Miller Occupation Profile|Miller Occupation Profile]]
+- [[Topics/Farm Laborer Occupation Profile|Farm Laborer Occupation Profile]]
+- [[Topics/Household Management and Domestic Service Occupation Profile|Household Management and Domestic Service Occupation Profile]]
 
 ### Research & Reconciliation
 - [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]]

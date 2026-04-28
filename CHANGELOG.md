@@ -8,6 +8,23 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Expand occupational profiles to secondary categories (Farm Laborer and Household Management)
+
+- **Created 2 additional occupational profile pages** expanding occupational guide layer:
+  - [[Topics/Farm Laborer Occupation Profile|Farm Laborer Occupation Profile]] — 9+ documented farm laborers across Lincolnshire UK, Ohio, Iowa, Minnesota; showed apprenticeship patterns (young males transitioning father farmer → independent farmer), downward mobility examples (Charles Russell Spicer Farmer → Farm laborer → Farmer), occupational flexibility as labor market "safety valve" in agricultural economy
+  - [[Topics/Household Management and Domestic Service Occupation Profile|Household Management and Domestic Service Occupation Profile]] — 6+ women documented in "Keeping House" designation and rare domestic service roles; revealed census limitations in documenting female labor, gender-based occupational division (male wage labor vs. female unpaid household management), economic invisibility of women's agricultural contributions in farm households
+- **Each page includes:**
+  - Detailed occupational statistics and geographic/temporal distribution
+  - Individual case studies with full census documentation
+  - Occupational pattern analysis (apprenticeship, mobility, flexibility)
+  - Comparative economic context (farmer vs. farm laborer, wage labor vs. household production)
+  - Historical context (UK agricultural economy vs. US frontier opportunity)
+  - Research applications for genealogists, economic historians, social historians
+  - Explicit documentation of research gaps
+  - Cross-references to geographic and family pages
+- **Coverage:** Farm laborers 1841–1900 across 4 regions; Household management 1841–1930, gender-focused occupational analysis
+- **Build verified:** 214 input files, 758 output files.
+
 ## 2026-04-27 — Create occupational profile pages (Farmer and Miller case studies)
 
 - **Created 2 occupational profile pages** providing new discovery pathway focused on economic history and occupational analysis:
