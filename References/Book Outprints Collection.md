@@ -80,6 +80,7 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 
 - **Grand Army Records** — 2 PDFs on Watson Moses Risden (GAR membership), now indexed in [[References/Book Outprints — Grand Army Records Watson Moses Risden|Grand Army Records — Watson Moses Risden]]
 - **Sandusky-Beers** — Lemmon John M entry (pages 607-610), now indexed in [[References/Book Outprints — Sandusky-Beers Lemmon John M|Sandusky-Beers — John McIntyre Lemmon]]
+- **MacIntyre** — pages 161-165, now indexed in [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]]
 
 ## Pilot Extraction Status
 
@@ -87,10 +88,11 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 - Reviewed `Sandusky-Beers/LemmonJohnM607-610.pdf` manually from generated page images because `pdftotext` produced no usable text.
 - Manually reviewed selected *Genealogy and History of Samuel Miller* GIF page images (pages 240-242) because local OCR tools were unavailable.
 - Manually reviewed selected *Pioneer People of Fairfield County, Ohio* GIF page images (pages 281-283 and 315-317), now indexed in [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Pioneer People of Fairfield County Ohio]].
+- Manually reviewed *MacIntyre* GIF page images (pages 161-165), now indexed in [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]].
 
 ## Next Steps
 
-1. Install or run OCR for the remaining GIF image books, beginning with *Genealogy and History of Samuel Miller*, *Pioneer People of Fairfield County Ohio*, *MacIntyre*, and *Settlers by the Long Grey Trail*.
+1. Install or run OCR for the remaining GIF image books, beginning with the remaining *Genealogy and History of Samuel Miller* pages and *Settlers by the Long Grey Trail*.
 2. Continue manual image checks for high-value pages when OCR is unavailable.
 3. Link newly extracted book evidence to relevant people pages with explicit page-level provenance.
 4. Create reconciliation entries for individuals appearing in multiple books.

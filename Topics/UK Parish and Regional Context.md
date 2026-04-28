@@ -31,9 +31,10 @@ The Thorpe family research vault captures ancestors documented in UK parishes du
 - Agricultural communities in 1841–1871 census era
 - Family names scattered across parishes but not yet reconciled to specific locations
 
-**Scotland/North** — McIntyre surname suggests Scottish origin
-- [[People/Major McIntyre|Major McIntyre]] (1789–1842) documented with British origin
-- US settlement in Wisconsin, Ohio (1850s onward)
+**County Tyrone, Ireland / Massachusetts** — McIntyre compiled-genealogy origin trail
+- [[People/William McIntyre|William McIntyre]] (1754–after 1789) documented in the MacIntyre book outprint as father of [[People/Major McIntyre|Major McIntyre]]
+- The same outprint traces an older compiled line to John McIntyre of Kilmoore, County Tyrone, Ireland, in Massachusetts before 1719
+- US settlement continued into Ohio and Wisconsin in later generations
 
 ## Census Series and Documentation
 

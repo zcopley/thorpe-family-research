@@ -24,6 +24,10 @@ date: 2026-04-28
   - Local OCR tools were unavailable.
   - Pages 281-283 and 315-317 were manually reviewed from GIF images.
   - Public reference note created: [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Book Outprints — Pioneer People of Fairfield County Ohio]].
+- `BOOK 00013 MacIntyre`
+  - Local OCR tools were unavailable.
+  - Pages 161-165 were manually reviewed from GIF images.
+  - Public reference note updated: [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]].
 
 ## Blocked or Deferred
 

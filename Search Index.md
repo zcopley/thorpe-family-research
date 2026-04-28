@@ -62,6 +62,7 @@ tags:
 - [[People/Jesse Rowland|Jesse Rowland]]
 - [[People/John K Palmer|John K Palmer]]
 - [[People/John Kirby|John Kirby]]
+- [[People/John McIntyre of Kilmoore|John McIntyre of Kilmoore]]
 - [[People/John McIntyre Lemmon|John McIntyre Lemmon]]
 - [[People/John Tallman|John Tallman]]
 - [[People/John Thorp|John Thorp]]
@@ -101,6 +102,7 @@ tags:
 - [[People/Rebecca Blake|Rebecca Blake]]
 - [[People/Richard Bellamy|Richard Bellamy]]
 - [[People/Robert Butch Thorpe|Robert Butch Thorpe]]
+- [[People/Rosanna Campbell|Rosanna Campbell]]
 - [[People/Romancy Miller|Romancy Miller]]
 - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - [[People/Saphronia Burdick|Saphronia Burdick]]
@@ -122,6 +124,7 @@ tags:
 - [[People/William Emblow|William Emblow]]
 - [[People/William Henry Palmer|William Henry Palmer]]
 - [[People/William Kelly|William Kelly]]
+- [[People/William McIntyre|William McIntyre]]
 - [[People/William Monroe Thorp|William Monroe Thorp]]
 - [[People/Wynat Lewis|Wynat Lewis]]
 
@@ -178,3 +181,4 @@ tags:
 - [[References/Book Outprints — Grand Army Records Watson Moses Risden|Book Outprints — Grand Army Records Watson Moses Risden]]
 - [[References/Book Outprints — Sandusky-Beers Lemmon John M|Book Outprints — Sandusky-Beers Lemmon John M]]
 - [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Book Outprints — Pioneer People of Fairfield County Ohio]]
+- [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]]

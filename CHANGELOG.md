@@ -8,6 +8,14 @@ tags:
 
 # Changelog
 
+## 2026-04-28 — Extract MacIntyre book-outprint evidence
+
+- Manually reviewed pages 161-165 from [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]] because local OCR tooling remains unavailable.
+- Added McIntyre-line profiles for [[People/William McIntyre|William McIntyre]], [[People/Rosanna Campbell|Rosanna Campbell]], and [[People/John McIntyre of Kilmoore|John McIntyre of Kilmoore]].
+- Updated [[People/Major McIntyre|Major McIntyre]] with compiled-book evidence for his parents, birth date, and consistency with the Tew Cemetery inscription age.
+- Updated [[Topics/McIntyre, Merrill, Caswell, and Allied Families Branch Summary|McIntyre, Merrill, Caswell, and Critton Families Branch Summary]] and [[Topics/UK Parish and Regional Context|UK Parish and Regional Context]] to replace surname-implied origin language with source-grounded County Tyrone/Massachusetts context.
+- Updated [[People Directory|People Directory]], [[Search Index|Search Index]], [[References/Book Outprints Collection|Book Outprints Collection]], and [[References/raw/processed/2026-04-24-book-outprints/BOOK_OUTPRINTS_PILOT_INDEX|Book Outprints Pilot Extraction Index]].
+
 ## 2026-04-28 — Continue book-outprints pilot with Fairfield County Tallman evidence
 
 - Manually reviewed selected pages from [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Pioneer People of Fairfield County Ohio]] because local OCR tooling remains unavailable.
