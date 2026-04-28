@@ -8,6 +8,20 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Create thematic research guides (parishes, occupations, migration)
+
+- **Created 3 thematic reference pages** providing new discovery pathways through the vault by topic rather than family:
+  - [[Topics/UK Parish and Regional Context|UK Parish and Regional Context]] — Lincolnshire focus, regional settlement patterns, pre-1841 research gaps
+  - [[Topics/Occupational Context and Economic Patterns|Occupational Context and Economic Patterns]] — Farmer dominance (23 individuals), occupational transitions, gender patterns, economic implications
+  - [[Topics/American Settlement and Migration Timeline|American Settlement and Migration Timeline]] — Midwest settlement waves (Ohio → Iowa → Wisconsin/Minnesota), 97 individuals documented, geographic consolidation 1800–1900
+- **Updated [[Search Index]]** to include new "Thematic Research Guides" section.
+- Each page provides:
+  - Quantified data analysis (occupations, locations, timeframes)
+  - Historical context (economic drivers, transportation, generational patterns)
+  - Cross-references to specific families and person pages
+  - Research gaps and next steps for local/regional history exploration
+- **Build verified:** 200 input files, 736 output files.
+
 ## 2026-04-27 — Create branch summary hubs for secondary families
 
 - **Created 6 new visitor-facing branch summary pages** to provide navigation hubs for secondary family clusters (mirroring the structure of primary cluster hubs):

@@ -137,6 +137,11 @@ tags:
 - [[Topics/McIntyre, Merrill, Caswell, and Allied Families Branch Summary|McIntyre, Merrill, Caswell, and Critton Families Branch Summary]]
 - [[Topics/Ireland, Rowland, Willson, Wager, and Waller Families Branch Summary|Ireland, Rowland, Willson, Wager, and Waller Families Branch Summary]]
 
+### Thematic Research Guides
+- [[Topics/UK Parish and Regional Context|UK Parish and Regional Context]]
+- [[Topics/Occupational Context and Economic Patterns|Occupational Context and Economic Patterns]]
+- [[Topics/American Settlement and Migration Timeline|American Settlement and Migration Timeline]]
+
 ### Research & Reconciliation
 - [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]]
 - [[Topics/Spelling and Identity Reconciliations|Spelling and Identity Reconciliations]]
