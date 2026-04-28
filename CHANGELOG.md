@@ -8,6 +8,17 @@ tags:
 
 # Changelog
 
+## 2026-04-28 — Continue book-outprints pilot with Fairfield County Tallman evidence
+
+- Manually reviewed selected pages from [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Pioneer People of Fairfield County Ohio]] because local OCR tooling remains unavailable.
+- Added older Tallman context pages:
+  - [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]]
+  - [[People/Samuel Tallman|Samuel Tallman]]
+  - [[People/Sarah Wells Tallman|Sarah Wells Tallman]]
+- Updated [[People/Dinah Boone|Dinah Boone]], [[People/John Tallman|John Tallman]], and [[People/Benjamin B Tallman|Benjamin B Tallman]] with source-grounded Tallman context.
+- Updated [[Topics/Ault Tallman Branch Summary|Ault Tallman Branch Summary]] to reflect that the Benjamin/Romancy-to-Miller Mathias Tallman link is now supported by compiled sources but still needs primary-record confirmation.
+- Updated [[References/Book Outprints Collection|Book Outprints Collection]], [[People Directory|People Directory]], and [[Search Index|Search Index]] for the new pages and reference note.
+
 ## 2026-04-28 — Process book-outprints pilot sources
 
 - Processed the first high-value book-outprints pilot batch from Thorpe Shared Intake:

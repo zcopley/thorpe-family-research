@@ -86,6 +86,7 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 - Processed the two Watson Moses Risden Grand Army PDFs with `pdftotext`; extracted text is staged under `References/raw/processed/2026-04-24-book-outprints/Risden-Watson-Moses/`.
 - Reviewed `Sandusky-Beers/LemmonJohnM607-610.pdf` manually from generated page images because `pdftotext` produced no usable text.
 - Manually reviewed selected *Genealogy and History of Samuel Miller* GIF page images (pages 240-242) because local OCR tools were unavailable.
+- Manually reviewed selected *Pioneer People of Fairfield County, Ohio* GIF page images (pages 281-283 and 315-317), now indexed in [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Pioneer People of Fairfield County Ohio]].
 
 ## Next Steps
 

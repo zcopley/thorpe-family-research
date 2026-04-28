@@ -20,6 +20,7 @@ tags:
 - **Occupation:** Farmer
 - **Burial:** Western Cemetery, Linn County, Iowa; Section 35-82-7; GPS 41°52’17.7”N 91°38’9.8”W; inscription `BENJAMIN / TALLMAN / DIED / OCT. 26, 1881 / AGED / 69 Ys. 5 Ms, 1 DAY.`
 - The *Genealogy and History of Samuel Miller* page image for pages 240-241 names Romancy Miller's husband as Benjamin F. Tallman, says they married on 25 Oct 1834 at Millersport, Ohio, moved to Canal Winchester about 1845, moved to Jones County, Iowa, in 1848, and that Benjamin died 25 Oct 1881.
+- The Thorpe pedigree timeline places Benjamin B. Tallman after [[People/John Tallman|John Tallman]] and before [[People/Miller Mathias Tallman|Miller Mathias Tallman]] in the Tallman chain.
 
 ## Census Records and Household Context
 
@@ -120,3 +121,4 @@ Benjamin Tallman represents the Ohio-origin patriarch who established the Iowa T
 5. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-TallmanBenjaminB.txt`
 6. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
 7. [[References/Book Outprints — Genealogy and History of Samuel Miller|Book Outprints — Genealogy and History of Samuel Miller]]
+8. [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Book Outprints — Pioneer People of Fairfield County Ohio]]

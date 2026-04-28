@@ -20,6 +20,10 @@ date: 2026-04-28
 - `BOOK 00003 Genealogy and History of Samuel Miller`
   - Local OCR tools were unavailable.
   - Pages 240-242 were manually reviewed from GIF images and used cautiously for Miller/Tallman relationship and date notes.
+- `BOOK 00029 Pioneer People of Fairfield County Ohio`
+  - Local OCR tools were unavailable.
+  - Pages 281-283 and 315-317 were manually reviewed from GIF images.
+  - Public reference note created: [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Book Outprints — Pioneer People of Fairfield County Ohio]].
 
 ## Blocked or Deferred
 

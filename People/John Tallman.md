@@ -17,14 +17,17 @@ tags:
 
 - A census-summary entry gives John Tallman as born about 1788 and died about 1855.
 - The extraction cross-references John Tallman to the Benjamin B. Tallman and Elizabeth Harrison chain.
+- The Thorpe pedigree timeline places John Tallman between [[People/Benjamin Tallman 1745-1820|Benjamin Tallman]] and [[People/Benjamin B Tallman|Benjamin B Tallman]] in the Tallman chain.
 
 ## Research Gaps
 
 1. Verify birth and death dates against primary records.
 2. Confirm household relationships in the 1850 Ohio census context.
+3. Reconcile the pedigree-line John Tallman with the broader Fairfield County Tallman pioneer narrative.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
 3. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-TallmanJohn.txt`
+4. [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Book Outprints — Pioneer People of Fairfield County Ohio]]

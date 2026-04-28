@@ -28,6 +28,7 @@ tags:
 ### B
 
 - [[People/Benjamin B Tallman|Benjamin B Tallman]]
+- [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]]
 
 ### C
 
@@ -160,6 +161,8 @@ tags:
 - [[People/Sarah Kelly|Sarah Kelly]]
 - [[People/Sarah Shutts|Sarah Shutts]]
 - [[People/Sarah Unknown|Sarah Unknown]]
+- [[People/Sarah Wells Tallman|Sarah Wells Tallman]]
+- [[People/Samuel Tallman|Samuel Tallman]]
 - [[People/Sophronia Burdick|Sophronia Burdick]]
 - [[People/Susan Lewis|Susan Lewis]]
 - [[People/Susan Merrill|Susan Merrill]]
@@ -182,4 +185,4 @@ tags:
 
 ## Summary
 
-Total individuals: 112
+Total individuals: 115
