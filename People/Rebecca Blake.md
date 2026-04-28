@@ -74,3 +74,5 @@ Rebecca Blake married James Lemmon and anchors the Blake-Lemmon connection; thei
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+
+1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BlakeRebecca.txt`

@@ -61,3 +61,4 @@ Andrew Ault represents the earliest generation in the documented Ault line, with
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-AultAndrew.txt`

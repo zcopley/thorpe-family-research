@@ -34,3 +34,5 @@ tags:
 3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+
+1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-MunsonJames.txt`

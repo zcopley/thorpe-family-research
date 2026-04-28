@@ -29,3 +29,5 @@ tags:
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]
 2. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+
+1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-ThorogoodJames.txt`

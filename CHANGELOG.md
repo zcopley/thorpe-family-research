@@ -8,6 +8,16 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Ingest 88 census summary files and establish source references
+
+- Processed **88 census summary text files** from 2026-04-24 InDesign export batch, containing detailed household census data (primarily UK censuses 1841-1871).
+- Matched all 88 census files to existing person pages using fuzzy name matching (CamelCase splitting and word normalization).
+- **Updated 58 person pages** with direct citations to their corresponding census summary files in `References/raw/processed/2026-04-24-census-indesign/`.
+- Pages enriched include: [[People/Andrew Ault|Andrew Ault]], [[People/Frederick Ault|Frederick Ault]], [[People/Henry James Bellamy|Henry James Bellamy]], [[People/James Bellamy|James Bellamy]], [[People/Rebecca Blake|Rebecca Blake]], [[People/Emma Kelly|Emma Kelly]], [[People/James Kelly|James Kelly]], [[People/James Lemmon|James Lemmon]], [[People/Wynat Lewis|Wynat Lewis]], [[People/Mathias Miller|Mathias Miller]], [[People/Romancy Miller|Romancy Miller]], [[People/John K Palmer|John K Palmer]], [[People/Jesse Rowland|Jesse Rowland]], [[People/Charles Russell Spicer|Charles Russell Spicer]], [[People/Benjamin B Tallman|Benjamin B Tallman]], [[People/Frederick Thorogood|Frederick Thorogood]], [[People/Mary Ann Thorogood|Mary Ann Thorogood]], and others across all major family clusters.
+- Cleaned up naming inconsistencies by removing 31 placeholder pages with incorrect naming conventions (LastName-FirstName format).
+- Moved 88 processed census files from `References/raw/inbox/` to `References/raw/processed/2026-04-24-census-indesign/` to mark intake completion.
+- Remaining 46 person pages without census references are pre-existing entries (Unknown variants, non-family members, or entries predating this batch).
+
 ## 2026-04-27 — Add guided branch-based visitor experience
 
 - Reworked the public landing page `[[index]]` so family visitors can start with branch stories instead of raw indexes.

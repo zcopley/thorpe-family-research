@@ -33,3 +33,5 @@ tags:
 3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
 4. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
 5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+
+1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-EmblowMartha.txt`

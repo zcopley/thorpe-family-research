@@ -71,3 +71,5 @@ This is a household sketch based on the parish extract and the census-summary fa
 7. `References/raw/inbox/2026-04-22-intake/Certificates/JamesKellyBaptism1830.txt`
 8. `References/raw/inbox/2026-04-22-intake/Census/EnglishCensusCitations.txt`
 9. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+
+1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-KellyJames.txt`

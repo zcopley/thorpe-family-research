@@ -37,3 +37,5 @@ tags:
 5. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
 6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+
+1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BellamyHenryJames.txt`

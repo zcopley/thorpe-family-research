@@ -30,3 +30,4 @@ tags:
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BeneworthHannah.txt`
