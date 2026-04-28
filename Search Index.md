@@ -142,6 +142,12 @@ tags:
 - [[Topics/Occupational Context and Economic Patterns|Occupational Context and Economic Patterns]]
 - [[Topics/American Settlement and Migration Timeline|American Settlement and Migration Timeline]]
 
+### County and Parish Geographic Guides
+- [[Topics/Sandusky County Ohio - Lemmon Ault Settlement|Sandusky County, Ohio — Lemmon and Ault Settlement Center]]
+- [[Topics/Linn County Iowa - Spicer Risden Settlement|Linn County, Iowa — Spicer and Risden Settlement Center]]
+- [[Topics/Jefferson County Ohio - Ault Family Settlement|Jefferson County, Ohio — Ault Family Settlement]]
+- [[Topics/Lincolnshire Bourn - Bellamy Kelly Settlement|Lincolnshire, Bourn — Bellamy, Kelly, and Emblow Settlement Center]]
+
 ### Research & Reconciliation
 - [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]]
 - [[Topics/Spelling and Identity Reconciliations|Spelling and Identity Reconciliations]]

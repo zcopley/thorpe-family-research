@@ -8,6 +8,24 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Create county and parish-level geographic reference pages
+
+- **Created 4 county/parish reference pages** providing granular geographic entry points to vault genealogical data:
+  - [[Topics/Sandusky County Ohio - Lemmon Ault Settlement|Sandusky County, Ohio — Lemmon and Ault Settlement Center]] — Northwest Ohio (Lake Erie region), documented 1850 census households for James Lemmon (farmer, age 71) and Andrew Ault (farmer, age 82); 7-member and 3-member households respectively; identified research gaps in pre-1850 documentation and 1860–1880 continuity
+  - [[Topics/Linn County Iowa - Spicer Risden Settlement|Linn County, Iowa — Spicer and Risden Settlement Center]] — Eastern Iowa (Cedar River valley), documented George B. Spicer (1864–1938) and Hattie May Risden (1877–1967) households across 1880–1900 censuses; showed occupational progression (farm laborer → established farmer with multiple sons); identified 4-generation farming continuity (Nathan → Charles Russell → George B. → Lester Harold)
+  - [[Topics/Jefferson County Ohio - Ault Family Settlement|Jefferson County, Ohio — Ault Family Settlement]] — Eastern Ohio (Ohio River valley), documented Andrew Ault advanced-age farming (age 82 in 1850); showed 3-generation presence through Elizabeth Plomey Ault marriage to Miller Mathias Tallman; identified pre-1850 settlement gaps
+  - [[Topics/Lincolnshire Bourn - Bellamy Kelly Settlement|Lincolnshire, Bourn — Bellamy, Kelly, and Emblow Settlement Center]] — UK parish (East Midlands), documented James Bellamy (1787–c.1867) occupational transition across 1841–1861 censuses (Miller → Bede House Man); showed economic decline pattern into institutional care; identified parish register and Bede House administrative record gaps
+- **Each page includes:**
+  - Detailed household census snapshots with series, roll, page, and enumeration district numbers
+  - Mermaid diagrams showing multi-generational family relationships
+  - Economic and occupational analysis specific to each location
+  - Geographic context (location, agricultural suitability, settlement patterns)
+  - Settlement timelines and family connections
+  - Explicit research implications, gaps, and next steps
+  - Cross-references to related family branches and thematic guides
+- **Coverage:** Lincolnshire Bourn 1841–1861; Sandusky County Ohio 1850; Jefferson County Ohio 1850; Linn County Iowa 1880–1900
+- **Build verified:** 200 input files, 736 output files.
+
 ## 2026-04-27 — Create thematic research guides (parishes, occupations, migration)
 
 - **Created 3 thematic reference pages** providing new discovery pathways through the vault by topic rather than family:
