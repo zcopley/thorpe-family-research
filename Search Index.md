@@ -147,6 +147,8 @@ tags:
 - [[Topics/Linn County Iowa - Spicer Risden Settlement|Linn County, Iowa — Spicer and Risden Settlement Center]]
 - [[Topics/Jefferson County Ohio - Ault Family Settlement|Jefferson County, Ohio — Ault Family Settlement]]
 - [[Topics/Lincolnshire Bourn - Bellamy Kelly Settlement|Lincolnshire, Bourn — Bellamy, Kelly, and Emblow Settlement Center]]
+- [[Topics/Racine County Wisconsin - Lewis Family Settlement|Racine County, Wisconsin — Lewis Family Settlement Entry Point]]
+- [[Topics/Fond du Lac County Wisconsin - Lewis Family Continuation|Fond du Lac County, Wisconsin — Lewis Family Continuation]]
 - [[Topics/Mower County Minnesota - Lewis Prior Palmer Settlement|Mower County, Minnesota — Lewis, Prior, and Palmer Settlement Center]]
 - [[Topics/Eau Claire County Wisconsin - Bangle Family Settlement|Eau Claire County, Wisconsin — Bangle Family Settlement Center]]
 

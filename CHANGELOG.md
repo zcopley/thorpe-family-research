@@ -8,6 +8,22 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Create Wisconsin county pages completing Lewis family migration arc
+
+- **Created 2 Wisconsin county reference pages** documenting Lewis family intermediate Wisconsin settlement before Minnesota:
+  - [[Topics/Racine County Wisconsin - Lewis Family Settlement|Racine County, Wisconsin — Lewis Family Settlement Entry Point]] — 1850 documented entry point; Wynat Lewis patriarch (age 68, farmer) with extended 8-member household; Vermont-born family transitioning to Wisconsin agricultural settlement; Oliver Warren Lewis (future Mower County patriarch) documented age 25 as son and farmer
+  - [[Topics/Fond du Lac County Wisconsin - Lewis Family Continuation|Fond du Lac County, Wisconsin — Lewis Family Continuation]] — 1860 documented continuation; W.W. Lewis patriarch (age 79, farmer) and Oliver Warren Lewis (age 35, farmer) continued family farming; Martha E. Lewis (future Martha Eliza Prior, 1859–1923) born Wisconsin 1859; documented geographic shift from rural Racine County to urban Ripon Ward; 10-year interval and family expansion visible
+- **Each page includes:**
+  - Detailed household census snapshots with series, roll, page numbers
+  - Mermaid diagrams showing three-generation Lewis family structure
+  - Settlement progression timeline and geographic shift analysis
+  - Family connections documenting patriarch→son→granddaughter continuity
+  - Economic patterns (farming continuity, property values, household composition changes)
+  - Research implications and gaps (birthplace discrepancies, relocation drivers, land records)
+  - Cross-references to prior Racine County settlement and subsequent Mower County Minnesota settlement
+- **Coverage:** Racine County Wisconsin 1850 (entry point); Fond du Lac County Wisconsin 1860 (continuation); completes Vermont→Wisconsin→Minnesota Lewis family arc with all intermediate nodes documented
+- **Build verified:** 217 input files, 763 output files.
+
 ## 2026-04-27 — Expand occupational profiles to secondary categories (Farm Laborer and Household Management)
 
 - **Created 2 additional occupational profile pages** expanding occupational guide layer:
