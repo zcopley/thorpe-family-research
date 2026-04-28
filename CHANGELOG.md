@@ -8,6 +8,14 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Transcribe Spicer and Thorpe pedigree timelines into person pages
+
+- **Added pedigree timeline citations** to 21 person pages across Spicer and Thorpe family clusters.
+- **Spicer cluster updated:** [[People/Nathan Spicer|Nathan Spicer]], [[People/Charles Russell Spicer|Charles Russell Spicer]], [[People/George B Spicer|George B. Spicer]], [[People/Lester Harold Spicer|Lester Harold Spicer]], [[People/Catherine Filkins|Catherine Filkins]], [[People/Hattie May Risden|Hattie May Risden]], [[People/John Wheeler Risden|John Wheeler Risden]], [[People/Watson Moses Risden|Watson Moses Risden]], [[People/Mary Burgett|Mary Burgett]], [[People/William Burgett|William Burgett]], and [[People/Mary Greenwood|Mary Greenwood]].
+- **Thorpe cluster updated:** [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]], [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]], [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]], [[People/James Lemmon|James Lemmon]], [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]], [[People/Benjamin B Tallman|Benjamin B Tallman]], [[People/Miller Mathias Tallman|Miller Mathias Tallman]], [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]], [[People/Andrew Ault|Andrew Ault]], and [[People/Frederick Ault|Frederick Ault]].
+- **Created new person pages** for [[People/John Thorp|John Thorp]] (1791-1850) and [[People/William Monroe Thorp|William Monroe Thorp]] (1835-1899) to establish direct Thorpe ancestral line context.
+- All updated pages now link to [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Spicer]] and [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Thorpe]] pedigree timeline references.
+
 ## 2026-04-27 — Ingest 88 census summary files and establish source references
 
 - Processed **88 census summary text files** from 2026-04-24 InDesign export batch, containing detailed household census data (primarily UK censuses 1841-1871).

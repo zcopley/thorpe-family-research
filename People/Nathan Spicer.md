@@ -84,3 +84,5 @@ tags:
 2. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-SpicerNathan1796-1873.txt`
 3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Burial Sites Summary]]
 4. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Spicer Lineage Note]]
+
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]

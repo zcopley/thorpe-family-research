@@ -78,3 +78,5 @@ tags:
 2. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-SpicerGeorge p1.txt`
 3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Burial Sites Summary]]
 4. [[People/Hattie May Risden|Hattie May Risden]] (spouse page for household context)
+
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]

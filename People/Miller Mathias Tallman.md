@@ -94,3 +94,5 @@ Miller Mathias demonstrates the trajectory of a Civil War veteran: farming in ru
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]

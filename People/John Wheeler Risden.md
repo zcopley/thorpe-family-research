@@ -51,3 +51,5 @@ This is a small household-structure sketch based on the census summary and buria
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]

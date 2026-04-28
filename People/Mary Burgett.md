@@ -54,3 +54,5 @@ This is a compact relationship sketch. The dashed link to Mary Greenwood is only
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BurgettMary.txt`
+
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
