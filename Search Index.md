@@ -122,10 +122,22 @@ tags:
 - [[People/Wynat Lewis|Wynat Lewis]]
 
 ## Topics
+
+### Primary Family Clusters
 - [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon Blake Thorpe Branch Summary]]
 - [[Topics/Spicer Risden Branch Summary|Spicer Risden Branch Summary]]
 - [[Topics/Palmer Prior Lewis Branch Summary|Palmer Prior Lewis Branch Summary]]
 - [[Topics/Ault Tallman Branch Summary|Ault Tallman Branch Summary]]
+
+### Secondary Family Clusters
+- [[Topics/Bellamy Branch Summary|Bellamy, Kelly, Emblow, and Munson Branch Summary]]
+- [[Topics/Sorrell and Thorogood Branch Summary|Sorrell, Thorogood, and Related Families Branch Summary]]
+- [[Topics/Bangle, Beneworth, and Allied Families Branch Summary|Bangle, Beneworth, Brooks, Filkins, and Allied Families Branch Summary]]
+- [[Topics/Baxter, Hiskey, and How Families Branch Summary|Baxter, Hiskey, Harrison, and How Families Branch Summary]]
+- [[Topics/McIntyre, Merrill, Caswell, and Allied Families Branch Summary|McIntyre, Merrill, Caswell, and Critton Families Branch Summary]]
+- [[Topics/Ireland, Rowland, Willson, Wager, and Waller Families Branch Summary|Ireland, Rowland, Willson, Wager, and Waller Families Branch Summary]]
+
+### Research & Reconciliation
 - [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]]
 - [[Topics/Spelling and Identity Reconciliations|Spelling and Identity Reconciliations]]
 - [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]]

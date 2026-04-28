@@ -8,6 +8,19 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Create branch summary hubs for secondary families
+
+- **Created 6 new visitor-facing branch summary pages** to provide navigation hubs for secondary family clusters (mirroring the structure of primary cluster hubs):
+  - [[Topics/Bellamy Branch Summary|Bellamy, Kelly, Emblow, and Munson Branch Summary]] — 1787–c.1867 UK and American settlement
+  - [[Topics/Sorrell and Thorogood Branch Summary|Sorrell, Thorogood, and Related Families Branch Summary]] — 1747–1880s UK census-documented agricultural families
+  - [[Topics/Bangle, Beneworth, and Allied Families Branch Summary|Bangle, Beneworth, Brooks, Filkins, and Allied Families Branch Summary]] — 19th-century UK and US settlement
+  - [[Topics/Baxter, Hiskey, and How Families Branch Summary|Baxter, Hiskey, Harrison, and How Families Branch Summary]] — UK Midlands/South and Ohio settlement
+  - [[Topics/McIntyre, Merrill, Caswell, and Allied Families Branch Summary|McIntyre, Merrill, Caswell, and Critton Families Branch Summary]] — 1754–1860 UK and early American settlement
+  - [[Topics/Ireland, Rowland, Willson, Wager, and Waller Families Branch Summary|Ireland, Rowland, Willson, Wager, and Waller Families Branch Summary]] — 19th-century American frontier settlement
+- **Updated [[Search Index]]** to organize branch hubs into primary and secondary clusters for improved discoverability.
+- Each page includes Mermaid family diagrams, occupational context, geographic range, and links to individual person pages.
+- All secondary family pages reference census documentation and pedigree timeline sources.
+
 ## 2026-04-27 — Transcribe Spicer and Thorpe pedigree timelines into person pages
 
 - **Added pedigree timeline citations** to 21 person pages across Spicer and Thorpe family clusters.
