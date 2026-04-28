@@ -8,6 +8,19 @@ tags:
 
 # Changelog
 
+## 2026-04-28 — Process book-outprints pilot sources
+
+- Processed the first high-value book-outprints pilot batch from Thorpe Shared Intake:
+  - [[References/Book Outprints — Grand Army Records Watson Moses Risden|Grand Army Records — Watson Moses Risden]]
+  - [[References/Book Outprints — Sandusky-Beers Lemmon John M|Sandusky-Beers — John McIntyre Lemmon]]
+  - [[References/Book Outprints — Genealogy and History of Samuel Miller|Genealogy and History of Samuel Miller]]
+- Added new person page [[People/John McIntyre Lemmon|John McIntyre Lemmon]] from the Sandusky-Beers biographical sketch.
+- Strengthened Lemmon relationship evidence across [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]], [[People/James Lemmon|James Lemmon]], [[People/Rebecca Blake|Rebecca Blake]], and [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]].
+- Added Grand Army military and civic-service context to [[People/Watson Moses Risden|Watson Moses Risden]] and [[Topics/Linn County Iowa - Spicer Risden Settlement|Linn County Iowa - Spicer Risden Settlement]].
+- Added Miller/Tallman compiled-book evidence and conflicts to [[People/Mathias Miller|Mathias Miller]], [[People/Romancy Miller|Romancy Miller]], [[People/Benjamin B Tallman|Benjamin B Tallman]], and [[People/Miller Mathias Tallman|Miller Mathias Tallman]].
+- Updated [[References/Book Outprints Collection|Book Outprints Collection]], [[People Directory|People Directory]], [[Search Index|Search Index]], and [[Topics/Sandusky County Ohio - Lemmon Ault Settlement|Sandusky County Ohio - Lemmon Ault Settlement]] for the new source coverage.
+- Staged processed outputs under `References/raw/processed/2026-04-24-book-outprints/`; full GIF OCR remains deferred because local OCR tooling was unavailable.
+
 ## 2026-04-28 — Finish name reconciliation cleanup after census-ingest placeholder removal
 
 - Restored and normalized person pages that were removed or malformed during the prior census-ingest cleanup:

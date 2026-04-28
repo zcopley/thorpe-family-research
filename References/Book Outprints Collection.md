@@ -78,16 +78,21 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 
 ## Known Supporting Materials
 
-- **Grand Army Records** — 2 PDFs on Watson Moses Risden (GAR membership)
-- **Sandusky-Beers** — Lemmon John M entry (pages 607-610)
+- **Grand Army Records** — 2 PDFs on Watson Moses Risden (GAR membership), now indexed in [[References/Book Outprints — Grand Army Records Watson Moses Risden|Grand Army Records — Watson Moses Risden]]
+- **Sandusky-Beers** — Lemmon John M entry (pages 607-610), now indexed in [[References/Book Outprints — Sandusky-Beers Lemmon John M|Sandusky-Beers — John McIntyre Lemmon]]
+
+## Pilot Extraction Status
+
+- Processed the two Watson Moses Risden Grand Army PDFs with `pdftotext`; extracted text is staged under `References/raw/processed/2026-04-24-book-outprints/Risden-Watson-Moses/`.
+- Reviewed `Sandusky-Beers/LemmonJohnM607-610.pdf` manually from generated page images because `pdftotext` produced no usable text.
+- Manually reviewed selected *Genealogy and History of Samuel Miller* GIF page images (pages 240-242) because local OCR tools were unavailable.
 
 ## Next Steps
 
-1. Extract text from GIF images using OCR (if feasible)
-2. Create individual reference pages for the 13 priority books
-3. Link book references to relevant people pages
-4. Organize extracted text into `References/raw/inbox/2026-04-24-book-outprints/`
-5. Create reconciliation entries for individuals appearing in multiple books
+1. Install or run OCR for the remaining GIF image books, beginning with *Genealogy and History of Samuel Miller*, *Pioneer People of Fairfield County Ohio*, *MacIntyre*, and *Settlers by the Long Grey Trail*.
+2. Continue manual image checks for high-value pages when OCR is unavailable.
+3. Link newly extracted book evidence to relevant people pages with explicit page-level provenance.
+4. Create reconciliation entries for individuals appearing in multiple books.
 
 ## File Format Notes
 

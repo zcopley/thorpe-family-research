@@ -89,6 +89,7 @@ tags:
 - [[People/Jesse Rowland|Jesse Rowland]]
 - [[People/John K Palmer|John K Palmer]]
 - [[People/John Kirby|John Kirby]]
+- [[People/John McIntyre Lemmon|John McIntyre Lemmon]]
 - [[People/John Tallman|John Tallman]]
 - [[People/John Thorp|John Thorp]]
 - [[People/John Wheeler Risden|John Wheeler Risden]]
@@ -181,4 +182,4 @@ tags:
 
 ## Summary
 
-Total individuals: 111
+Total individuals: 112

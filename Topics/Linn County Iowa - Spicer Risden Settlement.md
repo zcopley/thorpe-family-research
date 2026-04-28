@@ -25,7 +25,7 @@ Linn County, Iowa (eastern Iowa, Cedar River valley) became the primary settleme
 ### Risden Family (Collateral/Marriage Connection)
 - **[[People/Hattie May Risden|Hattie May Risden]]** (1877–1967) — Married George B. Spicer; Risden connection to Spicer settlement
 - **[[People/John Wheeler Risden|John Wheeler Risden]]** (c.1812–1884) — Hattie May's ancestor; related settlement patterns
-- **[[People/Watson Moses Risden|Watson Moses Risden]]** (1843–1932) — Hattie May's father; Cedar Rapids area connection
+- **[[People/Watson Moses Risden|Watson Moses Risden]]** (1843–1932) — Hattie May's father; Cedar Rapids area connection; Civil War veteran and Iowa Grand Army of the Republic Department Commander
 
 ## 1870–1900 Census Snapshots
 
@@ -138,6 +138,7 @@ graph TD
 ### Risden Connection
 - [[People/John Wheeler Risden|John Wheeler Risden]] line continued through [[People/Hattie May Risden|Hattie May]]'s marriage to [[People/George B Spicer|George B. Spicer]]
 - [[Topics/Spicer Risden Branch Summary|Spicer-Risden]] documented as unified cluster
+- Grand Army records say [[People/Watson Moses Risden|Watson Moses Risden]] moved directly to Iowa after Civil War service and lived in Cedar Rapids for more than fifty-five years, adding military and civic context to the Risden settlement line.
 
 ## Census and Economic Patterns
 
@@ -163,7 +164,7 @@ graph TD
 - **Land patents and deeds:** Farm locations, acreage, ownership not yet documented
 - **Church records:** Marriages, births, burials in Linn County churches not yet incorporated
 - **Occupational transition:** Charles Russell chair maker (1860) → farming (1870s) transition needs clarification
-- **Risden family origin:** [[People/Watson Moses Risden|Watson Moses Risden]] birthplace and migration pattern unclear
+- **Risden family origin:** [[People/Watson Moses Risden|Watson Moses Risden]] now has a Grand Army source for Watertown, New York birth and postwar Cedar Rapids settlement, but the line still needs primary-source confirmation.
 
 ## Next Steps for County Research
 
@@ -191,3 +192,4 @@ graph TD
 ### Source References
 - [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]] (1880–1900 census details)
 - [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Spicer Pedigree Timeline]] (lineage context)
+- [[References/Book Outprints — Grand Army Records Watson Moses Risden|Grand Army Records — Watson Moses Risden]] (military and civic-service context)

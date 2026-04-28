@@ -19,6 +19,7 @@ tags:
 - **Birthplace:** Ohio
 - **Occupation:** Farmer
 - **Burial:** Western Cemetery, Linn County, Iowa; Section 35-82-7; GPS 41°52’17.7”N 91°38’9.8”W; inscription `BENJAMIN / TALLMAN / DIED / OCT. 26, 1881 / AGED / 69 Ys. 5 Ms, 1 DAY.`
+- The *Genealogy and History of Samuel Miller* page image for pages 240-241 names Romancy Miller's husband as Benjamin F. Tallman, says they married on 25 Oct 1834 at Millersport, Ohio, moved to Canal Winchester about 1845, moved to Jones County, Iowa, in 1848, and that Benjamin died 25 Oct 1881.
 
 ## Census Records and Household Context
 
@@ -72,7 +73,7 @@ tags:
 
 ## Family Connections
 
-- **Wife:** [[People/Romancy Miller|Romancy Miller]] (1819-1911), married c. 1840s
+- **Wife:** [[People/Romancy Miller|Romancy Miller]] (1819-1911); the Miller genealogy gives the marriage date as 25 Oct 1834.
 - **Children identified:** Miller (b. ~1841), Emma E., Sarah J., Eliza E., Nathaniel H., Ama E., Griffin C., William L., Jacob M., Romancy (10+ children across 1850-1880)
 - **Occupational continuity:** Farmer throughout documented lifecycle, managing expanding household and farmland worth $5,000 by 1860
 - **Pedigree significance:** Ohio-origin patriarch establishing Tallman farming presence in Iowa; father of extended Tallman family line
@@ -103,7 +104,7 @@ Benjamin Tallman represents the Ohio-origin patriarch who established the Iowa T
 
 ## Research Gaps
 
-1. Confirm Benjamin Tallman’s Ohio parentage and family origin.
+1. Resolve the middle-initial discrepancy: existing vault title and some records use Benjamin B. Tallman, while the Miller genealogy page names him Benjamin F. Tallman.
 2. Validate all children names and relationships from original census images.
 3. Clarify name spelling variants (Tallman, Talmon, Tollman) and their consistency.
 4. Determine reason for household contraction by 1880 (adult children migration vs. death).
@@ -116,7 +117,6 @@ Benjamin Tallman represents the Ohio-origin patriarch who established the Iowa T
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
-
-1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-TallmanBenjaminB.txt`
-
-2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
+5. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-TallmanBenjaminB.txt`
+6. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
+7. [[References/Book Outprints — Genealogy and History of Samuel Miller|Book Outprints — Genealogy and History of Samuel Miller]]

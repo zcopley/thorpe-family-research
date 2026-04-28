@@ -1,0 +1,27 @@
+---
+draft: true
+title: Book Outprints Pilot Extraction Index
+date: 2026-04-28
+---
+
+# Book Outprints Pilot Extraction Index
+
+## Completed in This Pass
+
+- `Sandusky-Beers/LemmonJohnM607-610.pdf`
+  - `pdftotext` produced no usable text because the PDF is image-only.
+  - Temporary page images were generated with `pdftoppm` and manually reviewed.
+  - Public reference note created: [[References/Book Outprints — Sandusky-Beers Lemmon John M|Book Outprints — Sandusky-Beers Lemmon John M]].
+- `Risden Watson Moses/Grand Army.pdf`
+  - Text extracted to `References/raw/processed/2026-04-24-book-outprints/Risden-Watson-Moses/Grand-Army.txt`.
+- `Risden Watson Moses/Grand Army Risden.pdf`
+  - Text extracted to `References/raw/processed/2026-04-24-book-outprints/Risden-Watson-Moses/Grand-Army-Risden.txt`.
+  - Public reference note created: [[References/Book Outprints — Grand Army Records Watson Moses Risden|Book Outprints — Grand Army Records Watson Moses Risden]].
+- `BOOK 00003 Genealogy and History of Samuel Miller`
+  - Local OCR tools were unavailable.
+  - Pages 240-242 were manually reviewed from GIF images and used cautiously for Miller/Tallman relationship and date notes.
+
+## Blocked or Deferred
+
+- Full GIF OCR is deferred because `tesseract` and ImageMagick were not installed in this environment.
+- Remaining high-value image-only books should be processed with OCR or manual transcription in later passes.

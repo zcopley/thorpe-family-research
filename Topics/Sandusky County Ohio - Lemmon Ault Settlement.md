@@ -19,6 +19,7 @@ Sandusky County, Ohio (northwest Ohio, Lake Erie region) served as a primary set
 - **[[People/James Lemmon|James Lemmon]]** (1779–1854, age 71 in 1850) — Patriarch; farmer; settled Sandusky County by 1850
 - **[[People/Rebecca Blake|Rebecca Blake]]** (1779–1855) — James Lemmon's wife; age 71 in 1850
 - **[[People/Uriah Blake Lemmon|Uriah Blake Lemmon]]** (1808–1887) — Son; farmer; continued Sandusky County settlement
+- **[[People/John McIntyre Lemmon|John McIntyre Lemmon]]** (1839–1895) — Uriah and Emily's son; Civil War veteran, Clyde lawyer, first mayor of Clyde, and common pleas judge
 - **[[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]** (1841–1886) — Daughter; married into Thorpe line
 - **Mathew/Matthew Lemmon** — Son (age 38 in 1850 census)
 - **Frank Lemmon** — Son (age 1 in 1850 census; born Ohio)
@@ -121,6 +122,7 @@ graph TD
 - [[People/James Lemmon|James Lemmon]] married [[People/Rebecca Blake|Rebecca Blake]], establishing Ohio settlement
 - [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] (daughter) married into [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon-Blake-Thorpe]] line
 - [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] (son) continued Sandusky County farming
+- [[People/John McIntyre Lemmon|John McIntyre Lemmon]] documents the next generation's movement from farm household into law, Civil War service, and public office in Clyde.
 
 ### Ault-Tallman Connection
 - [[People/Andrew Ault|Andrew Ault]] patriarch documented in Sandusky County (1850)
@@ -163,8 +165,10 @@ graph TD
 - [[People/James Lemmon|James Lemmon]] — Patriarch documentation
 - [[People/Rebecca Blake|Rebecca Blake]] — Wife; Blake family connection
 - [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] — Son; continued settlement
+- [[People/John McIntyre Lemmon|John McIntyre Lemmon]] — Lawyer, Civil War veteran, and Clyde civic figure
 - [[People/Andrew Ault|Andrew Ault]] — Ault patriarch
 
 ### Source References
 - [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]] (1850 census details)
 - [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Thorpe Pedigree Timeline]] (settlement context)
+- [[References/Book Outprints — Sandusky-Beers Lemmon John M|Sandusky-Beers — John McIntyre Lemmon]] (county biography and Lemmon relationship evidence)

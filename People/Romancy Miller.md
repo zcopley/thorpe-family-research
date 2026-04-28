@@ -17,6 +17,8 @@ tags:
 
 - **Birth/Death:** Born 10 Apr 1819; died 31 Jan 1911 (age 91 years, 8 months, 21 days).
 - **Maiden surname:** Miller; married name: Tallman (married Benjamin Tallman c. 1840s)
+- The *Genealogy and History of Samuel Miller* page image for page 240 identifies Romancy Miller as a child of [[People/Mathias Miller|Mathias Miller]] and Amy E. Critton.
+- Page 240-241 says Romancy Miller married Benjamin F. Tallman on 25 Oct 1834 at Millersport, Ohio; moved to Canal Winchester, Ohio, about 1845; moved to Jones County, Iowa, in 1848; later lived in Rippey, Greene County, Iowa; and was affiliated with the M.E. Church.
 
 ## Census Records and Life Progression
 
@@ -83,7 +85,7 @@ tags:
 
 ## Family Connections
 
-- **Husband:** Benjamin Tallman (b. ~1811 Ohio, married c. 1840s)
+- **Husband:** [[People/Benjamin B Tallman|Benjamin Tallman]]; the Miller genealogy names him as Benjamin F. Tallman, while the vault page currently uses Benjamin B. Tallman from existing records.
 - **Children identified:** Miller, Emma E., Sarah J., Eliza E., Nathaniel H., Ama E., Griffin C., William L., Jacob M., Romancy (10+ children across 60-year span)
 - **Son:** [[People/Miller Mathias Tallman|Miller Mathias Tallman]] (possible relationship to household members)
 - **Daughters:** Amy E. Garnant, Eliza Lieberknecht (living with them in later years)
@@ -124,7 +126,7 @@ Romancy Miller represents the Iowa-based Tallman family matriarch, maintaining h
 ## Research Gaps
 
 1. Verify exact maiden surname (Miller vs. other variants) from marriage records.
-2. Clarify Benjamin Tallman's birthplace and parentage (Ohio origin).
+2. Resolve the Benjamin middle-initial discrepancy (`B.` vs `F.`) against marriage, cemetery, or probate records.
 3. Resolve name spelling variants (Tallman, Talmon, Tollman) across census years.
 4. Trace all children's adult lives and marriages, especially Miller, Matt H., and daughters.
 5. Locate Benjamin Tallman's death record and confirm widowhood timeline for Romancy.
@@ -136,4 +138,5 @@ Romancy Miller represents the Iowa-based Tallman family matriarch, maintaining h
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
-1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-MillerRomancy.txt`
+5. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-MillerRomancy.txt`
+6. [[References/Book Outprints — Genealogy and History of Samuel Miller|Book Outprints — Genealogy and History of Samuel Miller]]

@@ -18,6 +18,7 @@ tags:
 - **Birth/Death:** Born 26 Oct 1779; died 29 Mar 1855 (age 75 years, 5 months, 3 days per burial record).
 - **Burial:** Tew Cemetery, Townsend Township, Sandusky County, Ohio; Section 25-17-5, Coordinates 412203N 0825125W; inscription reads `REBECCA / wife of / JAMES LEMMON / DIED / Mar. 29, 1855 / Aged / 75 Yrs. 5.M. 3d`; Burial Sites book, page 9.
 - **Spouse:** [[People/James Lemmon|James Lemmon]] (1779-1854); married name: Lemmon
+- The Sandusky-Beers sketch for [[People/John McIntyre Lemmon|John McIntyre Lemmon]] states that James Lemmon Sr. married Rebecca Blake in 1805 and identifies them as John McIntyre Lemmon's grandparents.
 
 ## Census Records and Household Context
 
@@ -35,7 +36,8 @@ tags:
 ## Family Connections
 
 - **Husband:** [[People/James Lemmon|James Lemmon]] (b. 1779 Pennsylvania) — farmer, patriarch of Ohio Lemmon line
-- **Children identified:** Matthew, Sarah (later Annett), Frank, David (likely sons)
+- **Children identified:** [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] from the Sandusky-Beers sketch, plus Matthew, Sarah (later Annett), Frank, and David from census extraction where exact relationships still need image-level confirmation.
+- **Grandson:** [[People/John McIntyre Lemmon|John McIntyre Lemmon]]
 - **Age at 1850 census:** 71 years old (born 1779)
 - **Pedigree significance:** Links the Blake surname to Lemmon family; appears on same timeline chart as [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] and [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]
 - **Burial location:** Same cemetery (Tew) as husband James Lemmon, adjacent plots in same section
@@ -74,5 +76,5 @@ Rebecca Blake married James Lemmon and anchors the Blake-Lemmon connection; thei
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
-
-1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BlakeRebecca.txt`
+5. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-BlakeRebecca.txt`
+6. [[References/Book Outprints — Sandusky-Beers Lemmon John M|Book Outprints — Sandusky-Beers Lemmon John M]]

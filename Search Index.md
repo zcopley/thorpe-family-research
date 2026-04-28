@@ -61,6 +61,7 @@ tags:
 - [[People/Jesse Rowland|Jesse Rowland]]
 - [[People/John K Palmer|John K Palmer]]
 - [[People/John Kirby|John Kirby]]
+- [[People/John McIntyre Lemmon|John McIntyre Lemmon]]
 - [[People/John Tallman|John Tallman]]
 - [[People/John Thorp|John Thorp]]
 - [[People/John Wheeler Risden|John Wheeler Risden]]
@@ -171,3 +172,5 @@ tags:
 - [[References/Butch Thorpe Email|Butch Thorpe Email]]
 - [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Shared Intake 2026-04-24 Census InDesign Summaries]]
 - [[References/Book Outprints Collection|Book Outprints Collection]]
+- [[References/Book Outprints — Grand Army Records Watson Moses Risden|Book Outprints — Grand Army Records Watson Moses Risden]]
+- [[References/Book Outprints — Sandusky-Beers Lemmon John M|Book Outprints — Sandusky-Beers Lemmon John M]]

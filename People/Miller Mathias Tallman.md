@@ -20,6 +20,7 @@ tags:
 - **Occupations:** Farmer (1880), teamster (1900)
 - **Military Service:** Iowa Soldiers’ Home resident (1910-1920), suggesting Union veteran status
 - **Burial:** Iowa Veterans’ Home Cemetery, Marshalltown, Iowa; South Section, Row 12, Grave 4
+- The *Genealogy and History of Samuel Miller* page image for page 241 identifies Miller Mathias Tallman as a child of [[People/Romancy Miller|Romancy Miller]] and Benjamin Tallman and gives his birth date as 14 Apr 1841.
 
 ## Census Records and Life Progression
 
@@ -61,6 +62,7 @@ tags:
 - **Children identified:** Willis G. Tallman (b. ~1874), Lena/Lena P. Tallman (b. 1879)
 - **Mother-in-law:** Mary Ault (b. ~1802), living with household in 1880
 - **Pedigree connection:** Married into [[People/Frederick Ault|Frederick Ault]]’s family; likely Union veteran based on Iowa Soldiers’ Home residence
+- **Compiled-book conflict:** The Miller genealogy page 242 says Mathias M. Tallman married Lizzie Wimmer on 24 Aug 1872 and lists children William Gilmore Tallman and Elvin Lenora/Lenora Tallman. This may be the same spouse/children under different names, or it may reflect a source conflict that needs reconciliation against marriage and census records.
 
 ## Family Diagram
 
@@ -87,6 +89,7 @@ Miller Mathias demonstrates the trajectory of a Civil War veteran: farming in ru
 3. Trace Lena P. Tallman after 1900; identify marriage and descendants.
 4. Clarify relationship of Elbert Winn and Andrew Richey to the household in 1880.
 5. Determine exact reason for Iowa Soldiers’ Home admission (age, health, pension status).
+6. Resolve the wife-name conflict between Elizabeth Plomey Ault in census-linked sources and Lizzie Wimmer in the Miller genealogy.
 
 ## Sources
 
@@ -94,5 +97,5 @@ Miller Mathias demonstrates the trajectory of a Civil War veteran: farming in ru
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
-
-2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
+5. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
+6. [[References/Book Outprints — Genealogy and History of Samuel Miller|Book Outprints — Genealogy and History of Samuel Miller]]

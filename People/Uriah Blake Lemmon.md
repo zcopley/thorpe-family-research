@@ -17,6 +17,7 @@ tags:
 
 - **Birth/Death:** Born 16 Mar 1808; died 15 Feb 1887 (age 78).
 - **Burial:** McPherson Cemetery, Clyde, Ohio (inscription: `LEMMON`); Burial Sites book, page 16.
+- The Sandusky-Beers biographical sketch for [[People/John McIntyre Lemmon|John McIntyre Lemmon]] identifies Uriah Blake Lemmon and [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]] Lemmon as John McIntyre Lemmon's parents.
 
 ## Census Records and Household Context
 
@@ -45,8 +46,8 @@ tags:
 
 - **Wife:** Emily A. Lemmon (first wife, 1850-1860s), then Sarah Lemmon (1880)
 - **Children identified in census:** William H., John M., Sarah A., Rebecca A., Cyrus A., M. Burton, Emily E., Nathaniel
-- **Son John M. Lemmon** became a lawyer in Ohio; his household included Uriah in 1870
-- Related to [[People/James Lemmon|James Lemmon]] (likely father or brother); pedigree timeline links to Rebecca Blake line
+- **Son:** [[People/John McIntyre Lemmon|John McIntyre Lemmon]], lawyer, Civil War veteran, mayor of Clyde, and common pleas judge; his 1870 household included Uriah.
+- **Parents:** [[People/James Lemmon|James Lemmon]] and [[People/Rebecca Blake|Rebecca Blake]], based on the Sandusky-Beers sketch's statement that James and Rebecca were John McIntyre Lemmon's grandparents.
 
 ## Family Diagram
 
@@ -94,7 +95,8 @@ Uriah Blake Lemmon was patriarch of the Ohio Lemmon line, with 8+ documented chi
 1. Resolve Lemmon/Lemon spelling differences across decades.
 2. Validate apparent OCR ambiguity for sex markers in 1860 entries.
 3. Confirm the 1880 spouse identity against other Lemmon profile records.
-4. Clarify relationship to [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] via pedigree timeline or family records (possible uncle/nephew or cousin).
+4. Resolve whether the death date is 15 Feb 1887 or 16 Feb 1887; the Sandusky-Beers sketch gives 16 Feb, while earlier vault sources give 15 Feb.
+5. Clarify relationship to [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] via pedigree timeline or family records (possible uncle/nephew or cousin).
 
 ## Sources
 
@@ -102,5 +104,5 @@ Uriah Blake Lemmon was patriarch of the Ohio Lemmon line, with 8+ documented chi
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
-
-2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
+5. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
+6. [[References/Book Outprints — Sandusky-Beers Lemmon John M|Book Outprints — Sandusky-Beers Lemmon John M]]

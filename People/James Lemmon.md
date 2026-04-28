@@ -17,6 +17,7 @@ tags:
 
 - **Birth/Death:** Born 27 Jun 1779; died 7 May 1854 (age 74 years, 10 months, 10 days per burial record).
 - **Burial:** Tew Cemetery, Townsend Township, Sandusky County, Ohio; Section 25-17-5, Coordinates 412203N 0825125W; Burial Sites book, page 14.
+- The Sandusky-Beers sketch for [[People/John McIntyre Lemmon|John McIntyre Lemmon]] gives a different birth date for James Lemmon Sr., 17 July 1779, and states that he was born in Northumberland County, Pennsylvania; married [[People/Rebecca Blake|Rebecca Blake]] in 1805; volunteered in the War of 1812; moved to Ohio in 1827; and died at North Ridge, Townsend, Sandusky County, Ohio, on 7 May 1854.
 
 ## Census Records and Household Context
 
@@ -34,8 +35,8 @@ tags:
 ## Family Connections
 
 - **Wife:** [[People/Rebecca Blake|Rebecca Blake]] (b. Pennsylvania, age 71 in 1850)
-- **Children identified:** Mathew/Matthew, Sarah, Frank, David (possibly son; exact relationship unclear from census)
-- **Related to:** [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] (likely brother or father, appears in same township 1850-1860)
+- **Children identified:** [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] from the Sandusky-Beers sketch, plus Mathew/Matthew, Sarah, Frank, and David from census extraction where exact relationships still need image-level confirmation.
+- **Grandson:** [[People/John McIntyre Lemmon|John McIntyre Lemmon]]
 - **Pedigree connection:** Linked to [[Topics/Lemmon Blake Thorpe Branch Summary|Blake family line]] via Rebecca; timeline shows him contemporaneous with [[People/Rebecca Blake|Rebecca Blake]] (1779-1855)
 
 ## Family Diagram
@@ -63,8 +64,8 @@ graph TD
 ## Research Gaps
 
 1. Validate household relationships from image-level census page.
-2. Confirm death date from independent cemetery/probate or death records.
-3. Reconcile whether `James Lemmon Sr` compiler note maps cleanly to this profile.
+2. Resolve the 27 June 1779 vs 17 July 1779 birth-date conflict between burial/census-derived notes and the Sandusky-Beers sketch.
+3. Confirm death date from independent cemetery/probate or death records.
 
 ## Sources
 
@@ -72,7 +73,6 @@ graph TD
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
-
-1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-LemmonJames.txt`
-
-2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
+5. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-LemmonJames.txt`
+6. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
+7. [[References/Book Outprints — Sandusky-Beers Lemmon John M|Book Outprints — Sandusky-Beers Lemmon John M]]
