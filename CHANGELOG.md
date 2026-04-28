@@ -8,6 +8,23 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Create occupational profile pages (Farmer and Miller case studies)
+
+- **Created 2 occupational profile pages** providing new discovery pathway focused on economic history and occupational analysis:
+  - [[Topics/Farmer Occupation Profile|Farmer Occupation Profile]] — 23 documented farmers across Ohio, Iowa, Wisconsin, Minnesota, and UK Lincolnshire; showed multi-generational farming continuity (Spicer dynasty 80-year span, Lemmon-Tallman 70+ year span, Lewis family Vermont→Wisconsin→Minnesota arc); documented economic resilience, household size correlations with success, and frontier agricultural viability 1800–1900
+  - [[Topics/Miller Occupation Profile|Miller Occupation Profile]] — Occupational decline narrative; James Bellamy (1787–c.1867) primary case study showing miller (1841, skilled tradesman) → almshouse resident (1851–1861); documented industrial occupational obsolescence, mechanization displacement, economic vulnerability of specialized trades
+- **Each page includes:**
+  - Detailed occupational statistics (number documented, geographic/temporal distribution, generational patterns)
+  - Individual case studies with full census data and biographical context
+  - Economic patterns analysis (viability, vulnerability, generational succession)
+  - Historical context (UK agricultural decline, US frontier expansion, mechanization)
+  - Contrast analysis (farmer resilience vs. miller vulnerability)
+  - Research applications for genealogists, economic historians, social historians
+  - Research gaps and future investigation directions
+  - Cross-references to geographic pages, family branches, and individual profiles
+- **Coverage:** Farmers 1800–1900 across 5 regions; Miller occupational decline 1841–1867
+- **Build verified:** 211 input files, 752 output files.
+
 ## 2026-04-27 — Expand geographic guides to secondary settlement areas (Wisconsin and Minnesota)
 
 - **Created 2 additional county reference pages** for secondary Midwest settlement areas:

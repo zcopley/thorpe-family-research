@@ -150,6 +150,10 @@ tags:
 - [[Topics/Mower County Minnesota - Lewis Prior Palmer Settlement|Mower County, Minnesota — Lewis, Prior, and Palmer Settlement Center]]
 - [[Topics/Eau Claire County Wisconsin - Bangle Family Settlement|Eau Claire County, Wisconsin — Bangle Family Settlement Center]]
 
+### Occupational Profile Guides
+- [[Topics/Farmer Occupation Profile|Farmer Occupation Profile]]
+- [[Topics/Miller Occupation Profile|Miller Occupation Profile]]
+
 ### Research & Reconciliation
 - [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]]
 - [[Topics/Spelling and Identity Reconciliations|Spelling and Identity Reconciliations]]
