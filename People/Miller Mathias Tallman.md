@@ -62,18 +62,18 @@ tags:
 - **Children identified:** Willis G. Tallman (b. ~1874), Lena/Lena P. Tallman (b. 1879)
 - **Mother-in-law:** Mary Ault (b. ~1802), living with household in 1880
 - **Pedigree connection:** Married into [[People/Frederick Ault|Frederick Ault]]’s family; likely Union veteran based on Iowa Soldiers’ Home residence
-- **Compiled-book conflict:** The Miller genealogy page 242 says Mathias M. Tallman married Lizzie Wimmer on 24 Aug 1872 and lists children William Gilmore Tallman and Elvin Lenora/Lenora Tallman. This may be the same spouse/children under different names, or it may reflect a source conflict that needs reconciliation against marriage and census records.
+- **Compiled-book reconciliation issue:** The Miller genealogy page 242 says Mathias M. Tallman married Lizzie Wimmer on 24 Aug 1872 and lists children William Gilmore Tallman and Elvin Lenora Tallman. The same page also summarizes the children as Willis G. Tallman and Lenore Tallman; page 250 identifies Elvin Lenora Tallman as wife of [[People/Uriah Blake Thorpe|U. B. Thorpe]]. These details likely correspond to the census-linked Elizabeth/Willis/Lena family group, but marriage and vital records are still needed before treating Lizzie Wimmer as resolved to [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]].
 
 ## Family Diagram
 
 ```mermaid
-%%{init: {‘flowchart’: {‘htmlLabels’: true}, ‘theme’: ‘default’, ‘themeVariables’: {‘primaryTextColor’: ‘#000000’, ‘primaryBorderColor’: ‘#333333’, ‘lineColor’: ‘#333333’, ‘fontSize’: ‘14px’}}}%%
+%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
-  MMT["Miller Mathias Tallman<br/>1841-1921<br/>Farmer → Teamster → Veteran"]
+  MMT["Miller Mathias Tallman<br/>1841-1921<br/>Farmer to Teamster to Veteran"]
   EPA["Elizabeth Plomey Ault<br/>1841-1926"]
   
   WG["Willis G. Tallman<br/>b. ~1874"]
-  LT["Lena P. Tallman<br/>1879-?"]
+  LT["Lenore Hetty Tallman<br/>Elvin Lenora?<br/>1879-1953"]
   
   MMT --- EPA
   MMT --> WG
@@ -90,6 +90,8 @@ Miller Mathias demonstrates the trajectory of a Civil War veteran: farming in ru
 4. Clarify relationship of Elbert Winn and Andrew Richey to the household in 1880.
 5. Determine exact reason for Iowa Soldiers’ Home admission (age, health, pension status).
 6. Resolve the wife-name conflict between Elizabeth Plomey Ault in census-linked sources and Lizzie Wimmer in the Miller genealogy.
+7. Determine whether William Gilmore Tallman and Willis G. Tallman are the same person.
+8. Determine whether Elvin Lenora Tallman and [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]] are the same person.
 
 ## Sources
 

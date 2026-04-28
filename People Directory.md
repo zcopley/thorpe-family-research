@@ -92,6 +92,7 @@ tags:
 - [[People/John Kirby|John Kirby]]
 - [[People/John McIntyre of Kilmoore|John McIntyre of Kilmoore]]
 - [[People/John McIntyre Lemmon|John McIntyre Lemmon]]
+- [[People/John Miller|John Miller]]
 - [[People/John Tallman|John Tallman]]
 - [[People/John Thorp|John Thorp]]
 - [[People/John Wheeler Risden|John Wheeler Risden]]
@@ -164,6 +165,7 @@ tags:
 - [[People/Sarah Shutts|Sarah Shutts]]
 - [[People/Sarah Unknown|Sarah Unknown]]
 - [[People/Sarah Wells Tallman|Sarah Wells Tallman]]
+- [[People/Samuel Miller|Samuel Miller]]
 - [[People/Samuel Tallman|Samuel Tallman]]
 - [[People/Sophronia Burdick|Sophronia Burdick]]
 - [[People/Susan Lewis|Susan Lewis]]
@@ -188,4 +190,4 @@ tags:
 
 ## Summary
 
-Total individuals: 118
+Total individuals: 120

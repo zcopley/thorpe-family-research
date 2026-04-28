@@ -19,7 +19,8 @@ date: 2026-04-28
   - Public reference note created: [[References/Book Outprints — Grand Army Records Watson Moses Risden|Book Outprints — Grand Army Records Watson Moses Risden]].
 - `BOOK 00003 Genealogy and History of Samuel Miller`
   - Local OCR tools were unavailable.
-  - Pages 240-242 were manually reviewed from GIF images and used cautiously for Miller/Tallman relationship and date notes.
+  - Pages 11-15, 240-242, and 250 were manually reviewed from GIF images and used cautiously for Miller/Tallman relationship and date notes.
+  - Public reference note updated: [[References/Book Outprints — Genealogy and History of Samuel Miller|Book Outprints — Genealogy and History of Samuel Miller]].
 - `BOOK 00029 Pioneer People of Fairfield County Ohio`
   - Local OCR tools were unavailable.
   - Pages 281-283 and 315-317 were manually reviewed from GIF images.

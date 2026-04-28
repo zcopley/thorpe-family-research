@@ -86,13 +86,13 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 
 - Processed the two Watson Moses Risden Grand Army PDFs with `pdftotext`; extracted text is staged under `References/raw/processed/2026-04-24-book-outprints/Risden-Watson-Moses/`.
 - Reviewed `Sandusky-Beers/LemmonJohnM607-610.pdf` manually from generated page images because `pdftotext` produced no usable text.
-- Manually reviewed selected *Genealogy and History of Samuel Miller* GIF page images (pages 240-242) because local OCR tools were unavailable.
+- Manually reviewed selected *Genealogy and History of Samuel Miller* GIF page images (pages 11-15, 240-242, and 250) because local OCR tools were unavailable.
 - Manually reviewed selected *Pioneer People of Fairfield County, Ohio* GIF page images (pages 281-283 and 315-317), now indexed in [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Pioneer People of Fairfield County Ohio]].
 - Manually reviewed *MacIntyre* GIF page images (pages 161-165), now indexed in [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]].
 
 ## Next Steps
 
-1. Install or run OCR for the remaining GIF image books, beginning with the remaining *Genealogy and History of Samuel Miller* pages and *Settlers by the Long Grey Trail*.
+1. Install or run OCR for the remaining GIF image books, beginning with *Settlers by the Long Grey Trail* and other direct-line book folders that currently contain only placeholders.
 2. Continue manual image checks for high-value pages when OCR is unavailable.
 3. Link newly extracted book evidence to relevant people pages with explicit page-level provenance.
 4. Create reconciliation entries for individuals appearing in multiple books.

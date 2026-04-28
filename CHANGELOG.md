@@ -8,6 +8,13 @@ tags:
 
 # Changelog
 
+## 2026-04-28 — Complete Samuel Miller book-outprint page review
+
+- Manually reviewed additional pages 11-15 and 250 from [[References/Book Outprints — Genealogy and History of Samuel Miller|Genealogy and History of Samuel Miller]], expanding earlier page 240-242 coverage.
+- Added older Miller-line profiles for [[People/Samuel Miller|Samuel Miller]] and [[People/John Miller|John Miller]].
+- Updated [[People/Mathias Miller|Mathias Miller]], [[People/Miller Mathias Tallman|Miller Mathias Tallman]], [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]], and [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] with compiled-book evidence and name-reconciliation notes.
+- Updated [[Topics/Ault Tallman Branch Summary|Ault and Tallman Branch Summary]], [[People Directory|People Directory]], [[Search Index|Search Index]], [[References/Book Outprints Collection|Book Outprints Collection]], and [[References/raw/processed/2026-04-24-book-outprints/BOOK_OUTPRINTS_PILOT_INDEX|Book Outprints Pilot Extraction Index]].
+
 ## 2026-04-28 — Extract MacIntyre book-outprint evidence
 
 - Manually reviewed pages 161-165 from [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]] because local OCR tooling remains unavailable.
