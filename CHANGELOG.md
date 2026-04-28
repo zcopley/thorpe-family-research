@@ -8,6 +8,23 @@ tags:
 
 # Changelog
 
+## 2026-04-27 — Expand geographic guides to secondary settlement areas (Wisconsin and Minnesota)
+
+- **Created 2 additional county reference pages** for secondary Midwest settlement areas:
+  - [[Topics/Mower County Minnesota - Lewis Prior Palmer Settlement|Mower County, Minnesota — Lewis, Prior, and Palmer Settlement Center]] — Southeastern Minnesota (Des Moines River valley), documented 1880–1900 census households for Oliver Warren Lewis (farmer, Vermont-origin), Arthur Prior / Martha Lewis (farmer household with 5 children), and William Henry Palmer (farmer, Pennsylvania-origin); showed three-generation Lewis family continuity and multi-family settlement network
+  - [[Topics/Eau Claire County Wisconsin - Bangle Family Settlement|Eau Claire County, Wisconsin — Bangle Family Settlement Center]] — Western Wisconsin (Eau Claire River valley), documented 1860–1900 census households for Lewis Bangle (farmer, New York-origin, Canada-origin wife Angeline), Louis S. Bangle (farmer, age 46 in 1870), and Cazwell Bangle (long-lived patriarch, age 76 in 1900); showed 40-year stable agricultural settlement with family expansion
+- **Each page includes:**
+  - Detailed household census snapshots with series, roll, page, enumeration district numbers
+  - Mermaid diagrams showing multi-generational family relationships
+  - Economic and occupational analysis specific to each location
+  - Geographic context (location, agricultural suitability, settlement patterns)
+  - Settlement timelines showing migration progression
+  - Family connections and intergenerational continuity
+  - Explicit research implications, gaps, and next steps
+  - Cross-references to related family branches and thematic guides
+- **Coverage:** Mower County Minnesota 1880–1900 (Lewis/Prior/Palmer families); Eau Claire County Wisconsin 1860–1900 (Bangle family)
+- **Build verified:** 208 input files, 748 output files.
+
 ## 2026-04-27 — Create county and parish-level geographic reference pages
 
 - **Created 4 county/parish reference pages** providing granular geographic entry points to vault genealogical data:
