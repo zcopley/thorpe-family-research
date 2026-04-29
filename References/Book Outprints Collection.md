@@ -92,13 +92,14 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 - Manually reviewed the current *Settlers by the Long Grey Trail* GIF set (23 page images plus frontispiece), now indexed in [[References/Book Outprints — Settlers by the Long Grey Trail|Settlers by the Long Grey Trail]] and the processed extraction index.
 - Manually reviewed the Tallman-relevant *Durfee* genealogy pages, now indexed in [[References/Book Outprints — Durfee|Durfee]] and the processed extraction index.
 - Manually reviewed the Western College page image, now indexed in [[References/Book Outprints — History of Western College|History of Western College]] and the processed extraction index.
+- Manually reviewed [[References/Book Outprints — Bowne William|William Bowne of Yorkshire, England and His Descendants]]; the PDF extracted cleanly and the RTF duplicate confirmed the same text, including the Monmouth Lincoln-family section.
+- Manually reviewed [[References/Book Outprints — Great Baddow Oral History|Great Baddow Oral History]]; page 6 names Whitehouse Farm farmed by Elijah Sorrell and page 91 repeats Elijah Sorrell in the village farm context.
 
 ## Next Steps
 
-1. Install or run OCR for the remaining GIF image books, beginning with *Settlers by the Long Grey Trail* and other direct-line book folders that currently contain only placeholders.
-2. Continue manual image checks for high-value pages when OCR is unavailable.
-3. Link newly extracted book evidence to relevant people pages with explicit page-level provenance.
-4. Create reconciliation entries for individuals appearing in multiple books.
+1. Continue manual image checks for the remaining GIF image books and the small image-only outprints that still need review.
+2. Link newly extracted book evidence to relevant people pages with explicit page-level provenance when a direct Thorpe-family connection exists.
+3. Create reconciliation entries for individuals appearing in multiple books.
 
 ## File Format Notes
 

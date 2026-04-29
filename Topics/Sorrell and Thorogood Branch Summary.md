@@ -53,10 +53,10 @@ This family cluster is documented in:
 - [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Pedigree Timeline References]]
 - Census InDesign summary files (2026-04-24 batch) with detailed household and occupational context
 - Burial site records showing cemetery locations and dates
+- [[References/Book Outprints — Great Baddow Oral History|Great Baddow Oral History]] pages 6 and 91 name Whitehouse Farm farmed by Elijah Sorrell and place the surname in village-level farm context
 
 ## Research Resources
 
 - Visit [[People Directory]] to find individual family members
 - Check [[Search Index]] for location, occupation, or date searches
 - Review [[CHANGELOG]] for ongoing research notes and updates
-

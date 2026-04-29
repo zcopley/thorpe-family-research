@@ -8,6 +8,20 @@ tags:
 
 # Changelog
 
+## 2026-04-29 — Process Great Baddow Oral History outprint
+
+- Manually reviewed the two available Great Baddow oral-history image pages from the Fairfield County intake.
+- Added a processed extraction index at [[References/raw/processed/2026-04-24-book-outprints/Great-Baddow-Oral-History/GREAT_BADDOW_ORAL_HISTORY_INDEX|Great Baddow Oral History Extraction Index]].
+- Added [[References/Book Outprints — Great Baddow Oral History|Book Outprints — Great Baddow Oral History]] with the Whitehouse Farm and Elijah Sorrell local-history evidence.
+- Updated [[References/Book Outprints Collection|Book Outprints Collection]] to record the new processed source.
+
+## 2026-04-29 — Process Bowne William outprint
+
+- Manually reviewed the 7-page *William Bowne of Yorkshire, England and His Descendants* outprint from the Fairfield County intake.
+- Added a processed extraction index at [[References/raw/processed/2026-04-24-book-outprints/Bowne-William/BOWNE_WILLIAM_INDEX|Bowne William Extraction Index]].
+- Added [[References/Book Outprints — Bowne William|Book Outprints — Bowne William]] with the Bowne settlement narrative and the Monmouth Lincoln-family section.
+- Updated [[References/Book Outprints Collection|Book Outprints Collection]] to record the new processed source.
+
 ## 2026-04-29 — Targeted raw search for Tallman burial references
 
 - Searched the raw intake for the William Tallman Bible record, Benjamin Tallman military references, and Dinah Boone Morlatton Church baptism cited by [[References/Book Outprints — Durfee|Durfee]].
