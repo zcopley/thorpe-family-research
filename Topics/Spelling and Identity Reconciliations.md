@@ -46,7 +46,7 @@ The chart groups spelling families only. It should not be read as a merge decisi
 
 | Canonical Surnames | Observed Variants | Context and Examples |
 |-------------------|-------------------|----------------------|
-| **Thorpe**        | Thorp, Thorp (M.) | John Thorp (1791-1860) and William Monroe Thorp (1835-1899) are direct-line ancestors often recorded without the terminal 'e'. |
+| **Thorpe**        | Thorp, Thorp (M.) | John Thorp (1791-1850) and William Monroe Thorp (1835-1899) are direct-line ancestors often recorded without the terminal 'e'. |
 | **Munson**        | Monson, Munson (Jr.) | Arther Monson (1841 Great Holland) vs Arthur Munson (1851 Great Holland). |
 | **Whitfield**     | Witfield          | John and Mary Whitfield (born c. 1819) indexed in UK census citations. |
 | **Burgett**       | Bergett           | William Bergett (1850 Brush Run Township, Iowa) and Mary Bergett (mortality schedule). |

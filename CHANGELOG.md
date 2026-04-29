@@ -8,6 +8,12 @@ tags:
 
 # Changelog
 
+## 2026-04-29 — Process Thorpe pedigree timeline
+
+- Re-read the one-page `PedigreeTimelines2025Thorpe.pdf` chart and created a structured processed index at [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/THORPE_PEDIGREE_TIMELINE_INDEX|Thorpe Pedigree Timeline Extraction Index]].
+- Corrected the public Thorpe timeline note to reflect the chart's visible labels, including [[People/John Thorp|John Thorp]], [[People/Jane Wager|Jane Wager]], [[People/William Monroe Thorp|William Monroe Thorp]], [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]], [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]], and [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]].
+- Updated [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]], [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon, Blake, and Thorpe Branch Summary]], and the core Thorpe person pages with the new source anchor.
+
 ## 2026-04-29 — Process Great Baddow Oral History outprint
 
 - Manually reviewed the two available Great Baddow oral-history image pages from the Fairfield County intake.

@@ -24,6 +24,7 @@ This page tracks the pedigree timeline files provided by [[People/Robert Butch T
 - `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
 - `References/raw/extracted/PedigreeTimeline2025Prior.txt`
 - `References/raw/extracted/PedigreeTimelines2019Descendants2.txt`
+- `References/raw/processed/2026-04-22-intake/Pedigree Timeline/THORPE_PEDIGREE_TIMELINE_INDEX.md`
 
 ## Butch's Notes on How to Read the Timelines
 
@@ -43,11 +44,15 @@ The repository now also has extracted text for the charts, which is enough to mi
 
 ### Thorpe / Lemmon / Blake
 
+- [[People/John Thorp|John Thorp]] `1791-1850`
+- [[People/Jane Wager|Jane Wager]] `1798-1870`
+- [[People/William Monroe Thorp|William Monroe Thorp]] `1835-1899`
+- [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] `1841-1886`
 - [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] `1878-1959`
+- [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]] `1917-1974`
 - [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] `1808-1887`
 - [[People/James Lemmon|James Lemmon]] `1779-1854`
 - [[People/Rebecca Blake|Rebecca Blake]] `1779-1855`
-- [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] `1841-1886`
 - [[People/Hugh Lemmon|Hugh Lemmon]] `1754-1824`
 - [[People/Martha McHenry|Martha McHenry]]
 - [[People/Richard Blake|Richard Blake]]
@@ -55,6 +60,8 @@ The repository now also has extracted text for the charts, which is enough to mi
 - [[People/William McIntyre|William McIntyre]]
 - [[People/Major McIntyre|Major McIntyre]]
 - [[People/Rosanna Campbell|Rosanna Campbell]]
+
+The Thorpe timeline is the clearest direct-chain chart in the vault: it runs John Thorp -> William Monroe Thorp -> Uriah Blake Thorpe -> Raymond Miller Thorpe and also shows Jane Wager/Jennie Dodge, Sarah Annett Lemmon, and Lenore Hetty Tallman as adjacent branch labels.
 
 ### Spicer
 

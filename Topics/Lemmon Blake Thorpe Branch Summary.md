@@ -46,6 +46,7 @@ This diagram is a visitor guide, not a standalone proof. It summarizes relations
 ## What We Know
 
 - The extracted Thorpe pedigree timeline places [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]], [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]], [[People/James Lemmon|James Lemmon]], [[People/Rebecca Blake|Rebecca Blake]], and [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] in a shared branch context.
+- The Thorpe pedigree timeline also gives the direct Thorpe chain as [[People/John Thorp|John Thorp]] -> [[People/William Monroe Thorp|William Monroe Thorp]] -> [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] -> [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]], with [[People/Jane Wager|Jane Wager]] and [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] as adjacent upper-branch labels.
 - [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] and [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] are verified as separate people: they differ by about 70 years in birth date and have different death and burial contexts.
 - The Blake surname is part of the Lemmon ancestral context through [[People/Rebecca Blake|Rebecca Blake]], not a reason to merge the two Uriah Blake identities.
 - [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] is the most useful bridge page for understanding how this branch connects forward into the later Thorpe/Risden/Spicer cluster.
@@ -66,3 +67,4 @@ This diagram is a visitor guide, not a standalone proof. It summarizes relations
 6. [[People/Rebecca Blake|Rebecca Blake]]
 7. [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]
 8. [[People/Hattie May Risden|Hattie May Risden]]
+9. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/THORPE_PEDIGREE_TIMELINE_INDEX|Thorpe Pedigree Timeline Extraction Index]]
