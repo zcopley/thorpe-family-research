@@ -82,3 +82,8 @@ Google Maps links below are convenience links for location lookup, not source ev
 ## Research Gaps
 - Extract specific GPS coordinates and cemetery locations for each ancestor and update their person pages.
 - Reconcile burial data with census-summary death dates (e.g., John Thorp's mortality schedule vs. burial site).
+
+## Tallman Targeted Search Note
+
+- The raw extracted burial text confirms the Benjamin/Dinah Tallman Cemetery entry on pages 10 and 35.
+- The current raw intake does not include the William Tallman Bible record or the Morlatton Church baptism cited by the Durfee genealogy.

@@ -8,6 +8,13 @@ tags:
 
 # Changelog
 
+## 2026-04-29 — Targeted raw search for Tallman burial references
+
+- Searched the raw intake for the William Tallman Bible record, Benjamin Tallman military references, and Dinah Boone Morlatton Church baptism cited by [[References/Book Outprints — Durfee|Durfee]].
+- Added a targeted-search note at [[References/raw/processed/2026-04-22-intake/BurialSites/TALLMAN_TARGETED_SEARCH|Burial Sites Tallman Targeted Search]].
+- Tightened [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]] and [[People/Dinah Boone|Dinah Boone]] with direct citations to the raw extracted burial text.
+- Updated [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]] with the raw-search result.
+
 ## 2026-04-29 — Extract Western College Tallman institutional context
 
 - Manually reviewed the *Western-Leander-Clark College 1856-1911* page image because local OCR tooling remains unavailable.
