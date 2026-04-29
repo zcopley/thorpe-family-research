@@ -65,6 +65,7 @@ The solid family group around Elizabeth Plomey Ault and Miller Mathias Tallman i
 - [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]] - Older Tallman ancestor linked by burial, pedigree, and pioneer-book evidence.
 - [[People/William Tallman 1720-1791|William Tallman]] and [[People/Ann Lincoln Tallman|Ann Lincoln Tallman]] - Older Tallman generation identified in the Durfee genealogy as Benjamin's parents.
 - [[People/John Tallman|John Tallman]] and [[People/Elizabeth Harrison|Elizabeth Harrison]] - Older Ohio Tallman couple now tied to Harrison/Woodley compiled-book evidence from Rockingham County, Virginia.
+- A Western College history names a `Benjamin Tallman` as farm agent and executive-committee member, but the page does not identify which Benjamin Tallman this was.
 - [[People/Samuel Tallman|Samuel Tallman]] and [[People/Sarah Wells Tallman|Sarah Wells Tallman]] - Fairfield County pioneer context for the Tallman settlement cluster.
 
 ## What We Know
@@ -77,6 +78,7 @@ The solid family group around Elizabeth Plomey Ault and Miller Mathias Tallman i
 - *Pioneer People of Fairfield County, Ohio* adds an older Tallman settlement context around [[People/Benjamin Tallman 1745-1820|Benjamin Tallman]], [[People/Dinah Boone|Dinah Boone]], [[People/Samuel Tallman|Samuel Tallman]], and [[People/Sarah Wells Tallman|Sarah Wells Tallman]].
 - *Settlers by the Long Grey Trail* says [[People/Elizabeth Harrison|Elizabeth Harrison]], wife of [[People/John Tallman|John Tallman]], was a child of [[People/Nathaniel Harrison|Nathaniel Harrison]] and [[People/Mary Woodley|Mary Woodley]], and cites an 1817 deed involving John Tallman and wife Elizabeth of Fairfield County, Ohio.
 - *The Descendants of Thomas Durfee* identifies [[People/Benjamin Tallman 1745-1820|Benjamin Tallman]] as a child of [[People/William Tallman 1720-1791|William Tallman]] and [[People/Ann Lincoln Tallman|Ann Lincoln Tallman]], and gives additional migration and military context for Benjamin and [[People/Dinah Boone|Dinah Boone]].
+- The Western College history gives a plausible institutional-context hit for a Benjamin Tallman in Iowa, but the page does not prove whether it is [[People/Benjamin B Tallman|Benjamin B Tallman]].
 - Burial-site evidence supports several dates and cemetery placements in this family cluster.
 
 ## What Remains Uncertain
@@ -86,6 +88,7 @@ The solid family group around Elizabeth Plomey Ault and Miller Mathias Tallman i
 - The older Tallman chain from [[People/Benjamin Tallman 1745-1820|Benjamin Tallman]] through [[People/John Tallman|John Tallman]] to [[People/Benjamin B Tallman|Benjamin B Tallman]] needs probate, land, church, or cemetery verification.
 - The Harrison/Woodley evidence for [[People/Elizabeth Harrison|Elizabeth Harrison]] is compiled-book evidence pointing to probate, litigation, and deed records; the underlying originals should be checked before treating the parentage as fully proven.
 - The Durfee/Tallman evidence cites a family Bible, military records, and Boone manuscripts, but those underlying sources have not yet been independently reviewed.
+- The Western College history is a useful institutional clue, but the Tallman identity remains unresolved and should not be collapsed onto [[People/Benjamin B Tallman|Benjamin B Tallman]] without a local record.
 - Some children in the Tallman households need later-life tracing, especially Willis G. Tallman and Lena P. Tallman.
 - Original census images should be reviewed to validate OCR-sensitive spellings such as Tallman, Talmon, and Tollman.
 
@@ -103,3 +106,4 @@ The solid family group around Elizabeth Plomey Ault and Miller Mathias Tallman i
 10. [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Pioneer People of Fairfield County Ohio]]
 11. [[References/Book Outprints — Settlers by the Long Grey Trail|Settlers by the Long Grey Trail]]
 12. [[References/Book Outprints — Durfee|Durfee]]
+13. [[References/Book Outprints — History of Western College|History of Western College]]

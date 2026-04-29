@@ -91,6 +91,7 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 - Manually reviewed *MacIntyre* GIF page images (pages 161-165), now indexed in [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]].
 - Manually reviewed the current *Settlers by the Long Grey Trail* GIF set (23 page images plus frontispiece), now indexed in [[References/Book Outprints — Settlers by the Long Grey Trail|Settlers by the Long Grey Trail]] and the processed extraction index.
 - Manually reviewed the Tallman-relevant *Durfee* genealogy pages, now indexed in [[References/Book Outprints — Durfee|Durfee]] and the processed extraction index.
+- Manually reviewed the Western College page image, now indexed in [[References/Book Outprints — History of Western College|History of Western College]] and the processed extraction index.
 
 ## Next Steps
 

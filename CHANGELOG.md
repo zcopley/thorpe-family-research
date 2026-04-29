@@ -8,6 +8,13 @@ tags:
 
 # Changelog
 
+## 2026-04-29 — Extract Western College Tallman institutional context
+
+- Manually reviewed the *Western-Leander-Clark College 1856-1911* page image because local OCR tooling remains unavailable.
+- Added a processed extraction index at [[References/raw/processed/2026-04-24-book-outprints/History-of-Western-College/WESTERN_COLLEGE_INDEX|History of Western College Extraction Index]].
+- Added [[References/Book Outprints — History of Western College|History of Western College]] and updated [[Topics/Ault Tallman Branch Summary|Ault and Tallman Branch Summary]] with a cautious institutional-context note.
+- Updated [[References/Book Outprints Collection|Book Outprints Collection]] to record the new processed source.
+
 ## 2026-04-29 — Extract Durfee/Tallman genealogy evidence
 
 - Manually reviewed the Tallman-relevant pages from [[References/Book Outprints — Durfee|The Descendants of Thomas Durfee]] because local OCR tooling remains unavailable.
