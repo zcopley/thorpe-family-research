@@ -19,6 +19,7 @@ tags:
 - [[People/Andrew Ault|Andrew Ault]]
 - [[People/Angeline Caswell|Angeline Caswell]]
 - [[People/Ann Bevis|Ann Bevis]]
+- [[People/Ann Lincoln Tallman|Ann Lincoln Tallman]]
 - [[People/Ann Sorrell|Ann Sorrell]]
 - [[People/Ann Unknown|Ann Unknown]]
 - [[People/Arthur Edwin Prior|Arthur Edwin Prior]]
@@ -28,6 +29,7 @@ tags:
 ### B
 
 - [[People/Benjamin B Tallman|Benjamin B Tallman]]
+- [[People/Benjamin Tallman 1684-1769|Benjamin Tallman 1684-1769]]
 - [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]]
 
 ### C
@@ -144,8 +146,7 @@ tags:
 - [[People/Oliver Warren Lewis|Oliver Warren Lewis]]
 - [[People/Oliver Warren Prior|Oliver Warren Prior]]
 
-### P
-
+- [[People/Patience Durfee Tallman|Patience Durfee Tallman]]
 - [[People/Peter Palmer|Peter Palmer]]
 
 ### R
@@ -188,8 +189,9 @@ tags:
 - [[People/William Kelly|William Kelly]]
 - [[People/William McIntyre|William McIntyre]]
 - [[People/William Monroe Thorp|William Monroe Thorp]]
+- [[People/William Tallman 1720-1791|William Tallman 1720-1791]]
 - [[People/Wynat Lewis|Wynat Lewis]]
 
 ## Summary
 
-Total individuals: 122
+Total individuals: 126

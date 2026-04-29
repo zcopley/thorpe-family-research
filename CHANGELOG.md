@@ -8,6 +8,13 @@ tags:
 
 # Changelog
 
+## 2026-04-29 — Extract Durfee/Tallman genealogy evidence
+
+- Manually reviewed the Tallman-relevant pages from [[References/Book Outprints — Durfee|The Descendants of Thomas Durfee]] because local OCR tooling remains unavailable.
+- Added a processed extraction index at [[References/raw/processed/2026-04-24-book-outprints/Durfee/DURFEE_TALLMAN_INDEX|Durfee Tallman Extraction Index]].
+- Added older Tallman-line pages for [[People/Benjamin Tallman 1684-1769|Benjamin Tallman 1684-1769]], [[People/Patience Durfee Tallman|Patience Durfee Tallman]], [[People/William Tallman 1720-1791|William Tallman 1720-1791]], and [[People/Ann Lincoln Tallman|Ann Lincoln Tallman]].
+- Updated [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]], [[People/Dinah Boone|Dinah Boone]], [[Topics/Ault Tallman Branch Summary|Ault and Tallman Branch Summary]], [[References/Book Outprints Collection|Book Outprints Collection]], [[People Directory|People Directory]], and [[Search Index|Search Index]].
+
 ## 2026-04-29 — Process Settlers by the Long Grey Trail outprint
 
 - Manually reviewed the current *Settlers by the Long Grey Trail* GIF page set because local OCR tooling is still unavailable.
