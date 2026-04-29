@@ -89,6 +89,7 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 - Manually reviewed selected *Genealogy and History of Samuel Miller* GIF page images (pages 11-15, 240-242, and 250) because local OCR tools were unavailable.
 - Manually reviewed selected *Pioneer People of Fairfield County, Ohio* GIF page images (pages 281-283 and 315-317), now indexed in [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Pioneer People of Fairfield County Ohio]].
 - Manually reviewed *MacIntyre* GIF page images (pages 161-165), now indexed in [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]].
+- Manually reviewed the current *Settlers by the Long Grey Trail* GIF set (23 page images plus frontispiece), now indexed in [[References/Book Outprints — Settlers by the Long Grey Trail|Settlers by the Long Grey Trail]] and the processed extraction index.
 
 ## Next Steps
 

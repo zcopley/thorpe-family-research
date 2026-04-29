@@ -18,12 +18,21 @@ tags:
 - A census-summary entry gives John Tallman as born about 1788 and died about 1855.
 - The extraction cross-references John Tallman to the Benjamin B. Tallman and Elizabeth Harrison chain.
 - The Thorpe pedigree timeline places John Tallman between [[People/Benjamin Tallman 1745-1820|Benjamin Tallman]] and [[People/Benjamin B Tallman|Benjamin B Tallman]] in the Tallman chain.
+- *Settlers by the Long Grey Trail* page 375 says litigation over [[People/Nathaniel Harrison|Nathaniel Harrison]]'s heirs identified [[People/Elizabeth Harrison|Elizabeth Harrison]] as wife of John Tallman.
+- Page 375 says a 10 March 1817 deed included John Tallman and wife Elizabeth, of Fairfield County, Ohio, conveying their share of Nathaniel Harrison land.
+- Page 376 says Elizabeth Harrison married John Tallman in 1808 and removed to Ohio.
+
+## Family Connections
+
+- **Spouse:** [[People/Elizabeth Harrison|Elizabeth Harrison]]
+- **In-laws from compiled-book evidence:** [[People/Nathaniel Harrison|Nathaniel Harrison]] and [[People/Mary Woodley|Mary Woodley]]
 
 ## Research Gaps
 
 1. Verify birth and death dates against primary records.
 2. Confirm household relationships in the 1850 Ohio census context.
-3. Reconcile the pedigree-line John Tallman with the broader Fairfield County Tallman pioneer narrative.
+3. Locate the 1817 deed naming John Tallman and wife Elizabeth, of Fairfield County, Ohio.
+4. Reconcile the pedigree-line John Tallman with the broader Fairfield County Tallman pioneer narrative.
 
 ## Sources
 
@@ -31,3 +40,4 @@ tags:
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
 3. `References/raw/processed/2026-04-24-census-indesign/CensusSummary-TallmanJohn.txt`
 4. [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Book Outprints — Pioneer People of Fairfield County Ohio]]
+5. [[References/Book Outprints — Settlers by the Long Grey Trail|Book Outprints — Settlers by the Long Grey Trail]]

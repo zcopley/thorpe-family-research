@@ -125,6 +125,7 @@ tags:
 - [[People/Mary Van Horn|Mary Van Horn]]
 - [[People/Mary Wheeler|Mary Wheeler]]
 - [[People/Mary Whitfield|Mary Whitfield]]
+- [[People/Mary Woodley|Mary Woodley]]
 - [[People/Mathias Miller|Mathias Miller]]
 - [[People/Matilda Baxter|Matilda Baxter]]
 - [[People/Matilda Hiskey|Matilda Hiskey]]
@@ -135,6 +136,7 @@ tags:
 
 - [[People/Nancy West Rowland|Nancy West Rowland]]
 - [[People/Nathan Spicer|Nathan Spicer]]
+- [[People/Nathaniel Harrison|Nathaniel Harrison]]
 
 ### O
 
@@ -190,4 +192,4 @@ tags:
 
 ## Summary
 
-Total individuals: 120
+Total individuals: 122

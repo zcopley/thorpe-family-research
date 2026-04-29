@@ -18,10 +18,18 @@ tags:
 - A census-summary entry gives Elizabeth Harrison as born about 1792 with death date unresolved.
 - The 1850 Violet Township, Fairfield County, Ohio household table includes Elizabeth Tallman with John Tallman and Slough household members.
 - The extract cites Series M432, Roll 677, Page 144.
+- *Settlers by the Long Grey Trail* page 375 says litigation over [[People/Nathaniel Harrison|Nathaniel Harrison]]'s heirs identified Elizabeth as wife of [[People/John Tallman|John Tallman]].
+- Page 375 says a 10 March 1817 deed included John Tallman and wife Elizabeth, of Fairfield County, Ohio, conveying their share of Nathaniel Harrison land.
+- Page 376 lists Elizabeth among the children of [[People/Nathaniel Harrison|Nathaniel Harrison]] and [[People/Mary Woodley|Mary Woodley]], gives her marriage as 1808 to John Tallman, and says she removed to Ohio.
+
+## Family Connections
+
+- **Spouse:** [[People/John Tallman|John Tallman]]
+- **Parents:** [[People/Nathaniel Harrison|Nathaniel Harrison]] and [[People/Mary Woodley|Mary Woodley]], based on compiled-book and litigation-summary evidence.
 
 ## Research Gaps
 
-1. Confirm maiden-name linkage Harrison-to-Tallman from marriage or probate records.
+1. Confirm the Harrison-to-Tallman marriage and parentage from the original probate, deed, or chancery records cited by *Settlers by the Long Grey Trail*.
 2. Verify age and birthplace values from image-level census page.
 3. Resolve death date currently recorded as unknown in summary index line.
 
@@ -29,4 +37,5 @@ tags:
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
 2. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
-1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-HarrisonElizabeth.txt`
+3. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-HarrisonElizabeth.txt`
+4. [[References/Book Outprints — Settlers by the Long Grey Trail|Book Outprints — Settlers by the Long Grey Trail]]

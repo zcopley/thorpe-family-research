@@ -8,6 +8,14 @@ tags:
 
 # Changelog
 
+## 2026-04-29 — Process Settlers by the Long Grey Trail outprint
+
+- Manually reviewed the current *Settlers by the Long Grey Trail* GIF page set because local OCR tooling is still unavailable.
+- Added a processed extraction index at [[References/raw/processed/2026-04-24-book-outprints/Settlers-by-the-Long-Grey-Trail/SETTLERS_LONG_GREY_TRAIL_INDEX|Settlers by the Long Grey Trail Extraction Index]].
+- Updated [[References/Book Outprints — Settlers by the Long Grey Trail|Settlers by the Long Grey Trail]] with page-level evidence from pages 312 and 374-376.
+- Added Harrison/Woodley parent pages for [[People/Nathaniel Harrison|Nathaniel Harrison]] and [[People/Mary Woodley|Mary Woodley]].
+- Updated [[People/Elizabeth Harrison|Elizabeth Harrison]], [[People/John Tallman|John Tallman]], [[Topics/Ault Tallman Branch Summary|Ault and Tallman Branch Summary]], [[References/Book Outprints Collection|Book Outprints Collection]], [[People Directory|People Directory]], and [[Search Index|Search Index]].
+
 ## 2026-04-28 — Complete Samuel Miller book-outprint page review
 
 - Manually reviewed additional pages 11-15 and 250 from [[References/Book Outprints — Genealogy and History of Samuel Miller|Genealogy and History of Samuel Miller]], expanding earlier page 240-242 coverage.

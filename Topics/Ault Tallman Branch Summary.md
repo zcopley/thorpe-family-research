@@ -21,6 +21,9 @@ graph TD
   MMT["Miller Mathias Tallman<br/>1841-1921"]
   B1745["Benjamin Tallman<br/>1745-1820"]
   JT["John Tallman<br/>c.1788-c.1855"]
+  EH["Elizabeth Harrison<br/>wife of John Tallman"]
+  NH["Nathaniel Harrison<br/>d. 1807"]
+  MW["Mary Woodley<br/>b. 1764"]
   BT["Benjamin B Tallman<br/>1811-1881"]
   RM["Romancy Miller<br/>1819-1911"]
   WG["Willis G. Tallman<br/>William Gilmore?<br/>b. ~1874"]
@@ -35,6 +38,10 @@ graph TD
   EPA --> LT
   LT --- UBT
   B1745 --> JT
+  NH --- MW
+  NH --> EH
+  MW --> EH
+  EH --- JT
   JT --> BT
   BT --- RM
   BT --> MMT
@@ -51,6 +58,7 @@ The solid family group around Elizabeth Plomey Ault and Miller Mathias Tallman i
 - [[People/Benjamin B Tallman|Benjamin B Tallman]] - Iowa Tallman farming patriarch with 1850-1880 household coverage.
 - [[People/Romancy Miller|Romancy Miller]] - Tallman matriarch tracked across six decades of household records.
 - [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]] - Older Tallman ancestor linked by burial, pedigree, and pioneer-book evidence.
+- [[People/John Tallman|John Tallman]] and [[People/Elizabeth Harrison|Elizabeth Harrison]] - Older Ohio Tallman couple now tied to Harrison/Woodley compiled-book evidence from Rockingham County, Virginia.
 - [[People/Samuel Tallman|Samuel Tallman]] and [[People/Sarah Wells Tallman|Sarah Wells Tallman]] - Fairfield County pioneer context for the Tallman settlement cluster.
 
 ## What We Know
@@ -61,6 +69,7 @@ The solid family group around Elizabeth Plomey Ault and Miller Mathias Tallman i
 - The Miller genealogy page image identifies [[People/Miller Mathias Tallman|Miller Mathias Tallman]] as a child of [[People/Romancy Miller|Romancy Miller]] and Benjamin Tallman, reducing the earlier uncertainty about whether he belonged to that household.
 - Later Miller genealogy pages strengthen the Tallman-to-Thorpe bridge: page 250 says Elvin Lenora Tallman married U. B. Thorpe and had Ralph Thorpe, while the census summaries and Thorpe pedigree timeline identify the same branch as [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]] and [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]].
 - *Pioneer People of Fairfield County, Ohio* adds an older Tallman settlement context around [[People/Benjamin Tallman 1745-1820|Benjamin Tallman]], [[People/Dinah Boone|Dinah Boone]], [[People/Samuel Tallman|Samuel Tallman]], and [[People/Sarah Wells Tallman|Sarah Wells Tallman]].
+- *Settlers by the Long Grey Trail* says [[People/Elizabeth Harrison|Elizabeth Harrison]], wife of [[People/John Tallman|John Tallman]], was a child of [[People/Nathaniel Harrison|Nathaniel Harrison]] and [[People/Mary Woodley|Mary Woodley]], and cites an 1817 deed involving John Tallman and wife Elizabeth of Fairfield County, Ohio.
 - Burial-site evidence supports several dates and cemetery placements in this family cluster.
 
 ## What Remains Uncertain
@@ -68,6 +77,7 @@ The solid family group around Elizabeth Plomey Ault and Miller Mathias Tallman i
 - The relationship between the Benjamin/Romancy Tallman household and [[People/Miller Mathias Tallman|Miller Mathias Tallman]] is now supported by compiled sources, but still needs primary-record confirmation.
 - The Miller genealogy's `Lizzie Wimmer`, `William Gilmore Tallman`, and `Elvin Lenora Tallman` names likely correspond to the census-linked Elizabeth/Willis/Lena family group, but this should remain a reconciliation issue until marriage, death, or probate records confirm it.
 - The older Tallman chain from [[People/Benjamin Tallman 1745-1820|Benjamin Tallman]] through [[People/John Tallman|John Tallman]] to [[People/Benjamin B Tallman|Benjamin B Tallman]] needs probate, land, church, or cemetery verification.
+- The Harrison/Woodley evidence for [[People/Elizabeth Harrison|Elizabeth Harrison]] is compiled-book evidence pointing to probate, litigation, and deed records; the underlying originals should be checked before treating the parentage as fully proven.
 - Some children in the Tallman households need later-life tracing, especially Willis G. Tallman and Lena P. Tallman.
 - Original census images should be reviewed to validate OCR-sensitive spellings such as Tallman, Talmon, and Tollman.
 
@@ -83,3 +93,4 @@ The solid family group around Elizabeth Plomey Ault and Miller Mathias Tallman i
 8. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Burial Sites Summary]]
 9. [[References/Book Outprints — Genealogy and History of Samuel Miller|Genealogy and History of Samuel Miller]]
 10. [[References/Book Outprints — Pioneer People of Fairfield County Ohio|Pioneer People of Fairfield County Ohio]]
+11. [[References/Book Outprints — Settlers by the Long Grey Trail|Settlers by the Long Grey Trail]]
