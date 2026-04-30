@@ -27,6 +27,12 @@ tags:
 - Occupations, ages, and locations are transcribed from census summaries but should be verified against primary sources.
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **MONSON, Arther**
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

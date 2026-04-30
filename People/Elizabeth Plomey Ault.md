@@ -429,6 +429,19 @@ Member, Soldiers Home
 
 
 
+
+
+
+
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **AULT, Eliza**
+> - **TALLMAN, Elizabeth**
+> - **TALLMAN, Elizabeth P**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Elizabeth Plomey Ault (1841-1926).

@@ -591,6 +591,12 @@ None
 
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **SPICER, Hattie**
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Hattie May Risden (1877-1967).

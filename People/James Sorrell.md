@@ -208,6 +208,12 @@ Essex, Rastow?
 63
 ```
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **SORREL, James**
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]

@@ -83,6 +83,13 @@ Cambridgeshire, Whittlesey
 86
 ```
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **KELLEY, Sarah**
+> - **KELLY, Sarah**
 ## Sources
 
 1. `References/raw/extracted/CensusSummaryIndividual.txt`

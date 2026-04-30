@@ -64,6 +64,17 @@ died March, Fever - Ill 3 days
 
 
 
+
+
+
+
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **BERGETT, Mary (GREENWOOD)**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Mary Greenwood (1835-1918).

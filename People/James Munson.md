@@ -289,6 +289,12 @@ Essex, Felstead
 ```
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **MONSON, James**
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

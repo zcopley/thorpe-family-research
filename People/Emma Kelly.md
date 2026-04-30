@@ -236,6 +236,12 @@ Peterborough
 ```
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **BELLAMY, Emma**
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

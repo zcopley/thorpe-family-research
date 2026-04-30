@@ -79,6 +79,12 @@ Robert Archer John Thorpe
 24
 ```
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **BERGETT, William**
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]

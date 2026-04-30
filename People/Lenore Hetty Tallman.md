@@ -406,6 +406,20 @@ None
 ```
 
 
+
+
+
+
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **TALLMAN, Lena**
+> - **TALLMAN, Lena H**
+> - **THORPE, Lenore**
+> - **THORPE, Lenore H**
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

@@ -351,6 +351,19 @@ None
 
 
 
+
+
+
+
+
+
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **PALMER, W H**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of William Henry Palmer (1851-1927).

@@ -282,6 +282,13 @@ Day labr
 25
 ```
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **BANGLE, Angeline**
+> - **BANGLE, Cazwell**
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]

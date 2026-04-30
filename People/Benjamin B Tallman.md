@@ -371,6 +371,13 @@ OH
 
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **TALMON, Benjamin**
+> - **TOLLMAN, Benjamin**
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Benjamin B Tallman (1811-1881).

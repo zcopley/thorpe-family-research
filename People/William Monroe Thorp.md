@@ -279,6 +279,21 @@ NY
 
 
 
+
+
+
+
+
+
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **THORP, Monroe**
+> - **THORP, Munroe**
+> - **THORPE, M**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of William Monroe Thorp (1835-1899).

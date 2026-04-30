@@ -348,6 +348,21 @@ OH
 
 
 
+
+
+
+
+
+
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **SPICER, C R**
+> - **SPICER, Chas R**
+> - **SPICER, Russell**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Charles Russell Spicer (1822-1887).

@@ -415,6 +415,12 @@ None
 ```
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **BANGLE, Elisabeth**
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

@@ -201,6 +201,12 @@ Essex, Rastow?
 84
 ```
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **SORREL, Ann**
 ## Sources
 
 1. `References/raw/extracted/CensusSummaryIndividual.txt`

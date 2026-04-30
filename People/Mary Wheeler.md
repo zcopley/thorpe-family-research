@@ -237,6 +237,13 @@ IL
 ```
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **AULT, Mary**
+> - **AUT, Mary**
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

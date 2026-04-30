@@ -29,6 +29,14 @@ tags:
 3. Reconcile occupation and property fields where OCR appears uncertain.
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **MILLER, Ama**
+> - **MILLER, Amy**
+> - **MILLER, Anna**
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

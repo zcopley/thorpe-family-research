@@ -124,6 +124,14 @@ Northamptonshire, Peterborough
 85
 ```
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **EMBLOW, Eleanor**
+> - **EMBLOW, Elenor**
+> - **EMBLOW, Ellen**
 ## Sources
 
 1. `References/raw/extracted/CensusSummaryIndividual.txt`

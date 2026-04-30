@@ -482,6 +482,15 @@ Own Income
 
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **TALLMAN, Romancee**
+> - **TALLMAN, Romancy**
+> - **TALMON, Romcy**
+> - **TOLLMAN, Romancy**
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Romancy Miller (1819-1911).

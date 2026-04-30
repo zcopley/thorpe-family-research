@@ -414,6 +414,12 @@ None
 
 
 
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **PRIOR, Martha**
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Martha Eliza Lewis (1859-1923).

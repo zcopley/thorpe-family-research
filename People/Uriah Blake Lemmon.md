@@ -293,6 +293,18 @@ CT
 
 
 
+
+
+
+
+
+## Name Variations
+
+> [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
+>
+> - **LEMMON, Euriah B**
+> - **LEMON, Uriah B**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Uriah Blake Lemmon (1808-1887).
