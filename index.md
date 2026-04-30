@@ -1,7 +1,7 @@
 ---
 title: Thorpe Family History
 description: A guided, source-grounded family history site for the Thorpe family and connected lines.
-date: 2026-04-27
+date: 2026-04-30
 ---
 
 # Thorpe Family History
@@ -38,3 +38,4 @@ The current vault documents over 120 people and includes census extracts, burial
 This is a research wiki, not a finished family book. Some pages are well supported by census summaries, burial records, and pedigree timeline exports; other pages are still placeholders for future verification. When the evidence is uncertain, the page should say so.
 
 The current vault documents 111 people and includes census extracts, burial-site notes, compiled pedigree timelines, and references to 31 genealogical or historical book extracts. The strongest visitor-ready pages are linked from the branch summaries above.
+ove.
