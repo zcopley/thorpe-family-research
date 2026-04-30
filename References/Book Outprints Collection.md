@@ -95,11 +95,28 @@ A collection of 31 genealogical and historical books with extracted pages (77 to
 - Manually reviewed [[References/Book Outprints — Bowne William|William Bowne of Yorkshire, England and His Descendants]]; the PDF extracted cleanly and the RTF duplicate confirmed the same text, including the Monmouth Lincoln-family section.
 - Manually reviewed [[References/Book Outprints — Great Baddow Oral History|Great Baddow Oral History]]; page 6 names Whitehouse Farm farmed by Elijah Sorrell and page 91 repeats Elijah Sorrell in the village farm context.
 
+## Current Blocked Folders
+
+The following Fairfield County outprint folders are currently blocked because the synced directory contains only `desktop.ini` and no usable page assets:
+
+- [[References/Book Outprints — Descendants of Nathan Spicer|BOOK 00001 Descendants of Nathan Spicer]]
+- [[References/Book Outprints — Autobiography of Clyde Thorpe|BOOK 00008 Autobiography of Clyde Thorpe]]
+- [[References/Book Outprints — Descendants of Peter Spicer 1|BOOK 00014 Descendants of Peter Spicer 1]]
+- [[References/Book Outprints — Descendants of Hugh Lemmon|BOOK 00016 Descendants of Hugh Lemmon]]
+- [[References/Book Outprints — Descendants of Peter Spicer Supplement|BOOK 00021 Descendants of Peter Spicer Supplement]]
+
+## Remaining Actionable Raw Items
+
+- The processed pedigree timelines remain the highest-value raw-source set for branch cleanup and discrepancy tracking.
+- `CensusSummaryIndividual.pdf` remains actionable when a targeted gap needs image-level census verification.
+- `BurialSites.pdf` remains actionable when a targeted cemetery or inscription claim needs image-level verification.
+- The small image-only scraps `BOOK 00020 History of Felsted` and `BOOK 00023 Tales of the Town` remain low-priority follow-up items after the pedigree timelines are exhausted.
+
 ## Next Steps
 
-1. Continue manual image checks for the remaining GIF image books and the small image-only outprints that still need review.
+1. Continue manual image checks for remaining folders that actually contain page assets.
 2. Link newly extracted book evidence to relevant people pages with explicit page-level provenance when a direct Thorpe-family connection exists.
-3. Create reconciliation entries for individuals appearing in multiple books.
+3. Revisit blocked folders only after new page images appear in the synced intake.
 
 ## File Format Notes
 

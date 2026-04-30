@@ -14,6 +14,7 @@ tags:
 - **Birth/Death:** Born 3 Apr 1796; died 16 May 1873 (age 77 years, 1 month, 13 days)
 - **Role in this project:** Spicer line patriarch; grandfather of George B. Spicer; patriarch of Iowa Spicer agricultural line (1850s-1870s).
 - **Burial:** Spicer/Spooner Cemetery, Homestead, Iowa; Grave 13 on Highway 6, 1.5 miles east; inscription `NATHAN SPICER / DIED / May 16, 1873 / AGED / 77yrs. 1mo. 13ds`; Burial Sites book, page 34.
+- The processed Spicer timeline review places this Nathan after two earlier `Nathan Spicer` labels and before the unresolved repeated-Nathan / Claramon Tiffany zone.
 
 ## Census Records and Household Context
 
@@ -77,6 +78,7 @@ tags:
 2. Clarify exact lineage: Nathan → Charles Russell → George B. (son→son or other relationship?)
 3. Verify death date and location from vital records (Homestead burial suggests Iowa County residence)
 4. Explore Henry and Zura Spicer (children, Ohio-born, date/context unclear)
+5. Keep the repeated-Nathan chart problem explicit instead of flattening it into a single solved line.
 
 ## Sources
 
@@ -86,3 +88,4 @@ tags:
 4. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Spicer Lineage Note]]
 
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/SPICER_PEDIGREE_TIMELINE_INDEX|Spicer Pedigree Timeline Extraction Index]]

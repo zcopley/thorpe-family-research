@@ -21,6 +21,7 @@ tags:
 - The 1871 entry is cited in the summary as RG10 Piece 1517, Folio 85, Page 6.
 - The Burial Sites book index also lists James Kelly as `c1825-1903`, but the extracted text did not yield a separate cemetery page.
 - The Bellamy pedigree timeline also includes a James Kelly branch with a different spouse interpretation (`Sarah Barton?`), so the Bellamy export should be treated as a separate research lead rather than a resolution.
+- The processed Bellamy timeline review keeps that conflict open: the chart uses `James Kelly c1828-before 1881?` with `Sarah Barton?`, which should not override the stronger parish and census evidence on this page.
 
 ## Family Diagram
 
@@ -59,6 +60,7 @@ This is a household sketch based on the parish extract and the census-summary fa
 2. Confirm birth date versus christening date from original parish image.
 3. Add spouse/children only after image-level confirmation.
 4. Reconcile the Bellamy timeline's James Kelly interpretation against the Peterborough parish and census evidence already on this page.
+5. Keep the chart's `Sarah Barton?` placement as a lead only unless additional local records support it.
 
 ## Sources
 
@@ -66,10 +68,11 @@ This is a household sketch based on the parish extract and the census-summary fa
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
 4. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
-5. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
-6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-7. `References/raw/inbox/2026-04-22-intake/Certificates/JamesKellyBaptism1830.txt`
-8. `References/raw/inbox/2026-04-22-intake/Census/EnglishCensusCitations.txt`
-9. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+5. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+6. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+7. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+8. `References/raw/inbox/2026-04-22-intake/Certificates/JamesKellyBaptism1830.txt`
+9. `References/raw/inbox/2026-04-22-intake/Census/EnglishCensusCitations.txt`
+10. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-KellyJames.txt`

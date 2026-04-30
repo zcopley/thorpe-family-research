@@ -18,6 +18,7 @@ tags:
 - **Birth/Death:** Born 1 May 1886; died 21 May 1979 (age 93 years, 20 days).
 - **Maiden surname:** Palmer; married name: Prior (married [[People/Oliver Warren Prior|Oliver Prior]] c. 1910)
 - **Burial:** Cedar Memorial Cemetery, Cedar Rapids, Iowa; 110 Lakeview, Space 5; GPS 42°1’25.1”N 91°37’47.2”W; inscription `OUR MOM / MAY A. PRIOR / MAY 1, 1886 / MAY 21, 1979`
+- The processed Prior timeline review confirms May Aleen Palmer as the direct spouse line attached to [[People/Oliver Warren Prior|Oliver Warren Prior]] and preserves her chart ID as a search lead only.
 
 ## Census Records and Life Progression
 
@@ -121,12 +122,14 @@ May Aleen Palmer’s life arc spans Minnesota farm childhood (1900) through Iowa
 3. Identify Martha’s husband surname (Cashman) and trace his line.
 4. Trace remaining children’s adult lives in later records.
 5. Confirm Oliver Prior’s occupational and family details.
+6. Keep the chart's alphanumeric ID as a lead only rather than a verified external-profile match.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
-3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-4. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
-5. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]]
+4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+5. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
+6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

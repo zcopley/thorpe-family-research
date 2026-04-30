@@ -9,110 +9,79 @@ tags:
 
 # Thorpe Pedigree Timelines
 
-This page tracks the pedigree timeline files provided by [[People/Robert Butch Thorpe|Robert "Butch" Thorpe]] and documents what they contain.
+This page tracks the pedigree timeline files provided by [[People/Robert Butch Thorpe|Robert "Butch" Thorpe]] and the processed indexes built from their PDF exports.
 
 ## Files Provided
 
 - `References/raw/PedigreeTimelines2025.cdr`
 - `References/raw/PedigreeTimelines2019Descendants2.cdr`
 
-## Extracted Timeline Files
+## Processed Timeline Indexes
 
-- `References/raw/extracted/PedigreeTimelines2025.txt`
-- `References/raw/extracted/PedigreeTimelines2025Thorpe.txt`
-- `References/raw/extracted/PedigreeTimelines2025Spicer.txt`
-- `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
-- `References/raw/extracted/PedigreeTimeline2025Prior.txt`
-- `References/raw/extracted/PedigreeTimelines2019Descendants2.txt`
-- `References/raw/processed/2026-04-22-intake/Pedigree Timeline/THORPE_PEDIGREE_TIMELINE_INDEX.md`
+- [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/THORPE_PEDIGREE_TIMELINE_INDEX|Thorpe Pedigree Timeline Extraction Index]]
+- [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+- [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]]
+- [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/SPICER_PEDIGREE_TIMELINE_INDEX|Spicer Pedigree Timeline Extraction Index]]
+
+## Public Intake Notes
+
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Thorpe]]
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Bellamy]]
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Prior]]
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Spicer]]
 
 ## Butch's Notes on How to Read the Timelines
 
 Per [[References/Butch Thorpe Email|Butch's email]]:
+
 - Horizontal bars represent ancestor lifespans.
 - Red dots indicate official records.
 - Numbers by red dots refer to Butch's personal record copies.
 - Blue dots indicate census records corresponding to the date marked by vertical lines.
 - The charts show selected early generations that fit on each page, not all ancestors with records.
 
-## Current Limitation
+## Current Working Status
 
-The files are CorelDRAW (`.cdr`) documents and require export to PDF or image before structured transcription into person pages can proceed.
-The repository now also has extracted text for the charts, which is enough to mine branch names, timeline groupings, and discrepancy candidates.
+- The original `.cdr` files still require PDF or image export before they can be reviewed in the vault.
+- The four 2025 pedigree PDFs have now been processed into draft indexes that are good enough for branch placement, discrepancy tracking, and source anchors.
+- Spouse and parent placements in the Bellamy and Spicer charts still depend on visual layout and should not be treated as plain-text-only proof.
 
-## Extracted Branch Highlights
+## Branch Highlights by Chart
 
-### Thorpe / Lemmon / Blake
+### Thorpe / Lemmon / Tallman / Ault
 
-- [[People/John Thorp|John Thorp]] `1791-1850`
-- [[People/Jane Wager|Jane Wager]] `1798-1870`
-- [[People/William Monroe Thorp|William Monroe Thorp]] `1835-1899`
-- [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] `1841-1886`
-- [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] `1878-1959`
-- [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]] `1917-1974`
-- [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] `1808-1887`
-- [[People/James Lemmon|James Lemmon]] `1779-1854`
-- [[People/Rebecca Blake|Rebecca Blake]] `1779-1855`
-- [[People/Hugh Lemmon|Hugh Lemmon]] `1754-1824`
-- [[People/Martha McHenry|Martha McHenry]]
-- [[People/Richard Blake|Richard Blake]]
-- [[People/Damaris Smedley|Damaris Smedley]]
-- [[People/William McIntyre|William McIntyre]]
-- [[People/Major McIntyre|Major McIntyre]]
-- [[People/Rosanna Campbell|Rosanna Campbell]]
+- The Thorpe chart clearly carries `John Thorp 1791-1850` -> `William Monroe Thorp 1835-1899` -> `Uriah Blake Thorpe 1878-1959` -> `Raymond Miller Thorpe 1917-1974`.
+- It also visibly places `Jane Wager/Jennie Dodge`, `Sarah Annett Lemmon`, and `Lenore Hetty Tallman` in the same direct-line context.
 
-The Thorpe timeline is the clearest direct-chain chart in the vault: it runs John Thorp -> William Monroe Thorp -> Uriah Blake Thorpe -> Raymond Miller Thorpe and also shows Jane Wager/Jennie Dodge, Sarah Annett Lemmon, and Lenore Hetty Tallman as adjacent branch labels.
+### Bellamy / Kelly / Emblow / Munson / Thorogood / Sorrell
 
-### Spicer
+- The Bellamy chart clearly carries the later line `James Bellamy c1787-1867` -> `Richard Bellamy c1816-1902` -> `Henry James Bellamy 1862-1948` -> `James Archibald Bellamy 1888-1982`.
+- The earliest Bellamy overlap above James remains unresolved.
+- The same chart provides useful collateral placement for Kelly, Emblow, Munson, Thorogood, and Sorrell pages already in the vault.
 
-- [[People/Nathan Spicer|Nathan Spicer]] appears in both senior and later forms in the extracted text.
-- [[People/Charles Russell Spicer|Charles Russell Spicer]] `1822-1887`
-- [[People/George B Spicer|George B. Spicer]] `1864-1938`
-- [[People/Mary Burgett|Mary Burgett]] `1835-1918`
-- [[People/Hattie May Risden|Hattie May Risden]] `1877-1967`
-- [[People/Lester Harold Spicer|Lester Harold Spicer]] `1906-1974`
-- [[People/Watson Moses Risden|Watson Moses Risden]] `1843-1932`
-- [[People/Sophronia Burdick|Sophronia Burdick]] `c1823-1888`
+### Prior / Lewis / Palmer / Bangle
 
-### Bellamy / Kelly / Emblow / Munson
+- The Prior chart clearly carries `Joseph Warren Washington Prior 1828-1909` -> `Arthur Edwin Prior 1853-1929` -> `Oliver Warren Prior 1880-1949` -> `Ruby Bernice Prior 1913-2006`.
+- It also ties `Martha Eliza Lewis` into the direct Prior chain and shows `May Aleen Palmer` as the later spouse line.
+- `Oliver Elhanon Lewis`, `Elizabeth Quackenbush`, and the Bangle line remain compiled-chart collateral rather than fully reconciled proof.
 
-- [[People/William Bellamy|William Bellamy]]
-- [[People/James Bellamy|James Bellamy]] `c1787-1867`
-- [[People/Richard Bellamy|Richard Bellamy]] `c1816-1902`
-- [[People/Henry James Bellamy|Henry James Bellamy]] `1862-1948`
-- [[People/Emma Kelly|Emma Kelly]] `1861-1910`
-- [[People/James Kelly|James Kelly]] appears with a slightly different age range in the timeline text than in the parish/census pages.
-- [[People/Joseph Emblow|Joseph Emblow]]
-- [[People/Martha Emblow|Martha Emblow]]
-- [[People/Emily Munson|Emily Munson]] `1862-1932`
+### Spicer / Risden / Burgett
 
-### Prior / Palmer / Lewis / Quackenbush
+- The Spicer chart clearly supports the later chain `Charles Russell Spicer 1822-1887` -> `George B Spicer 1864-1938` -> `Lester Harold Spicer 1906-1974`.
+- The earlier repeated-`Nathan Spicer` segment and `Claramon Tiffany` placement remain unresolved and should stay marked that way.
+- The same chart provides a clear Risden side line from `Onesimus Risden` to `Hattie May Risden`.
 
-- [[People/Arthur Edwin Prior|Arthur Edwin Prior]] `1853-1929`
-- [[People/Wynat Lewis|Wynant Williamson Lewis]] `c1781-after 1860`
-- [[People/John K Palmer|John K Palmer]] `1821-1906`
-- [[People/William Henry Palmer|William Henry Palmer]] `1851-1927`
-- [[People/May Aleen Palmer|May Aleen Palmer]] `1886-1979`
-- [[People/Mary Wheeler|Mary Wheeler]] `1801-1883`
-- [[People/Elizabeth A Quackenbush|Elizabeth Quackenbush]] `c1841-1909`
-- [[People/Jane Wilson|Jane Wilson]] `1824-1910`
+## Main Discrepancy Candidates
 
-## Discrepancy Candidates
-
-| Person | Timeline Text | Other Vault Evidence | Notes |
-|--------|---------------|----------------------|-------|
-| [[People/Arthur Edwin Prior|Arthur Edwin Prior]] | `1853-1929` | Census-summary page says `1851-1929` | Likely needs image-level confirmation before the birth year is treated as settled. |
-| [[People/John Wheeler Risden|John Wheeler Risden]] | `c1816-1884` | Census-summary and burial pages say `1812-1892` | This is the strongest date conflict surfaced by the timeline text. |
-| [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]] | `c1841-1909` | Census-summary page says `c1836-1909` | Could be a different person or an OCR/lineage-chart mismatch. |
-| [[People/James Kelly|James Kelly]] | `c1828-before 1881?` | Parish and census pages point to christening in 1830 and later family entries | The chart text may be a different James Kelly or an error in the compiled timeline. |
+| Person | Timeline reading | Other vault evidence | Current handling |
+|---|---|---|---|
+| [[People/Arthur Edwin Prior|Arthur Edwin Prior]] | `1853-1929` | Some local census-summary treatment uses `1851-1929` | Keep birth year open. |
+| [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]] | `c1841-1909` | Existing page uses `c1836-1909` | Keep as unresolved discrepancy. |
+| [[People/John Wheeler Risden|John Wheeler Risden]] | `c1816-1884` | Existing local notes use different dates | Keep as unresolved discrepancy. |
+| [[People/James Kelly|James Kelly]] | `c1828-before 1881?` with `Sarah Barton?` | Parish and census material point elsewhere | Treat chart as compiled lead, not resolution. |
+| `Claramon Tiffany` placement | Repeated-Nathan zone in the Spicer chart | Existing pages previously flattened this into a spouse claim | Keep unresolved. |
 
 ## Record-Reference Leads
 
-- The extracted text includes identifiers like `LVLZ-FHQ`, `LWX6-WZ9`, `K2TN-858`, `KGMR-XXX`, and `LHK4-7HG`.
-- Treat these as search leads only until they are tied back to a known record system or person-copy index.
-- If the `.cdr` files are revisited later, these IDs are the first thing to map back to their source notes.
-
-## Requested Follow-up Sources
-
-- PDF list of record types collected by Butch
-- Mapping/key for numbered red-dot record references
+- The processed indexes preserve chart-only marker systems such as numbered record references, `CD` tags, burial markers, obituary markers, and alphanumeric IDs.
+- These remain research leads only until tied back to stronger local source material.

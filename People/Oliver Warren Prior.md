@@ -19,6 +19,7 @@ tags:
 - The 1900 Grand Meadows Township, Mower County, Minnesota entry lists Oliver W. Prior as son in Arthur and Martha Prior's household.
 - The 1910 East Waterloo Township, 1920 Cedar Rapids, and 1930 Cedar Rapids entries track Oliver and May Prior households with multiple children.
 - The Prior pedigree timeline places `Oliver Warren Prior` (1880-1949) in the generation following `Arthur Edwin Prior` and `Martha Eliza Lewis`.
+- The processed Prior timeline review also keeps Oliver as the parent generation immediately above `Ruby Bernice Prior`.
 - The Burial Sites book places Oliver Warren Prior at Cedar Memorial Cemetery in Cedar Rapids, Iowa (page 26), `110 Lakeview, Space 4`, with GPS coordinates `42°1’25.1”N 91°37’47.2”W`, date of death 30 May 1949, and inscription `OUR DAD / OLIVER W. PRIOR / MARCH 15, 1880 / MAY 29, 1949`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Cedar+Memorial+Cemetery+Cedar+Rapids+IA).
 
 ## Research Gaps
@@ -26,13 +27,15 @@ tags:
 1. Resolve OCR ambiguity in child names and sex markers in 1920/1930 entries.
 2. Confirm continuity with foundry/moulder occupation across decades.
 3. Validate death date from independent records.
+4. Keep the chart-based parentage link to Ruby Bernice Prior tied to the broader census and burial context.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]
 2. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
 3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
-4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-5. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
-6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+4. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]]
+5. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+6. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
+7. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+8. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

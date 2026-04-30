@@ -212,6 +212,12 @@ graph TD
 5. **Cross-reference with neighboring counties** (Freeborn, Steele, Waseca) for extended family networks
 6. **Trace Oliver Warren Prior (1880–1949)** after 1900 census to confirm Iowa settlement and later life
 
+## Prior Timeline Cross-Check
+
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|The Prior pedigree timeline]] confirms that this county page sits at the intersection of the Lewis, Prior, and Palmer chart lines.
+- The chart directly links [[People/Martha Eliza Lewis|Martha Eliza Lewis]] to [[People/Arthur Edwin Prior|Arthur Edwin Prior]] and carries the line forward to [[People/Oliver Warren Prior|Oliver Warren Prior]] and [[People/May Aleen Palmer|May Aleen Palmer]].
+- The same chart also surfaces two unresolved discrepancies already relevant here: Arthur's `1853` chart birth year and Elizabeth Quackenbush's `c1841` chart birth year.
+
 ## Cross-References
 
 ### Related Geographic Pages
@@ -233,4 +239,5 @@ graph TD
 ### Source References
 - [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]] (household census details)
 - [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Prior Pedigree Timeline]] (lineage context)
+- [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]] (chart review notes)
 - [[References/Shared Intake 2026-04-22 Burial Sites Summary|Burial Sites Summary]] (settlement confirmation)

@@ -13,6 +13,7 @@ tags:
 - **Name:** George B. Spicer
 - **Birth/Death:** 3 Sep 1864 – 15 May 1938 (age 73 years, 8 months)
 - **Role in this project:** Direct-line Spicer patriarch; Iowa agricultural farmer and household head (1900-1938); husband of [[People/Hattie May Risden|Hattie May Risden]] (Thorpe line connection).
+- The processed Spicer timeline review confirms George B. Spicer as the next direct generation after Charles Russell Spicer and before Lester Harold Spicer.
 
 ## Census Records and Household Context
 
@@ -71,6 +72,7 @@ tags:
 1. Confirm whether Charles Spicer (1870 head) is biological father or step-father
 2. Validate exact marriage date (~1900 estimated from census proximity)
 3. Extend profile with any post-1920 records (1930 census, death records)
+4. Keep the earlier Nathan-to-Charles linkage separate from the better-supported Charles-to-George-to-Lester chain.
 
 ## Sources
 
@@ -80,3 +82,4 @@ tags:
 4. [[People/Hattie May Risden|Hattie May Risden]] (spouse page for household context)
 
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/SPICER_PEDIGREE_TIMELINE_INDEX|Spicer Pedigree Timeline Extraction Index]]

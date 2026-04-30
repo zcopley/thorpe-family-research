@@ -1,6 +1,6 @@
 ---
 title: Bellamy, Kelly, Emblow, and Munson Branch Summary
-date: 2026-04-27
+date: 2026-04-29
 tags:
   - "#thorpe-family"
   - "#branch"
@@ -9,66 +9,57 @@ tags:
 
 # Bellamy, Kelly, Emblow, and Munson Branch Summary
 
-## Branch Overview
+This branch is now anchored by the Bellamy pedigree timeline, but it should still be read as compiled genealogy rather than proved lineage. The chart is strongest for the later Bellamy line and for showing which collateral families belong in the same branch cluster.
 
-**Time Period:** 1787–1960s (spanning 1841–1871 UK censuses and 19th-century American settlement)
+## Chart-Supported Core Line
 
-**Geographic Range:** Lincolnshire (Bourn) and Bedhouses; scattered US settlement (Wisconsin, Iowa, Ohio)
+- [[People/James Bellamy|James Bellamy]] (`c1787-1867`)
+- [[People/Richard Bellamy|Richard Bellamy]] (`c1816-1902`)
+- [[People/Henry James Bellamy|Henry James Bellamy]] (`1862-1948`)
+- [[People/James Archibald Bellamy|James Archibald Bellamy]] (`1888-1982`)
 
-**Primary Occupations:** Miller, baker, farm laborer, farm hand; bedehouse worker in later life
+The chart also shows earlier Bellamy labels above James, but their overlap remains unresolved and should stay that way on this branch page.
 
-## Key Ancestor Lines
+## Main Collateral Cluster
 
-- [[People/James Bellamy|James Bellamy]] (1787–c.1867)
-- [[People/Richard Bellamy|Richard Bellamy]] (b. c.1823)
-- [[People/Henry James Bellamy|Henry James Bellamy]] (1817–1901)
-- [[People/William Kelly|William Kelly]] (b. c.1803)
-- [[People/James Kelly|James Kelly]] (b. c.1801)
-- [[People/Emma Kelly|Emma Kelly]] (1835–1914)
-- [[People/Joseph Emblow|Joseph Emblow]] (b. c.1804)
-- [[People/Martha Emblow|Martha Emblow]] (b. c.1803)
-- [[People/Emily Munson|Emily Munson]] (1816–1860)
+- [[People/James Kelly|James Kelly]], [[People/Emma Kelly|Emma Kelly]], [[People/Joseph Emblow|Joseph Emblow]], and [[People/Martha Emblow|Martha Emblow]] belong in the same Peterborough-linked collateral zone.
+- [[People/Emily Munson|Emily Munson]] belongs in the same broader branch cluster through the Munson-to-Thorogood connection.
+- The chart-only `CD3`, `CD4`, `CD5`, `CD8`, `CD10`, and `CD11` markers should be treated as leads, not verified certificates.
 
 ## Family Structure
 
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'default', 'themeVariables': {'primaryTextColor': '#000000', 'primaryBorderColor': '#333333', 'lineColor': '#333333', 'fontSize': '14px'}}}%%
 graph TD
-    JB["James Bellamy<br/>1787–c.1867<br/>Miller/Baker"]
-    RB["Richard Bellamy<br/>b. c.1823<br/>Ag Lab"]
-    HJB["Henry James Bellamy<br/>1817–1901"]
-    WK["William Kelly<br/>b. c.1803"]
-    JK["James Kelly<br/>b. c.1801"]
-    EK["Emma Kelly<br/>1835–1914"]
-    JE["Joseph Emblow<br/>b. c.1804"]
-    ME["Martha Emblow<br/>b. c.1803"]
-    EM["Emily Munson<br/>1816–1860"]
-    
+    JB["James Bellamy<br/>c1787-1867"]
+    RB["Richard Bellamy<br/>c1816-1902"]
+    HJB["Henry James Bellamy<br/>1862-1948"]
+    JAB["James Archibald Bellamy<br/>1888-1982"]
+    JK["James Kelly<br/>chart conflict"]
+    EK["Emma Kelly<br/>1861-1910"]
+    JE["Joseph Emblow<br/>1800-1879?"]
+    ME["Martha Emblow<br/>c1830-1903"]
+    EM["Emily Munson<br/>1862-1932"]
+
     JB --> RB
-    JB --> HJB
-    WK --> JK
+    RB --> HJB
+    HJB --> JAB
     JK --> EK
     JE --> ME
-    JB -.Linked to.- EK
-    ME -.Linked to.- EM
+    ME -. collateral cluster .- JK
+    EM -. same chart cluster .- HJB
 ```
 
-## Census Context
+## What Remains Uncertain
 
-Documented in 1841–1871 UK censuses (HO107, RG9 series) showing household transitions from farming to urban work
+- The early Bellamy overlap involving `William Bellamy 1750?-1817?`, `William Bellamy c1767-1804`, `Sarah ???`, and `Mary Brown?` is not solved here.
+- `James Kelly` remains a conflict case because the chart's spouse/date treatment does not cleanly match the stronger parish and census material already in the vault.
+- Several spouse placements on the chart, especially around `Rebecca Culpin` and `Mary Whitfield`, are visual-chart readings rather than sentence-style evidence.
 
-Multiple family members appear in consecutive UK censuses (1841, 1851, 1861, 1871) showing household composition, occupational transitions, and age progression across the four decades.
+## Sources
 
-## Source Documentation
-
-This family cluster is documented in:
-- [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Pedigree Timeline References]]
-- Census InDesign summary files (2026-04-24 batch) with detailed household and occupational context
-- Burial site records showing cemetery locations and dates
-
-## Research Resources
-
-- Visit [[People Directory]] to find individual family members
-- Check [[Search Index]] for location, occupation, or date searches
-- Review [[CHANGELOG]] for ongoing research notes and updates
-
+1. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
+3. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
+4. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]
+5. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]

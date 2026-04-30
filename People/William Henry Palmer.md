@@ -18,6 +18,7 @@ tags:
 - **Birth/Death:** Born 12 Jun 1851 (inscribed on headstone); died 8 May 1927, age 75, in Waterloo, Iowa.
 - **Cause of Death:** Acute bronchial pneumonia (death-index entry).
 - **Burial:** Fairview Cemetery, Waterloo, Iowa; section M, Row 3, Grave 67; inscription `WILLIAM H. / JUNE 12, 1851 / MAY 8, 1927 / FATHER`.
+- The processed Prior timeline review confirms William Henry Palmer's place in the compiled Palmer chain between `John K Palmer` and `May Aleen Palmer`, with `Elizabeth Maria Bangle` in the adjacent spouse line.
 
 ## Census Records and Life Progression
 
@@ -93,14 +94,16 @@ William Henry Palmer's trajectory follows the family's movement from Wisconsin (
 2. Confirm Elizabeth Palmer's maiden surname and full parentage.
 3. Trace all children's lives in later records, especially the sons (Vern) and daughters.
 4. Identify Viola's husband and clarify family consolidation in Iowa.
+5. Keep the Bangle-side spouse placement tied to compiled-chart status unless stronger local evidence sharpens it.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-4. `References/raw/inbox/2026-04-22-intake/Certificates/CERT0058PalmerWilliaHenry-Death Record.txt`
-5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]]
+4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+5. `References/raw/inbox/2026-04-22-intake/Certificates/CERT0058PalmerWilliaHenry-Death Record.txt`
+6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 
 ## Family Diagram
 
@@ -127,7 +130,8 @@ This is a minimal household sketch from the census-summary and burial-book mater
 
 1. [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Shared Intake 2026-04-22 Certificates and Parish Extracts]]
 2. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]
-3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-5. `References/raw/inbox/2026-04-22-intake/Certificates/CERT0058PalmerWilliaHenry-Death Record.txt`
-6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]]
+4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+5. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+6. `References/raw/inbox/2026-04-22-intake/Certificates/CERT0058PalmerWilliaHenry-Death Record.txt`
+7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

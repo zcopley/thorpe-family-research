@@ -8,6 +8,57 @@ tags:
 
 # Changelog
 
+## 2026-04-29 — Process Bellamy, Prior, and Spicer pedigree timelines plus raw-inventory cleanup
+
+- Added structured processed indexes for the remaining one-page pedigree charts:
+  [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]],
+  [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]],
+  and [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/SPICER_PEDIGREE_TIMELINE_INDEX|Spicer Pedigree Timeline Extraction Index]].
+- Rewrote the public intake notes for [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Bellamy]], [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Prior]], and [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Spicer]] so they now reflect the charts accurately and keep unresolved chart geometry visible.
+- Updated the branch and topic hubs:
+  [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]],
+  [[Topics/Bellamy Branch Summary|Bellamy Branch Summary]],
+  [[Topics/Sorrell and Thorogood Branch Summary|Sorrell and Thorogood Branch Summary]],
+  [[Topics/Palmer Prior Lewis Branch Summary|Palmer Prior Lewis Branch Summary]],
+  [[Topics/Lewis Family Vermont to Minnesota Settlement Arc|Lewis Family Vermont to Minnesota Settlement Arc]],
+  [[Topics/Mower County Minnesota - Lewis Prior Palmer Settlement|Mower County Minnesota - Lewis, Prior, and Palmer Settlement Center]],
+  and [[Topics/Spicer Risden Branch Summary|Spicer Risden Branch Summary]].
+- Tightened Bellamy-cluster person pages with chart-backed placement notes and preserved conflicts on
+  [[People/James Bellamy|James Bellamy]],
+  [[People/Richard Bellamy|Richard Bellamy]],
+  [[People/Henry James Bellamy|Henry James Bellamy]],
+  [[People/James Kelly|James Kelly]],
+  [[People/Emma Kelly|Emma Kelly]],
+  [[People/Joseph Emblow|Joseph Emblow]],
+  [[People/Martha Emblow|Martha Emblow]],
+  [[People/Emily Munson|Emily Munson]],
+  [[People/Mary Ann Thorogood|Mary Ann Thorogood]],
+  [[People/Frederick Thorogood|Frederick Thorogood]],
+  [[People/James Sorrell|James Sorrell]],
+  and [[People/Mary Sorrell|Mary Sorrell]].
+- Tightened Prior and Palmer pages with direct-chain and discrepancy notes on
+  [[People/Arthur Edwin Prior|Arthur Edwin Prior]],
+  [[People/Martha Eliza Lewis|Martha Eliza Lewis]],
+  [[People/Oliver Warren Prior|Oliver Warren Prior]],
+  [[People/William Henry Palmer|William Henry Palmer]],
+  [[People/May Aleen Palmer|May Aleen Palmer]],
+  [[People/Ruby Bernice Prior|Ruby Bernice Prior]],
+  and [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]].
+- Tightened Spicer and Risden pages with later-chain confirmation and unresolved early-generation warnings on
+  [[People/Nathan Spicer|Nathan Spicer]],
+  [[People/Charles Russell Spicer|Charles Russell Spicer]],
+  [[People/George B Spicer|George B. Spicer]],
+  [[People/Hattie May Risden|Hattie May Risden]],
+  [[People/Watson Moses Risden|Watson Moses Risden]],
+  and [[People/Mary Burgett|Mary Burgett]].
+- Marked the blocked shared-intake book folders in
+  [[References/Book Outprints Collection|Book Outprints Collection]],
+  [[References/Book Outprints — Descendants of Nathan Spicer|Descendants of Nathan Spicer]],
+  [[References/Book Outprints — Autobiography of Clyde Thorpe|Autobiography of Clyde Thorpe]],
+  [[References/Book Outprints — Descendants of Peter Spicer 1|Descendants of Peter Spicer 1]],
+  [[References/Book Outprints — Descendants of Hugh Lemmon|Descendants of Hugh Lemmon]],
+  and [[References/Book Outprints — Descendants of Peter Spicer Supplement|Descendants of Peter Spicer Supplement]].
+
 ## 2026-04-29 — Process Thorpe pedigree timeline
 
 - Re-read the one-page `PedigreeTimelines2025Thorpe.pdf` chart and created a structured processed index at [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/THORPE_PEDIGREE_TIMELINE_INDEX|Thorpe Pedigree Timeline Extraction Index]].

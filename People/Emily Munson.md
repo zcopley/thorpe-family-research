@@ -20,6 +20,7 @@ tags:
 - The 1881 Barnston entry lists Emily Munsen as domestic servant.
 - The 1891, 1901, and 1911 Chelmsford entries list Emily Thorogood as wife in Frederick Thorogood households.
 - The Bellamy pedigree timeline places Emily Munson in the Bellamy collateral branch and connects her to the Frederick Thorogood marriage line.
+- The processed Bellamy timeline review confirms Emily's placement under the James Munson branch, while keeping the exact spouse/parent geometry tied to chart layout.
 - The Burial Sites book places Emily Munson Thorogood at Chelmsford Borough Cemetery in Chelmsford, Essex, England (page 21), Grave 4827, with date of death 5 March 1932 and inscription noting her as the beloved wife of Frederick Thorogood. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Chelmsford+Borough+Cemetery+Essex+England).
 
 ## Family Diagram
@@ -44,15 +45,17 @@ This is a household- and marriage-level sketch; the 1881 servant record remains 
 1. Confirm Munson-to-Thorogood marriage linkage from civil records.
 2. Resolve Felstead/Felsted spelling and MUNSON/MUNSEN variants.
 3. Validate incomplete RG14 fields in the 1911 segment from primary images.
+4. Keep the Munson-to-Thorogood chart placement explicitly secondary until corroborated elsewhere.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
-4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-5. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
-6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+4. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+5. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+6. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+7. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+8. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-MunsonEmily.txt`

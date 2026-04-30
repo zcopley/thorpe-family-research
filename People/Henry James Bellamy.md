@@ -20,6 +20,7 @@ tags:
 - The 1891 Peterborough entry lists Henry Bellamy as household head with wife Emma and children including Annie, George, and Archibald.
 - The 1901 Peterborough entry lists `Harry BELLAMY` as head with wife Emma and children including George William, James A, Albert Victor, Olive Winifred, and Milicent May.
 - The Bellamy pedigree timeline places Henry James Bellamy in the Bellamy branch after Richard Bellamy and before James Archibald Bellamy.
+- The processed Bellamy timeline review confirms Henry James Bellamy as the generation between Richard Bellamy and James Archibald Bellamy; nearby Whitfield placements remain chart-layout readings rather than stand-alone proof.
 - The Burial Sites book places Henry James Bellamy at Eastfield Cemetery in Peterborough, Northamptonshire, England (page 7), Block 15, Grave 5610, Burial no. 8556, with date of death 16 February 1948 and no visible stone. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Eastfield+Cemetery+Peterborough+Northamptonshire+England).
 
 ## Research Gaps
@@ -27,15 +28,17 @@ tags:
 1. Reconcile Henry/Harry naming variants across entries.
 2. Validate UK piece/folio/page fields where summary tables are incomplete.
 3. Confirm all child links from image-level records.
+4. Keep Bellamy-to-Whitfield spouse and parent placements tied to chart layout until corroborated elsewhere.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
-4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-5. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
-6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+4. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+5. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+6. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+7. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+8. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BellamyHenryJames.txt`

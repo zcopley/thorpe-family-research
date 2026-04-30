@@ -19,6 +19,7 @@ tags:
 - **Burial:** Spring Grove Cemetery, Covington, Iowa; Lot 88, Space 4; GPS 42°1’47.6”N 91°46’6.2”W; Burial Sites book, page 28.
 - **Known spouses:** Watson Risden (1880), George B. Spicer (1900-1930)
 - **Family lineage:** Daughter of [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] (1841-1886) and Monroe Thorpe; granddaughter of [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]]; married into Spicer family line.
+- The processed Spicer timeline review confirms the Risden-side chain `Onesimus Risden` -> `Moses Risden` -> `John Wheeler Risden` -> `Watson Moses Risden` -> `Hattie May Risden`, while keeping John Wheeler's chart dates as a conflict note.
 
 ## Census Records and Life Progression
 
@@ -123,6 +124,7 @@ Hattie May bridges two marriages across Iowa household evolution: Watson Risden 
 1. Reconcile existing project profile naming (`Hattie Risden`) with this indexed full-name form.
 2. Verify OCR-ambiguous row fields in 1900 and 1910 extracts.
 3. Confirm death date from independent records.
+4. Keep the John Wheeler Risden date conflict visible on linked branch pages and profiles.
 
 ## Sources
 
@@ -133,3 +135,4 @@ Hattie May bridges two marriages across Iowa household evolution: Watson Risden 
 5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/SPICER_PEDIGREE_TIMELINE_INDEX|Spicer Pedigree Timeline Extraction Index]]

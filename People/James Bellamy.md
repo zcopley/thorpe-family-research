@@ -20,19 +20,22 @@ tags:
 - The 1851 Bourn South Street entry lists James Bellamy as widower and `Bede House Man (formerly a miller and baker)`.
 - The 1861 Bourn South Street entry lists James Bellamy as widower and `Bedehouse Man (formerly a baker)`.
 - The Bellamy pedigree timeline places James Bellamy in the early Bellamy branch and also shows an even earlier William Bellamy line that needs careful reconciliation.
+- The processed Bellamy timeline review confirms James Bellamy as the start of the clearest later Bellamy chain, but it keeps the earlier William Bellamy / Sarah ??? / Mary Brown? overlap unresolved.
 
 ## Research Gaps
 
 1. Validate 1841/1851/1861 table transcriptions against image-level originals.
 2. Confirm whether indexed death estimate `c.1867` is supported by primary death/burial records.
 3. Clarify parent/child links implied by co-residence with Richard Bellamy in 1841.
+4. Do not force the upper Bellamy chart overlap into a single parentage solution without stronger records.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
-4. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
-5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+4. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+5. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BellamyJames.txt`

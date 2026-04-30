@@ -28,22 +28,20 @@ Genealogical record of Nathan Spicer descendants
 
 ## Scope & Content
 
-This book outprint is part of the 2026-04-24 intake batch and has not yet been fully processed. It is available as extracted pages (GIF images) in the shared intake folder.
+This book outprint is part of the 2026-04-24 intake batch, but the current synced folder is blocked: it contains only `desktop.ini` and no usable page images or PDFs.
 
 ## Research Value
 
-- Provides genealogical context for Spicer individuals
-- May contain information on relationships, dates, occupations, and locations
-- Useful for reconciliation against census records and vital documents
+- Potentially provides genealogical context for Spicer individuals once real page assets appear.
+- May eventually contain relationship, date, occupation, and location evidence.
+- Is not actionable in the current sync state.
 
 ## Next Steps
 
-- Extract and transcribe text from page images (if feasible via OCR)
-- Cross-reference with existing people pages
-- Create source citations for specific genealogical claims derived from this book
+- Wait for the shared-intake folder to contain actual page assets instead of only `desktop.ini`.
+- Reassess this note only after a new sync adds usable pages.
 
 ## Sources
 
 - Original book: [[References/Book Outprints Collection|Fairfield County Book Outprints Collection]]
 - Extracted pages: `Book Outprints/Descendants of Nathan Spicer/`
-

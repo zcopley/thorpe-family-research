@@ -20,6 +20,7 @@ tags:
 - The 1881 Peterborough North Street entry lists Emma Kelly as an unmarried domestic servant.
 - The 1891 and 1901 Peterborough entries list Emma Bellamy as wife in Henry/Harry Bellamy households.
 - The Bellamy pedigree timeline places Emma Kelly in the Kelly-to-Bellamy branch and suggests the marriage link to Henry James Bellamy.
+- The processed Bellamy timeline review keeps that Henry-James link as a chart-layout reading supported by the later census sequence, rather than as a stand-alone chart proof.
 - The Burial Sites book places Emma Kelly at Broadway Cemetery in Peterborough, Cambridgeshire, England (page 13), 3rd Div, 2nd Plan, Grave no. 3976, with date of death 24 December 1910 and no visible stone. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Broadway+Cemetery+Peterborough+Cambridgeshire+England).
 
 ## Family Diagram
@@ -44,15 +45,17 @@ This sketch shows the household sequence and the later marriage link without col
 1. Confirm continuity from Emma Kelly to Emma Bellamy across 1881-1891 records.
 2. Validate all RG10/RG11/RG12/RG13 details from image-level records where fields are incomplete.
 3. Confirm death details from civil records to support 1910 date.
+4. Keep the chart-based marriage placement tied to the broader census sequence.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
-4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-5. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
-6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+4. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+5. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+6. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+7. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+8. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-KellyEmma.txt`

@@ -20,6 +20,7 @@ tags:
 - The same source batch also contains a separate 1850 Iowa mortality schedule entry for `Mary BERGETT` that is tracked as [[People/Mary Greenwood|Mary Greenwood]]; it is a different person from this Mary Burgett because the mortality entry gives age 38 and a March 1850 death.
 - Later entries in the same section include Mary Spicer in Linn County, Iowa households, including 1900 Clinton Township (`Mary SPICER`, relation mother) and 1910 Maine Township (`Mary SPICER`, relation mother-in-law in a Duffield household).
 - The Burial Sites book lists Mary Burgett as page 11 and places her in the Spicer/Spooner Cemetery section (page 52), which also includes George B. Spicer and Hattie May Risden Spicer. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Spicer+Spooner+Cemetery+Homestead+Iowa).
+- The processed Spicer timeline review confirms Mary Burgett as the spouse line paired with Charles Russell Spicer and keeps Mary Greenwood separate as an older Burgett-side figure.
 
 ## Family Diagram
 
@@ -45,6 +46,7 @@ This is a compact relationship sketch. The dashed link to Mary Greenwood is only
 1. Confirm continuity between Bergett/Burgett forms and later Spicer household entries.
 2. Validate all listed relationships from image-level census pages.
 3. Reconcile age/birth-year drift across listed decades.
+4. Keep Mary Greenwood separate from Mary Burgett in all later branch summaries and diagrams.
 
 ## Sources
 
@@ -56,3 +58,4 @@ This is a compact relationship sketch. The dashed link to Mary Greenwood is only
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BurgettMary.txt`
 
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/SPICER_PEDIGREE_TIMELINE_INDEX|Spicer Pedigree Timeline Extraction Index]]

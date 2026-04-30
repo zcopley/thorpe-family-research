@@ -325,6 +325,12 @@ MINNESOTA (1880-1923)
 7. **Research agricultural census data** (1850–1900) for county-level context
 8. **Cross-reference burial records** for Oliver Lewis (death date confirmation)
 
+## Prior Timeline Cross-Check
+
+- [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|The Prior pedigree timeline]] reinforces this page's Lewis-to-Prior bridge by placing `Wynant Williamson Lewis` -> `Oliver Elhanon Lewis` -> `Martha Eliza Lewis` directly beside the Prior line.
+- The chart variant `Oliver Elhanon Lewis` should remain a compiled-chart name form until it is reconciled against the current Lewis pages.
+- The same chart keeps [[People/Arthur Edwin Prior|Arthur Edwin Prior]] at `1853-1929`, so the birth-year conflict on his page remains open.
+
 ## Cross-References
 
 ### Related Geographic Pages
@@ -351,4 +357,5 @@ MINNESOTA (1880-1923)
 ### Source References
 - [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]] (census household documentation)
 - [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Prior Pedigree Timeline]] (family lineage)
+- [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]] (chart review notes)
 - [[References/Book Outprints Collection|Book Outprints Collection]] (burial documentation)

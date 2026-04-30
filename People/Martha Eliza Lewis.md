@@ -18,6 +18,7 @@ tags:
 - **Birth/Death:** Born 15 Dec 1859; died 8 Dec 1923 (age 63 years, 11 months, 23 days).
 - **Maiden surname:** Lewis; married name: Prior (married [[People/Arthur Edwin Prior|Arthur Edwin Prior]] c. 1900)
 - **Burial:** Brook Park Cemetery, Brook Park, Minnesota; inscription `PRIOR / MARTHA E. / DEC. 15, 1859 / DEC. 8. 1923`
+- The processed Prior timeline review places Martha in the direct line `Wynant Williamson Lewis` -> `Oliver Elhanon Lewis` -> `Martha Eliza Lewis`, which is useful branch placement but still a compiled-chart reading.
 
 ## Census Records and Life Progression
 
@@ -102,12 +103,14 @@ Martha Eliza Lewis's life arc spans Wisconsin farm childhood (1860) through Minn
 3. Trace all children's adult lives in later records, especially sons Oliver W. and George W.
 4. Clarify South Dakota relocation in 1910 (economic or family reasons).
 5. Confirm return to Minnesota by 1920 and later life settlement.
+6. Reconcile the chart's `Oliver Elhanon Lewis` name form against existing Lewis-page naming.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p37-p48|Shared Intake 2026-04-22 Census Summary Individuals p37-p48]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
-3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-4. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
-5. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]]
+4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
+5. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
+6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

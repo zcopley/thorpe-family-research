@@ -13,6 +13,7 @@ tags:
 - **Name:** Charles Russell Spicer
 - **Birth/Death:** Born 22 Oct 1822; died 3 Jun 1887 (age 64 years, 7 months, 12 days)
 - **Role in this project:** Spicer line patriarch connecting Nathan Spicer (father) to George B. Spicer (son); bridge generation in Iowa Spicer agricultural line (1850s-1880s).
+- The processed Spicer timeline review confirms Charles Russell Spicer as the start of the clearest later direct chain and pairs him with Mary Burgett, while leaving the Claramon Tiffany placement unresolved.
 
 ## Census Records and Household Context
 
@@ -87,6 +88,7 @@ Charles Russell Spicer's households show:
 2. Verify occupational shifts (farmer → chair maker → laborer → farmer) — economic pressures?
 3. Confirm death date (3 Jun 1887) from independent records
 4. Clarify relationship of George B. Spicer to Charles Russell (son or nephew?)
+5. Do not attach Claramon Tiffany to Charles Russell as a settled spouse without stronger evidence.
 
 ## Sources
 
@@ -95,3 +97,4 @@ Charles Russell Spicer's households show:
 3. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Spicer Lineage Note]]
 
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/SPICER_PEDIGREE_TIMELINE_INDEX|Spicer Pedigree Timeline Extraction Index]]

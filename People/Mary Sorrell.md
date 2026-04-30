@@ -19,18 +19,21 @@ tags:
 - The extraction lists a UK sequence for Mary Sorrell from 1841 through 1891 across Essex and Hertfordshire entries.
 - The Burial Sites book index lists Mary Sorrell as `c1827-1897`, but the extracted text did not reveal a standalone cemetery page.
 - The Bellamy pedigree timeline includes Mary Sorrell in the Bellamy collateral branch as the daughter linked to the later Sorrell line.
+- The processed Bellamy timeline review keeps that parentage as a chart-layout reading under the later James Sorrell branch rather than a resolved proof statement.
 
 ## Research Gaps
 
 1. Confirm maiden name and parentage with parish and civil-registration records.
 2. Validate the 1891 Chelmsford location details from image-level census pages.
+3. Keep the Sorrell father/son overlap open while assessing Mary's exact parentage.
 
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
-3. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
-4. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
-5. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
+3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+4. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
+5. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`
+6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-SorrellMary.txt`
