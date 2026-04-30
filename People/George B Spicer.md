@@ -530,6 +530,29 @@ None
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of George Spicer (1864-1938).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    George Spicer : 1864, 1938
+    Arthur Edwin Prior : 1853, 1929
+    William Henry Palmer : 1851, 1927
+    Elizabeth Plomey Ault : 1841, 1926
+    Hattie May Risden : 1877, 1967
+    Martha Eliza Lewis : 1859, 1923
+    Oliver Warren Prior : 1880, 1949
+    Miller Mathias Tallman : 1841, 1921
+    Mary Greenwood : 1835, 1918
+    May Aleen Palmer : 1886, 1979
+    Romancy Miller : 1819, 1911
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

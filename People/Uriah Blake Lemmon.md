@@ -291,6 +291,29 @@ CT
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Uriah Blake Lemmon (1808-1887).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Uriah Blake Lemmon : 1808, 1887
+    Benjamin B Tallman : 1811, 1881
+    Louis Bangle : 1798, 1878
+    Benjamin B. Tallman : 1812, 1881
+    Romancy Miller : 1819, 1911
+    John K Palmer : 1821, 1906
+    Charles Russell Spicer : 1822, 1887
+    Nathan Spicer : 1796, 1873
+    Oliver Warren Lewis : 1823, 1892
+    Jane Wager-Jennie Dodge : 1798, 1870
+    Mary Greenwood : 1835, 1918
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

@@ -138,6 +138,29 @@ Robert Archer John Thorpe
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of John K Palmer (1821-1906).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    John K Palmer : 1821, 1906
+    Romancy Miller : 1819, 1911
+    Mary Greenwood : 1835, 1918
+    Oliver Warren Lewis : 1823, 1892
+    Uriah Blake Lemmon : 1808, 1887
+    Charles Russell Spicer : 1822, 1887
+    Elizabeth Plomey Ault : 1841, 1926
+    Miller Mathias Tallman : 1841, 1921
+    William Monroe Thorp : 1835, 1899
+    Benjamin B Tallman : 1811, 1881
+    Benjamin B. Tallman : 1812, 1881
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

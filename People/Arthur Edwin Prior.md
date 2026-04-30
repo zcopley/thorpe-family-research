@@ -403,6 +403,29 @@ None
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Arthur Edwin Prior (1853-1929).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Arthur Edwin Prior : 1853, 1929
+    William Henry Palmer : 1851, 1927
+    Elizabeth Plomey Ault : 1841, 1926
+    Miller Mathias Tallman : 1841, 1921
+    George Spicer : 1864, 1938
+    Mary Greenwood : 1835, 1918
+    Martha Eliza Lewis : 1859, 1923
+    Romancy Miller : 1819, 1911
+    John K Palmer : 1821, 1906
+    Hattie May Risden : 1877, 1967
+    Oliver Warren Prior : 1880, 1949
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

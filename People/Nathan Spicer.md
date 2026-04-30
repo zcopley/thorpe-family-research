@@ -226,6 +226,29 @@ New York
 69
 ```
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Nathan Spicer (1796-1873).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Nathan Spicer : 1796, 1873
+    Louis Bangle : 1798, 1878
+    Jane Wager-Jennie Dodge : 1798, 1870
+    Uriah Blake Lemmon : 1808, 1887
+    Benjamin B Tallman : 1811, 1881
+    Benjamin B. Tallman : 1812, 1881
+    Frederick Ault : 1795, 1857
+    Rebecca Blake : 1779, 1855
+    James Lemmon : 1779, 1854
+    Andrew Ault : 1769, 1852
+    John Thorp : 1791, 1850
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]]

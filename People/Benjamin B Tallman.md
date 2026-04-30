@@ -369,6 +369,29 @@ OH
 70
 ```
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Benjamin B Tallman (1811-1881).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Benjamin B Tallman : 1811, 1881
+    Uriah Blake Lemmon : 1808, 1887
+    Benjamin B. Tallman : 1812, 1881
+    Louis Bangle : 1798, 1878
+    Nathan Spicer : 1796, 1873
+    Romancy Miller : 1819, 1911
+    John K Palmer : 1821, 1906
+    Charles Russell Spicer : 1822, 1887
+    Jane Wager-Jennie Dodge : 1798, 1870
+    Oliver Warren Lewis : 1823, 1892
+    Frederick Ault : 1795, 1857
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]

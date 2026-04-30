@@ -427,6 +427,29 @@ Member, Soldiers Home
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Elizabeth Plomey Ault (1841-1926).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Elizabeth Plomey Ault : 1841, 1926
+    Miller Mathias Tallman : 1841, 1921
+    Mary Greenwood : 1835, 1918
+    William Henry Palmer : 1851, 1927
+    Arthur Edwin Prior : 1853, 1929
+    Romancy Miller : 1819, 1911
+    John K Palmer : 1821, 1906
+    Martha Eliza Lewis : 1859, 1923
+    George Spicer : 1864, 1938
+    William Monroe Thorp : 1835, 1899
+    Oliver Warren Lewis : 1823, 1892
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

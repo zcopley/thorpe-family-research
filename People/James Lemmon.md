@@ -135,6 +135,29 @@ James Lemmon Sr
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of James Lemmon (1779-1854).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    James Lemmon : 1779, 1854
+    Rebecca Blake : 1779, 1855
+    Andrew Ault : 1769, 1852
+    Onesimus Risden : 1760, 1848
+    Anna Kester : 1763, 1847
+    Frederick Ault : 1795, 1857
+    John Thorp : 1791, 1850
+    Nathan Spicer : 1796, 1873
+    Jane Wager-Jennie Dodge : 1798, 1870
+    Louis Bangle : 1798, 1878
+    Joanna Griffith : 1790, 1840
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

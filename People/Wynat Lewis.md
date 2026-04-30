@@ -191,6 +191,29 @@ Comments
 41
 ```
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Wynat Lewis (1850-1860).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Wynat Lewis : 1850, 1860
+    Benjamin B Tallman : 1811, 1881
+    Benjamin B. Tallman : 1812, 1881
+    Charles Russell Spicer : 1822, 1887
+    Elizabeth Plomey Ault : 1841, 1926
+    Emily Amanda McIntyre : 1816, 1860
+    Jane Wager-Jennie Dodge : 1798, 1870
+    John K Palmer : 1821, 1906
+    Louis Bangle : 1798, 1878
+    Mary Greenwood : 1835, 1918
+    Miller Mathias Tallman : 1841, 1921
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]

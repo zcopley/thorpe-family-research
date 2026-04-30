@@ -346,6 +346,29 @@ OH
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Charles Russell Spicer (1822-1887).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Charles Russell Spicer : 1822, 1887
+    John K Palmer : 1821, 1906
+    Romancy Miller : 1819, 1911
+    Uriah Blake Lemmon : 1808, 1887
+    Oliver Warren Lewis : 1823, 1892
+    Benjamin B Tallman : 1811, 1881
+    Benjamin B. Tallman : 1812, 1881
+    Louis Bangle : 1798, 1878
+    Mary Greenwood : 1835, 1918
+    William Monroe Thorp : 1835, 1899
+    Nathan Spicer : 1796, 1873
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

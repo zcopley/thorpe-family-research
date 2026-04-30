@@ -19,7 +19,6 @@ gantt
     dateFormat  YYYY
     axisFormat  %Y
     tickInterval 5y
-    Louis Bangle : 1798, 2026
     Hattie May Risden : 1877, 1967
     May Aleen Palmer : 1886, 1979
     Edith Estelle Spicer : 1900, 1969
@@ -38,7 +37,6 @@ gantt
 
 ## Individual Profiles
 
-- [[People/Louis Bangle.md|Louis Bangle]] (1798 - 2026)
 - [[People/Hattie May Risden.md|Hattie May Risden]] (1877 - 1967)
 - [[People/May Aleen Palmer.md|May Aleen Palmer]] (1886 - 1979)
 - [[People/Edith Estelle Spicer.md|Edith Estelle Spicer]] (1900 - 1969)

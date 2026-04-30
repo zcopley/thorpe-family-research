@@ -62,6 +62,29 @@ died March, Fever - Ill 3 days
 30
 ```
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Mary Greenwood (1835-1918).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Mary Greenwood : 1835, 1918
+    Elizabeth Plomey Ault : 1841, 1926
+    Miller Mathias Tallman : 1841, 1921
+    Romancy Miller : 1819, 1911
+    John K Palmer : 1821, 1906
+    William Henry Palmer : 1851, 1927
+    Arthur Edwin Prior : 1853, 1929
+    William Monroe Thorp : 1835, 1899
+    Martha Eliza Lewis : 1859, 1923
+    Oliver Warren Lewis : 1823, 1892
+    George Spicer : 1864, 1938
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]

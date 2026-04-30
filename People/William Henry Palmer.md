@@ -349,6 +349,29 @@ None
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of William Henry Palmer (1851-1927).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    William Henry Palmer : 1851, 1927
+    Elizabeth Plomey Ault : 1841, 1926
+    Arthur Edwin Prior : 1853, 1929
+    Miller Mathias Tallman : 1841, 1921
+    Mary Greenwood : 1835, 1918
+    Martha Eliza Lewis : 1859, 1923
+    George Spicer : 1864, 1938
+    Romancy Miller : 1819, 1911
+    John K Palmer : 1821, 1906
+    Hattie May Risden : 1877, 1967
+    William Monroe Thorp : 1835, 1899
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

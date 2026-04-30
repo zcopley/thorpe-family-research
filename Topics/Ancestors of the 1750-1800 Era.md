@@ -37,7 +37,7 @@ gantt
     Frederick Ault : 1795, 1857
     Nathan Spicer : 1796, 1873
     Jane Wager-Jennie Dodge : 1798, 1870
-    Louis Bangle : 1798, 2026
+    Louis Bangle : 1798, 1878
     Claramon Tiffany : 1799, 1835
 ```
 
@@ -61,5 +61,5 @@ gantt
 - [[People/Frederick Ault.md|Frederick Ault]] (1795 - 1857)
 - [[People/Nathan Spicer.md|Nathan Spicer]] (1796 - 1873)
 - [[People/Jane Wager-Jennie Dodge.md|Jane Wager-Jennie Dodge]] (1798 - 1870)
-- [[People/Louis Bangle.md|Louis Bangle]] (1798 - 2026)
+- [[People/Louis Bangle.md|Louis Bangle]] (1798 - 1878)
 - [[People/Claramon Tiffany.md|Claramon Tiffany]] (1799 - 1835)

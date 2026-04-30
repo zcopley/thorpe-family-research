@@ -633,6 +633,29 @@ None
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of May Aleen Palmer (1886-1979).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    May Aleen Palmer : 1886, 1979
+    Hattie May Risden : 1877, 1967
+    George Jennings Spicer : 1904, 1977
+    Ralph Gerald Thorpe : 1906, 1993
+    Chester James Spicer : 1908, 1977
+    Edith Estelle Spicer : 1900, 1969
+    Lester Harold Spicer : 1906, 1974
+    Edna Angeline Spicer : 1912, 1993
+    Louise Elizabeth Thorpe : 1913, 2005
+    Ruby Bernice Prior : 1913, 2006
+    Oliver Warren Prior : 1880, 1949
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

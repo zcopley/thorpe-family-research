@@ -388,6 +388,29 @@ None
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Lester Harold Spicer (1906-1974).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Lester Harold Spicer : 1906, 1974
+    George Jennings Spicer : 1904, 1977
+    May Aleen Palmer : 1886, 1979
+    Ralph Gerald Thorpe : 1906, 1993
+    Chester James Spicer : 1908, 1977
+    Edith Estelle Spicer : 1900, 1969
+    Edna Angeline Spicer : 1912, 1993
+    Hattie May Risden : 1877, 1967
+    Louise Elizabeth Thorpe : 1913, 2005
+    Ruby Bernice Prior : 1913, 2006
+    John Mackey Thorpe : 1910, 1968
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

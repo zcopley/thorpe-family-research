@@ -589,6 +589,29 @@ None
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Hattie May Risden (1877-1967).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Hattie May Risden : 1877, 1967
+    May Aleen Palmer : 1886, 1979
+    Oliver Warren Prior : 1880, 1949
+    Edith Estelle Spicer : 1900, 1969
+    George Jennings Spicer : 1904, 1977
+    George Spicer : 1864, 1938
+    Lester Harold Spicer : 1906, 1974
+    Ralph Gerald Thorpe : 1906, 1993
+    Chester James Spicer : 1908, 1977
+    John Mackey Thorpe : 1910, 1968
+    Edna Angeline Spicer : 1912, 1993
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

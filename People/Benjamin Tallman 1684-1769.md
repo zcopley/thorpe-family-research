@@ -30,6 +30,27 @@ tags:
 1. Verify Benjamin's birth, marriage, death, and probate from Rhode Island town and probate records.
 2. Confirm the Peter Tallman and Joan Briggs parentage from primary records.
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Benjamin Tallman 1684-1769 (1684-1769).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Benjamin Tallman 1684-1769 : 1684, 1769
+    William Tallman 1720-1791 : 1720, 1791
+    Benjamin Tallman 1745-1820 : 1745, 1820
+    Benjamin Tallman : 1745, 1820
+    William Bellamy : 1750, 1817
+    Hugh Lemmon : 1754, 1824
+    Sarah Wheeler : 1758, 1820
+    Onesimus Risden : 1760, 1848
+    Anna Kester : 1763, 1847
+```
+
 ## Sources
 
 1. [[References/Book Outprints — Durfee|Book Outprints — Durfee]]

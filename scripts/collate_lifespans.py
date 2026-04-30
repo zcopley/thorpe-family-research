@@ -49,7 +49,10 @@ def parse_person_page(file_path):
                 death = int(title_year_match.group(2))
 
     if not death:
-        death = 2026 # Default for living or unknown death
+        if birth and birth < 1900:
+            death = birth + 80 # Estimate if missing for ancestors
+        else:
+            death = 2026 # Default for living or modern unknown death
 
     return {
         'name': title or file_path.stem,

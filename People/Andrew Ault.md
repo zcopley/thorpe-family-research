@@ -102,6 +102,29 @@ Comments
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Andrew Ault (1769-1852).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Andrew Ault : 1769, 1852
+    Onesimus Risden : 1760, 1848
+    Anna Kester : 1763, 1847
+    James Lemmon : 1779, 1854
+    Rebecca Blake : 1779, 1855
+    John Thorp : 1791, 1850
+    Frederick Ault : 1795, 1857
+    Nathan Spicer : 1796, 1873
+    Hugh Lemmon : 1754, 1824
+    Jane Wager-Jennie Dodge : 1798, 1870
+    Louis Bangle : 1798, 1878
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

@@ -19,7 +19,6 @@ gantt
     dateFormat  YYYY
     axisFormat  %Y
     tickInterval 5y
-    Louis Bangle : 1798, 2026
     Romancy Miller : 1819, 1911
     John K Palmer : 1821, 1906
     Mary Greenwood : 1835, 1918
@@ -49,7 +48,6 @@ gantt
 
 ## Individual Profiles
 
-- [[People/Louis Bangle.md|Louis Bangle]] (1798 - 2026)
 - [[People/Romancy Miller.md|Romancy Miller]] (1819 - 1911)
 - [[People/John K Palmer.md|John K Palmer]] (1821 - 1906)
 - [[People/Mary Greenwood.md|Mary Greenwood]] (1835 - 1918)

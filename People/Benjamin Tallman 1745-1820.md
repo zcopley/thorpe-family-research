@@ -37,6 +37,29 @@ tags:
 4. Verify the Durfee genealogy's Bible-record and military-service references from original records.
 5. Locate the original Revolutionary War or land records behind the burial-book inscription.
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Benjamin Tallman 1745-1820 (1745-1820).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Benjamin Tallman 1745-1820 : 1745, 1820
+    Benjamin Tallman : 1745, 1820
+    William Bellamy : 1750, 1817
+    Hugh Lemmon : 1754, 1824
+    Sarah Wheeler : 1758, 1820
+    Onesimus Risden : 1760, 1848
+    Anna Kester : 1763, 1847
+    Andrew Ault : 1769, 1852
+    William Tallman 1720-1791 : 1720, 1791
+    James Lemmon : 1779, 1854
+    Rebecca Blake : 1779, 1855
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]

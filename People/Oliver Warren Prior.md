@@ -511,6 +511,29 @@ None
 ```
 
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Oliver Warren Prior (1880-1949).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Oliver Warren Prior : 1880, 1949
+    Hattie May Risden : 1877, 1967
+    May Aleen Palmer : 1886, 1979
+    George Spicer : 1864, 1938
+    Arthur Edwin Prior : 1853, 1929
+    Edith Estelle Spicer : 1900, 1969
+    William Henry Palmer : 1851, 1927
+    Elizabeth Plomey Ault : 1841, 1926
+    George Jennings Spicer : 1904, 1977
+    Lester Harold Spicer : 1906, 1974
+    Martha Eliza Lewis : 1859, 1923
+```
+
 ## Source Indicators
 
 > [!info] Indicators from Pedigree Timeline Diagrams

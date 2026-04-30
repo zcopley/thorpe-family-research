@@ -264,6 +264,29 @@ NY
 40
 ```
 
+
+
+## Overlapping Lifespans
+
+> [!info] Visualizing contemporaries in the vault during the life of Oliver Warren Lewis (1823-1892).
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    axisFormat  %Y
+    Oliver Warren Lewis : 1823, 1892
+    John K Palmer : 1821, 1906
+    Romancy Miller : 1819, 1911
+    Charles Russell Spicer : 1822, 1887
+    Uriah Blake Lemmon : 1808, 1887
+    Benjamin B Tallman : 1811, 1881
+    Benjamin B. Tallman : 1812, 1881
+    Mary Greenwood : 1835, 1918
+    William Monroe Thorp : 1835, 1899
+    Louis Bangle : 1798, 1878
+    Elizabeth Plomey Ault : 1841, 1926
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p37-p48|Shared Intake 2026-04-22 Census Summary Individuals p37-p48]]
