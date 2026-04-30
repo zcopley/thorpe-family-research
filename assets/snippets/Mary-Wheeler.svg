@@ -1,0 +1,19 @@
+<svg width="600" height="60" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0.0" y1="0" x2="0.0" y2="60" stroke="#e5e5e5" stroke-width="1" />
+  <text x="2.0" y="12" font-family="Arial" font-size="10" fill="#b8b8b8">1700</text>
+  <line x1="92.3076923076923" y1="0" x2="92.3076923076923" y2="60" stroke="#e5e5e5" stroke-width="1" />
+  <text x="94.3076923076923" y="12" font-family="Arial" font-size="10" fill="#b8b8b8">1750</text>
+  <line x1="184.6153846153846" y1="0" x2="184.6153846153846" y2="60" stroke="#e5e5e5" stroke-width="1" />
+  <text x="186.6153846153846" y="12" font-family="Arial" font-size="10" fill="#b8b8b8">1800</text>
+  <line x1="276.92307692307696" y1="0" x2="276.92307692307696" y2="60" stroke="#e5e5e5" stroke-width="1" />
+  <text x="278.92307692307696" y="12" font-family="Arial" font-size="10" fill="#b8b8b8">1850</text>
+  <line x1="369.2307692307692" y1="0" x2="369.2307692307692" y2="60" stroke="#e5e5e5" stroke-width="1" />
+  <text x="371.2307692307692" y="12" font-family="Arial" font-size="10" fill="#b8b8b8">1900</text>
+  <line x1="461.53846153846155" y1="0" x2="461.53846153846155" y2="60" stroke="#e5e5e5" stroke-width="1" />
+  <text x="463.53846153846155" y="12" font-family="Arial" font-size="10" fill="#b8b8b8">1950</text>
+  <line x1="553.8461538461539" y1="0" x2="553.8461538461539" y2="60" stroke="#e5e5e5" stroke-width="1" />
+  <text x="555.8461538461539" y="12" font-family="Arial" font-size="10" fill="#b8b8b8">2000</text>
+  <rect x="186.46153846153848" y="25" width="151.3846153846154" height="10" fill="#81b29a" rx="2" />
+  <text x="342.84615384615387" y="35" font-family="Arial" font-size="10" fill="#4e4e4e">RIP</text>
+  <text x="10" y="55" font-family="Arial" font-size="12" fill="#2b2b2b">Mary Wheeler 1801-1883</text>
+</svg>
