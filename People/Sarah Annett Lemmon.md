@@ -98,6 +98,245 @@ Sarah Annett bridges Lemmon family of Ohio with Thorpe family expansion into Iow
 2. Validate all child entries and ages across 1860-1880 households from image-level pages.
 3. Confirm death date from independent record sets.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+LEMMON, Sarah Annett (21 Mar 1841 - 6 Aug 1886)
+1850 Ohio, Sandusky County, Townsend Township, Page 476 B and 477
+R/F
+1189/1205
+
+Name
+Euriah B LEMMON
+Emily A LEMMON
+Wm H LEMMON
+John M LEMMON
+Sarah A LEMMON
+Rebecca A LEMMON
+Cyrus A LEMMON
+M Burton LEMMON
+Series: M432, Roll: 726, Page: 476, 477
+
+Sex
+M
+F
+M
+M
+F
+F
+M
+M
+
+Age
+42
+34
+13
+11
+9
+7
+5
+4
+
+Occupation
+Farmer
+
+Born
+New York
+New York
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+
+Comments
+
+1860 Ohio, Sandusky County, Townsend Township, Page 54 B
+D/F
+813/784
+
+Name
+Munroe THORP
+Sarah THORP
+Emily J THORP
+Omar? TANNER
+Series: M653, Roll: 1032, Page: 54
+
+Age Sex
+24
+M
+19
+F
+2/12
+F
+21
+M
+
+Color
+
+Occupation
+
+Property
+300
+
+Nativity
+New York
+Ohio
+Ohio
+Ohio
+
+Real Pers
+2500 300
+
+Nativity Comments
+New York
+Ohio
+Ohio
+Ohio
+Iowa
+born in Sept
+
+Farm Laborer
+
+Comments
+
+1870 Iowa, Marshall County, Marshalltown, 4th Ward, p. 11
+D/F
+79/83
+
+Name
+Monroe THORP
+Sarah THORP
+Hattie THORP
+Nettie THORP
+Clide THORP
+Series: M593, Roll: 410, Page: 486
+
+Age Sex
+34
+M
+28
+F
+8
+F
+7
+F
+11/12 M
+
+Color
+W
+W
+W
+W
+W
+
+Occupation
+Retired Farmer
+Keeping house
+At Home
+At Home
+At Home
+
+1880 Iowa, Grundy County, Clay Township
+D/F
+124/124
+
+Name
+M. THORPE
+Sarah THORPE
+Hata THORPE
+Netie THORPE
+Clyde THORPE
+Gertrude THORPE
+U.B. THORPE
+Ch RICHARDS
+Fam Hist Lib Film
+1254341
+
+Rel
+Self
+Wife
+Dau
+Dau
+Son
+Dau
+Son
+Other
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Married Gender Race Age
+BP
+Married
+Male
+White 45
+NY
+Married
+Female White 28
+OH
+Single
+Female White 18
+OH
+Single
+Female White 17
+OH
+Single
+Male
+White 10
+IA
+Single
+Female White 3
+IA
+Single
+Male
+White 1
+IA
+Single
+Male
+White 23
+IA
+NA Film No. T9-0341
+Page 388C
+
+Robert Archer John Thorpe
+
+Occupation
+Farmer
+Keeping House
+At Home
+School Teacher
+At Home
+At Home
+At Home
+Laborer
+
+FBP
+NY
+NY
+NY
+NY
+NY
+NY
+NY
+—
+
+MBP
+NY
+NY
+NY
+NY
+NY
+NY
+NY
+—
+
+37
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]

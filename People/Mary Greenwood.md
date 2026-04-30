@@ -28,6 +28,40 @@ tags:
 2. Determine whether the `GREENWOOD` heading should be preserved only as an index label or replaced by a more neutral mortality-record title.
 3. Clarify the relationship of this Mary Bergett entry to the William Burgett household.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+GREENWOOD, Mary (c. 1812 - Mar 1850)
+1850 Iowa, County, District No 9, Mortality Schedule
+R/F
+
+Name
+Sex
+Mary BERGETT
+F
+Series: A1156, Roll: 54, Page: 337, Line #6
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Age
+38
+
+Occupation
+
+Born
+England
+
+Robert Archer John Thorpe
+
+Comments
+died March, Fever - Ill 3 days
+
+30
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]

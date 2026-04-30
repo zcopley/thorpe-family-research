@@ -80,6 +80,311 @@ Lester Harold Spicer represents the **agricultural-to-industrial transition** of
 3. Verify torch operator/rock crushing manufacturer position (likely Central Iowa cement/gravel operations)
 4. Confirm death date and location from vital records
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+SPICER, Lester Harold (14 Jul 1906 - 28 Jun 1974)
+1910 Iowa, Benton County, Canton Township, Page 56 and Page 57
+D/F
+166
+
+Name
+Rel
+George SPICER
+Head
+Hattie SPICER
+Wife
+Edith SPICER
+Dau
+Charles R SPICER
+Son
+George G SPICER
+Son
+Lester H SPICER
+Son
+Chester J SPICER
+Son
+William SPICER
+Bro
+Series: T624, Roll:391 , Pages 56, 57
+
+Sex Race Age
+M
+W
+45
+F
+W
+32
+F
+W
+9
+M
+W
+8
+M
+W
+6
+M
+W
+3
+M
+W 2.3
+M
+W
+49
+
+MS
+M1
+M1
+S
+S
+S
+S
+S
+M2
+
+?
+13
+13
+
+?
+
+?
+
+5
+
+5
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+
+MBP
+
+NY
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Ind
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Farmer
+None
+None
+None
+None
+None
+None
+Farmer Laborer
+
+1920 Iowa, Benton County, Benton Township, Sheet 4B & 5A
+D/F
+99
+
+Name
+Rel
+Sex Race Age
+George SPICER
+Head
+M
+W
+55
+Hattie SPICER
+Wife
+F
+W
+42
+Charles R. SPICER
+Son
+M
+W
+17
+George J. SPICER
+Son
+M
+W
+15
+Lester H SPICER
+Son
+M
+W
+13
+Chester J SPICER
+Son
+M
+W
+11
+Edna SPICER
+Dau
+F
+W
+7
+Myron SPICER
+Son
+M
+W 4+
+Series: T625, Roll: 477, Page: 4B & 5A, ED 4
+
+MS
+M
+M
+S
+S
+S
+S
+S
+S
+
+?
+
+?
+
+?
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+US
+NY
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+MBP
+US
+Ind
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Farmer
+None
+Farm Laborer
+Farm Laborer
+None
+None
+None
+None
+
+1930 Iowa, Linn County, Clinton Township
+D/F
+230
+
+Name
+Rel
+Sex Race Age
+George SPICER
+Head
+M
+W
+65
+Hattie SPICER
+Wife-H F
+W
+53
+Lester H. SPICER
+Son
+M
+W
+23
+Chester ? SPICER
+Son
+M
+W
+21
+Edna SPICER
+Dau
+F
+W
+17
+Myron L. SPICER
+Son
+M
+W
+14
+Series: T626, Roll: 664, Page: 11A, ED 8
+
+CENSUS SUMMARY - INDIVIDUALS
+
+MS
+M
+M
+S
+S
+S
+S
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+Iowa
+NY
+Iowa
+Iowa
+Iowa
+Iowa
+
+Robert Archer John Thorpe
+
+MBP
+Penn
+Ind
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Farmer
+None
+Car Repairer (Railroad Shop)
+Farmer
+None
+None
+
+68
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]]

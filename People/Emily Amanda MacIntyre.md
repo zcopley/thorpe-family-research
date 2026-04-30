@@ -28,6 +28,114 @@ tags:
 3. Reconcile birth-date precision shown in heading with primary-source evidence.
 4. Resolve the 9 July 1860 burial-source death date against the Sandusky-Beers sketch, which gives 12 July 1860 for Uriah Blake Lemmon's wife.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+MacINTYRE, Emily Amanda (c. 29 Sep 1816 - 9 Jul 1860)
+1850 Ohio, Sandusky County, Townsend Township, Page 476 B and 477
+R/F
+1189/1205
+
+Name
+Euriah B LEMMON
+Emily A LEMMON
+Wm H LEMMON
+John M LEMMON
+Sarah A LEMMON
+Rebecca A LEMMON
+Cyrus A LEMMON
+M Burton LEMMON
+Series: M432, Roll: 726, Page: 476, 477
+
+Sex
+M
+F
+M
+M
+F
+F
+M
+M
+
+Age
+42
+34
+13
+11
+9
+7
+5
+4
+
+Occupation
+Farmer
+
+Born
+New York
+New York
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+
+Comments
+
+1860 Ohio, Sandusky County, Townsend Township, Page 54 A
+D/F
+800/773
+
+Name
+Uriah B LEMON
+Emily A LEMON
+Rebecca A LEMON
+Cyrus A LEMON
+Morris B LEMON
+Emily E LEMON
+Nathaniel LEMON
+Series: M653, Roll: 1032, Page: 54
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Age Sex
+Color
+53
+M
+44
+F
+17 M (F)
+15
+M
+13
+M
+7
+F
+2/12F (M)
+
+Occupation
+Master? Farmer
+
+Robert Archer John Thorpe
+
+Property
+Nativity
+7000 1600 New York
+New York
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+
+Comments
+
+42
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]

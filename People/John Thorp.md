@@ -23,6 +23,39 @@ This person is documented in the Thorpe pedigree timeline as part of the direct 
 - Specific census records, occupations, and household details require further extraction from available sources.
 - Birth/death dates and locations are from pedigree timeline documentation and require verification against primary records.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+THORP, John (28 Dec 1791 - 28 Mar 1860)
+1850 Ohio, Sandusky County, District No. 132, Mortality Schedule
+R/F
+
+Name
+Sex
+Age
+Occupation
+John THORP
+M
+58
+Wagonmaker
+Series: T1159, Roll: 15, Page: ?, Line #13, District no. 132
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Born
+NY
+
+Robert Archer John Thorpe
+
+Comments
+died March, In. Lungs - Ill 7 days
+
+80
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]

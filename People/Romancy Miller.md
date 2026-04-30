@@ -132,6 +132,351 @@ Romancy Miller represents the Iowa-based Tallman family matriarch, maintaining h
 5. Locate Benjamin Tallman's death record and confirm widowhood timeline for Romancy.
 6. Identify Romancy's later years with daughters Amy and Eliza.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+MILLER, Romancy (10 Apr 1819 - 31 Jan 1911)
+1850 Iowa, Jones County, Rome Township
+R/F
+781/781
+
+Name
+Benjamin TOLLMAN
+Romancy TOLLMAN
+Miller TOLLMAN
+Emma E TOLLMAN
+Sarah J TOLLMAN
+Eliza E TOLLMAN
+Nathaniel H TOLLMAN
+Series: M432, Roll: 185, Page: 192
+
+Sex
+M
+F
+M
+F
+F
+F
+M
+
+Age
+39
+32
+9
+5
+14
+3
+2
+
+Occupation
+Farmer
+
+Born
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Iowa
+
+Comments
+
+1860 Iowa, Linn County, College Township, Western
+D/F
+393/380
+
+Name
+Benjamin TALMON
+Romcy TALMON
+Miller TALMON
+Ama TALMON
+Eliza E TALMON
+Nathaniel TALMON
+Ama E TALMON
+Griffin C TALMON
+William L TALMON
+John VANOISDSELL?
+Elizabeth McMETE?
+Mathew BOWER
+Series: 653, Roll: 332, Page: 387
+
+Age Sex
+47
+M
+40
+F
+19
+M
+16
+F
+13
+F
+11
+M
+6
+F
+7
+M
+2
+M
+20
+M
+33
+F
+60
+M
+
+Color
+
+Occupation
+Farmer
+
+Property
+Nativity
+5500 1800 Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Farm Hand
+
+Comments
+
+1870 Iowa, Linn county, College Township, Page 180
+D/F
+164/170
+
+Name
+Benj TALLMAN
+Romancee TALLMAN
+Matt H TALLMAN
+
+Age Sex
+59
+M
+56
+F
+28
+M
+
+Color
+W
+W
+W
+
+Occupation
+Farmer
+Keeps House
+Farmer
+
+Real
+
+Pers
+
+Nativity
+Ohio
+Ohio
+Ohio
+
+Comments
+
+Miller
+
+Mathias
+Nathan H TALLMAN
+Griffin C TALLMAN
+Romancee TALLMAN
+Wm L? TALLMAN
+Jacob M TALLMAN
+Series: M593, Roll: 405, Page: 180
+
+21
+18
+14
+8
+5
+
+M
+M
+F
+M
+M
+
+W
+W
+W
+W
+W
+
+Farm Labr
+Farm Labr
+
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+1880 Iowa, Linn County, College Township, Western
+D/F
+212/213
+
+Name
+B. TALLMAN
+Romancy TALLMAN
+Romancy TALLMAN
+W. L. TALLMAN
+J. M. TALLMAN
+Fam Hist Lib Film
+1254351
+
+Rel
+Self
+Wife
+Dau
+Son
+Son
+
+Married Gender Race Age
+BP
+Married
+Male
+White 69
+OH
+Married
+Female White 62
+OH
+Single
+Female White 23
+IA
+Single
+Male
+White 21
+IA
+Single
+Male
+White 15
+IA
+NA Film No. T9-0351
+Page 173C
+
+Occupation
+Farming
+Keeping House
+
+FBP
+VA
+VA
+OH
+OH
+OH
+
+Student
+Farms
+
+MBP
+VA
+VA
+OH
+OH
+OH
+
+1900 Iowa, Greene County, Washington Township
+Add Name
+77/77 Amy E GARNANT
+Romancy TALLMAN
+Series: T623, Roll: 433, Page 178
+
+Rel
+Head
+Mother
+
+Race Sex Birthdate
+W
+F
+July 1844
+W
+F
+April 1819
+
+Age MS ? ? ?
+35 W
+# 7
+81 W
+# 7
+
+BP
+FBP MBP
+Ohio Virg Virg
+Ohio Penn Penn
+
+Occ.
+
+1910 Iowa, Greene County, Washington Township, Rippey
+D/F
+32
+
+Name
+Eliza LIEBERKNECHT
+Romancy TALLMAN
+Series: T624, Roll:403 , Page 179
+
+Rel
+Head
+Moth
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex Race Age
+F
+W
+64
+F
+W
+91
+
+MS
+Wd
+Wd
+
+?
+
+?
+
+?
+
+Robert Archer John Thorpe
+
+BP
+Ohio
+Ohio
+
+FBP
+Virg
+Virg
+
+MBP
+Ohio
+Ohio
+
+Occupation
+Own Income
+
+44
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]

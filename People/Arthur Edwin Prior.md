@@ -52,6 +52,354 @@ This is a household sketch from the census-summary chain on the page.
 3. Confirm birth/death dates from independent vital records.
 4. Keep the birth year open rather than harmonizing the chart and census values prematurely.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+PRIOR, Arthur Edwin (14 Jul 1851 - 10 Jul 1929)
+1860 Ohio, Lorain, Penfield
+D/F
+106/108
+
+Name
+Warren PRYOR
+Alzina PRYOR
+Jessie PRYOR
+Arthur PRYOR
+Series: M653, Roll: 1008, Page: 34
+
+Age Sex
+33
+M
+28
+F
+3
+F
+7
+M
+
+Color
+
+Occupation
+Laborer
+
+Property
+50
+
+Nativity
+NY
+O
+O
+O
+
+Comments
+
+Real Pers
+1000 600
+
+Nativity Comments
+New York
+Canada
+Michigan
+Michigan
+Michigan
+Canada
+Rachael bro?
+
+1870 Michigan, Montcalm County, Winfield Township, Greenville
+D/F
+10/10
+
+Name
+J. W. PRIOR
+Rachael PRIOR
+Arthur PRIOR
+Willie PRIOR
+Ernest PRIOR
+Andrew WHITSELL
+Series: M593, Roll: , Page:
+
+Age Sex
+43
+M
+38
+F
+17
+M
+3
+M
+1
+M
+18
+M
+
+Color
+W
+W
+W
+W
+W
+W
+
+Occupation
+FARMER
+Keeping House
+
+Farm Laborer
+
+1900 Minnesota, Mower County, Grand Meadows Township
+Add Name
+43/45 Arthur PRIOR
+Martha PRIOR
+Oliver W PRIOR
+George W
+Lewis H
+Viva P
+Lora P
+Series: T623, Roll: 777, Page 108A
+
+Rel
+Head
+Wife
+Son
+Son
+Son
+Dau
+Dau
+
+Race
+W
+W
+W
+W
+W
+W
+W
+
+Sex
+M
+F
+M
+M
+M
+F
+F
+
+Birthdate
+July 1853
+Dec 1859
+Mar 1880
+Aug 1883
+Aug 1888
+Dec 1895
+Aug 1897
+
+Age
+46
+40
+20
+16
+11
+4
+2
+
+MS ? ? ?
+M 23
+M 23 9 7
+S
+S
+S
+S
+S
+
+BP
+Mich
+Wisc
+Minn
+Minn
+Minn
+Mo
+Mo
+
+FBP
+Mich
+Verm
+Mich
+Mich
+Mich
+Mich
+Mich
+
+MBP Occ.
+Mich Farmer
+NY
+Wisc Farm Labr
+Wisc Farm Labr
+Wisc At School
+Wisc
+Wisc
+
+1910 South Dakota, Brown County, Hanson Township
+D/F Name
+18/18 Arthur PRIOR
+Martha PRIOR
+Lora PRIOR
+Arthur PRIOR
+Lewis PRIOR
+Agnes PRIOR
+Series: T624, Roll: , Page 15B
+
+Rel
+Head
+Wife
+Dau
+Son
+Son
+DIL
+
+Sex Race Age
+M
+W
+56
+F
+W
+50
+F
+W
+11
+M
+W
+7
+M
+W
+22
+F
+W
+21
+
+MS
+M1
+M1
+S
+S
+M1
+M1
+
+?
+35
+35
+
+?
+
+?
+
+11
+
+9
+
+1
+1
+
+1
+
+1
+
+BP
+Mich
+Wisc
+MO
+Minn
+Minn
+Iowa
+
+FBP
+Unk
+Ver
+Mich
+Mich
+Mich
+Unk
+
+MBP
+Unk
+NY
+Wisc
+Wisc
+Wisc
+Unk
+
+Occupation
+Laborer
+None
+None
+None
+Laborer
+None
+
+1920 Minnesota, Pine County, Pokegama Township
+D/F
+169
+
+Name
+Rel
+Sex Race Age
+Arthur E. PRIOR
+Head
+M
+W
+66
+Martha E. PRIOR
+Wife
+F
+W
+60
+Arthur E. PRIOR Jr
+Son
+M
+W
+16
+Series: T625, Roll: 849, Page: 15A, ED 76
+
+CENSUS SUMMARY - INDIVIDUALS
+
+MS
+M
+M
+S
+
+?
+
+?
+
+?
+
+BP
+Mich
+Wisc
+Minn
+
+Robert Archer John Thorpe
+
+FBP
+NY
+Ver
+Mich
+
+MBP
+Mich
+NY
+Wisc
+
+Occupation
+Farming
+House Keeping
+None
+
+53
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]

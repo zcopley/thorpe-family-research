@@ -25,6 +25,41 @@ tags:
 2. Validate 1841 household details and ages from image-level census page.
 3. Reconcile potential surname transition assumptions in the compiled summary.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+HOW, Elizabeth (? - c.1847)
+1841 Essex, Langham
+Place
+Park Lane
+
+Name
+Age Male
+Age Female Occupation
+Elizabeth MUNSON
+80
+Andrew Munson
+50
+Ag Lab
+Esther Munson
+40
+Public Records Office, Reference - Source: HO107, Piece: , Folio: , Page: , GSU Roll:
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Robert Archer John Thorpe
+
+Born in County?
+Y
+Y
+Y
+
+33
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]

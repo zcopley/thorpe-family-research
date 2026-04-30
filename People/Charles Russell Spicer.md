@@ -90,6 +90,259 @@ Charles Russell Spicer's households show:
 4. Clarify relationship of George B. Spicer to Charles Russell (son or nephew?)
 5. Do not attach Claramon Tiffany to Charles Russell as a settled spouse without stronger evidence.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+SPICER, Charles Russell (22 Oct 1822 - 3 Jun 1887)
+1850 Iowa, Iowa County, Brush Run Township
+R/F
+2/2
+
+Name
+Russell SPICER
+Angeline SPICER
+Levina SPICER
+John SPICER
+Charles SPICER
+Elizabeth BURGET
+Series: M432, Roll: 184 , Page: 278
+
+Sex
+M
+F
+F
+M
+M
+F
+
+Age
+29
+24
+5
+3
+1
+10
+
+Occupation
+Farmer
+
+Born
+New York
+Ohio
+Ohio
+Iowa
+Iowa
+Indiana
+
+Comments
+
+1860 Iowa, Iowa County, Iowa Township, Page 629
+D/F
+968/1009
+
+Name
+C R SPICER
+Mary SPICER
+Charles SPICER
+Silvester SPICER
+Amana SPICER
+Mariah SPICER
+Rebeka SPICER
+Peter BURGETT
+Series: M653, Roll: 325, Page: 629
+
+Age Sex
+39
+M
+24
+F
+12
+M
+6
+M
+5
+F
+2
+F
+26
+F
+56
+M
+
+Color
+
+Occupation
+Chair Maker
+
+Property
+100
+
+Nativity
+New York
+Ohio
+Iowa
+Iowa
+Iowa
+Iowa
+Ohio
+Penn
+
+Real
+800
+
+Nativity Comments
+New York
+Iowa
+
+Distiller
+
+Comments
+
+1870 Iowa, Linn County, Clinton Township
+D/F
+43/43
+
+Name
+Chas R SPICER
+Mary SPICER
+Sylvester N SPICER
+Amanda SPICER
+Mary SPICER
+Wm SPICER
+Perry SPICER
+George SPICER
+Ella SPICER
+Zerna SPICER
+Series: M593, Roll: 405, Page: 67
+
+Age Sex
+59? M
+35
+F
+15
+M
+13
+F
+11
+F
+9
+F
+8
+M
+5
+M
+3
+F
+1
+F
+
+Color
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+
+Occupation
+Farm Labr
+Keeps House
+Farm Labr
+
+Pers
+300
+
+1880 Iowa, Linn County, Clinton Township, Page 153 C & 153 D
+D/F
+65/66
+
+Name
+Russel SPICER
+Mary SPICER
+George SPICER
+William SPICER
+Ellen SPICER
+Dellie M. SPICER
+Elizabeth SPICER
+Fam Hist Lib Film
+1254351
+
+Rel
+Self
+Wife
+Son
+Son
+Dau
+Dau
+Dau
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Married Gender Race Age
+BP
+Married
+Male
+White 59
+NY
+Married
+Female White 45
+OH
+Single
+Male
+White 15
+IA
+Single
+Male
+White 19
+IA
+Single
+Female White 12
+IA
+Single
+Female White 8
+IA
+Single
+Female White 7
+IA
+NA Film No. T9-0351
+Page 153C
+
+Robert Archer John Thorpe
+
+Occupation
+Farmer
+Keeping House
+
+At School
+
+FBP
+NY
+ENG
+NY
+NY
+NY
+NY
+NY
+
+MBP
+NY
+PA
+OH
+OH
+OH
+OH
+OH
+
+65
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]]

@@ -27,6 +27,225 @@ tags:
 2. Validate the 1891 Chelmsford location details from image-level census pages.
 3. Keep the Sorrell father/son overlap open while assessing Mary's exact parentage.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+SORRELL, Mary (c. 1823 - 20 Jun 1897)
+1841 Essex, Boreham
+Place
+
+Name
+Age Male
+Age Female Occupation
+Born in County?
+John BEATTLE
+40
+Farmer
+Y
+Edward BEATTLE
+35
+Y
+Mary SORRELL
+15
+FS (Female Servant)
+Y
+Source Citation: Class: HO107; Piece 325; Book: 5; Enumeration District: 1; Folio: 5; Page: 5; Line: 22; GSU roll: 241364.
+
+1851 Essex, Witham, Newland Street
+No.
+6
+
+Name
+Rel
+Cond AM AF Occupation
+Hephzibal THAEN
+Head
+Un
+77 Landed Proprietor
+Louisa THAEN
+Sister
+Un
+75 Landed Proprietor
+Hephzibal C. WILKINS
+Niece
+Un
+18 Visitor
+John LODGE
+Servant Un
+30
+Footman
+Mary SORRELL
+Servant Un
+28 House Maid
+Ann MALLETT
+Servant Un
+18 Cook
+Public Records Office, Reference - Source: HO107, Piece: 1783, Folio: 197, Page: 2, No: 6
+
+Where Born?
+Essex, Hatfield Peveral
+Essex, Hatfield Peveral
+Essex, Tolleshunt Knight
+Essex, Hullbridge
+Essex, Boreham
+Essex, Tolleshunt Knight
+
+1861 Essex, Little Waltham, Rectory
+No. Name
+Rel
+Cond. AM AF Occupation
+108 Thomas FISHER
+Head
+Mar
+65
+Rector of Little Waltham
+Elizabeth FISHER
+Wife
+Mar
+66 Rectors Wife
+Ann WIFFORD
+Servant Un
+55 Cook
+Mary SORRELL
+Servant Un
+37 Housemaid
+Charles WIFFORD
+Servant Un
+26
+Footman
+James THOROGOOD
+Servant Un
+33
+Coachman
+Public Records Office, Reference: RG 9 1081; No. of Schedule: 108
+
+Where Born
+Essex, Chelmsford
+Essex, Wormingford
+Essex, Slisted
+Essex, Boreham
+Essex, Pebmanok?
+Essex, Felsted
+
+1871 Hertfordshire, Wormley, High Street
+No.
+30
+
+Name
+Rel
+Cond. AM AF Occupation
+James THOROGOOD
+Head
+Mar
+43
+Licensed Vitualler
+Mary THOROGOOD
+Wife
+Mar
+45
+Frederick THOROGOOD Son
+6
+Frederick THOROGOOD
+Visitor Unm
+39
+Gent? Servant
+John WARNER
+Lodger Unm
+24
+Laborer
+James EVENS
+Lodger Unm
+26
+Laborer
+George LARILE?
+Lodger Unm
+28
+Ostler?
+Public Records Office, Reference: R.G. 10 1349; No. of Schedule: 30
+
+Where Born
+Essex, Felsted
+Essex, Boreham
+Herts, Wormley
+Essex, Felsted
+Herts, Stantton?
+Herts, Westford?
+Herts, Albury
+
+1881 Essex, Great Baddow, Oakhams Farm
+Name
+Eligah SORRELL
+Mary Ann SORRELL
+Martha SORRELL
+Mary THOROGOOD
+Fam Hist Lib Film
+
+Mar Age Sex Birthplace
+M
+49
+M
+Boreham, Essex, England
+M
+49
+F
+Gt Baddow, Essex, England
+U
+27
+F
+Springfield, Essex, England
+W
+56
+F
+Boreham, Essex, England
+1341425 PRO Ref RG11 Piece 1767 Folio 22 Page 19
+
+Relationship
+Head
+Wife
+Daur
+Visitor
+
+Occupation
+Farmer
+Farmers Dau
+Former Inn Keeper
+
+1891 Essex, Chelmsford, White House Farm, Baddow Road
+Name
+Relationship
+Mar
+Age M Age F Occupation
+Frederick THOROGOOD
+Head
+M
+26
+Railway Clerk
+Emily THOROGOOD
+Wife
+M
+29
+Mary THOROGOOD
+Mother
+W
+67
+Retired Publican
+Public Records Office, Reference: RG 12/1386; No. of Schedule: 112
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Robert Archer John Thorpe
+
+Birthplace
+Herts, Wormley
+Essex, Felstead
+Essex, Boreham
+
+64
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]

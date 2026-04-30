@@ -25,6 +25,60 @@ tags:
 2. Validate spouse/child links in the 1850 household from image-level census pages.
 3. Resolve Bergett/Burgett spelling normalization.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+BURGETT, William (c. 1807 - c. 1850)
+1850 Iowa, Iowa County, Brush Run Township
+R/F
+14/14
+
+Name
+William BERGETT
+Mary BERGETT
+John BERGETT
+Adam BERGETT
+Maria BERGETT
+Series: M432, Roll: 184, Page: 279
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex
+M
+F
+M
+M
+F
+
+Age
+43
+14
+16
+12
+6
+
+Occupation
+Farmer
+Farmer
+
+Born
+Comments
+Pennsylvania
+Ohio
+daughter of the deceased Mary
+Ohio
+Bergett
+Ohio
+Iowa
+
+Robert Archer John Thorpe
+
+24
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]

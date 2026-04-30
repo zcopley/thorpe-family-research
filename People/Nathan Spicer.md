@@ -80,6 +80,152 @@ tags:
 4. Explore Henry and Zura Spicer (children, Ohio-born, date/context unclear)
 5. Keep the repeated-Nathan chart problem explicit instead of flattening it into a single solved line.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+SPICER, Nathan (3 Apr 1796 - 16 May 1873)
+1850 Iowa, Johnson County, Iowa City, District No. 9
+R/F
+12/12
+
+Name
+Henry USHER
+Maria USHER
+Henry USHER
+Martha FARBANKS
+Nathaniel SPICER
+Henry SPICER
+Zura SPICER
+Series: M432, Roll: 185, Page: 148
+
+Sex
+M
+F
+M
+F
+M
+M
+F
+
+Age
+37
+36
+9
+6
+54
+20
+18
+
+Occupation
+Blk Smith
+
+Blk Smith
+
+Born
+New York
+New York
+Iowa
+Iowa
+New York
+Ohio
+Ohio
+
+Comments
+Nathan’s daughter
+
+1860 Iowa, Iowa County, Iowa Township, Page 628
+D/F
+966/1007
+
+Name
+Wm SPICER
+Deliha SPICER
+Mary C SPICER
+Nathan SPICER
+Wm FERGUSON
+Series: M653, Roll: 325, Page: 628
+
+Age Sex
+42
+M
+43
+F
+6
+F
+64
+M
+55
+M
+
+Color
+
+Occupation
+Farmer
+
+Property
+1200 200
+
+Nativity
+New York
+Ohio
+Iowa
+1000 New York
+Ohio
+
+Farm Laborer
+Farm Laborer
+
+300
+
+Comments
+Nathan’s son
+
+1870 Iowa, Iowa County, Amana Township
+D/F
+125/133
+
+Name
+William SPICER
+Delilah SPICER
+Nathan SPICER
+Series: M593, Roll: 396, Page: 259
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Age Sex
+54
+M
+58
+F
+74
+M
+
+Color
+W
+W
+W
+
+Occupation
+Farmer
+Keeping House
+Without Prospect
+
+Robert Archer John Thorpe
+
+Real Pers
+1500 600
+
+Nativity Comments
+New York
+Ohio
+New York
+
+69
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]]

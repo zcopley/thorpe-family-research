@@ -98,6 +98,196 @@ Uriah Blake Lemmon was patriarch of the Ohio Lemmon line, with 8+ documented chi
 4. Resolve whether the death date is 15 Feb 1887 or 16 Feb 1887; the Sandusky-Beers sketch gives 16 Feb, while earlier vault sources give 15 Feb.
 5. Clarify relationship to [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] via pedigree timeline or family records (possible uncle/nephew or cousin).
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+LEMMON, Uriah Blake (16 Mar 1808 - 15 Feb 1887)
+1850 Ohio, Sandusky County, Townsend Township, Page 476 B and 477
+R/F
+1189/1205
+
+Name
+Euriah B LEMMON
+Emily A LEMMON
+Wm H LEMMON
+John M LEMMON
+Sarah A LEMMON
+Rebecca A LEMMON
+Cyrus A LEMMON
+M Burton LEMMON
+Series: M432, Roll: 726, Page: 476, 477
+
+Sex
+M
+F
+M
+M
+F
+F
+M
+M
+
+Age
+42
+34
+13
+11
+9
+7
+5
+4
+
+Occupation
+Farmer
+
+Born
+New York
+New York
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+
+Comments
+
+1860 Ohio, Sandusky County, Townsend Township, Page 54 A
+D/F
+800/773
+
+Name
+Uriah B LEMON
+Emily A LEMON
+Rebecca A LEMON
+Cyrus A LEMON
+Morris B LEMON
+Emily E LEMON
+Nathaniel LEMON
+Series: M653, Roll: 1032, Page: 54
+
+Age Sex
+53
+M
+44
+F
+17 M (F)
+15
+M
+13
+M
+7
+F
+2/12F (M)
+
+Color
+
+Occupation
+Master? Farmer
+
+Property
+Nativity
+7000 1600 New York
+New York
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+
+Comments
+
+1870 Ohio, Sandusky County, Green CreekTownship, Clyde
+D/F
+525/527
+
+Name
+Jno M LEMMON
+Annie LEMMON
+Mack LEMMON
+Annie HAVICE
+Uriah B LEMMON
+Series: M593, Roll: 1264, Page: 125
+
+Age Sex
+30
+M
+26
+F
+2/12 M
+22
+F
+62
+M
+
+Color
+W
+W
+W
+W
+W
+
+Occupation
+Lawyer
+Keeping House
+Housekeeper
+Retired Farmer
+
+Real Pers Nativity Comments
+17000 1500 Ohio
+son of UB
+Ohio
+Ohio
+Penn
+2000 8000 New York
+
+1880 Ohio, Sandusky County, Clyde
+D/F
+360/385
+
+Name
+Rel
+Uriah B. LEMMON
+Self
+Sarah LEMMON
+Wife
+Fam Hist Lib Film
+1255063
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Married Gender Race Age
+BP
+Married
+Male
+White 72
+NY
+Married
+Female White 52
+NY
+NA Film No. T9-1063
+Page 63A
+
+Robert Archer John Thorpe
+
+Occupation
+Retired Farmer
+Keeping House
+
+FBP
+PA
+CT
+
+MBP
+CT
+CT
+
+38
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]

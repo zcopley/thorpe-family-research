@@ -28,6 +28,122 @@ tags:
 3. Validate death date from independent records.
 4. Do not harmonize the `c1836` and `c1841` birth-year readings without stronger support.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+QUACKENBUSH, Elizabeth A (c. 1836 - 15 Dec 1909)
+1860 Wisconsin, Fond du Lac, Ripon 1st Ward
+D/F
+1078/1072
+
+Name
+W.W. LEWIS
+Susan LEWIS
+Oliver LEWIS
+Marshal LEWIS
+Elizabeth LEWIS
+Martha E LEWIS
+Series: M653, Roll: 1408, Page: 829
+
+Age Sex
+79
+M
+58
+F
+35
+M
+25
+M
+24
+F
+7/12
+F
+
+Color
+
+Occupation
+Farmer
+
+Property
+50
+300
+
+Nativity
+Ma??
+NY
+Vermont
+Vermont
+NY
+Wis
+
+Comments
+
+1880 Minnesota, Mower County, Grand Meadow Township
+D/F
+193/193
+
+Name
+Oliver LEWIS
+Elizabeth LEWIS
+George LEWIS
+William LEWIS
+Fam Hist Lib Film
+1254626
+
+Rel
+Self
+Wife
+Son
+Son
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Married Gender Race Age
+BP
+Married
+Male
+White 57
+VT
+Married
+Female White 44
+NY
+Single
+Male
+White 16
+WI
+Single
+Male
+White 9
+MI
+NA Film No. T9-0626
+Page 492D
+
+Robert Archer John Thorpe
+
+Occupation
+Farmer
+Keeping House
+Working On Farm
+At School
+
+FBP
+VT
+NY
+VT
+VT
+
+MBP
+MA
+NY
+NY
+NY
+
+57
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]

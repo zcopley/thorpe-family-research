@@ -45,6 +45,53 @@ This is a small household-structure sketch based on the census summary and buria
 2. Validate age, occupation, and nativity fields from image-level census page.
 3. Confirm death date with independent records.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+RISDEN, John Wheeler (15 Apr 1812 - 26 Dec 1892)
+1860 Iowa, Clinton County, Lyons Township
+D/F
+1033/989
+
+Name
+John W. RISDON
+Watson RISDON
+John RISDON
+Series: M653, Roll: 316, Page: 366
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Age Sex
+47
+M
+13
+M
+4
+M
+
+Color
+
+Occupation
+Day Laborer
+
+Robert Archer John Thorpe
+
+Property
+25
+
+Nativity
+N.Y.
+N.Y
+Mich
+
+Comments
+
+59
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]

@@ -70,6 +70,127 @@ This diagram is a household sketch from the 1850 and 1860 census-summary extract
 2. Confirm relationships and household composition in the large 1850 multi-member household.
 3. Verify death date from Wisconsin vital records or cemetery records (timeline says "after 1860"; likely 1860s).
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+LEWIS, Wynat (William?) (? - ?)
+1850 Wisconsin, Racine County, Town of Burlington
+R/F
+6/6
+
+Name
+Wynat LEWIS
+Susan LEWIS
+Lousa LEWIS
+Eliza LEWIS
+Alonzo LEWIS
+Oliver LEWIS
+Marth LEWIS
+Marsh LEWIS
+Erastus DARLING
+Sarah DARLING
+Series: M432, Roll: 1004, Page: 150
+
+Sex
+M
+F
+F
+F
+M
+M
+F
+F
+M
+F
+
+Age
+68
+54
+37
+37
+33
+25
+19
+17
+15
+12
+
+Occupation
+Farmer
+
+Farmer
+Farmer
+
+Born
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+
+Comments
+
+1860 Wisconsin, Fond du Lac, Ripon 1st Ward
+D/F
+1078/1072
+
+Name
+W.W. LEWIS
+Susan LEWIS
+Oliver LEWIS
+Marshal LEWIS
+Elizabeth LEWIS
+Martha E LEWIS
+Series: M653, Roll: 1408, Page: 829
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Age Sex
+79
+M
+58
+F
+35
+M
+25
+M
+24
+F
+7/12
+F
+
+Color
+
+Occupation
+Farmer
+
+Property
+50
+300
+
+Robert Archer John Thorpe
+
+Nativity
+Ma??
+NY
+Vermont
+Vermont
+NY
+Wis
+
+Comments
+
+41
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]

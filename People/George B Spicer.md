@@ -74,6 +74,459 @@ tags:
 3. Extend profile with any post-1920 records (1930 census, death records)
 4. Keep the earlier Nathan-to-Charles linkage separate from the better-supported Charles-to-George-to-Lester chain.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+SPICER, George B (3 Sep 1864 - 15 May 1938)
+1870 Iowa, Linn County, Clinton Township
+D/F
+43/43
+
+Name
+Chas R SPICER
+Mary SPICER
+Sylvester N SPICER
+Amanda SPICER
+Mary SPICER
+Wm SPICER
+Perry SPICER
+George SPICER
+Ella SPICER
+Zerna SPICER
+Series: M593, Roll: 405, Page: 67
+
+Age Sex
+59? M
+35
+F
+15
+M
+13
+F
+11
+F
+9
+F
+8
+M
+5
+M
+3
+F
+1
+F
+
+Color
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+
+Occupation
+Farm Labr
+Keeps House
+Farm Labr
+
+Real
+800
+
+Pers
+300
+
+Nativity Comments
+New York
+Iowa
+
+1880 Iowa, Linn County, Clinton Township, Page 153 C & 153 D
+D/F
+65/66
+
+Name
+Russel SPICER
+Mary SPICER
+George SPICER
+William SPICER
+Ellen SPICER
+Dellie M. SPICER
+Elizabeth SPICER
+Fam Hist Lib Film
+1254351
+
+Rel
+Self
+Wife
+Son
+Son
+Dau
+Dau
+Dau
+
+Married Gender Race Age
+BP
+Married
+Male
+White 59
+NY
+Married
+Female White 45
+OH
+Single
+Male
+White 15
+IA
+Single
+Male
+White 19
+IA
+Single
+Female White 12
+IA
+Single
+Female White 8
+IA
+Single
+Female White 7
+IA
+NA Film No. T9-0351
+Page 153C
+
+Occupation
+Farmer
+Keeping House
+
+FBP
+NY
+ENG
+NY
+NY
+NY
+NY
+NY
+
+At School
+
+MBP
+NY
+PA
+OH
+OH
+OH
+OH
+OH
+
+1900 Iowa, Linn County, Clinton Township
+Add
+242
+
+Name
+George SPICER
+Hattie SPICER
+Mary SPICER
+Clara SPICER
+Roy Forney
+Series: T623, Roll: 443, Page 62B
+
+Rel
+Head
+Wife
+Mother
+Sister
+Boarder
+
+Race
+W
+W
+W
+W
+W
+
+Sex
+M
+F
+F
+F
+M
+
+Birthdate
+Sept 1865
+Mar 1877
+? 1835
+Sept 1881
+Nov 1878
+
+Age
+35
+23
+65
+18
+21
+
+MS ?
+M 3
+M 3
+
+? ?
+2 0
+12 10
+
+S
+S
+
+BP
+Iowa
+Iowa
+Ohio
+Iowa
+Iowa
+
+FBP
+Ohio
+Ohio
+Penn
+Ohio
+NY
+
+MBP
+Ohio
+Ind
+Eng
+Ohio
+NY
+
+Occ
+Farmer
+
+Farm Labr
+
+1910 Iowa, Benton County, Canton Township, Page 56 and Page 57
+D/F
+166
+
+Name
+Rel
+George SPICER
+Head
+Hattie SPICER
+Wife
+Edith SPICER
+Dau
+Charles R SPICER
+Son
+George G SPICER
+Son
+Lester H SPICER
+Son
+Chester J SPICER
+Son
+William SPICER
+Bro
+Series: T624, Roll:391 , Pages 56, 57
+
+Sex Race Age
+M
+W
+45
+F
+W
+32
+F
+W
+9
+M
+W
+8
+M
+W
+6
+M
+W
+3
+M
+W 2.3
+M
+W
+49
+
+MS
+M1
+M1
+S
+S
+S
+S
+S
+M2
+
+?
+13
+13
+
+?
+
+?
+
+5
+
+5
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+
+MBP
+
+NY
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Ind
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Farmer
+None
+None
+None
+None
+None
+None
+Farmer Laborer
+
+1920 Iowa, Benton County, Benton Township, Sheet 4B & 5A
+D/F
+99
+
+Name
+Rel
+Sex Race Age
+George SPICER
+Head
+M
+W
+55
+Hattie SPICER
+Wife
+F
+W
+42
+Charles R. SPICER
+Son
+M
+W
+17
+George J. SPICER
+Son
+M
+W
+15
+Lester H SPICER
+Son
+M
+W
+13
+Chester J SPICER
+Son
+M
+W
+11
+Edna SPICER
+Dau
+F
+W
+7
+Myron SPICER
+Son
+M
+W 4+
+Series: T625, Roll: 477, Page: 4B & 5A, ED 4
+
+CENSUS SUMMARY - INDIVIDUALS
+
+MS
+M
+M
+S
+S
+S
+S
+S
+S
+
+?
+
+?
+
+?
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Robert Archer John Thorpe
+
+FBP
+US
+NY
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+MBP
+US
+Ind
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Farmer
+None
+Farm Laborer
+Farm Laborer
+None
+None
+None
+None
+
+66
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]]

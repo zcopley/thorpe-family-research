@@ -47,6 +47,223 @@ This is a household- and marriage-level sketch; the 1881 servant record remains 
 3. Validate incomplete RG14 fields in the 1911 segment from primary images.
 4. Keep the Munson-to-Thorogood chart placement explicitly secondary until corroborated elsewhere.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+MUNSON, Emily (10 Feb 1862 - 5 Mar 1932)
+1871 Essex, Felstead, Village
+No. Name
+Rel
+Cond. AM AF Occupation
+120 James MUNSON
+Head
+Mar
+55
+Police Constable
+Mary Ann MUNSON
+Wife
+Mar
+38
+Alfred MUNSON
+Son
+Unm
+18
+Miller Journeyman
+Henry MUNSON
+Son
+Unm
+12
+Errand Boy
+John MUNSON
+Son
+Unm
+10
+Scholar
+Emily MUNSON
+Daur Unm
+8 Scholar
+Albert MUNSON
+Son
+Unm
+7
+Scholar
+Ellen MUNSON
+Daur Unm
+4 Scholar
+Public Records Office, Reference - Source: RG10, Piece: 1703, Folio: 50, Page: 20, No: 120
+
+Where Born
+Essex, Langham
+Essex, Felsted
+Essex, Felsted
+Essex, Felsted
+Essex, Felsted
+Essex, Felsted
+Essex, Felsted
+Essex, Felsted
+
+1881 Essex, Barnston, Bickners
+Name
+Joseph Fleetwood WELLS
+Jessie Matilda WELLS
+Matilda CAMPBELL
+Emma DIGBY
+Emily MUNSEN
+Fam Hist Lib Film
+
+Mar Age
+M
+30
+
+Sex
+M
+
+Birthplace
+Little Waltham, Essex, England
+
+Relationship
+Head
+
+M
+28
+F
+Canada
+W
+69
+F
+Bristol, Somerset, England
+U
+22
+F
+Great Leighs, Essex, England
+U
+20
+F
+Felstead, Essex, England
+1341437 PRO Ref RG11 Piece 1813 Folio 5 Page 3
+
+Wife
+Mother In Law
+Serv
+Serv
+
+Occupation
+Farmer (388 Acres)
+Emp. 16 Men & 4 Boys
+Farmers Wife
+Cook (Domestic)
+Housmaid (Domestic)
+
+1891 Essex, Chelmsford, White House Farm, Baddow Road
+Name
+Relationship
+Mar
+Age M Age F Occupation
+Frederick THOROGOOD
+Head
+M
+26
+Railway Clerk
+Emily THOROGOOD
+Wife
+M
+29
+Mary THOROGOOD
+Mother
+W
+67
+Retired Publican
+Public Records Office, Reference - Source: RG12, Piece: 1386, Folio: 88, Page: 17, No: 112
+
+Birthplace
+Herts, Wormley
+Essex, Felstead
+Essex, Boreham
+
+1901 Essex, Chelmsford, 37 Baddow Road
+Name
+Relationship Marr Age-M Age-F
+Occupation
+Frederick THOROGOOD
+Head
+M
+36
+Railway Clerk
+Emily THOROGOOD
+Wife
+M
+39
+Annie G THOROGOOD
+Dau
+S
+9
+Grace C THOROGOOD
+Dau
+S
+6
+Public Records Office, Reference - Source: RG13, Piece: 1672, Folio: 94, Page: 7, No: 43
+
+Worker?
+
+Where born
+Herts, Wormley
+Essex, Felstead
+Essex, Chelmsford
+Essex, Chelmsford
+
+1911 Essex, Chelmsford, 37 Baddow Road
+Name
+Relationship Marr
+Years Sex
+Age
+THOROGOOD, Frederick
+Head
+Married
+M
+46
+THOROGOOD, Emily
+Wife
+Wife
+20
+F
+48
+THOROGOOD, Annie Gertrude Daughter
+Single
+F
+19
+THOROGOOD, Grace Caroline Daughter
+Single
+F
+16
+THOROGOOD, Frederick James Son
+M
+8
+Public Records Office, Reference - Source: RG14, Piece: , Folio: , Page: , No:
+(RG14PN10056 RG78PN529 RD194 SD2 ED11 SN41)
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Robert Archer John Thorpe
+
+Occupation
+Railway Clerk
+Dressmaker
+Dressmaker
+School
+
+Where born:
+Herts, Wormley
+Essex, Felstead
+Essex, Chelmsford
+Essex, Chelmsford
+Essex, Chelmsford
+
+47
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]

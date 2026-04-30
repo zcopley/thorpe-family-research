@@ -67,6 +67,71 @@ graph TD
 2. Resolve the 27 June 1779 vs 17 July 1779 birth-date conflict between burial/census-derived notes and the Sandusky-Beers sketch.
 3. Confirm death date from independent cemetery/probate or death records.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+LEMMON, James (27 Jun 1779 - 7 May 1854)
+1850 Ohio, Sandusky County, Townsend Township, Page 476 A
+R/F
+1173/1198
+
+Name
+Mathew? LEMMON
+Sarah LEMMON
+Frank LEMMON
+Nathan HARKINS
+James LEMMON
+Rebecca LEMMON
+David LEMMON
+Series: M432, Roll: 726, Page: 476
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex
+M
+F
+M
+M
+M
+F
+M
+
+Age
+38
+21
+1
+12
+71
+71
+21
+
+Occupation
+Farmer
+
+Farmer
+Farmer
+
+Born
+New York
+New York
+Ohio
+New York
+Penn
+Penn
+New York
+
+Robert Archer John Thorpe
+
+Comments
+
+James Lemmon Sr
+
+36
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]

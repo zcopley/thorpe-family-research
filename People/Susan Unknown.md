@@ -18,6 +18,81 @@ tags:
 - Canonical profile: [[People/Susan Lewis|Susan Lewis]]
 - Basis: Cross-reference mapping in the census summary extraction (`LEWIS, Susan -> UNKNOWN, Susan`) and matching 1850 Lewis-household evidence.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+UNKNOWN, Susan (c.1796 - ?)
+1850 Wisconsin, Racine County, Town of Burlington
+R/F
+6/6
+
+Name
+Wynat LEWIS
+Susan LEWIS
+Lousa LEWIS
+Eliza LEWIS
+Alonzo LEWIS
+Oliver LEWIS
+Marth LEWIS
+Marsh LEWIS
+Erastus DARLING
+Sarah DARLING
+Series: M432, Roll: 1004, Page: 150
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex
+M
+F
+F
+F
+M
+M
+F
+F
+M
+F
+
+Age
+68
+54
+37
+37
+33
+25
+19
+17
+15
+12
+
+Occupation
+Farmer
+
+Farmer
+Farmer
+
+Born
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+
+Robert Archer John Thorpe
+
+Comments
+
+87
+```
+
 ## Sources
 
 1. `References/raw/extracted/CensusSummaryIndividual.txt`

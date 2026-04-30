@@ -96,6 +96,256 @@ William Henry Palmer's trajectory follows the family's movement from Wisconsin (
 4. Identify Viola's husband and clarify family consolidation in Iowa.
 5. Keep the Bangle-side spouse placement tied to compiled-chart status unless stronger local evidence sharpens it.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+PALMER, William Henry (12 Jun 1851 - 8 May 1927)
+1860 Wisconsin, Sauk County, Baraboo
+D/F
+1860/1673
+
+Name
+J PALMER
+Jane PALMER
+Mary PALMER
+Elizabeth PALMER
+W H PALMER
+Emily PALMER
+Series: M653, Roll: 1429, Page: 450
+
+Age Sex
+38
+M
+36
+F
+15
+F
+14
+F
+9
+M
+7
+F
+
+Color
+
+Occupation
+Farmer
+
+Property
+400
+
+Nativity
+Penn
+Penn
+Penn
+Penn
+Penn
+Penn
+
+Comments
+
+1900 Minnesota, Mower, Frankford Township
+Add
+38
+
+Name
+William PALMER
+Elizabeth PALMER
+Vern PALMER
+Loulu PALMER
+May PALMER
+Dott PALMER
+Ivas PALMER
+VoilaPALMER
+Vivian PALMER
+Series: T623, Roll: 777, Page: 3A
+
+Rel
+Head
+Wife
+Son
+Dau
+Dau
+Dau
+Dau
+Dau
+Dau
+
+Race
+W
+W
+W
+W
+W
+W
+W
+W
+W
+
+Sex
+M
+F
+M
+F
+F
+F
+F
+F
+F
+
+Birthdate
+Jan 1851
+Sep 1857
+Oct 1882
+Oct 1884
+May 1887
+Aug 1889
+Sep 1891
+May 1896
+MAY 1898
+
+Age
+49
+42
+18
+16
+13
+11
+8
+4
+2
+
+MS ? ? ?
+M 26
+M 26 10 10
+S
+S
+S
+S
+S
+S
+S
+
+BP
+Penn
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Minn
+Minn
+
+?
+
+BP
+Minn
+Iowa
+Penn
+Wisc
+Iowa
+
+MBP
+Wisc
+Minn
+Penn
+France
+Ill
+
+FBP
+Penn
+NY
+Penn
+Penn
+Penn
+Penn
+Penn
+Penn
+Penn
+
+MBP
+NY
+NY
+NY
+NY
+NY
+NY
+NY
+NY
+NY
+
+Occ.
+Farmer
+Farm Labr
+
+1920 Iowa, Blackhawk County, Waterloo, Summer Street
+D/F
+529
+
+Name
+Rel
+Sex Race Age
+Viola McMILLEN
+Head
+F
+W
+28
+Bernice McMILLEN
+Dau
+F
+W 2½
+William PALMER
+Father M
+W
+68
+Elizabeth PALMER
+Mother F
+W
+65
+Maxine WALTON
+Dau
+F
+W
+6
+Series: T625, Roll: 478, Page: 24B, ED 33
+
+CENSUS SUMMARY - INDIVIDUALS
+
+MS
+Wid
+S
+M
+M
+S
+
+?
+
+?
+
+Robert Archer John Thorpe
+
+FBP
+Penn
+Ireland
+Penn
+NY
+Iowa
+
+Occupation
+Seamstress, Garment Fact.
+None
+None
+None
+None
+
+52
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
@@ -126,12 +376,3 @@ This is a minimal household sketch from the census-summary and burial-book mater
 2. Correlate this death-index entry with census-summary page references before asserting household relationships.
 3. Confirm birth details and parentage from additional records.
 
-## Sources
-
-1. [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Shared Intake 2026-04-22 Certificates and Parish Extracts]]
-2. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]
-3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]]
-4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-5. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
-6. `References/raw/inbox/2026-04-22-intake/Certificates/CERT0058PalmerWilliaHenry-Death Record.txt`
-7. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

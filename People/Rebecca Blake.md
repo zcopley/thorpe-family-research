@@ -70,6 +70,71 @@ Rebecca Blake married James Lemmon and anchors the Blake-Lemmon connection; thei
 2. Validate household relationships in the 1850 entry from source images.
 3. Extend profile with pre-1850 and post-1850 record coverage.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+BLAKE, Rebecca (26 Oct 1779 - 29 Mar 1855)
+1850 Ohio, Sandusky County, Townsend Township, Page 476 A
+R/F
+1173/1198
+
+Name
+Mathew? LEMMON
+Sarah LEMMON
+Frank LEMMON
+Nathan HARKINS
+James LEMMON
+Rebecca LEMMON
+David LEMMON
+Series: M432, Roll: 726, Page: 476
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex
+M
+F
+M
+M
+M
+F
+M
+
+Age
+38
+21
+1
+12
+71
+71
+21
+
+Occupation
+Farmer
+
+Farmer
+Farmer
+
+Born
+New York
+New York
+Ohio
+New York
+Penn
+Penn
+New York
+
+Robert Archer John Thorpe
+
+Comments
+
+James Lemmon Sr
+
+20
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]

@@ -126,6 +126,466 @@ Hattie May bridges two marriages across Iowa household evolution: Watson Risden 
 3. Confirm death date from independent records.
 4. Keep the John Wheeler Risden date conflict visible on linked branch pages and profiles.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+RISDEN, Hattie May (29 Mar 1877 - 11 Mar 1967)
+1880 Iowa, Linn County, Cedar Rapids, 4th Ward
+D/F
+177/198
+
+Name
+Watson RISDEN
+Nancy RISDEN
+Martha E. RISDEN
+James E. RISDEN
+Charles W. RISDEN
+Hattie E. RISDEN
+Fam Hist Lib Film
+1254351
+
+Rel
+Self
+Wife
+Dau
+Son
+Son
+Dau
+
+Married Gender Race Age
+BP
+Married
+Male
+White 35
+NY
+Married
+Female White 32
+IN
+Single
+Female White 10
+MI
+Single
+Male
+White 5
+IA
+Single
+Male
+White 4
+IA
+Single
+Female White 2
+IA
+NA Film No. T9-0351
+Page 133B
+
+Occupation
+Laborer
+Keeping House
+At School
+At School
+
+FBP
+NY
+IN
+NY
+NY
+NY
+NY
+
+MBP
+NY
+KY
+IN
+IN
+IN
+IN
+
+1900 Iowa, Linn County, Clinton Township
+Add
+242
+
+Name
+George SPICER
+Hattie SPICER
+Mary SPICER
+Clara SPICER
+Roy Forney
+Laborer
+Series: T623, Roll: 443, Page 62B
+
+Rel
+Head
+Wife
+Mother
+Sister
+Boarder
+
+Race
+W
+W
+W
+W
+W
+
+Sex
+M
+F
+F
+F
+M
+
+Birthdate
+Sept 1865
+Mar 1877
+? 1835
+Sept 1881
+Nov 1878
+
+Age
+35
+23
+65
+18
+21
+
+MS ?
+M 3
+M 3
+
+? ?
+2 0
+12 10
+
+S
+S
+
+BP
+Iowa
+Iowa
+Ohio
+Iowa
+Iowa
+
+FBP
+Ohio
+Ohio
+Penn
+Ohio
+NY
+
+MBP
+Ohio
+Ind
+Eng
+Ohio
+NY
+
+Occupation
+Farmer
+
+Farm
+
+1910 Iowa, Benton County, Canton Township, Page 56 and Page 57
+D/F
+166
+
+Name
+Rel
+George SPICER
+Head
+Hattie SPICER
+Wife
+Edith SPICER
+Dau
+Charles R SPICER
+Son
+George G SPICER
+Son
+Lester H SPICER
+Son
+Chester J SPICER
+Son
+William SPICER
+Bro
+Series: T624, Roll:391 , Pages 56, 57
+
+Sex Race Age
+M
+W
+45
+F
+W
+32
+F
+W
+9
+M
+W
+8
+M
+W
+6
+M
+W
+3
+M
+W 2.3
+M
+W
+49
+
+MS
+M1
+M1
+S
+S
+S
+S
+S
+M2
+
+?
+13
+13
+
+?
+
+?
+
+5
+
+5
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+
+MBP
+
+NY
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Ind
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Farmer
+None
+None
+None
+None
+None
+None
+Farmer Laborer
+
+1920 Iowa, Benton County, Benton Township, Sheet 4B & 5A
+D/F
+99
+
+Name
+Rel
+Sex Race Age
+George SPICER
+Head
+M
+W
+55
+Hattie SPICER
+Wife
+F
+W
+42
+Charles R. SPICER
+Son
+M
+W
+17
+George J. SPICER
+Son
+M
+W
+15
+Lester H SPICER
+Son
+M
+W
+13
+Chester J SPICER
+Son
+M
+W
+11
+Edna SPICER
+Dau
+F
+W
+7
+Myron SPICER
+Son
+M
+W 4+
+Series: T625, Roll: 477, Page: 4B & 5A, ED 4
+
+MS
+M
+M
+S
+S
+S
+S
+S
+S
+
+?
+
+?
+
+?
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+US
+NY
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+MBP
+US
+Ind
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Farmer
+None
+Farm Laborer
+Farm Laborer
+None
+None
+None
+None
+
+1930 Iowa, Linn County, Clinton Township
+D/F
+230
+
+Name
+Rel
+Sex Race Age
+George SPICER
+Head
+M
+W
+65
+Hattie SPICER
+Wife-H F
+W
+53
+Lester H. SPICER
+Son
+M
+W
+23
+Chester ? SPICER
+Son
+M
+W
+21
+Edna SPICER
+Dau
+F
+W
+17
+Myron L. SPICER
+Son
+M
+W
+14
+Series: T626, Roll: 664, Page: 11A, ED 8
+
+CENSUS SUMMARY - INDIVIDUALS
+
+MS
+M
+M
+S
+S
+S
+S
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+Iowa
+NY
+Iowa
+Iowa
+Iowa
+Iowa
+
+Robert Archer John Thorpe
+
+MBP
+Penn
+Ind
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Farmer
+None
+Car Repairer (Railroad Shop)
+Farmer
+None
+None
+
+58
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]

@@ -27,6 +27,159 @@ tags:
 2. Resolve uncertain birth-date notation in summary text.
 3. Confirm household members and ages from image-level census pages.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+BAXTER, Matilda (31 Mar 1818? - 1 Apr 1879)
+1850 Indiana, Jefferson County, Graham Township
+R/F
+222/227
+
+Name
+Jessie ROWLAND
+Matilda ROWLAND
+Isaac ROWLAND
+Melissa J ROWLAND
+Emily ROWLAND
+Eliza ROWLAND
+Mary ROWLAND
+Series: M432, Roll: 154, Page: 241
+
+Sex
+M
+F
+M
+F
+F
+F
+F
+
+Age
+34
+32
+13
+11
+10
+5
+2
+
+Occupation
+Farmer
+
+Born
+Indiana
+Kentucky
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+
+Comments
+Matilda's maiden name was
+Baxter. Baxters lived on both sides
+of the Rowlands.
+
+1860 Iowa, Clinton County, Waterford Township
+D/F
+377/374
+
+Name
+Jesse ROLAND
+Matilda ROLAND
+Isaac ROLAND
+Elizabeth ROLAND
+Mary C ROLAND
+Nancy W ROLAND
+Martha E ROLAND
+Series: M653, Roll: 316, Page: 95
+
+Age Sex
+46
+M
+18?
+F
+23
+M
+16
+F
+11
+F
+8
+F
+7
+F
+
+Color
+
+Occupation
+Farmer
+
+Property
+200
+
+Nativity
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+
+Real Pers
+1000 600
+
+Nativity
+Indiana
+Kentucky
+Indiana
+
+Domestic
+Domestic
+
+Comments
+
+1870 Iowa, Clinton County, Deep Creek Township
+D/F
+147/143
+
+Name
+Jesse ROWLAND
+Matilda ROWLAND
+Martha ROWLAND
+Series: M593, Roll: 384, Page: 189
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Age Sex
+56
+M
+52
+F
+16
+F
+
+Color
+W
+W
+W
+
+Occupation
+Farmer
+Keeping House
+At Home
+
+Robert Archer John Thorpe
+
+Comments
+
+14
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]

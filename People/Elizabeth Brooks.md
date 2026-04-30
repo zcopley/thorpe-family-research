@@ -25,6 +25,50 @@ tags:
 2. Verify birth/death values from independent records beyond the summary index line.
 3. Resolve whether Brooks and Ault records represent direct identity evidence or compiler cross-reference context.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+BROOKS, Elizabeth (c. 1767 - 29 Apr 1857)
+1850 Ohio, Jefferson County, Island Creek Township
+R/F
+2062/2125
+
+Name
+Andrew AULT
+Elizabeth AULT
+Amy PALMER
+Series: M432, Roll: 699, Page: 523
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex
+M
+F
+F
+
+Age
+82
+83
+17
+
+Occupation
+Farmer
+
+Born
+New York
+New York
+Ohio
+
+Robert Archer John Thorpe
+
+Comments
+
+21
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]

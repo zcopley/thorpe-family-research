@@ -827,3 +827,9 @@ tags:
   - `butch-thorpe-email.txt`
   - `PedigreeTimelines2025.cdr`
   - `PedigreeTimelines2019Descendants2.cdr`
+
+## 2026-04-30
+
+- Automated extraction of pedigree and census data from Robert Thorpe's raw files.
+- Created missing person pages and enriched existing pages with census records.
+- Updated Search Index and People Directory.

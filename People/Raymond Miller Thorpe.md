@@ -24,6 +24,180 @@ tags:
 1. Confirm descendants and linkage to modern Thorpe family contributors.
 2. Verify dates and residence locations against primary census and vital records.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+THORPE, Raymond Miller (2 Aug 1917 - 3 Jan 1974)
+1920 Iowa, Benton County, Belle Plaine, 1st Ward, 3rd Street
+D/F
+808
+
+Name
+Rel
+Uriah B THORPE
+Head
+Lenore H THORPE
+Wife
+Ralph G THORPE
+Son
+John M THORPE
+Son
+Louise E THORPE
+Dau
+Raymond M THORPE Son
+Series: T625, Roll: 477, Page: 6B, ED 1
+
+Sex Race Age
+M
+W
+41
+F
+W
+39
+M
+W
+13
+M
+W
+9
+F
+W
+6
+M
+W 2.3
+
+MS
+M
+M
+S
+S
+S
+S
+
+?
+
+?
+
+?
+
+BP
+Iowa
+Iowa
+So Da
+So Da
+Iowa
+Iowa Iowa
+
+FBP
+NY
+Penn
+Iowa
+Iowa
+Iowa
+Iowa
+
+MBP
+Ohio
+Penn
+Iowa
+Iowa
+Iowa
+None
+
+Occupation
+Mechanic, Garage
+None
+Job man, farm
+None
+None
+
+1930 Iowa, Hamilton County, Boone Township, Webster City, 2nd Street
+D/F Name
+Rel
+605½ Uriah B THORPE
+Head
+Lenore H THORPE
+Wife
+Ralph G THORPE
+Son
+John M THORPE
+Son
+Louise E THORPE
+Dau
+Raymond M THORPE
+Son
+Series: T626, Roll: 657, Page 9B, ED 3
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex Race Age
+M
+W
+51
+F
+W
+51
+M
+W
+23
+M
+W
+19
+F
+W
+16
+M
+W
+12
+
+MS
+M
+M
+S
+S
+S
+S
+
+BP
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+Iowa
+Penn
+Iowa
+Iowa
+Iowa
+Iowa
+
+Robert Archer John Thorpe
+
+MBP
+Iowa
+Ohio
+Iowa
+Iowa
+Iowa
+Iowa
+
+Occupation
+Prop. Auto Supply Store
+None
+Salesman Drug Store
+Laborer Monarch Tractor
+None
+None
+
+82
+```
+
 ## Sources
 
 1. `References/raw/inbox/2026-04-22-intake/Census/Ancestors in the Census.txt`

@@ -33,6 +33,58 @@ tags:
 2. Verify age and birthplace values from image-level census page.
 3. Resolve death date currently recorded as unknown in summary index line.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+HARRISON, Elizabeth (c. 1792 - ?)
+1850 Ohio, Fairfield County, Violet Township, District 41
+R/F
+209/209
+
+Name
+John TALLMAN
+Elizabeth TALLMAN
+Mary SLOUGH
+Tallman SLOUGH
+Ann Mariah SLOUGH
+Series: M432, Roll: 677, Page: 144
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex
+M
+F
+F
+M
+F
+
+Age
+61
+58
+36
+12
+9
+
+Occupation
+None
+
+Born
+Rock. C. Va
+Rock. C. Va
+F. C. Ohio
+F. C. Ohio
+F. C. Ohio
+
+Robert Archer John Thorpe
+
+Comments
+
+31
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]

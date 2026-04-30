@@ -25,6 +25,63 @@ tags:
 2. Validate relationship positions in the 1870 household from image-level census pages.
 3. Add pre-1870 and post-1870 records to strengthen chronology.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+BURDICK, Saphronia (c. 1823 - 4 Jun 1888)
+1870 Michigan, Lapeer County, Lapeer, 4th Ward
+D/F
+86/88
+
+Name
+Watson RISDEN
+Nancy RISDEN
+Saphrona RISDEN
+John E. RISDEN
+Series: M593, Roll: 684, Page: 207
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Age Sex
+23
+M
+19
+F
+47
+F
+13
+M
+
+Color
+W
+W
+W
+W
+
+Occupation
+Real
+Works in Sa??? factory
+Keeping House
+No Occupation
+800
+At Home
+
+Robert Archer John Thorpe
+
+Pers
+
+Nativity Comments
+New York
+Indiana
+New York
+Michigan
+
+22
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]

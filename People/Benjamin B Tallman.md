@@ -112,6 +112,263 @@ Benjamin Tallman represents the Ohio-origin patriarch who established the Iowa T
 5. Trace all children’s adult lives, especially Miller and Matt H. Tallman.
 6. Verify relationship to [[People/Miller Mathias Tallman|Miller Mathias Tallman]] (possible distant relative).
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+TALLMAN, Benjamin B (25 May 1811 - 26 Oc 1881)
+1850 Iowa, Jones County, Rome Township
+R/F
+781/781
+
+Name
+Benjamin TOLLMAN
+Romancy TOLLMAN
+Miller TOLLMAN
+Emma E TOLLMAN
+Sarah J TOLLMAN
+Eliza E TOLLMAN
+Nathaniel H TOLLMAN
+Series: M432, Roll: 185, Page: 192
+
+Sex
+M
+F
+M
+F
+F
+F
+M
+
+Age
+39
+32
+9
+5
+14
+3
+2
+
+Occupation
+Farmer
+
+Born
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Iowa
+
+Comments
+
+1860 Iowa, Linn County, College Township, Western
+D/F
+393/380
+
+Name
+Benjamin TALMON
+Romcy TALMON
+Miller TALMON
+Ama TALMON
+Eliza E TALMON
+Nathaniel TALMON
+Ama E TALMON
+Griffin C TALMON
+William L TALMON
+John VANOISDSELL?
+Elizabeth McMETE?
+Mathew BOWER
+Series: 653, Roll: 332, Page: 387
+
+Age Sex
+47
+M
+40
+F
+19
+M
+16
+F
+13
+F
+11
+M
+6
+F
+7
+M
+2
+M
+20
+M
+33
+F
+60
+M
+
+Color
+
+Occupation
+Farmer
+
+Farm Hand
+
+Property
+Nativity
+5500 1800 Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+Comments
+
+1870 Iowa, Linn county, College Township, Page 180
+D/F
+164/170
+
+Name
+Benj TALLMAN
+Romancee TALLMAN
+Matt H TALLMAN
+Nathan H TALLMAN
+Griffin C TALLMAN
+Romancee TALLMAN
+Wm L? TALLMAN
+Jacob M TALLMAN
+Series: M593, Roll: 405, Page: 180
+
+Age Sex
+59
+M
+56
+F
+28
+M
+21
+M
+18
+M
+14
+F
+8
+M
+5
+M
+
+Color
+W
+W
+W
+W
+W
+W
+W
+W
+
+Occupation
+Farmer
+Keeps House
+Farmer
+Farm Labr
+Farm Labr
+
+Real
+
+Pers
+
+Nativity Comments
+Ohio
+Ohio
+Ohio
+Miller Mathias
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+1880 Iowa, Linn County, College Township, Western
+D/F
+212/213
+
+Name
+B. TALLMAN
+Romancy TALLMAN
+Romancy TALLMAN
+W. L. TALLMAN
+J. M. TALLMAN
+Fam Hist Lib Film
+1254351
+
+Rel
+Self
+Wife
+Dau
+Son
+Son
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Married Gender Race Age
+BP
+Married
+Male
+White 69
+OH
+Married
+Female White 62
+OH
+Single
+Female White 23
+IA
+Single
+Male
+White 21
+IA
+Single
+Male
+White 15
+IA
+NA Film No. T9-0351
+Page 173C
+
+Robert Archer John Thorpe
+
+Occupation
+Farming
+Keeping House
+Student
+Farms
+
+FBP
+VA
+VA
+OH
+OH
+OH
+
+MBP
+VA
+VA
+OH
+OH
+OH
+
+70
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]

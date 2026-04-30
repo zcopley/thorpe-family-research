@@ -25,6 +25,100 @@ tags:
 2. Validate occupational shift and property entries from image-level census pages.
 3. Resolve death date with independent records.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+PALMER, Peter (c. 1800 - ?)
+1850 Pennsylvania, Lycoming County, Loyalsock Township
+R/F
+159
+
+Name
+Peter PALMER
+Mary PALMER
+Margaret PALMER
+Deborah PALMER
+Hanna PALMER
+Benj PALMER
+Zephaniah PALMER
+Elmira PALMER
+Series: M432, Roll: 795, Page: 319B
+
+Sex
+M
+F
+F
+F
+F
+M
+M
+F
+
+Age
+50
+54
+20
+18
+15
+12
+10
+8
+
+Occupation
+Farmer
+
+Born
+Penn
+Penn
+Penn
+Penn
+Penn
+Penn
+Penn
+Penn
+
+Comments
+
+1870 Pennsylvania, Lycoming County, Eldred Township
+D/F
+31/31
+
+Name
+Peter PALMER
+Mary PALMER
+Series: M593, Roll: 370, Page: 80
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Age Sex
+69
+M
+74
+F
+
+Color
+W
+W
+
+Occupation
+Blacksmith
+K. H.
+
+Robert Archer John Thorpe
+
+Real Pers
+1000 50
+
+Nativity Comments
+Pennsylvania
+Pennsylvania
+
+51
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]

@@ -27,6 +27,37 @@ Detailed census household data is available in the source file below.
 - Birth/death dates and exact relationships require image-level verification from original census records.
 - Occupations, ages, and locations are transcribed from census summaries but should be verified against primary sources.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+WHITFIELD, John (? - c. 1843)
+1841 Lincolnshire, Donington
+Place
+Northorpe
+
+Name
+Age Male
+Age Female Occupation
+Born in County?
+John WITFIELD
+60
+Farmer
+Y
+Sarah WITFIELD
+25
+Y
+Source Citation: Class: HO107; Piece 606; Book: 15; Enumeration District: 4; Folio: 62; Page: 10; Line: 24; GSU roll: 438752.
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Robert Archer John Thorpe
+
+92
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Shared Intake 2026-04-24 Census InDesign Summaries]]

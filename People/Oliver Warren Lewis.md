@@ -87,6 +87,183 @@ Oliver Warren Lewis represents the Vermont-origin farmer patriarch, expanding th
 4. Trace children Eliza, Alonzo, and Martha beyond 1850 records.
 5. Confirm death date and burial location.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+LEWIS, Oliver Warren (13 Aug 1823 - 3 Jul 1892)
+1850 Wisconsin, Racine County, Town of Burlington
+R/F
+6/6
+
+Name
+Wynat LEWIS
+Susan LEWIS
+Lousa LEWIS
+Eliza LEWIS
+Alonzo LEWIS
+Oliver LEWIS
+Marth LEWIS
+Marsh LEWIS
+Erastus DARLING
+Sarah DARLING
+Series: M432, Roll: 1004, Page: 150
+
+Sex
+M
+F
+F
+F
+M
+M
+F
+F
+M
+F
+
+Age
+68
+54
+37
+37
+33
+25
+19
+17
+15
+12
+
+Occupation
+Farmer
+
+Farmer
+Farmer
+
+Born
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+Vermont
+
+Comments
+
+1860 Wisconsin, Fond du Lac, Ripon 1st Ward
+D/F
+1078/1072
+
+Name
+W.W. LEWIS
+Susan LEWIS
+Oliver LEWIS
+Marshal LEWIS
+Elizabeth LEWIS
+Martha E LEWIS
+Series: M653, Roll: 1408, Page: 829
+
+Age Sex
+79
+M
+58
+F
+35
+M
+25
+M
+24
+F
+7/12
+F
+
+Color
+
+Occupation
+Farmer
+
+Property
+50
+300
+
+Nativity
+Ma??
+NY
+Vermont
+Vermont
+NY
+Wis
+
+Comments
+
+1880 Minnesota, Mower County, Grand Meadow Township
+D/F
+193/193
+
+Name
+Oliver LEWIS
+Elizabeth LEWIS
+George LEWIS
+William LEWIS
+Fam Hist Lib Film
+1254626
+
+Rel
+Self
+Wife
+Son
+Son
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Married Gender Race Age
+BP
+Married
+Male
+White 57
+VT
+Married
+Female White 44
+NY
+Single
+Male
+White 16
+WI
+Single
+Male
+White 9
+MI
+NA Film No. T9-0626
+Page 492D
+
+Robert Archer John Thorpe
+
+Occupation
+Farmer
+Keeping House
+Working On Farm
+At School
+
+FBP
+VT
+NY
+VT
+VT
+
+MBP
+MA
+NY
+NY
+NY
+
+40
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p37-p48|Shared Intake 2026-04-22 Census Summary Individuals p37-p48]]

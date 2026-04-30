@@ -55,6 +55,50 @@ Andrew Ault represents the earliest generation in the documented Ault line, with
 4. Determine relationship to [[People/Frederick Ault|Frederick Ault]] (father/brother/other).
 5. Verify death date and burial location from cemetery records.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+AULT, Andrew (2 Apr 1769 - 28 Mar 1852)
+1850 Ohio, Jefferson County, Island Creek Township
+R/F
+2062/2125
+
+Name
+Andrew AULT
+Elizabeth AULT
+Amy PALMER
+Series: M432, Roll: 699, Page: 523
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex
+M
+F
+F
+
+Age
+82
+83
+17
+
+Occupation
+Farmer
+
+Born
+New York
+New York
+Ohio
+
+Robert Archer John Thorpe
+
+Comments
+
+9
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]

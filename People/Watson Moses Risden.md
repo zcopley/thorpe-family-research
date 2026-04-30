@@ -36,6 +36,385 @@ tags:
 3. Resolve the 23 June 1932 vs 30 June 1932 death-date conflict with independent records.
 4. Keep the chart's John Wheeler Risden date conflict visible rather than smoothing it away in downstream pages.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+RISDEN, Watson Moses (1 Dec 1843 - 30 Jun 1932)
+1860 Iowa, Clinton County, Lyons Township
+D/F
+1033/989
+
+Name
+John W. RISDON
+Watson RISDON
+John RISDON
+Series: M653, Roll: 316, Page: 366
+
+Age Sex
+47
+M
+13
+M
+4
+M
+
+Color
+
+Occupation
+Day Laborer
+
+Property
+25
+
+Nativity
+N.Y.
+N.Y
+Mich
+
+Comments
+
+1870 Michigan, Lapeer County, Lapeer, 4th Ward
+D/F
+86/88
+
+Name
+Watson RISDEN
+Nancy RISDEN
+Saphrona RISDEN
+John E. RISDEN
+Series: M593, Roll: 684, Page: 207
+
+Age Sex
+23
+M
+19
+F
+47
+F
+13
+M
+
+Color
+W
+W
+W
+W
+
+Occupation
+Real
+Works in Sa??? factory
+Keeping House
+No Occupation
+800
+At Home
+
+Pers
+
+Nativity Comments
+New York
+Indiana
+New York
+Michigan
+
+1880 Iowa, Linn County, Cedar Rapids, 4th Ward
+D/F
+177/198
+
+Name
+Watson RISDEN
+Nancy RISDEN
+Martha E. RISDEN
+James E. RISDEN
+Charles W. RISDEN
+Hattie E. RISDEN
+Fam Hist Lib Film
+1254351
+
+Rel
+Self
+Wife
+Dau
+Son
+Son
+Dau
+
+Married Gender Race Age
+BP
+Married
+Male
+White 35
+NY
+Married
+Female White 32
+IN
+Single
+Female White 10
+MI
+Single
+Male
+White 5
+IA
+Single
+Male
+White 4
+IA
+Single
+Female White 2
+IA
+NA Film No. T9-0351
+Page 133B
+
+Occupation
+Laborer
+Keeping House
+At School
+At School
+
+FBP
+NY
+IN
+NY
+NY
+NY
+NY
+
+MBP
+NY
+KY
+IN
+IN
+IN
+IN
+
+1900 Iowa, Linn County, Cedar Rapids, 3rd Ward, Ninth Avenue
+Add
+415
+
+Name
+William KING
+Martha KING
+Bessie E KING
+Jessie W KIING
+Nancy W RISDEN
+Watson M RISDEN
+Series: T623, Roll: 444, Page 33
+
+Rel
+Head
+Wife
+Dau
+Son
+M-I-L
+F-I-L
+
+Race
+W
+W
+W
+W
+W
+W
+
+Sex
+M
+F
+F
+M
+F
+M
+
+Birthdate
+? 1843
+June 1869
+June 1899
+Jan 1898
+Jan 1846
+Dec 1842
+
+Age
+57
+30
+11m
+2
+54
+57
+
+MS
+M
+M
+S
+S
+M
+M
+
+? ? ?
+33 7 5
+4 3 8
+
+?
+
+BP
+Iowa
+Iowa
+Iowa
+NY
+Ind
+
+33 7 5
+33
+
+BP
+Iowa
+Mich
+Iowa
+Iowa
+Ind
+NY
+
+FBP
+??
+NY
+Iowa
+Iowa
+Ind
+NY
+
+MBP
+Ill
+Ind
+Mich
+Mich
+Ken
+NY
+
+Occ.
+
+Teamster
+
+1920 Iowa, Benton County, Mount Auburn; Cedar Township
+D/F
+100
+
+Name
+Rel
+Sex Race Age
+Etta ANDERSON
+Head
+F
+W
+22
+Dorothy ANDERSON
+Dau
+F
+W
+11
+Alice ANDERSON
+Dau
+F
+W
+5
+Watson RISDEN
+Father M
+W
+76
+Nancy RISDEN
+Mother F
+W
+72
+Series: T625, Roll: 477, Page: 8A, ED 7
+
+MS
+S
+S
+S
+M
+M
+
+?
+
+?
+
+FBP
+NY
+Ill
+Ill
+NY
+Ind
+
+MBP
+Ind
+Iowa
+Iowa
+NY
+Ken
+
+Occupation
+Farmer
+None
+None
+Laborer
+None
+
+1930 Iowa, Linn County, Cedar Rapids, 20th Precinct, 1340 4th Street
+D/F
+157
+
+Name
+Rel
+Etta A ANDERSON
+Head
+Alice E ANDERSON
+Dau
+Watson RISDEN
+Father
+Series: T626, Roll: 665, Page: 7B, ED 65
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex Race Age
+F
+W
+46
+F
+W
+15
+M
+W
+85
+
+MS
+D
+S
+Wd
+
+BP
+Iowa
+Iowa
+NY
+
+FBP
+NY
+Ill
+NY
+
+Robert Archer John Thorpe
+
+MBP
+Ind
+Iowa
+NY
+
+Occupation
+Janitress, bank
+None
+None
+
+60
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]

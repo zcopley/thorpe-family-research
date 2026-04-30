@@ -106,6 +106,324 @@ Elizabeth Plomey bridges three states and five decades: Ohio childhood (1850-186
 4. Clarify relationship of Andrew Richey and Elbert Winn in the 1880 household.
 5. Confirm Iowa Soldiers' Home admission reason and military service timeline for Miller M. Tallman.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+AULT, Elizabeth Plomey (31 Oct 1841 - 5 Mar 1926)
+1850 Ohio, Meigs County, Salisbury Township, District No 98
+R/F
+934/956
+
+Name
+Frederick AULT
+Mary AULT
+Charles B AULT
+Mehitable AULT
+Elizabeth AULT
+Series: M432, Roll: 710, Page: 175
+
+Sex
+M
+F
+M
+F
+F
+
+Age
+55
+48
+24
+14
+8
+
+Occupation
+Carpenter
+
+Born
+Penn
+Mass
+Ohio
+Ohio
+Ohio
+
+Comments
+
+1860 Ohio, Meigs County, Salisbury Township
+D/F
+500/495
+
+Name
+Mary AULT
+Eliza AULT
+Alex GILMORE
+Hettie GILMORE
+Charles GILMORE
+Series: M653, Roll: 1008, Page: 34
+
+Age Sex
+55
+F
+18
+F
+26
+M
+22
+F
+4
+M
+
+Color
+
+Occupation
+
+Property
+50
+
+Nativity
+New Jersey
+Ohio
+Ohio
+Ohio
+Ohio
+
+Comments
+
+1880 Iowa, Cherokee County, Afton Township
+D/F
+34/34
+
+Name
+Miller M. TALLMAN
+Elizabeth TALLMAN
+Willis G. TALLMAN
+Lena TALLMAN
+Elbert WINN
+Mary AULT
+Andrew RICHEY
+Fam Hist Lib Film
+1254332
+
+Rel
+Self
+Wife
+Son
+Dau
+SSon
+Moth
+Other
+
+Married Gender Race Age
+BP
+Married
+Male
+White 39
+OH
+Married
+Female White 30
+OH
+Single
+Male
+White 6
+IA
+Single
+Female White 1
+IA
+Single
+Male
+White 17
+IA
+Widow
+Female White 73
+ME
+Single
+Male
+White 24
+IL
+NA Film No. T9-0332
+Page 52D
+
+Occupation
+Farmer
+Keeping House
+
+FBP
+VA
+PA
+OH
+OH
+OH
+CAN
+IL
+
+Aged
+Farm Laborer
+
+MBP
+OH
+ME
+OH
+OH
+OH
+CAN
+IL
+
+1900 Iowa, Woodbury County, Sioux City, p. 231R, Filmore Avenue
+Add Name
+4515 Miller M TALLMAN
+Elizabeth P TALLMAN
+Lena H TALLMAN
+Series: T623, Roll: 467, Page 231B
+
+Rel
+Head
+Wife
+Dau
+
+Race
+W
+W
+W
+
+Sex
+M
+F
+F
+
+Birthdate
+Apr 1841
+Oct 1841
+Feb 1879
+
+Age
+58
+58
+21
+
+MS
+M
+M
+S
+
+?
+#
+#
+-
+
+? ?
+- 3 3
+- -
+
+BP
+FBP
+Ohio Ohio
+Ohio Penn
+Ohio (IA)
+
+MBP Occupation
+Ohio Teamster
+Canada
+Ohio Ohio
+
+1910 Iowa, Marshall County, Linn Township, Iowa Soldiers’ Home
+D/F
+
+Name
+Miller M TALLMAN
+Elizabeth P TALLMAN
+Series: T624 Roll: 413 Page: 172
+
+Rel
+Head
+Wife
+
+Sex Race Age
+M
+W
+69
+F
+W
+68
+
+MS
+M1
+M2
+
+?
+38
+38
+
+?
+3
+
+?
+3
+
+BP
+Ohio
+Ohio
+
+FBP
+Penn
+Penn
+
+MBP Occupation
+Ohio None
+Can. English
+
+1920 Iowa, Marshall County, Iowa Soldiers’ Home
+D/F
+
+Name
+Rel
+Sex Race Age
+Miller M TALLMAN
+Head
+M
+W
+78
+Elizabeth TALLMAN
+Wife
+F
+W
+78
+Series: T625, Roll: 502, Page 5B, ED 155
+
+CENSUS SUMMARY - INDIVIDUALS
+
+MS
+M
+M
+
+?
+
+?
+
+?
+
+BP
+Ohio
+Ohio
+
+Robert Archer John Thorpe
+
+FBP
+Ohio
+Ohio
+
+MBP
+Ohio
+Ohio
+
+Occupation
+Member, Soldiers Home
+Member, Soldiers Home
+
+10
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]

@@ -1,197 +1,160 @@
 ---
 title: People Directory
-date: 2026-04-24
+date: 2026-04-30
 tags:
   - "#thorpe-family"
-  - "#genealogy"
   - "#index"
 ---
 
 # People Directory
 
-## Alphabetical Index
-
-### A
-
-- [[People/Alzina Morgan|Alzina Morgan]]
-- [[People/Amy Critton|Amy Critton]]
-- [[People/Amy E Critton|Amy E Critton]]
-- [[People/Andrew Ault|Andrew Ault]]
-- [[People/Angeline Caswell|Angeline Caswell]]
-- [[People/Ann Bevis|Ann Bevis]]
-- [[People/Ann Lincoln Tallman|Ann Lincoln Tallman]]
-- [[People/Ann Sorrell|Ann Sorrell]]
-- [[People/Ann Unknown|Ann Unknown]]
-- [[People/Arthur Edwin Prior|Arthur Edwin Prior]]
-- [[People/Arthur Jr Munson|Arthur Jr Munson]]
-- [[People/Arthur Munson|Arthur Munson]]
-
-### B
-
-- [[People/Benjamin B Tallman|Benjamin B Tallman]]
-- [[People/Benjamin Tallman 1684-1769|Benjamin Tallman 1684-1769]]
-- [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]]
-
-### C
-
-- [[People/Catherine Filkins|Catherine Filkins]]
-- [[People/Charles Russell Spicer|Charles Russell Spicer]]
-
-### D
-
-- [[People/Dinah Boone|Dinah Boone]]
-
-### E
-
-- [[People/Eleanor Emblow|Eleanor Emblow]]
-- [[People/Eleanor Unknown|Eleanor Unknown]]
-- [[People/Elizabeth A Quackenbush|Elizabeth A Quackenbush]]
-- [[People/Elizabeth Ault|Elizabeth Ault]]
-- [[People/Elizabeth Bangle|Elizabeth Bangle]]
-- [[People/Elizabeth Brooks|Elizabeth Brooks]]
-- [[People/Elizabeth Harrison|Elizabeth Harrison]]
-- [[People/Elizabeth How|Elizabeth How]]
-- [[People/Elizabeth Maria Bangle|Elizabeth Maria Bangle]]
-- [[People/Elizabeth Plomey Ault|Elizabeth Plomey Ault]]
-- [[People/Emilie J. Thorp|Emilie J. Thorp]]
-- [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]]
-- [[People/Emily McIntyre|Emily McIntyre]]
-- [[People/Emily Munson|Emily Munson]]
-- [[People/Emma Kelly|Emma Kelly]]
-
-### F
-
-- [[People/Frederick Ault|Frederick Ault]]
-- [[People/Frederick Thorogood|Frederick Thorogood]]
-
-### G
-
-- [[People/George B Spicer|George B Spicer]]
-- [[People/Grace Caroline Thorogood|Grace Caroline Thorogood]]
-
-### H
-
-- [[People/Hannah Beneworth|Hannah Beneworth]]
-- [[People/Hannah Waller|Hannah Waller]]
-- [[People/Hattie May Risden|Hattie May Risden]]
-- [[People/Henry James Bellamy|Henry James Bellamy]]
-
-### J
-
-- [[People/James A Bellamy|James A Bellamy]]
-- [[People/James Archibald Bellamy|James Archibald Bellamy]]
-- [[People/James Bellamy|James Bellamy]]
-- [[People/James Kelly|James Kelly]]
-- [[People/James Lemmon|James Lemmon]]
-- [[People/James Munson|James Munson]]
-- [[People/James Sorrell|James Sorrell]]
-- [[People/James Thorogood|James Thorogood]]
-- [[People/Jane Wager|Jane Wager]]
-- [[People/Jane Willson|Jane Willson]]
-- [[People/Jane Wilson|Jane Wilson]]
-- [[People/Jesse Rowland|Jesse Rowland]]
-- [[People/John K Palmer|John K Palmer]]
-- [[People/John Kirby|John Kirby]]
-- [[People/John McIntyre of Kilmoore|John McIntyre of Kilmoore]]
-- [[People/John McIntyre Lemmon|John McIntyre Lemmon]]
-- [[People/John Miller|John Miller]]
-- [[People/John Tallman|John Tallman]]
-- [[People/John Thorp|John Thorp]]
-- [[People/John Wheeler Risden|John Wheeler Risden]]
-- [[People/John Whitfield|John Whitfield]]
-- [[People/Joseph Emblow|Joseph Emblow]]
-- [[People/Joseph Thorogood|Joseph Thorogood]]
-- [[People/Joseph Warren Prior|Joseph Warren Prior]]
-
-### K
-
-- [[People/Kezia Kirby|Kezia Kirby]]
-
-### L
-
-- [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]]
-- [[People/Lester Harold Spicer|Lester Harold Spicer]]
-- [[People/Louis S Bangle|Louis S Bangle]]
-- [[People/Louis S Jr Bangle|Louis S Jr Bangle]]
-
-### M
-
-- [[People/Major McIntyre|Major McIntyre]]
-- [[People/Martha Eliza Lewis|Martha Eliza Lewis]]
-- [[People/Martha Emblow|Martha Emblow]]
-- [[People/Martha Lewis|Martha Lewis]]
-- [[People/Mary Ann Thorogood|Mary Ann Thorogood]]
-- [[People/Mary Burgett|Mary Burgett]]
-- [[People/Mary Greenwood|Mary Greenwood]]
-- [[People/Mary Sorrell|Mary Sorrell]]
-- [[People/Mary Van Horn|Mary Van Horn]]
-- [[People/Mary Wheeler|Mary Wheeler]]
-- [[People/Mary Whitfield|Mary Whitfield]]
-- [[People/Mary Woodley|Mary Woodley]]
-- [[People/Mathias Miller|Mathias Miller]]
-- [[People/Matilda Baxter|Matilda Baxter]]
-- [[People/Matilda Hiskey|Matilda Hiskey]]
-- [[People/May Aleen Palmer|May Aleen Palmer]]
-- [[People/Miller Mathias Tallman|Miller Mathias Tallman]]
-
-### N
-
-- [[People/Nancy West Rowland|Nancy West Rowland]]
-- [[People/Nathan Spicer|Nathan Spicer]]
-- [[People/Nathaniel Harrison|Nathaniel Harrison]]
-
-### O
-
-- [[People/Oliver Lewis|Oliver Lewis]]
-- [[People/Oliver Warren Lewis|Oliver Warren Lewis]]
-- [[People/Oliver Warren Prior|Oliver Warren Prior]]
-
-- [[People/Patience Durfee Tallman|Patience Durfee Tallman]]
-- [[People/Peter Palmer|Peter Palmer]]
-
-### R
-
-- [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]]
-- [[People/Rebecca Blake|Rebecca Blake]]
-- [[People/Richard Bellamy|Richard Bellamy]]
-- [[People/Robert Butch Thorpe|Robert Butch Thorpe]]
-- [[People/Rosanna Campbell|Rosanna Campbell]]
-- [[People/Romancy Miller|Romancy Miller]]
-- [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
-
-### S
-
-- [[People/Saphronia Burdick|Saphronia Burdick]]
-- [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]
-- [[People/Sarah Barton|Sarah Barton]]
-- [[People/Sarah Kelly|Sarah Kelly]]
-- [[People/Sarah Shutts|Sarah Shutts]]
-- [[People/Sarah Unknown|Sarah Unknown]]
-- [[People/Sarah Wells Tallman|Sarah Wells Tallman]]
-- [[People/Samuel Miller|Samuel Miller]]
-- [[People/Samuel Tallman|Samuel Tallman]]
-- [[People/Sophronia Burdick|Sophronia Burdick]]
-- [[People/Susan Lewis|Susan Lewis]]
-- [[People/Susan Merrill|Susan Merrill]]
-- [[People/Susan Unknown|Susan Unknown]]
-
-### U
-
-- [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]]
-- [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]]
-
-### W
-
-- [[People/Watson Moses Risden|Watson Moses Risden]]
-- [[People/William Burgett|William Burgett]]
-- [[People/William Emblow|William Emblow]]
-- [[People/William Henry Palmer|William Henry Palmer]]
-- [[People/William Kelly|William Kelly]]
-- [[People/William McIntyre|William McIntyre]]
-- [[People/William Monroe Thorp|William Monroe Thorp]]
-- [[People/William Tallman 1720-1791|William Tallman 1720-1791]]
-- [[People/Wynat Lewis|Wynat Lewis]]
-
-## Summary
-
-Total individuals: 126
+- [[People/Alzina Morgan.md|Alzina Morgan]]
+- [[People/Amy Critton.md|Amy Critton]]
+- [[People/Amy E Critton.md|Amy E Critton]]
+- [[People/Andrew Ault.md|Andrew Ault]]
+- [[People/Angeline Caswell.md|Angeline Caswell]]
+- [[People/Ann Bevis.md|Ann Bevis]]
+- [[People/Ann Lincoln Tallman.md|Ann Lincoln Tallman]]
+- [[People/Ann Sorrell.md|Ann Sorrell]]
+- [[People/Ann Unknown.md|Ann Unknown]]
+- [[People/Anna Kester.md|Anna Kester]]
+- [[People/Arthur Edwin Prior.md|Arthur Edwin Prior]]
+- [[People/Arthur Jr Munson.md|Arthur Jr Munson]]
+- [[People/Arthur Munson.md|Arthur Munson]]
+- [[People/Benjamin B Tallman.md|Benjamin B Tallman]]
+- [[People/Benjamin B. Tallman.md|Benjamin B. Tallman]]
+- [[People/Benjamin Tallman.md|Benjamin Tallman]]
+- [[People/Benjamin Tallman 1684-1769.md|Benjamin Tallman 1684-1769]]
+- [[People/Benjamin Tallman 1745-1820.md|Benjamin Tallman 1745-1820]]
+- [[People/Catherine Filkins.md|Catherine Filkins]]
+- [[People/Charles Russell Spicer.md|Charles Russell Spicer]]
+- [[People/Chester James Spicer.md|Chester James Spicer]]
+- [[People/Claramon Tiffany.md|Claramon Tiffany]]
+- [[People/Dinah Boone.md|Dinah Boone]]
+- [[People/Edith Estelle Spicer.md|Edith Estelle Spicer]]
+- [[People/Edna Angeline Spicer.md|Edna Angeline Spicer]]
+- [[People/Eleanor Emblow.md|Eleanor Emblow]]
+- [[People/Eleanor Unknown.md|Eleanor Unknown]]
+- [[People/Elizabeth A Quackenbush.md|Elizabeth A Quackenbush]]
+- [[People/Elizabeth Ault.md|Elizabeth Ault]]
+- [[People/Elizabeth Bangle.md|Elizabeth Bangle]]
+- [[People/Elizabeth Brooks.md|Elizabeth Brooks]]
+- [[People/Elizabeth Harrison.md|Elizabeth Harrison]]
+- [[People/Elizabeth How.md|Elizabeth How]]
+- [[People/Elizabeth Maria Bangle.md|Elizabeth Maria Bangle]]
+- [[People/Elizabeth Plomey Ault.md|Elizabeth Plomey Ault]]
+- [[People/Emilie J. Thorp.md|Emilie J. Thorp]]
+- [[People/Emily Amanda MacIntyre.md|Emily Amanda MacIntyre]]
+- [[People/Emily Amanda McIntyre.md|Emily Amanda McIntyre]]
+- [[People/Emily McIntyre.md|Emily McIntyre]]
+- [[People/Emily Munson.md|Emily Munson]]
+- [[People/Emma Kelly.md|Emma Kelly]]
+- [[People/Frederick Ault.md|Frederick Ault]]
+- [[People/Frederick Thorogood.md|Frederick Thorogood]]
+- [[People/George B Spicer.md|George B Spicer]]
+- [[People/George Jennings Spicer.md|George Jennings Spicer]]
+- [[People/Grace Caroline Thorogood.md|Grace Caroline Thorogood]]
+- [[People/Hannah Beneworth.md|Hannah Beneworth]]
+- [[People/Hannah Waller.md|Hannah Waller]]
+- [[People/Hattie May Risden.md|Hattie May Risden]]
+- [[People/Henry James Bellamy.md|Henry James Bellamy]]
+- [[People/Hugh Lemmon.md|Hugh Lemmon]]
+- [[People/James A Bellamy.md|James A Bellamy]]
+- [[People/James Archibald Bellamy.md|James Archibald Bellamy]]
+- [[People/James Bellamy.md|James Bellamy]]
+- [[People/James Kelly.md|James Kelly]]
+- [[People/James Lemmon.md|James Lemmon]]
+- [[People/James Munson.md|James Munson]]
+- [[People/James Sorrell.md|James Sorrell]]
+- [[People/James Thorogood.md|James Thorogood]]
+- [[People/Jane Wager.md|Jane Wager]]
+- [[People/Jane Wager-Jennie Dodge.md|Jane Wager-Jennie Dodge]]
+- [[People/Jane Willson.md|Jane Willson]]
+- [[People/Jane Wilson.md|Jane Wilson]]
+- [[People/Jesse Rowland.md|Jesse Rowland]]
+- [[People/Joanna Griffith.md|Joanna Griffith]]
+- [[People/John K Palmer.md|John K Palmer]]
+- [[People/John Keith Bellamy.md|John Keith Bellamy]]
+- [[People/John Kirby.md|John Kirby]]
+- [[People/John Mackey Thorpe.md|John Mackey Thorpe]]
+- [[People/John McIntyre Lemmon.md|John McIntyre Lemmon]]
+- [[People/John McIntyre of Kilmoore.md|John McIntyre of Kilmoore]]
+- [[People/John Miller.md|John Miller]]
+- [[People/John Tallman.md|John Tallman]]
+- [[People/John Thorp.md|John Thorp]]
+- [[People/John Wheeler Risden.md|John Wheeler Risden]]
+- [[People/John Whitfield.md|John Whitfield]]
+- [[People/Joseph Emblow.md|Joseph Emblow]]
+- [[People/Joseph Thorogood.md|Joseph Thorogood]]
+- [[People/Joseph Warren Prior.md|Joseph Warren Prior]]
+- [[People/Kezia Kirby.md|Kezia Kirby]]
+- [[People/Lenore Hetty Tallman.md|Lenore Hetty Tallman]]
+- [[People/Lester Harold Spicer.md|Lester Harold Spicer]]
+- [[People/Louis Bangle.md|Louis Bangle]]
+- [[People/Louis S Bangle.md|Louis S Bangle]]
+- [[People/Louis S Jr Bangle.md|Louis S Jr Bangle]]
+- [[People/Louise Elizabeth Thorpe.md|Louise Elizabeth Thorpe]]
+- [[People/Major McIntyre.md|Major McIntyre]]
+- [[People/Martha Eliza Lewis.md|Martha Eliza Lewis]]
+- [[People/Martha Emblow.md|Martha Emblow]]
+- [[People/Martha Lewis.md|Martha Lewis]]
+- [[People/Mary Ann Thorogood.md|Mary Ann Thorogood]]
+- [[People/Mary Burgett.md|Mary Burgett]]
+- [[People/Mary Greenwood.md|Mary Greenwood]]
+- [[People/Mary Sorrell.md|Mary Sorrell]]
+- [[People/Mary Van Horn.md|Mary Van Horn]]
+- [[People/Mary Wheeler.md|Mary Wheeler]]
+- [[People/Mary Whitfield.md|Mary Whitfield]]
+- [[People/Mary Woodley.md|Mary Woodley]]
+- [[People/Mathias Miller.md|Mathias Miller]]
+- [[People/Matilda Baxter.md|Matilda Baxter]]
+- [[People/Matilda Hiskey.md|Matilda Hiskey]]
+- [[People/May Aleen Palmer.md|May Aleen Palmer]]
+- [[People/Miller Mathias Tallman.md|Miller Mathias Tallman]]
+- [[People/Moses Risden.md|Moses Risden]]
+- [[People/Myron Leland Spicer.md|Myron Leland Spicer]]
+- [[People/Nancy West Rowland.md|Nancy West Rowland]]
+- [[People/Nathan Spicer.md|Nathan Spicer]]
+- [[People/Nathaniel Harrison.md|Nathaniel Harrison]]
+- [[People/Oliver Lewis.md|Oliver Lewis]]
+- [[People/Oliver Warren Lewis.md|Oliver Warren Lewis]]
+- [[People/Oliver Warren Prior.md|Oliver Warren Prior]]
+- [[People/Onesimus Risden.md|Onesimus Risden]]
+- [[People/Patience Durfee Tallman.md|Patience Durfee Tallman]]
+- [[People/Patricia Margaret Bellamy.md|Patricia Margaret Bellamy]]
+- [[People/Peter Palmer.md|Peter Palmer]]
+- [[People/Ralph Gerald Thorpe.md|Ralph Gerald Thorpe]]
+- [[People/Raymond Miller Thorpe.md|Raymond Miller Thorpe]]
+- [[People/Rebecca Blake.md|Rebecca Blake]]
+- [[People/Richard Bellamy.md|Richard Bellamy]]
+- [[People/Robert Butch Thorpe.md|Robert Butch Thorpe]]
+- [[People/Romancy Miller.md|Romancy Miller]]
+- [[People/Rosanna Campbell.md|Rosanna Campbell]]
+- [[People/Ruby Bernice Prior.md|Ruby Bernice Prior]]
+- [[People/Samuel Miller.md|Samuel Miller]]
+- [[People/Samuel Tallman.md|Samuel Tallman]]
+- [[People/Saphronia Burdick.md|Saphronia Burdick]]
+- [[People/Sarah Annett Lemmon.md|Sarah Annett Lemmon]]
+- [[People/Sarah Barton.md|Sarah Barton]]
+- [[People/Sarah Kelly.md|Sarah Kelly]]
+- [[People/Sarah Shutts.md|Sarah Shutts]]
+- [[People/Sarah Unknown.md|Sarah Unknown]]
+- [[People/Sarah Wells Tallman.md|Sarah Wells Tallman]]
+- [[People/Sarah Wheeler.md|Sarah Wheeler]]
+- [[People/Sophronia Burdick.md|Sophronia Burdick]]
+- [[People/Susan Lewis.md|Susan Lewis]]
+- [[People/Susan Merrill.md|Susan Merrill]]
+- [[People/Susan Unknown.md|Susan Unknown]]
+- [[People/Thomas Edward Spicer.md|Thomas Edward Spicer]]
+- [[People/Uriah Blake Lemmon.md|Uriah Blake Lemmon]]
+- [[People/Uriah Blake Thorpe.md|Uriah Blake Thorpe]]
+- [[People/Watson Moses Risden.md|Watson Moses Risden]]
+- [[People/William Bellamy.md|William Bellamy]]
+- [[People/William Burgett.md|William Burgett]]
+- [[People/William Emblow.md|William Emblow]]
+- [[People/William Henry Palmer.md|William Henry Palmer]]
+- [[People/William Kelly.md|William Kelly]]
+- [[People/William McIntyre.md|William McIntyre]]
+- [[People/William Monroe Thorp.md|William Monroe Thorp]]
+- [[People/William Tallman 1720-1791.md|William Tallman 1720-1791]]
+- [[People/Wynat Lewis.md|Wynat Lewis]]

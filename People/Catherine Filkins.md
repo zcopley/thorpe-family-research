@@ -26,6 +26,82 @@ tags:
 2. Validate relationship to Spicer household members in 1860.
 3. Confirm death estimate with independent records.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+FILKINS, Catherine (5 Jan 1766 - c. 1868)
+1850 New York, Livingston County, Nunda
+R/F
+19/19
+
+Name
+Charles JOHNSON
+Catherine JOHNSON
+Series: M432, Roll: 524, Page: 28
+
+Sex
+M
+F
+
+Age
+85
+85
+
+Occupation
+Farmer
+
+Born
+Ct
+NY
+
+Comments
+
+1860 New York, Livingston County, West Sparta, Page 619, 620
+D/F
+400/400
+
+Name
+Age Sex
+Asa SPICER
+76
+M
+Betsy SPICER
+67
+F
+Clarrie SPICER
+26
+F
+Catharine JOHNSON
+95
+F
+Series: M653, Roll: 779, Page: 619 & 620
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Color
+
+Occupation
+Farming
+
+Robert Archer John Thorpe
+
+Property
+1250/350
+
+Nativity
+New York
+New York
+New York
+New York
+
+Comments
+
+29
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p21-p30|Shared Intake 2026-04-22 Census Summary Individuals p21-p30]]

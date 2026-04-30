@@ -64,6 +64,58 @@ Frederick Ault bridges the Ohio Ault family line from patriarch Andrew Ault to t
 3. Determine relationship to [[People/Andrew Ault|Andrew Ault]] (same township, 1850).
 4. Extend profile with pre-1850 and post-1850 record coverage.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+AULT, Frederick (8 Mar 1795 - c.1857)
+1850 Ohio, Meigs County, Salisbury Township, District No 98
+R/F
+934/956
+
+Name
+Frederick AULT
+Mary AULT
+Charles B AULT
+Mehitable AULT
+Elizabeth AULT
+Series: M432, Roll: 710, Page: 175
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex
+M
+F
+M
+F
+F
+
+Age
+55
+48
+24
+14
+8
+
+Occupation
+Carpenter
+
+Born
+Penn
+Mass
+Ohio
+Ohio
+Ohio
+
+Robert Archer John Thorpe
+
+Comments
+
+11
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p1-p10|Shared Intake 2026-04-22 Census Summary Individuals p1-p10]]

@@ -30,6 +30,231 @@ tags:
 3. Confirm all child links from image-level records.
 4. Keep Bellamy-to-Whitfield spouse and parent placements tied to chart layout until corroborated elsewhere.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+BELLAMY, Henry James (28 May 1862 - 16 Feb 1948)
+1871 Lincolnshire, Bourn, Back Lane
+No.
+28
+
+Name
+Rel
+Cond. AM AF Occupation
+Richard BELLAMY
+Head
+Mar
+55
+Ostler
+Mary BELLAMY
+Wife
+Mar
+52
+Thomas BELLAMY
+Son
+Unm
+22
+Laborer
+Ann BELLAMY
+Daur Unm
+15 Sew: (Domestic)
+William BELLAMY
+Son
+12
+Scholar
+Henry BELLAMY
+Son
+8
+Scholar
+Public Records Office, Reference - Source: RG10, Piece: , Folio: , Page: , No:
+
+Where Born
+Lincoln. Bourn
+Lincoln. Bourn
+Lincoln. Bourn
+Lincoln. Bourn
+Lincoln. Bourn
+Lincoln. Bourn
+
+1881 Lincoln, Bourn, Pilkenton’s Yard North Street
+Name
+Richard BELLAMY
+Mary BELLAMY
+William BELLAMY
+Henry BELLAMY
+Fam Hist Lib Film 1341763
+
+Mar Age
+M
+65
+M
+62
+U
+22
+U
+18
+PRO Ref RG11
+
+Sex Birthplace
+M
+Bourn, Lincoln, England
+F
+Manthorpe, Lincoln, England
+M
+Bourn, Lincoln, England
+M
+Bourn, Lincoln, England
+Piece 3197 Folio 91 Page 13
+
+Relationship
+Head
+Wife
+Son
+Son
+
+Occupation
+General Labourer
+General Labourer Wife
+Warehouse Porter
+Warehouse Porter
+
+1891 Northamptonshire, Peterborough, 7 Gladstone Street
+Name
+Relationship
+Mar
+Age M Age F Occupation
+Henry BELLAMY
+Head
+M
+28
+Chemist’s & Draper’s Trav
+Emma BELLAMY
+Wife
+M
+29
+Annie BELLAMY
+Daur
+6
+George BELLAMY
+Son
+3
+Archibald BELLAMY
+Son
+2
+Public Records Office, Reference - Source: RG12, Piece: 1228, Folio: 28, Page: 10, No: 60
+
+Birthplace
+Lincs, Bourne
+Norths, Peterborough
+Norths, Peterborough
+Norths, Peterborough
+Norths, Peterborough
+
+1901 Northampton, Peterborough, 70 Russell Street
+Name
+Relationship Marr Age-M Age-F
+Occupation
+Harry BELLAMY
+Head
+M
+38
+Commercial Traveller
+Emma BELLAMY
+Wife
+M
+39
+Annie BELLAMY
+Daur
+S
+16
+George William BELLAMY
+Son
+S
+13
+James A BELLAMY
+Son
+12
+Albert Victor BELLAMY
+Son
+7
+Olive Winifred BELLAMY
+Daur
+4
+Milicent May BELLAMY
+Daur
+2
+Public Records Office, Reference - Source: RG13, Piece: 1463, Folio: 143, Page: 34, No: 228
+
+Worker?
+Worker
+
+Where born
+Peterborough
+Peterborough
+Peterborough
+Peterborough
+Peterborough
+Peterborough
+Peterborough
+Peterborough
+
+1911 Northamptonshire, Peterborough, 43 Towler Street
+Name
+Relationship Marr
+Years Sex
+Age
+BELLAMY, Henry
+Head
+Widower
+M
+46
+BELLAMY, Albert
+Son
+Single
+M
+16
+BELLAMY, Olive
+Daughter
+Single
+F
+14
+BELLAMY, Milly
+Daughter
+Single
+F
+12
+SIMPSON, Mable
+Servant
+Single
+F
+22
+Public Records Office, Reference - Source: RG14, Piece: , Folio: , Page: , No:
+(RG14PN8690 RG78PN450 RD170 SD2 ED24 SN91)
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Robert Archer John Thorpe
+
+Occupation
+Comm Traveller Millinery
+Town Clerk’s Clerk
+Student
+School
+Housekeeper Domestic
+
+Where born:
+Lincs, Bourne
+N’Hants, Peterborough
+N’Hants, Peterborough
+N’Hants, Peterborough
+Lincs, Locke
+
+15
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p11-p20|Shared Intake 2026-04-22 Census Summary Individuals p11-p20]]

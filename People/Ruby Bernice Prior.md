@@ -30,6 +30,321 @@ tags:
 3. Add location data from direct sources.
 4. Keep the later Spicer linkage grounded in the combined Prior, Spicer, census, and burial context rather than a single compiled chart.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+PRIOR, Ruby Bernice (24 Apr 1913 - 1 Aug 2006)
+1920 Iowa, Linn County, Cedar Rapids, 275 12th Ave E
+D/F
+62
+
+Name
+Rel
+Sex Race Age
+Oliver PRIOR
+Head
+M
+W
+39
+May PRIOR
+Wife
+F
+W
+33
+Martha PRIOR
+Dau
+F
+W
+15
+Everett PRIOR
+Son
+F
+W
+12
+Viola PRIOR
+Dau
+F
+W
+9
+Voila PRIOR
+Dau
+F
+W
+9
+Ruby PRIOR
+Dau
+F
+W
+6
+Ronald PRIOR
+Son
+M
+W
+4+
+Vergil PRIOR
+Son
+F
+W
+1+
+Maxine PRIOR
+Dau
+F
+W 11mo
+Series: T625, Roll: 500, Page: 3B, ED 131
+
+MS
+M
+M
+S
+S
+S
+S
+S
+S
+S
+S
+
+?
+
+?
+
+?
+
+BP
+Minn
+Wisc
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+Mich
+Penn
+Minn
+Minn
+Minn
+Minn
+Minn
+Minn
+Minn
+Minn
+
+MBP
+Mich
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+
+Occupation
+Moulder
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+1930 Iowa, Linn County, Cedar Rapids, 14th Precinct, RFD #4 Memorial Drive
+D/F
+627
+
+Name
+Rel
+Oliver W PRIOR
+Head
+May A PRIOR
+Wife
+Martha E CASHMAN
+Dau
+Warren A CASHMAN
+GSon
+Beverly M CASHMAN
+GDau
+Bruce F CASHMAN
+GSon
+Everett ? PRIOR
+Son
+Voila D PRIOR
+Dau
+Viola D PRIOR
+Dau
+Ruby B PRIOR
+Dau
+Ronald WPRIOR
+Son
+Vergil V PRIOR
+Son
+Maxine M PRIOR
+Son
+La Verne O PRIOR
+Son
+Oliver W PRIOR Jr
+Son
+Clint R PRIOR
+Son
+Series: T626, Roll: 665, Page: 26B, ED 57
+
+CENSUS SUMMARY - INDIVIDUALS
+
+Sex Race Age
+M
+W
+50
+F
+W
+43
+F
+W
+25
+M
+W 3+
+F
+W
+2
+M
+W 8mo
+M
+W
+22
+F
+W
+19
+F
+W
+19
+F
+W
+16
+M
+W
+14
+M
+W
+12
+M
+W
+10
+M
+W
+6
+M
+W 3+
+M
+W
+2
+
+MS
+M
+M
+M
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+BP
+Minn
+Wisc
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+
+FBP
+Mich
+Penn
+Minn
+NY
+NY
+NY
+Minn
+Minn
+Minn
+Minn
+Minn
+Minn
+Minn
+Minn
+Minn
+Minn
+
+Robert Archer John Thorpe
+
+MBP
+Mich
+Wisc
+Wisc
+Iowa
+Iowa
+Iowa
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+Wisc
+
+Occupation
+Moulder, foundary
+None
+Operator, telephone
+None
+None
+None
+Core Maker, foundary
+Mangle Operator, laundry
+Mangle Operator, laundry
+Mangle Operator, laundry
+None
+None
+None
+None
+None
+None
+
+56
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]]

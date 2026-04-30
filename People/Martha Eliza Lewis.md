@@ -105,6 +105,310 @@ Martha Eliza Lewis's life arc spans Wisconsin farm childhood (1860) through Minn
 5. Confirm return to Minnesota by 1920 and later life settlement.
 6. Reconcile the chart's `Oliver Elhanon Lewis` name form against existing Lewis-page naming.
 
+
+## Census Records
+
+> [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
+
+```text
+LEWIS, Martha Eliza (15 Dec 1859 - 8 Dec 1923)
+1860 Wisconsin, Fond du Lac, Ripon 1st Ward
+D/F
+1078/1072
+
+Name
+W.W. LEWIS
+Susan LEWIS
+Oliver LEWIS
+Marshal LEWIS
+Elizabeth LEWIS
+Martha E LEWIS
+Series: M653, Roll: 1408, Page: 829
+
+Age Sex
+79
+M
+58
+F
+35
+M
+25
+M
+24
+F
+7/12
+F
+
+Color
+
+Occupation
+Farmer
+
+Property
+50
+300
+
+Nativity
+Ma??
+NY
+Vermont
+Vermont
+NY
+Wis
+
+Comments
+
+1900 Minnesota, Mower County, Grand Meadows Township
+Add Name
+43/45 Arthur PRIOR
+Martha PRIOR
+Oliver W PRIOR
+George W PRIOR
+Lewis H PRIOR
+Viva P PRIOR
+Lora P PRIOR
+Series: T623, Roll: 777, Page 108A
+
+Rel
+Head
+Wife
+Son
+Son
+Son
+Dau
+Dau
+
+Race
+W
+W
+W
+W
+W
+W
+W
+
+Sex
+M
+F
+M
+M
+M
+F
+F
+
+Birthdate
+July 1853
+Dec 1859
+Mar 1880
+Aug 1883
+Aug 1888
+Dec 1895
+Aug 1897
+
+Age
+46
+40
+20
+16
+11
+4
+2
+
+MS ? ? ?
+M 23
+M 23 9 7
+S
+S
+S
+S
+S
+
+BP
+Mich
+Wisc
+Minn
+Minn
+Minn
+Mo
+Mo
+
+FBP
+Mich
+Verm
+Mich
+Mich
+Mich
+Mich
+Mich
+
+MBP Occ.
+Mich Farmer
+NY
+Wisc Farm Labr
+Wisc Farm Labr
+Wisc At School
+Wisc
+Wisc
+
+1910 South Dakota, Brown County, Hanson Township
+D/F Name
+18/18 Arthur PRIOR
+Martha PRIOR
+Lora PRIOR
+Arthur PRIOR
+Lewis PRIOR
+Agnes PRIOR
+Series: T624, Roll: , Page 15B
+
+Rel
+Head
+Wife
+Dau
+Son
+Son
+DIL
+
+Sex Race Age
+M
+W
+56
+F
+W
+50
+F
+W
+11
+M
+W
+7
+M
+W
+22
+F
+W
+21
+
+MS
+M1
+M1
+S
+S
+M1
+M1
+
+?
+35
+35
+
+?
+
+?
+
+11
+
+9
+
+1
+1
+
+1
+
+1
+
+BP
+Mich
+Wisc
+MO
+Minn
+Minn
+Iowa
+
+FBP
+Unk
+Ver
+Mich
+Mich
+Mich
+Unk
+
+MBP
+Unk
+NY
+Wisc
+Wisc
+Wisc
+Unk
+
+Occupation
+Laborer
+None
+None
+None
+Laborer
+None
+
+1920 Minnesota, Pine County, Pokegama Township
+D/F
+169
+
+Name
+Rel
+Sex Race Age
+Arthur E. PRIOR
+Head
+M
+W
+66
+Martha E. PRIOR
+Wife
+F
+W
+60
+Arthur E. PRIOR Jr
+Son
+M
+W
+16
+Series: T625, Roll: 849, Page: 15A, ED 76
+
+CENSUS SUMMARY - INDIVIDUALS
+
+MS
+M
+M
+S
+
+?
+
+?
+
+?
+
+BP
+Mich
+Wisc
+Minn
+
+Robert Archer John Thorpe
+
+FBP
+NY
+Ver
+Mich
+
+MBP
+Mich
+NY
+Wisc
+
+Occupation
+Farming
+House Keeping
+None
+
+39
+```
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p37-p48|Shared Intake 2026-04-22 Census Summary Individuals p37-p48]]
