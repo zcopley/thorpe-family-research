@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/James Munson.svg]]
+
 # James Munson
 
 ## Biographical Profile
@@ -285,6 +287,15 @@ Essex, Felstead
 
 48
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1850, 1870
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

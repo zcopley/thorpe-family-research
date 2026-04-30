@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Lester Harold Spicer.svg]]
+
 # Lester Harold Spicer
 
 ## Biographical Profile
@@ -384,6 +386,14 @@ None
 
 68
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

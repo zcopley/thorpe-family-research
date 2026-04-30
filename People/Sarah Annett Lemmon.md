@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Sarah Annett Lemmon.svg]]
+
 # Sarah Annett Lemmon
 
 ## Biographical Profile
@@ -336,6 +338,15 @@ NY
 
 37
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #213, 214, 215, 216
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

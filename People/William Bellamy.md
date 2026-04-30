@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/William Bellamy.svg]]
+
 # William Bellamy
 
 ## Biographical Profile
@@ -20,6 +22,14 @@ tags:
 ## Research Notes
 
 - Initial stub created from pedigree timeline extraction.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #152, 155, 158
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

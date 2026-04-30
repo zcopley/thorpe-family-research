@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Matilda Baxter.svg]]
+
 # Matilda Baxter
 
 ## Biographical Profile
@@ -179,6 +181,16 @@ Comments
 
 14
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840, 1850, 1860, 1870
+> - **Official Records**: Ref #196, 222
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

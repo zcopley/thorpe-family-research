@@ -117,6 +117,15 @@ Pennsylvania
 88
 ```
 
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #108, 112
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
+
 ## Sources
 
 1. `References/raw/processed/2026-04-22-intake/Census/Ancestors in the Census.txt`

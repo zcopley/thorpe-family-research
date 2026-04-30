@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Sarah Wheeler.svg]]
+
 # Sarah Wheeler
 
 ## Biographical Profile
@@ -20,6 +22,15 @@ tags:
 ## Research Notes
 
 - Initial stub created from pedigree timeline extraction.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #010, 009, 235
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

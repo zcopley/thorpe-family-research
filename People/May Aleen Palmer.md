@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/May Aleen Palmer.svg]]
+
 # May Aleen Palmer
 
 ## Biographical Profile
@@ -629,6 +631,14 @@ None
 
 50
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

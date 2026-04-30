@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Elizabeth Maria Bangle.svg]]
+
 # Elizabeth Maria Bangle
 
 ## Biographical Profile
@@ -411,6 +413,16 @@ None
 
 12
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1860, 1870
+> - **Official Records**: Ref #225, 229
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

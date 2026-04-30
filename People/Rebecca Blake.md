@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Rebecca Blake.svg]]
+
 # Rebecca Blake
 
 ## Biographical Profile
@@ -134,6 +136,16 @@ James Lemmon Sr
 
 20
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840, 1850, 1860
+> - **Official Records**: Ref #203, 204
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

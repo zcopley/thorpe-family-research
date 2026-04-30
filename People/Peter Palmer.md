@@ -119,6 +119,15 @@ Pennsylvania
 51
 ```
 
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #108, 111
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]

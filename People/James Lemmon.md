@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/James Lemmon.svg]]
+
 # James Lemmon
 
 ## Biographical Profile
@@ -131,6 +133,16 @@ James Lemmon Sr
 
 36
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1850
+> - **Official Records**: Ref #203, 204, 205, 210
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

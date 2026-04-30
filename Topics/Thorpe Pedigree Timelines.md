@@ -39,14 +39,46 @@ Per [[References/Butch Thorpe Email|Butch's email]]:
 - Numbers by red dots refer to Butch's personal record copies.
 - Blue dots indicate census records corresponding to the date marked by vertical lines.
 - The charts show selected early generations that fit on each page, not all ancestors with records.
-
 ## Current Working Status
 
-- The original `.cdr` files still require PDF or image export before they can be reviewed in the vault.
-- The four 2025 pedigree PDFs have now been processed into draft indexes that are good enough for branch placement, discrepancy tracking, and source anchors.
-- Spouse and parent placements in the Bellamy and Spicer charts still depend on visual layout and should not be treated as plain-text-only proof.
+- **SVG Extraction Complete**: The high-resolution `.xhtml` exports have been programmatically parsed (2026-04-30). 
+- **Automated Enrichement**: Individual lifespan snippets and source indicators (Census, Certificates, Obituaries) have been injected into all relevant person pages.
+- **Reference Numbers**: Butch's personal record reference numbers (e.g., #052, #250) have been extracted and linked to individuals.
 
-## Branch Highlights by Chart
+## Master Pedigree Overview
+
+The following diagram summarizes the convergence of the four main branches documented in the pedigree timelines.
+
+```mermaid
+graph TD
+  subgraph "Thorpe / Lemmon Branch"
+    JT["John Thorp<br/>1791-1850"] --> WMT["William Monroe Thorp<br/>1835-1899"]
+    WMT --> UBT["Uriah Blake Thorpe<br/>1878-1959"]
+    UBT --> RMT["Raymond Miller Thorpe<br/>1917-1974"]
+  end
+
+  subgraph "Bellamy / Thorogood Branch"
+    JB["James Bellamy<br/>c1787-1867"] --> RB["Richard Bellamy<br/>c1816-1902"]
+    RB --> HJB["Henry James Bellamy<br/>1862-1948"]
+    HJB --> JAB["James Archibald Bellamy<br/>1888-1982"]
+  end
+
+  subgraph "Prior / Lewis Branch"
+    JWP["Joseph Warren Prior<br/>1828-1909"] --> AEP["Arthur Edwin Prior<br/>1853-1929"]
+    AEP --> OWP["Oliver Warren Prior<br/>1880-1949"]
+    OWP --> RBP["Ruby Bernice Prior<br/>1913-2006"]
+  end
+
+  subgraph "Spicer / Risden Branch"
+    CRS["Charles Russell Spicer<br/>1822-1887"] --> GBS["George B Spicer<br/>1864-1938"]
+    GBS --> LHS["Lester Harold Spicer<br/>1906-1974"]
+  end
+
+  RMT --- GBS
+  JAB --- RBP
+```
+
+## Record-Reference Leads
 
 ### Thorpe / Lemmon / Tallman / Ault
 

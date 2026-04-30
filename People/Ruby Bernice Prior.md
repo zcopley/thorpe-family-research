@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Ruby Bernice Prior.svg]]
+
 # Ruby Bernice Prior
 
 ## Biographical Profile
@@ -344,6 +346,14 @@ None
 
 56
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Frederick Ault.svg]]
+
 # Frederick Ault
 
 ## Biographical Profile
@@ -115,6 +117,14 @@ Comments
 
 11
 ```
+
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #000, 105
 
 ## Sources
 

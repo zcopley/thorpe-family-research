@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Charles Russell Spicer.svg]]
+
 # Charles Russell Spicer
 
 ## Biographical Profile
@@ -342,6 +344,14 @@ OH
 
 65
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

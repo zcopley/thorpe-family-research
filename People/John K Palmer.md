@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/John K Palmer.svg]]
+
 # John K Palmer
 
 ## Biographical Profile
@@ -134,6 +136,16 @@ Robert Archer John Thorpe
 
 3
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840, 1860, 1870, 1880, 1890, 1900
+> - **Official Records**: Ref #027, 165, 109, 110, 111, 235
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

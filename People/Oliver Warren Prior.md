@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Oliver Warren Prior.svg]]
+
 # Oliver Warren Prior
 
 ## Biographical Profile
@@ -507,6 +509,14 @@ None
 
 55
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

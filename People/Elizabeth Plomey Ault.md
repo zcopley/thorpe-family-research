@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Elizabeth Plomey Ault.svg]]
+
 # Elizabeth Plomey Ault
 
 ## Biographical Profile
@@ -423,6 +425,16 @@ Member, Soldiers Home
 
 10
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840, 1850, 1860, 1870
+> - **Official Records**: Ref #225, 229
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

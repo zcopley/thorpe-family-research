@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Raymond Miller Thorpe.svg]]
+
 # Raymond Miller Thorpe
 
 ## Biographical Profile
@@ -197,6 +199,14 @@ None
 
 82
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

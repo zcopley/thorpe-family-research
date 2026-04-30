@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Nancy West Rowland.svg]]
+
 # Nancy West Rowland
 
 ## Biographical Profile
@@ -371,6 +373,16 @@ None
 
 62
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1850, 1860, 1870
+> - **Official Records**: Ref #225, 229
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

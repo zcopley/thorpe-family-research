@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Benjamin Tallman.svg]]
+
 # Benjamin Tallman
 
 ## Biographical Profile
@@ -20,6 +22,13 @@ tags:
 ## Research Notes
 
 - Initial stub created from pedigree timeline extraction.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #224
 
 ## Sources
 

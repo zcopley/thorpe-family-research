@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Hugh Lemmon.svg]]
+
 # Hugh Lemmon
 
 ## Biographical Profile
@@ -20,6 +22,14 @@ tags:
 ## Research Notes
 
 - Initial stub created from pedigree timeline extraction.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

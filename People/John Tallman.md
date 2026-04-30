@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/John Tallman.svg]]
+
 # John Tallman
 
 ## Biographical Profile
@@ -85,6 +87,16 @@ Comments
 
 71
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840, 1850
+> - **Official Records**: Ref #108, 111
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

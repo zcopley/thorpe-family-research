@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Lenore Hetty Tallman.svg]]
+
 # Lenore Hetty Tallman
 
 ## Biographical Profile
@@ -402,6 +404,14 @@ None
 
 72
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

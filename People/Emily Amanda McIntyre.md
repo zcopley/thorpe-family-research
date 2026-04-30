@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Emily Amanda McIntyre.svg]]
+
 # Emily Amanda McIntyre
 
 ## Biographical Profile
@@ -20,6 +22,13 @@ tags:
 ## Research Notes
 
 - Initial stub created from pedigree timeline extraction.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

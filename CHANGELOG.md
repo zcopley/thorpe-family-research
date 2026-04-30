@@ -833,3 +833,9 @@ tags:
 - Automated extraction of pedigree and census data from Robert Thorpe's raw files.
 - Created missing person pages and enriched existing pages with census records.
 - Updated Search Index and People Directory.
+
+## 2026-04-30
+
+- Automated extraction of pedigree and census data from Robert Thorpe's raw files.
+- Created missing person pages and enriched existing pages with census records.
+- Updated Search Index and People Directory.

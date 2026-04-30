@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Dinah Boone.svg]]
+
 # Dinah Boone
 
 ## Biographical Profile
@@ -30,6 +32,15 @@ tags:
 3. Verify the stated cousin relationship to Daniel Boone from Boone/Tallman family records and the Boone manuscripts cited in the Durfee genealogy.
 4. Verify the Morlatton Church baptism record and resolve the ambiguous 3 or 10 May 1749 birth date.
 5. Locate a raw military or land record that matches the Revolutionary Service / Armand's Corps inscription.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #010, 009, 235
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

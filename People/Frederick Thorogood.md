@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Frederick Thorogood.svg]]
+
 # Frederick Thorogood
 
 ## Biographical Profile
@@ -262,6 +264,16 @@ Essex, Chelmsford
 
 75
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1860, 1870, 1880, 1900, 1910, 1920, 1930, 1940
+> - **Official Records**: Ref #012, 253, 030, 032, 065, 226, 230, 251
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

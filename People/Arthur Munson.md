@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Arthur Munson.svg]]
+
 # Arthur Munson
 
 ## Biographical Profile
@@ -23,6 +25,16 @@ tags:
 - Birth/death dates and exact relationships require image-level verification from original census records.
 - This page is placeholder-level pending full extraction and reconciliation of census household data.
 - Occupations, ages, and locations are transcribed from census summaries but should be verified against primary sources.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840, 1850
+> - **Official Records**: Ref #108, 111
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

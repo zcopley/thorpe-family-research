@@ -24,8 +24,13 @@ The best way to begin is with one of the branch stories below. Each branch page 
 ## Explore by Need
 
 - **Find a person:** Use the [[People Directory|People Directory]] for the full alphabetical list.
+- **Understand the visuals:** Read the [[Topics/Visual Legend|Visual Legend for Pedigree Timelines]] to understand the color-coded dots and icons used on person profiles.
 - **Search by topic or source:** Use the [[Search Index|Search Index]].
 - **See the source trail:** Start with [[References/Butch Thorpe Email|Butch Thorpe Email]], [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]], and [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]].
+
+## Site Progress
+
+The current vault documents over 120 people and includes census extracts, burial-site notes, and compiled pedigree timelines. As of April 30, 2026, the site features **automated SVG timeline snippets** for all individuals extracted from the original CorelDRAW diagrams, providing a visual-first view of their records and lifespans.
 - **Follow recent work:** Read the [[CHANGELOG|Changelog]] for completed reconciliations, newly enriched profiles, and publishing notes.
 
 ## What This Site Is

@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/John Mackey Thorpe.svg]]
+
 # John Mackey Thorpe
 
 ## Biographical Profile
@@ -20,6 +22,14 @@ tags:
 ## Research Notes
 
 - Initial stub created from pedigree timeline extraction.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #089, 209
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

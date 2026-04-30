@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Amy E Critton.svg]]
+
 # Amy E Critton
 
 ## Biographical Profile
@@ -25,6 +27,14 @@ tags:
 1. Confirm Critton-to-Miller identity linkage and name-form consistency (Amy/Anna/Ama).
 2. Validate each decade's household continuity from image-level census pages.
 3. Reconcile occupation and property fields where OCR appears uncertain.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

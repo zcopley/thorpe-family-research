@@ -29,6 +29,14 @@ tags:
 1. Verify Rosanna Campbell's birth and marriage in Chester, Massachusetts, town or church records.
 2. Identify Rosanna Campbell's parents from primary records before extending the Campbell line.
 
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #089, 147, 199, 209
+> - **Burial**: Verified (RIP marker)
+
 ## Sources
 
 1. [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]]

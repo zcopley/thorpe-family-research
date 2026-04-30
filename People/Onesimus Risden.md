@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Onesimus Risden.svg]]
+
 # Onesimus Risden
 
 ## Biographical Profile
@@ -20,6 +22,14 @@ tags:
 ## Research Notes
 
 - Initial stub created from pedigree timeline extraction.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1850
+> - **Official Records**: Ref #224
 
 ## Sources
 

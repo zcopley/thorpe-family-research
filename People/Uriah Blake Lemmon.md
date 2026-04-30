@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Uriah Blake Lemmon.svg]]
+
 # Uriah Blake Lemmon
 
 ## Biographical Profile
@@ -287,6 +289,16 @@ CT
 
 38
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840, 1850, 1860, 1870
+> - **Official Records**: Ref #121, 202, 203, 204
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

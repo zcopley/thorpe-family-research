@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Louise Elizabeth Thorpe.svg]]
+
 # Louise Elizabeth Thorpe
 
 ## Biographical Profile
@@ -20,6 +22,14 @@ tags:
 ## Research Notes
 
 - Initial stub created from pedigree timeline extraction.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #121, 122
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

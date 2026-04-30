@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Martha Eliza Lewis.svg]]
+
 # Martha Eliza Lewis
 
 ## Biographical Profile
@@ -408,6 +410,15 @@ None
 
 39
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #213, 214, 215, 216
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

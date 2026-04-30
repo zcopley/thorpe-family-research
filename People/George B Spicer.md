@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/George B Spicer.svg]]
+
 # George Spicer
 
 ## Biographical Profile
@@ -526,6 +528,15 @@ None
 
 66
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #156, 186
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

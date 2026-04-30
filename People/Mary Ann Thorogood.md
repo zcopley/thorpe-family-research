@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Mary Ann Thorogood.svg]]
+
 # Mary Ann Thorogood
 
 ## Biographical Profile
@@ -287,6 +289,14 @@ Essex, Felstead
 
 79
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

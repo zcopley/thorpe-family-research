@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/James Thorogood.svg]]
+
 # James Thorogood
 
 ## Biographical Profile
@@ -191,6 +193,15 @@ Herts, Albury
 
 77
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #000, 105
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Louis S Bangle.svg]]
+
 # Louis S Bangle
 
 ## Biographical Profile
@@ -23,6 +25,15 @@ tags:
 - Birth/death dates and exact relationships require image-level verification from original census records.
 - This page is placeholder-level pending full extraction and reconciliation of census household data.
 - Occupations, ages, and locations are transcribed from census summaries but should be verified against primary sources.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #000
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

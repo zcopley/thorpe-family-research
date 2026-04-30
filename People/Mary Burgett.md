@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Mary Burgett.svg]]
+
 # Mary Burgett
 
 ## Biographical Profile
@@ -453,6 +455,15 @@ None
 
 23
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #213, 214, 215, 216
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

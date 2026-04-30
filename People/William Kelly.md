@@ -25,6 +25,15 @@ tags:
 2. Obtain image-level register copies for both entries.
 3. Establish a birth range and parentage with additional sources.
 
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #203, 204
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Shared Intake 2026-04-22 Certificates and Parish Extracts]]

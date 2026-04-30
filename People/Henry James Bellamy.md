@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Henry James Bellamy.svg]]
+
 # Henry James Bellamy
 
 ## Biographical Profile
@@ -254,6 +256,14 @@ Lincs, Locke
 
 15
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

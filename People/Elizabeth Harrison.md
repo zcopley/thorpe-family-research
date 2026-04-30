@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Elizabeth Harrison.svg]]
+
 # Elizabeth Harrison
 
 ## Biographical Profile
@@ -84,6 +86,16 @@ Comments
 
 31
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840
+> - **Official Records**: Ref #108, 112
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

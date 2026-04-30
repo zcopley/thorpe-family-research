@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Joseph Emblow.svg]]
+
 # Joseph Emblow
 
 ## Biographical Profile
@@ -163,6 +165,14 @@ Northamptonshire, Peterborough
 
 27
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #147, 199, 209
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

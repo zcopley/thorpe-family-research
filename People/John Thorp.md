@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/John Thorp.svg]]
+
 # John Thorp
 
 ## Biographical Profile
@@ -55,6 +57,16 @@ died March, In. Lungs - Ill 7 days
 
 80
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840, 1850
+> - **Official Records**: Ref #144, 233, 146, 154
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Jane Wilson.svg]]
+
 # Jane Wilson
 
 ## Biographical Profile
@@ -23,6 +25,15 @@ tags:
 1. Determine whether this index entry corresponds to a Jane Wilson already represented elsewhere in the vault.
 2. Find the cemetery page or other source that anchors the burial-index entry.
 3. Confirm whether the burial-book entry belongs to a Thorpe-family-connected line or is unrelated.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #104
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

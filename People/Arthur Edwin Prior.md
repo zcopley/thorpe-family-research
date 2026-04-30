@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Arthur Edwin Prior.svg]]
+
 # Arthur Edwin Prior
 
 ## Biographical Profile
@@ -399,6 +401,16 @@ None
 
 53
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1870, 1880, 1890, 1900, 1910
+> - **Official Records**: Ref #017, 052, 250, 123
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Grace Caroline Thorogood.svg]]
+
 # Grace Caroline Thorogood
 
 ## Biographical Profile
@@ -111,6 +113,14 @@ Essex, Chelmsford
 
 76
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

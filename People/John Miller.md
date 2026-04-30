@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/John Miller.svg]]
+
 # John Miller
 
 ## Biographical Profile
@@ -32,6 +34,14 @@ tags:
 1. Verify John Miller's birth, marriage, and migration through primary land, church, tax, or probate records.
 2. Confirm the John-to-Mathias parent-child link from primary records.
 3. Identify burial location and death date; page 14 says his grave marker was not preserved.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1850, 1860, 1870
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

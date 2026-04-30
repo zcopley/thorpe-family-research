@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/James Archibald Bellamy.svg]]
+
 # James Archibald Bellamy
 
 ## Biographical Profile
@@ -159,6 +161,14 @@ Suffolk, Ipswich
 
 17
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

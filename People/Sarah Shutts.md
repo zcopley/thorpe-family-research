@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Sarah Shutts.svg]]
+
 # Sarah Shutts
 
 ## Biographical Profile
@@ -23,6 +25,14 @@ tags:
 
 1. Resolve whether this grave belongs to Sarah Shutts McIntyre or a different person.
 2. Compare the stone against the nearby Major McIntyre grave and any external family records.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

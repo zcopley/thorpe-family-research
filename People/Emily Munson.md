@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Emily Munson.svg]]
+
 # Emily Munson
 
 ## Biographical Profile
@@ -263,6 +265,14 @@ Essex, Chelmsford
 
 47
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1860, 1870
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

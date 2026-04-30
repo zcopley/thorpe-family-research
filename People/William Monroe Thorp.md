@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/William Monroe Thorp.svg]]
+
 # William Monroe Thorp
 
 ## Biographical Profile
@@ -273,6 +275,16 @@ NY
 
 81
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1870, 1880, 1890, 1900
+> - **Official Records**: Ref #017, 052, 250, 123
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

@@ -35,6 +35,14 @@ tags:
 2. Confirm the William-to-Major parent-child link in Chester, Massachusetts, town, church, probate, or land records.
 3. Determine whether the compiled "probably son" link from Thomas and Sarah McIntyre to William is supported by primary evidence.
 
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #151, 199
+> - **Burial**: Verified (RIP marker)
+
 ## Sources
 
 1. [[References/Book Outprints — MacIntyre|Book Outprints — MacIntyre]]

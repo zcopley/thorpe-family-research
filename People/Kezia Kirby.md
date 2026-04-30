@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Kezia Kirby.svg]]
+
 # Kezia Kirby
 
 ## Biographical Profile
@@ -23,6 +25,15 @@ tags:
 1. Confirm Kezia Kirby parentage using earlier Oundle parish entries.
 2. Validate witness relationships before asserting family links.
 3. Add birth/baptism details only after direct-source confirmation.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840
+> - **Official Records**: Ref #121, 122, 149
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

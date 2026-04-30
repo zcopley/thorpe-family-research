@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Mary Sorrell.svg]]
+
 # Mary Sorrell
 
 ## Biographical Profile
@@ -245,6 +247,16 @@ Essex, Boreham
 
 64
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1850, 1860, 1870, 1880, 1900
+> - **Official Records**: Ref #196
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

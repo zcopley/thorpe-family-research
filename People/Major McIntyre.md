@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Major McIntyre.svg]]
+
 # Major McIntyre
 
 ## Biographical Profile
@@ -33,6 +35,15 @@ tags:
 1. Confirm the relationship to Sarah Shutts McIntyre from non-burial records.
 2. Confirm the William-to-Major parent-child link from primary records.
 3. Determine whether a separate census or vital-record page exists for Major McIntyre in the vault.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840
+> - **Official Records**: Ref #148, 150
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

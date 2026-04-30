@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Uriah Blake Thorpe.svg]]
+
 # Uriah Blake Thorpe
 
 ## Biographical Profile
@@ -389,6 +391,15 @@ None
 
 83
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #156, 186
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

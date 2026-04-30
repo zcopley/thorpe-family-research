@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Mary Woodley.svg]]
+
 # Mary Woodley
 
 ## Biographical Profile
@@ -30,6 +32,16 @@ tags:
 1. Confirm Mary's birth date from primary church, family Bible, or court records.
 2. Locate Jacob Woodley's original will and any related estate records.
 3. Verify the Nathaniel Harrison and Mary Woodley child list from estate or chancery records.
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1850, 1860, 1870, 1880, 1900, 1910, 1920, 1930
+> - **Official Records**: Ref #012, 253, 029, 031, 254, 058, 065
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

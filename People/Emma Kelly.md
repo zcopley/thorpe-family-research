@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Emma Kelly.svg]]
+
 # Emma Kelly
 
 ## Biographical Profile
@@ -232,6 +234,14 @@ Peterborough
 
 34
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Official Records**: Ref #151, 199
+> - **Burial**: Verified (RIP marker)
 
 ## Sources
 

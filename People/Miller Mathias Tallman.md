@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Miller Mathias Tallman.svg]]
+
 # Miller Mathias Tallman
 
 ## Biographical Profile
@@ -429,6 +431,16 @@ Ohio
 
 73
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1870, 1880, 1890, 1900, 1910
+> - **Official Records**: Ref #021, 029, 040
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

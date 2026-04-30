@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Jesse Rowland.svg]]
+
 # Jesse Rowland
 
 ## Biographical Profile
@@ -176,6 +178,16 @@ Comments
 
 61
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840
+> - **Official Records**: Ref #000, 105, 168
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 

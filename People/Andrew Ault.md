@@ -6,6 +6,8 @@ tags:
   - "#person"
 ---
 
+![[assets/snippets/Andrew Ault.svg]]
+
 # Andrew Ault
 
 ## Biographical Profile
@@ -98,6 +100,16 @@ Comments
 
 9
 ```
+
+
+## Source Indicators
+
+> [!info] Indicators from Pedigree Timeline Diagrams
+>
+> - **Census Records**: Found in 1840
+> - **Official Records**: Ref #105, 107, 132
+> - **Burial**: Verified (RIP marker)
+> - **Obituary**: Available (Obit marker)
 
 ## Sources
 
