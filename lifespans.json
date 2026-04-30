@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Andrew Ault",
+    "filename": "Andrew Ault.md",
+    "birth": 1769,
+    "death": 1852,
+    "path": "People/Andrew Ault.md"
+  },
+  {
+    "name": "Anna Kester",
+    "filename": "Anna Kester.md",
+    "birth": 1763,
+    "death": 1847,
+    "path": "People/Anna Kester.md"
+  },
+  {
+    "name": "Arthur Edwin Prior",
+    "filename": "Arthur Edwin Prior.md",
+    "birth": 1853,
+    "death": 1929,
+    "path": "People/Arthur Edwin Prior.md"
+  },
+  {
+    "name": "Benjamin B Tallman",
+    "filename": "Benjamin B Tallman.md",
+    "birth": 1811,
+    "death": 1881,
+    "path": "People/Benjamin B Tallman.md"
+  },
+  {
+    "name": "Benjamin B. Tallman",
+    "filename": "Benjamin B. Tallman.md",
+    "birth": 1812,
+    "death": 1881,
+    "path": "People/Benjamin B. Tallman.md"
+  },
+  {
+    "name": "Benjamin Tallman 1684-1769",
+    "filename": "Benjamin Tallman 1684-1769.md",
+    "birth": 1684,
+    "death": 1769,
+    "path": "People/Benjamin Tallman 1684-1769.md"
+  },
+  {
+    "name": "Benjamin Tallman 1745-1820",
+    "filename": "Benjamin Tallman 1745-1820.md",
+    "birth": 1745,
+    "death": 1820,
+    "path": "People/Benjamin Tallman 1745-1820.md"
+  },
+  {
+    "name": "Benjamin Tallman",
+    "filename": "Benjamin Tallman.md",
+    "birth": 1745,
+    "death": 1820,
+    "path": "People/Benjamin Tallman.md"
+  },
+  {
+    "name": "Charles Russell Spicer",
+    "filename": "Charles Russell Spicer.md",
+    "birth": 1822,
+    "death": 1887,
+    "path": "People/Charles Russell Spicer.md"
+  },
+  {
+    "name": "Chester James Spicer",
+    "filename": "Chester James Spicer.md",
+    "birth": 1908,
+    "death": 1977,
+    "path": "People/Chester James Spicer.md"
+  },
+  {
+    "name": "Claramon Tiffany",
+    "filename": "Claramon Tiffany.md",
+    "birth": 1799,
+    "death": 1835,
+    "path": "People/Claramon Tiffany.md"
+  },
+  {
+    "name": "Edith Estelle Spicer",
+    "filename": "Edith Estelle Spicer.md",
+    "birth": 1900,
+    "death": 1969,
+    "path": "People/Edith Estelle Spicer.md"
+  },
+  {
+    "name": "Edna Angeline Spicer",
+    "filename": "Edna Angeline Spicer.md",
+    "birth": 1912,
+    "death": 1993,
+    "path": "People/Edna Angeline Spicer.md"
+  },
+  {
+    "name": "Elizabeth Plomey Ault",
+    "filename": "Elizabeth Plomey Ault.md",
+    "birth": 1841,
+    "death": 1926,
+    "path": "People/Elizabeth Plomey Ault.md"
+  },
+  {
+    "name": "Emily Amanda McIntyre",
+    "filename": "Emily Amanda McIntyre.md",
+    "birth": 1816,
+    "death": 1860,
+    "path": "People/Emily Amanda McIntyre.md"
+  },
+  {
+    "name": "Frederick Ault",
+    "filename": "Frederick Ault.md",
+    "birth": 1795,
+    "death": 1857,
+    "path": "People/Frederick Ault.md"
+  },
+  {
+    "name": "George Spicer",
+    "filename": "George B Spicer.md",
+    "birth": 1864,
+    "death": 1938,
+    "path": "People/George B Spicer.md"
+  },
+  {
+    "name": "George Jennings Spicer",
+    "filename": "George Jennings Spicer.md",
+    "birth": 1904,
+    "death": 1977,
+    "path": "People/George Jennings Spicer.md"
+  },
+  {
+    "name": "Hattie May Risden",
+    "filename": "Hattie May Risden.md",
+    "birth": 1877,
+    "death": 1967,
+    "path": "People/Hattie May Risden.md"
+  },
+  {
+    "name": "Hugh Lemmon",
+    "filename": "Hugh Lemmon.md",
+    "birth": 1754,
+    "death": 1824,
+    "path": "People/Hugh Lemmon.md"
+  },
+  {
+    "name": "James Lemmon",
+    "filename": "James Lemmon.md",
+    "birth": 1779,
+    "death": 1854,
+    "path": "People/James Lemmon.md"
+  },
+  {
+    "name": "Jane Wager-Jennie Dodge",
+    "filename": "Jane Wager-Jennie Dodge.md",
+    "birth": 1798,
+    "death": 1870,
+    "path": "People/Jane Wager-Jennie Dodge.md"
+  },
+  {
+    "name": "Joanna Griffith",
+    "filename": "Joanna Griffith.md",
+    "birth": 1790,
+    "death": 1840,
+    "path": "People/Joanna Griffith.md"
+  },
+  {
+    "name": "John K Palmer",
+    "filename": "John K Palmer.md",
+    "birth": 1821,
+    "death": 1906,
+    "path": "People/John K Palmer.md"
+  },
+  {
+    "name": "John Keith Bellamy",
+    "filename": "John Keith Bellamy.md",
+    "birth": 1926,
+    "death": 2004,
+    "path": "People/John Keith Bellamy.md"
+  },
+  {
+    "name": "John Mackey Thorpe",
+    "filename": "John Mackey Thorpe.md",
+    "birth": 1910,
+    "death": 1968,
+    "path": "People/John Mackey Thorpe.md"
+  },
+  {
+    "name": "John Thorp",
+    "filename": "John Thorp.md",
+    "birth": 1791,
+    "death": 1850,
+    "path": "People/John Thorp.md"
+  },
+  {
+    "name": "Lester Harold Spicer",
+    "filename": "Lester Harold Spicer.md",
+    "birth": 1906,
+    "death": 1974,
+    "path": "People/Lester Harold Spicer.md"
+  },
+  {
+    "name": "Louis Bangle",
+    "filename": "Louis Bangle.md",
+    "birth": 1798,
+    "death": 2026,
+    "path": "People/Louis Bangle.md"
+  },
+  {
+    "name": "Louise Elizabeth Thorpe",
+    "filename": "Louise Elizabeth Thorpe.md",
+    "birth": 1913,
+    "death": 2005,
+    "path": "People/Louise Elizabeth Thorpe.md"
+  },
+  {
+    "name": "Martha Eliza Lewis",
+    "filename": "Martha Eliza Lewis.md",
+    "birth": 1859,
+    "death": 1923,
+    "path": "People/Martha Eliza Lewis.md"
+  },
+  {
+    "name": "Mary Greenwood",
+    "filename": "Mary Greenwood.md",
+    "birth": 1835,
+    "death": 1918,
+    "path": "People/Mary Greenwood.md"
+  },
+  {
+    "name": "May Aleen Palmer",
+    "filename": "May Aleen Palmer.md",
+    "birth": 1886,
+    "death": 1979,
+    "path": "People/May Aleen Palmer.md"
+  },
+  {
+    "name": "Miller Mathias Tallman",
+    "filename": "Miller Mathias Tallman.md",
+    "birth": 1841,
+    "death": 1921,
+    "path": "People/Miller Mathias Tallman.md"
+  },
+  {
+    "name": "Moses Risden",
+    "filename": "Moses Risden.md",
+    "birth": 1785,
+    "death": 1816,
+    "path": "People/Moses Risden.md"
+  },
+  {
+    "name": "Myron Leland Spicer",
+    "filename": "Myron Leland Spicer.md",
+    "birth": 1920,
+    "death": 1990,
+    "path": "People/Myron Leland Spicer.md"
+  },
+  {
+    "name": "Nathan Spicer",
+    "filename": "Nathan Spicer.md",
+    "birth": 1796,
+    "death": 1873,
+    "path": "People/Nathan Spicer.md"
+  },
+  {
+    "name": "Oliver Warren Lewis",
+    "filename": "Oliver Warren Lewis.md",
+    "birth": 1823,
+    "death": 1892,
+    "path": "People/Oliver Warren Lewis.md"
+  },
+  {
+    "name": "Oliver Warren Prior",
+    "filename": "Oliver Warren Prior.md",
+    "birth": 1880,
+    "death": 1949,
+    "path": "People/Oliver Warren Prior.md"
+  },
+  {
+    "name": "Onesimus Risden",
+    "filename": "Onesimus Risden.md",
+    "birth": 1760,
+    "death": 1848,
+    "path": "People/Onesimus Risden.md"
+  },
+  {
+    "name": "Patricia Margaret Bellamy",
+    "filename": "Patricia Margaret Bellamy.md",
+    "birth": 1925,
+    "death": 2015,
+    "path": "People/Patricia Margaret Bellamy.md"
+  },
+  {
+    "name": "Ralph Gerald Thorpe",
+    "filename": "Ralph Gerald Thorpe.md",
+    "birth": 1906,
+    "death": 1993,
+    "path": "People/Ralph Gerald Thorpe.md"
+  },
+  {
+    "name": "Rebecca Blake",
+    "filename": "Rebecca Blake.md",
+    "birth": 1779,
+    "death": 1855,
+    "path": "People/Rebecca Blake.md"
+  },
+  {
+    "name": "Romancy Miller",
+    "filename": "Romancy Miller.md",
+    "birth": 1819,
+    "death": 1911,
+    "path": "People/Romancy Miller.md"
+  },
+  {
+    "name": "Ruby Bernice Prior",
+    "filename": "Ruby Bernice Prior.md",
+    "birth": 1913,
+    "death": 2006,
+    "path": "People/Ruby Bernice Prior.md"
+  },
+  {
+    "name": "Sarah Annett Lemmon",
+    "filename": "Sarah Annett Lemmon.md",
+    "birth": 1841,
+    "death": 1886,
+    "path": "People/Sarah Annett Lemmon.md"
+  },
+  {
+    "name": "Sarah Wheeler",
+    "filename": "Sarah Wheeler.md",
+    "birth": 1758,
+    "death": 1820,
+    "path": "People/Sarah Wheeler.md"
+  },
+  {
+    "name": "Thomas Edward Spicer",
+    "filename": "Thomas Edward Spicer.md",
+    "birth": 1911,
+    "death": 1911,
+    "path": "People/Thomas Edward Spicer.md"
+  },
+  {
+    "name": "Uriah Blake Lemmon",
+    "filename": "Uriah Blake Lemmon.md",
+    "birth": 1808,
+    "death": 1887,
+    "path": "People/Uriah Blake Lemmon.md"
+  },
+  {
+    "name": "William Bellamy",
+    "filename": "William Bellamy.md",
+    "birth": 1750,
+    "death": 1817,
+    "path": "People/William Bellamy.md"
+  },
+  {
+    "name": "William Henry Palmer",
+    "filename": "William Henry Palmer.md",
+    "birth": 1851,
+    "death": 1927,
+    "path": "People/William Henry Palmer.md"
+  },
+  {
+    "name": "William Monroe Thorp",
+    "filename": "William Monroe Thorp.md",
+    "birth": 1835,
+    "death": 1899,
+    "path": "People/William Monroe Thorp.md"
+  },
+  {
+    "name": "William Tallman 1720-1791",
+    "filename": "William Tallman 1720-1791.md",
+    "birth": 1720,
+    "death": 1791,
+    "path": "People/William Tallman 1720-1791.md"
+  },
+  {
+    "name": "Wynat Lewis",
+    "filename": "Wynat Lewis.md",
+    "birth": 1850,
+    "death": 1860,
+    "path": "People/Wynat Lewis.md"
+  }
+]
