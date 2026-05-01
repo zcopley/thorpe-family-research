@@ -56,6 +56,6 @@ This family cluster is documented in:
 
 ## Research Resources
 
-- Visit [[People Directory]] to find individual family members
-- Check [[Search Index]] for location, occupation, or date searches
-- Review [[CHANGELOG]] for ongoing research notes and updates
+- Visit [[People Directory|People Directory]] to find individual family members
+- Check [[Search Index|Search Index]] for location, occupation, or date searches
+- Review [[CHANGELOG|Changelog]] for ongoing research notes and updates

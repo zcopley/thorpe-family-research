@@ -60,7 +60,7 @@ Each branch summary page includes:
 ## Visitor Experience Impact
 
 These 6 new hub pages complete the visitor-facing family cluster navigation, providing entry points for all major families in the vault. Visitors can now:
-- Start at [[index]] for the guided landing page
+- Start at [[index|Home]] for the guided landing page
 - Choose a primary cluster (Lemmon-Blake-Thorpe, Spicer-Risden, Palmer-Prior-Lewis, Ault-Tallman)
 - Or explore secondary families (Bellamy, Sorrell-Thorogood, Bangle, Baxter-Hiskey, McIntyre-Merrill, Ireland-Rowland)
 - Drill down to individual person pages for census records and pedigree context

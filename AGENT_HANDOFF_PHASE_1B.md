@@ -89,7 +89,7 @@ This phase moved from reconnaissance into actionable ingestion by staging high-v
 
 ## 2026-04-22 Addendum — Deploy visibility follow-up
 
-- Added a clearly visible deployment status block on [[index]] and [[Home]] so recent deploy state is obvious on first visit.
+- Added a clearly visible deployment status block on [[index|Home]] and [[Home|Home]] so recent deploy state is obvious on first visit.
 - Updated [[CHANGELOG]] with a dedicated deploy-visibility entry linking directly to updated pages.
 - Prepared commit/push verification flow to confirm GitHub Pages reflects these visibility changes.
 

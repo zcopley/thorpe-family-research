@@ -27,7 +27,7 @@ gantt
 
 ## Individual Profiles
 
-- [[People/Benjamin Tallman 1684-1769.md|Benjamin Tallman 1684-1769]] (1684 - 1769)
-- [[People/William Tallman 1720-1791.md|William Tallman 1720-1791]] (1720 - 1791)
-- [[People/Benjamin Tallman 1745-1820.md|Benjamin Tallman 1745-1820]] (1745 - 1820)
-- [[People/Benjamin Tallman.md|Benjamin Tallman]] (1745 - 1820)
+- [[People/Benjamin Tallman 1684-1769|Benjamin Tallman 1684-1769]] (1684 - 1769)
+- [[People/William Tallman 1720-1791|William Tallman 1720-1791]] (1720 - 1791)
+- [[People/Benjamin Tallman 1745-1820|Benjamin Tallman 1745-1820]] (1745 - 1820)
+- [[People/Benjamin Tallman|Benjamin Tallman]] (1745 - 1820)

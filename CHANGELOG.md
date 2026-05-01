@@ -314,8 +314,8 @@ tags:
 
 ## 2026-04-27 — Add guided branch-based visitor experience
 
-- Reworked the public landing page `[[index]]` so family visitors can start with branch stories instead of raw indexes.
-- Refreshed [[Home]] as a secondary orientation page that points back to the public landing page and the main research tools.
+- Reworked the public landing page `[[index|Home]]` so family visitors can start with branch stories instead of raw indexes.
+- Refreshed [[Home|Home]] as a secondary orientation page that points back to the public landing page and the main research tools.
 - Upgraded [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon, Blake, and Thorpe Branch Summary]] as the core Thorpe-connected branch hub.
 - Created new visitor branch hubs for [[Topics/Spicer Risden Branch Summary|Spicer and Risden]], [[Topics/Palmer Prior Lewis Branch Summary|Palmer, Prior, and Lewis]], and [[Topics/Ault Tallman Branch Summary|Ault and Tallman]].
 - Updated [[Search Index]] with the new branch hubs and [[References/Book Outprints Collection|Book Outprints Collection]].
@@ -343,7 +343,7 @@ tags:
 
 ## 2026-04-25 — Replace landing page image and scale it down
 
-- Replaced the oversized Sandusky title-page image on `[[index]]` with a more visually interesting Tallman cemetery monument photo.
+- Replaced the oversized Sandusky title-page image on `[[index|Home]]` with a more visually interesting Tallman cemetery monument photo.
 - Scaled the landing page image to half-width so it no longer dominates the page layout.
 - Kept the change limited to the landing page presentation.
 
@@ -362,14 +362,14 @@ tags:
 
 ## 2026-04-25 — Add agent guardrails for landing page and deploy workflow
 
-- Strengthened the shared agent instructions in [[AGENTS]], [[CLAUDE]], and [[GEMINI]] so the next agent knows `index.md` is the public landing page and `Home.md` is a separate orientation page.
+- Strengthened the shared agent instructions in [[AGENTS|Agent Instructions]], [[CLAUDE|Claude Instructions]], and [[GEMINI]] so the next agent knows `index.md` is the public landing page and `Home.md` is a separate orientation page.
 - Added explicit reminders to verify `public/index.html` after landing-page changes and to commit and push after a successful build so GitHub Pages can redeploy.
 - Documented the update in [[AGENT_HANDOFF_PHASE_2D]].
 
 ## 2026-04-25 — Move title page image to landing page
 
-- Added the Sandusky and Ottawa, Ohio title-page image to the root landing page `[[index]]` so it appears on the site home screen, not only on `[[Home]]`.
-- Kept the image on `[[Home]]` as well, so both the landing page and the orientation page show the same historical visual.
+- Added the Sandusky and Ottawa, Ohio title-page image to the root landing page `[[index|Home]]` so it appears on the site home screen, not only on `[[Home|Home]]`.
+- Kept the image on `[[Home|Home]]` as well, so both the landing page and the orientation page show the same historical visual.
 - No source content changed; this is a presentation/layout update.
 
 ## 2026-04-25 — Restore Quartz build path for GitHub Pages deployment
@@ -769,8 +769,8 @@ tags:
 
 ## 2026-04-22 — Deploy visibility update
 
-- Added a prominent **Latest Deployment** section to [[index]] with direct links to [[CHANGELOG]] and [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]].
-- Added a **Deployment Status** section to [[Home]] so deployed changes are visible without navigating elsewhere.
+- Added a prominent **Latest Deployment** section to [[index|Home]] with direct links to [[CHANGELOG]] and [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]].
+- Added a **Deployment Status** section to [[Home|Home]] so deployed changes are visible without navigating elsewhere.
 
 ## 2026-04-22 — Intake staging and text-first ingestion batch 1
 
@@ -791,16 +791,16 @@ tags:
   - [[People/Lester Harold Spicer|Lester Harold Spicer]]
   - [[People/Ruby Bernice Prior|Ruby Bernice Prior]]
 - Updated index and navigation pages for discoverability:
-  - [[index]]
-  - [[Home]]
+  - [[index|Home]]
+  - [[Home|Home]]
   - [[People Directory]]
   - [[Search Index]]
 - Added a new ingestion-phase handoff summary in [[AGENT_HANDOFF_PHASE_1B|Agent Handoff — Phase 1B]].
 
 ## 2026-04-22 — Shared intake crawl and source reconnaissance
 
-- Crawled external intake directory `G:\My Drive\Thorpe Shared Intake` for source discovery and triage against existing vault priorities in [[Home]].
-- Identified high-value source groups for ingestion aligned with [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]] and source workflows in [[AGENTS]].
+- Crawled external intake directory `G:\My Drive\Thorpe Shared Intake` for source discovery and triage against existing vault priorities in [[Home|Home]].
+- Identified high-value source groups for ingestion aligned with [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]] and source workflows in [[AGENTS|Agent Instructions]].
 - Captured extractable text evidence later documented in [[References/Shared Intake 2026-04-22 Certificates and Parish Extracts|Shared Intake 2026-04-22 Certificates and Parish Extracts]], [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]], and [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]].
 - Reviewed parsed timeline and census-summary content supplied during session to confirm person/event extraction potential for [[People Directory]] and [[Search Index]].
 - Updated [[AGENT_HANDOFF_PHASE_1A|Agent Handoff — Phase 1A]] with a 2026-04-22 session addendum covering verified items, uncertainties, and next steps.
@@ -808,18 +808,18 @@ tags:
 ## 2026-04-21 — Shared intake workflow baseline
 
 - Added raw-source intake folders under `References/raw/`: `inbox/`, `processed/`, and `archive/`.
-- Updated [[AGENTS]] with intake folder workflow guidance.
-- Updated [[Home]] next steps to start from shared uploads synced into `References/raw/inbox/`.
+- Updated [[AGENTS|Agent Instructions]] with intake folder workflow guidance.
+- Updated [[Home|Home]] next steps to start from shared uploads synced into `References/raw/inbox/`.
 
 ## 2026-04-21 — Agent governance and handoff scaffolding
 
-- Added project-wide agent instructions in [[AGENTS]].
+- Added project-wide agent instructions in [[AGENTS|Agent Instructions]].
 - Added initial phase handoff summary in [[AGENT_HANDOFF_PHASE_1A|Agent Handoff — Phase 1A]].
 
 ## 2026-04-21 — Initial Thorpe vault bootstrap
 
 - Created new Quartz vault structure for Thorpe family research.
-- Added foundational navigation pages: [[index]], [[Home]], [[People Directory]], [[Search Index]].
+- Added foundational navigation pages: [[index|Home]], [[Home|Home]], [[People Directory]], [[Search Index]].
 - Added initial topic page: [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]].
 - Added initial person page: [[People/Robert Butch Thorpe|Robert "Butch" Thorpe]].
 - Added reference summary page: [[References/Butch Thorpe Email|Butch Thorpe Email]].

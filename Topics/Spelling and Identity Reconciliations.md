@@ -95,4 +95,4 @@ The chart groups spelling families only. It should not be read as a merge decisi
 
 1. Use canonical forms for page titles but preserve exact spelling from source in the profile body.
 2. Cross-link all variant-spelled sources to the canonical person page.
-3. Update [[People Directory]] and [[Search Index]] to point to canonical pages with "See also" or alias notes if necessary.
+3. Update [[People Directory|People Directory]] and [[Search Index|Search Index]] to point to canonical pages with "See also" or alias notes if necessary.
