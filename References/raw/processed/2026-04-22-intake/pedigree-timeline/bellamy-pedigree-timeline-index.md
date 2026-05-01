@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Bellamy Pedigree Timeline Extraction Index
 date: 2026-04-29
 ---
