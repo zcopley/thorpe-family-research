@@ -14,7 +14,7 @@ date: 2026-04-29
 
 ## Files Edited or Created
 
-- [[References/raw/processed/2026-04-22-intake/pedigree-timeline/thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
+- [[thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
 - [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
 - [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]]
 - [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon, Blake, and Thorpe Branch Summary]]

@@ -482,4 +482,4 @@ None
 1. `References/raw/inbox/2026-04-24-census-indesign/CensusSummary-BurgettMary.txt`
 
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
-3. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]
+3. [[spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]

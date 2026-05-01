@@ -94,4 +94,4 @@ gantt
 ## Sources
 
 1. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
-2. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
+2. [[thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]

@@ -56,7 +56,7 @@ graph TD
 
 ## Sources
 
-1. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]
+1. [[spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
 3. [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Spicer Lineage Note]]
 4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Burial Sites Summary]]

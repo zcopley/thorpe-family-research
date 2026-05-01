@@ -67,4 +67,4 @@ This diagram is a visitor guide, not a standalone proof. It summarizes relations
 6. [[People/Rebecca Blake|Rebecca Blake]]
 7. [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]]
 8. [[People/Hattie May Risden|Hattie May Risden]]
-9. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
+9. [[thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]

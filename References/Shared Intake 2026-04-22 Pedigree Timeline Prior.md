@@ -11,7 +11,7 @@ tags:
 
 Source file: `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/PedigreeTimeline2025Prior.pdf`
 
-Processed index: [[References/raw/processed/2026-04-22-intake/pedigree-timeline/prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
+Processed index: [[prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
 
 This note records the one-page Prior pedigree timeline as a compiled genealogy chart dated 17 September 2025. It is useful for navigation across the Prior, Lewis, Palmer, and Bangle branches, but the alphanumeric IDs should be treated as search leads only.
 

@@ -357,5 +357,5 @@ MINNESOTA (1880-1923)
 ### Source References
 - [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]] (census household documentation)
 - [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Prior Pedigree Timeline]] (family lineage)
-- [[References/raw/processed/2026-04-22-intake/pedigree-timeline/prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]] (chart review notes)
+- [[prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]] (chart review notes)
 - [[References/Book Outprints Collection|Book Outprints Collection]] (burial documentation)

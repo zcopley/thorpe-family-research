@@ -419,5 +419,5 @@ None
 3. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 4. `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/PedigreeTimelines2025Thorpe.pdf`
 5. [[References/Shared Intake 2026-04-22 Pedigree Timeline Thorpe|Shared Intake 2026-04-22 Pedigree Timeline Thorpe]]
-6. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
+6. [[thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
 7. [[References/Book Outprints — Genealogy and History of Samuel Miller|Book Outprints — Genealogy and History of Samuel Miller]]

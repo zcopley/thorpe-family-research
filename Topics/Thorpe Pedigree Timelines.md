@@ -18,10 +18,10 @@ This page tracks the pedigree timeline files provided by [[People/Robert Butch T
 
 ## Processed Timeline Indexes
 
-- [[References/raw/processed/2026-04-22-intake/pedigree-timeline/thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
-- [[References/raw/processed/2026-04-22-intake/pedigree-timeline/bellamy-pedigree-timeline-index|Bellamy Pedigree Timeline Extraction Index]]
-- [[References/raw/processed/2026-04-22-intake/pedigree-timeline/prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
-- [[References/raw/processed/2026-04-22-intake/pedigree-timeline/spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]
+- [[thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
+- [[bellamy-pedigree-timeline-index|Bellamy Pedigree Timeline Extraction Index]]
+- [[prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
+- [[spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]
 
 ## Public Intake Notes
 

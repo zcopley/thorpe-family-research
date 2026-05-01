@@ -11,7 +11,7 @@ tags:
 
 Source file: `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/PedigreeTimelines2025Spicer.pdf`
 
-Processed index: [[References/raw/processed/2026-04-22-intake/pedigree-timeline/spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]
+Processed index: [[spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]
 
 This note records the one-page Spicer pedigree timeline as a compiled genealogy chart dated 17 September 2025. It should be read together with [[References/Shared Intake 2026-04-22 Spicer Lineage Note|Shared Intake 2026-04-22 Spicer Lineage Note]], which preserves the companion `SPICLINE.txt` lineage chain.
 

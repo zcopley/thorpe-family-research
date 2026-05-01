@@ -51,7 +51,7 @@ graph TD
 
 ## Sources
 
-1. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/bellamy-pedigree-timeline-index|Bellamy Pedigree Timeline Extraction Index]]
+1. [[bellamy-pedigree-timeline-index|Bellamy Pedigree Timeline Extraction Index]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
 3. [[References/Shared Intake 2026-04-22 Census Summary Individuals p61-p96|Shared Intake 2026-04-22 Census Summary Individuals p61-p96]]
 4. [[References/Book Outprints — Great Baddow Oral History|Great Baddow Oral History]]

@@ -439,7 +439,7 @@ gantt
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p51-p60|Shared Intake 2026-04-22 Census Summary Individuals p51-p60]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
-3. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
+3. [[prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
 4. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
 5. `References/raw/extracted/PedigreeTimeline2025Prior.txt`
 6. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`

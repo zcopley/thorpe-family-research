@@ -56,7 +56,7 @@ graph TD
 
 ## Sources
 
-1. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
+1. [[prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
 2. [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Shared Intake 2026-04-22 Pedigree Timeline Prior]]
 3. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Burial Sites Summary]]
 4. [[People/Arthur Edwin Prior|Arthur Edwin Prior]]
