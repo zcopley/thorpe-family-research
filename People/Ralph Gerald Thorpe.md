@@ -26,6 +26,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Ralph Gerald Thorpe (1906-1993).

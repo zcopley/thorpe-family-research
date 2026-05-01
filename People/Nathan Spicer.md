@@ -234,6 +234,7 @@ New York
 > [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
 >
 > - **SPICER, Nathaniel**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Nathan Spicer (1796-1873).

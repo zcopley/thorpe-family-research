@@ -390,6 +390,7 @@ None
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Lester Harold Spicer (1906-1974).

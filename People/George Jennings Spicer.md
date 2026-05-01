@@ -23,6 +23,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of George Jennings Spicer (1904-1977).

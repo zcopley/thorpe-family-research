@@ -26,6 +26,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Louis Bangle (1798-1878).

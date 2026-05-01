@@ -137,6 +137,7 @@ James Lemmon Sr
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of James Lemmon (1779-1854).

@@ -26,6 +26,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of William Bellamy (1750-1817).

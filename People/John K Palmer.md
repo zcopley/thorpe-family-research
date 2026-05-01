@@ -153,6 +153,7 @@ Robert Archer John Thorpe
 >
 > - **PALMER, J**
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of John K Palmer (1821-1906).

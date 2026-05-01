@@ -294,6 +294,7 @@ NY
 > - **THORP, Munroe**
 > - **THORPE, M**
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of William Monroe Thorp (1835-1899).

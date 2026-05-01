@@ -23,6 +23,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Edith Estelle Spicer (1900-1969).

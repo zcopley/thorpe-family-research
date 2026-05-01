@@ -641,6 +641,7 @@ None
 > [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
 >
 > - **PRIOR, May**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of May Aleen Palmer (1886-1979).

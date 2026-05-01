@@ -266,6 +266,7 @@ NY
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Oliver Warren Lewis (1823-1892).

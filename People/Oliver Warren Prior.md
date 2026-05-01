@@ -513,6 +513,7 @@ None
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Oliver Warren Prior (1880-1949).

@@ -405,6 +405,7 @@ None
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Arthur Edwin Prior (1853-1929).

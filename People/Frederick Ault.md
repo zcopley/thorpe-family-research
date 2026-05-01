@@ -122,6 +122,7 @@ Comments
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Frederick Ault (1795-1857).

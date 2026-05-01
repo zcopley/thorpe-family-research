@@ -348,6 +348,7 @@ NY
 > [!info] Known aliases or census misspellings from Butch Thorpe's cross-reference table.
 >
 > - **THORP, Sarah**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Sarah Annett Lemmon (1841-1886).

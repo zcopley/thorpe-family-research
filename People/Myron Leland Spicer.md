@@ -23,6 +23,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Myron Leland Spicer (1920-1990).

@@ -75,6 +75,7 @@ died March, Fever - Ill 3 days
 >
 > - **BERGETT, Mary (GREENWOOD)**
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Mary Greenwood (1835-1918).

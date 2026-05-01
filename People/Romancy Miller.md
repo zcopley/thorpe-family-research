@@ -491,6 +491,7 @@ Own Income
 > - **TALLMAN, Romancy**
 > - **TALMON, Romcy**
 > - **TOLLMAN, Romancy**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Romancy Miller (1819-1911).

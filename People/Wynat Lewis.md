@@ -193,6 +193,7 @@ Comments
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Wynat Lewis (1850-1860).

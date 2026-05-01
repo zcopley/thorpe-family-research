@@ -23,6 +23,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Chester James Spicer (1908-1977).

@@ -61,6 +61,7 @@ died March, In. Lungs - Ill 7 days
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of John Thorp (1791-1850).

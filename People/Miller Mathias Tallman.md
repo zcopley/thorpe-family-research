@@ -442,6 +442,7 @@ Ohio
 >
 > - **TALMON, Miller**
 > - **TOLLMAN, Miller**
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Miller Mathias Tallman (1841-1921).

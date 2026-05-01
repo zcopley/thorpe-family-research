@@ -1,6 +1,6 @@
 ---
 title: People Directory
-date: 2026-04-30
+date: 2026-05-01
 tags:
   - "#thorpe-family"
   - "#index"

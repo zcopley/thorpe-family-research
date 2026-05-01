@@ -364,6 +364,7 @@ None
 >
 > - **PALMER, W H**
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of William Henry Palmer (1851-1927).

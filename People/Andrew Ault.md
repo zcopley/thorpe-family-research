@@ -104,6 +104,7 @@ Comments
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Andrew Ault (1769-1852).

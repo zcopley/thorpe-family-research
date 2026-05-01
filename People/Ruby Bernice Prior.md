@@ -350,6 +350,7 @@ None
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Ruby Bernice Prior (1913-2006).

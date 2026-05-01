@@ -35,6 +35,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of William Tallman 1720-1791 (1720-1791).

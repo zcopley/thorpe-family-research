@@ -532,6 +532,7 @@ None
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of George Spicer (1864-1938).

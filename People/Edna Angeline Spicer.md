@@ -23,6 +23,7 @@ tags:
 
 
 
+
 ## Overlapping Lifespans
 
 > [!info] Visualizing contemporaries in the vault during the life of Edna Angeline Spicer (1912-1993).
