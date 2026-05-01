@@ -11,7 +11,7 @@ tags:
 
 Source file: `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/PedigreeTimelines2025Bellamy.pdf`
 
-Processed index: [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+Processed index: [[References/raw/processed/2026-04-22-intake/pedigree-timeline/bellamy-pedigree-timeline-index|Bellamy Pedigree Timeline Extraction Index]]
 
 This note records the one-page Bellamy pedigree timeline as a compiled genealogy chart dated 17 September 2025. The chart is useful for branch placement and discrepancy tracking, but several spouse and parent placements remain visual-chart readings rather than plain-text extraction facts.
 

@@ -11,7 +11,7 @@ tags:
 
 Source file: `References/raw/inbox/2026-04-22-intake/Pedigree Timeline/PedigreeTimelines2025Thorpe.pdf`
 
-Processed index: [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/THORPE_PEDIGREE_TIMELINE_INDEX|Thorpe Pedigree Timeline Extraction Index]]
+Processed index: [[References/raw/processed/2026-04-22-intake/pedigree-timeline/thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]]
 
 This note contains the extracted lineage chains from the Thorpe Pedigree Timeline (dated 17 September 2025).
 

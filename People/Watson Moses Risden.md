@@ -448,4 +448,4 @@ None
 5. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`
 6. [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Shared Intake 2026-04-22 Pedigree Timeline Spicer]]
 7. [[References/Book Outprints — Grand Army Records Watson Moses Risden|Book Outprints — Grand Army Records Watson Moses Risden]]
-8. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/SPICER_PEDIGREE_TIMELINE_INDEX|Spicer Pedigree Timeline Extraction Index]]
+8. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]]

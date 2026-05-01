@@ -398,7 +398,7 @@ gantt
 
 1. [[References/Shared Intake 2026-04-22 Census Summary Individuals p41-p50|Shared Intake 2026-04-22 Census Summary Individuals p41-p50]]
 2. [[References/Shared Intake 2026-04-22 Burial Sites Summary|Shared Intake 2026-04-22 Burial Sites Summary]]
-3. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]]
+3. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]]
 4. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 5. `References/raw/inbox/2026-04-22-intake/Certificates/CERT0058PalmerWilliaHenry-Death Record.txt`
 6. `References/raw/inbox/2026-04-22-intake/Census/CensusSummaryIndividual.pdf`

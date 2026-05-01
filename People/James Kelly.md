@@ -210,7 +210,7 @@ Northamptonshire, Peterborough
 2. [[References/Shared Intake 2026-04-22 Census Citation Notes|Shared Intake 2026-04-22 Census Citation Notes]]
 3. [[References/Shared Intake 2026-04-22 Census Summary Individuals p31-p40|Shared Intake 2026-04-22 Census Summary Individuals p31-p40]]
 4. [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Shared Intake 2026-04-22 Pedigree Timeline Bellamy]]
-5. [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/BELLAMY_PEDIGREE_TIMELINE_INDEX|Bellamy Pedigree Timeline Extraction Index]]
+5. [[References/raw/processed/2026-04-22-intake/pedigree-timeline/bellamy-pedigree-timeline-index|Bellamy Pedigree Timeline Extraction Index]]
 6. `References/raw/extracted/PedigreeTimelines2025Bellamy.txt`
 7. `References/raw/inbox/2026-04-22-intake/BurialSites/BurialSites.txt`
 8. `References/raw/inbox/2026-04-22-intake/Certificates/JamesKellyBaptism1830.txt`

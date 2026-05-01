@@ -239,5 +239,5 @@ graph TD
 ### Source References
 - [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]] (household census details)
 - [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Prior Pedigree Timeline]] (lineage context)
-- [[References/raw/processed/2026-04-22-intake/Pedigree Timeline/PRIOR_PEDIGREE_TIMELINE_INDEX|Prior Pedigree Timeline Extraction Index]] (chart review notes)
+- [[References/raw/processed/2026-04-22-intake/pedigree-timeline/prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]] (chart review notes)
 - [[References/Shared Intake 2026-04-22 Burial Sites Summary|Burial Sites Summary]] (settlement confirmation)
