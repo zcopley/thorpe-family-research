@@ -33,5 +33,20 @@ Robert Archer John Thorpe
 
 4
 
+## Research and Archiving Workflow
+
+Robert "Butch" Thorpe utilized a rigorous archiving workflow supported by **The Master Genealogist (TMG)** software. In his digital diagrams and physical archives, he used standardized "badges" to indicate the status of sources and citations.
+
+### TMG Software Badges
+
+These icons appear frequently in original exports and signify important research milestones:
+
+| Badge | Meaning |
+| :---: | :--- |
+| ![[References/raw/extracted/images/burials/burial-000.png]] | **Source Data Distributed**: Indicates source information has been reconciled and propagated through the TMG database. |
+| ![[References/raw/extracted/images/burials/burial-001.png]] | **Source Added and Cited**: Confirms a specific primary source has been officially added to the individual's record and cited properly. |
+
+By documenting these badges, we preserve the metadata behind the "RIP", "Obit", and color-coded dots seen in the pedigree charts.
+
 ---
 *Source: [[References/raw/extracted/CensusSummaryIndividual.txt|CensusSummaryIndividual.txt]]*

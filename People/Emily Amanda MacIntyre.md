@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+![[assets/sandusky-ottawa-1896-titlepage.gif]]
+
 - **Name:** Emily Amanda MacIntyre
 - **Role in this project:** Lemmon-line spouse profile represented in repeated 1850/1860 Ohio household extracts.
 

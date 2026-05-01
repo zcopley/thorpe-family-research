@@ -19,6 +19,9 @@ tags:
 
 - The Burial Sites book places Dinah Boone at Tallman Cemetery, Peters Farm, Ohio SR 674 north of Ohio SR 188 (page 10), with inscription `WIFE / DINAH BOONE / 1749 – 1824` and date of death 1824.
 - The same page identifies the grave as part of the Benjamin Tallman family burial group.
+
+![[assets/tallman-monument.png]]
+
 - The raw extracted burial text for pages 10 and 35 repeats the same Tallman Cemetery entry and gives the fuller inscription `BENJ. TALLMAN / 1745 – 1820 / REVOLUTIONARY SERVICE / ARMAND’S CORPS / WIFE / DINAH BOONE / 1749 – 1824`.
 - Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Tallman+Cemetery+Ohio+SR+674+Ohio+SR+188).
 - *Pioneer People of Fairfield County, Ohio* states that Dinah Boone was the wife of [[People/Benjamin Tallman 1745-1820|Benjamin Tallman]], that the couple settled at Canal Winchester, Ohio, and that Dinah was a cousin of Daniel Boone.

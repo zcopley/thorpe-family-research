@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+![[assets/sandusky-ottawa-1896-titlepage.gif]]
+
 - **Name:** Uriah Blake Lemmon
 - **Role in this project:** Lemmon-line ancestor represented in Ohio census-summary household entries from 1850-1880.
 

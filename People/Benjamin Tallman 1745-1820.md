@@ -17,6 +17,9 @@ tags:
 
 - The Thorpe pedigree timeline gives Benjamin Tallman as `1745-1820` and places him before [[People/John Tallman|John Tallman]] in the Tallman chain.
 - The Burial Sites book indexes Benjamin Tallman at Tallman Cemetery in the same older Tallman burial group as [[People/Dinah Boone|Dinah Boone]].
+
+![[assets/tallman-monument.png]]
+
 - The raw extracted burial text for pages 10 and 35 places Benjamin Tallman at Tallman Cemetery, Peters Farm, Ohio SR 674 north of Ohio SR 188, with the inscription `BENJ. TALLMAN / 1745 – 1820 / REVOLUTIONARY SERVICE / ARMAND’S CORPS / WIFE / DINAH BOONE / 1749 – 1824`.
 - *Pioneer People of Fairfield County, Ohio* states that Benjamin Tallman and his wife [[People/Dinah Boone|Dinah Boone]] settled at Canal Winchester, Ohio.
 - *The Descendants of Thomas Durfee* volume II page 572 identifies Benjamin as a child of [[People/William Tallman 1720-1791|William Tallman]] and [[People/Ann Lincoln Tallman|Ann Lincoln Tallman]], born in Berks County, Pennsylvania, on 9 January 1745, and died near Canal Winchester, Ohio, on 4 June 1820.
