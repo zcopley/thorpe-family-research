@@ -11,9 +11,9 @@ tags:
 ## 2026-04-29 — Process Bellamy, Prior, and Spicer pedigree timelines plus raw-inventory cleanup
 
 - Added structured processed indexes for the remaining one-page pedigree charts:
-  [[References/raw/processed/2026-04-22-intake/pedigree-timeline/bellamy-pedigree-timeline-index|Bellamy Pedigree Timeline Extraction Index]],
-  [[References/raw/processed/2026-04-22-intake/pedigree-timeline/prior-pedigree-timeline-index|Prior Pedigree Timeline Extraction Index]],
-  and [[References/raw/processed/2026-04-22-intake/pedigree-timeline/spicer-pedigree-timeline-index|Spicer Pedigree Timeline Extraction Index]].
+  [[Bellamy Pedigree Timeline Extraction Index]],
+  [[Prior Pedigree Timeline Extraction Index]],
+  and [[Spicer Pedigree Timeline Extraction Index]].
 - Rewrote the public intake notes for [[References/Shared Intake 2026-04-22 Pedigree Timeline Bellamy|Bellamy]], [[References/Shared Intake 2026-04-22 Pedigree Timeline Prior|Prior]], and [[References/Shared Intake 2026-04-22 Pedigree Timeline Spicer|Spicer]] so they now reflect the charts accurately and keep unresolved chart geometry visible.
 - Updated the branch and topic hubs:
   [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]],
@@ -61,7 +61,7 @@ tags:
 
 ## 2026-04-29 — Process Thorpe pedigree timeline
 
-- Re-read the one-page `PedigreeTimelines2025Thorpe.pdf` chart and created a structured processed index at [[References/raw/processed/2026-04-22-intake/pedigree-timeline/thorpe-pedigree-timeline-index|Thorpe Pedigree Timeline Extraction Index]].
+- Re-read the one-page `PedigreeTimelines2025Thorpe.pdf` chart and created a structured processed index at [[Thorpe Pedigree Timeline Extraction Index]].
 - Corrected the public Thorpe timeline note to reflect the chart's visible labels, including [[People/John Thorp|John Thorp]], [[People/Jane Wager|Jane Wager]], [[People/William Monroe Thorp|William Monroe Thorp]], [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]], [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]], and [[People/Raymond Miller Thorpe|Raymond Miller Thorpe]].
 - Updated [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]], [[Topics/Lemmon Blake Thorpe Branch Summary|Lemmon, Blake, and Thorpe Branch Summary]], and the core Thorpe person pages with the new source anchor.
 
