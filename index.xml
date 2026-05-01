@@ -6,17 +6,23 @@
       <description>Last 10 notes on Thorpe Family History</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>People Directory</title>
+    <link>https://zcopley.github.io/thorpe-family-research/People-Directory</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/People-Directory</guid>
+    <description><![CDATA[ People Directory Alzina Morgan Amy Critton Amy E Critton Andrew Ault Angeline Caswell Ann Bevis Ann Lincoln Tallman Ann Sorrell Ann Unknown Anna Kester Arthur Edwin Prior Arthur Jr Munson Arthur Munson Benjamin B Tallman Benjamin B. ]]></description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Search Index</title>
+    <link>https://zcopley.github.io/thorpe-family-research/Search-Index</link>
+    <guid>https://zcopley.github.io/thorpe-family-research/Search-Index</guid>
+    <description><![CDATA[ Search Index People Alzina Morgan Amy Critton Amy E Critton Andrew Ault Angeline Caswell Ann Bevis Ann Lincoln Tallman Ann Sorrell Ann Unknown Anna Kester Arthur Edwin Prior Arthur Jr Munson Arthur Munson Benjamin B Tallman Benjamin B. ]]></description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>AGENT_HANDOFF_PHASE_2AF</title>
     <link>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_2AF</link>
     <guid>https://zcopley.github.io/thorpe-family-research/AGENT_HANDOFF_PHASE_2AF</guid>
     <description><![CDATA[ Data Extraction Session - 2026-04-30 Work Completed Source Files Processed: References/raw/extracted/PedigreeTimelines2025*.txt References/raw/extracted/CensusSummaryIndividual.txt Actions: Created 11 missing person stubs (e.g., Ralph Gerald Thorpe, John Mackey Thorpe). ]]></description>
     <pubDate>Thu, 30 Apr 2026 21:23:12 GMT</pubDate>
-  </item><item>
-    <title>People Directory</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People-Directory</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People-Directory</guid>
-    <description><![CDATA[ People Directory Alzina Morgan Amy Critton Amy E Critton Andrew Ault Angeline Caswell Ann Bevis Ann Lincoln Tallman Ann Sorrell Ann Unknown Anna Kester Arthur Edwin Prior Arthur Jr Munson Arthur Munson Benjamin B Tallman Benjamin B. ]]></description>
-    <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Anna Kester</title>
     <link>https://zcopley.github.io/thorpe-family-research/People/Anna-Kester</link>
@@ -58,12 +64,6 @@
     <link>https://zcopley.github.io/thorpe-family-research/People/Edna-Angeline-Spicer</link>
     <guid>https://zcopley.github.io/thorpe-family-research/People/Edna-Angeline-Spicer</guid>
     <description><![CDATA[ Edna Angeline Spicer Biographical Profile Name: Edna Angeline Spicer Dates: 1912 - 1993 Source-Cited Facts Identified in pedigree timeline source. ]]></description>
-    <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Emily Amanda McIntyre</title>
-    <link>https://zcopley.github.io/thorpe-family-research/People/Emily-Amanda-McIntyre</link>
-    <guid>https://zcopley.github.io/thorpe-family-research/People/Emily-Amanda-McIntyre</guid>
-    <description><![CDATA[  Emily Amanda McIntyre Biographical Profile Name: Emily Amanda McIntyre Dates: 1816-1860 Source-Cited Facts Identified in pedigree timeline source. ]]></description>
     <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>

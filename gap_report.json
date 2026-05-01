@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Frederick Thorogood",
+    "indicated": [
+      "1860",
+      "1870",
+      "1880",
+      "1900",
+      "1910",
+      "1920",
+      "1930",
+      "1940"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1860",
+      "1870",
+      "1880",
+      "1900",
+      "1910",
+      "1920",
+      "1930",
+      "1940"
+    ]
+  },
+  {
+    "name": "Mary Woodley",
+    "indicated": [
+      "1850",
+      "1860",
+      "1870",
+      "1880",
+      "1900",
+      "1910",
+      "1920",
+      "1930"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1850",
+      "1860",
+      "1870",
+      "1880",
+      "1900",
+      "1910",
+      "1920",
+      "1930"
+    ]
+  },
+  {
+    "name": "Mary Sorrell",
+    "indicated": [
+      "1850",
+      "1860",
+      "1870",
+      "1880",
+      "1900"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1850",
+      "1860",
+      "1870",
+      "1880",
+      "1900"
+    ]
+  },
+  {
+    "name": "Benjamin B. Tallman",
+    "indicated": [
+      "1840",
+      "1860",
+      "1870",
+      "1880"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1840",
+      "1860",
+      "1870",
+      "1880"
+    ]
+  },
+  {
+    "name": "William Henry Palmer",
+    "indicated": [
+      "1870",
+      "1880",
+      "1890",
+      "1900",
+      "1910"
+    ],
+    "transcripts": [
+      "1920",
+      "1860",
+      "1900"
+    ],
+    "gaps": [
+      "1870",
+      "1880",
+      "1890",
+      "1910"
+    ]
+  },
+  {
+    "name": "John K Palmer",
+    "indicated": [
+      "1840",
+      "1860",
+      "1870",
+      "1880",
+      "1890",
+      "1900"
+    ],
+    "transcripts": [
+      "1910",
+      "1860",
+      "1880",
+      "1870",
+      "1800"
+    ],
+    "gaps": [
+      "1840",
+      "1890",
+      "1900"
+    ]
+  },
+  {
+    "name": "John Miller",
+    "indicated": [
+      "1850",
+      "1860",
+      "1870"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1850",
+      "1860",
+      "1870"
+    ]
+  },
+  {
+    "name": "Anna Kester",
+    "indicated": [
+      "1840",
+      "1850"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1840",
+      "1850"
+    ]
+  },
+  {
+    "name": "Arthur Munson",
+    "indicated": [
+      "1840",
+      "1850"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1840",
+      "1850"
+    ]
+  },
+  {
+    "name": "Elizabeth Plomey Ault",
+    "indicated": [
+      "1840",
+      "1850",
+      "1860",
+      "1870"
+    ],
+    "transcripts": [
+      "1910",
+      "1860",
+      "1900",
+      "1880",
+      "1920",
+      "1850"
+    ],
+    "gaps": [
+      "1840",
+      "1870"
+    ]
+  },
+  {
+    "name": "Emily Munson",
+    "indicated": [
+      "1860",
+      "1870"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1860",
+      "1870"
+    ]
+  },
+  {
+    "name": "James Munson",
+    "indicated": [
+      "1850",
+      "1870"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1850",
+      "1870"
+    ]
+  },
+  {
+    "name": "Miller Mathias Tallman",
+    "indicated": [
+      "1870",
+      "1880",
+      "1890",
+      "1900",
+      "1910"
+    ],
+    "transcripts": [
+      "1860",
+      "1900",
+      "1880",
+      "1870",
+      "1800",
+      "1850"
+    ],
+    "gaps": [
+      "1890",
+      "1910"
+    ]
+  },
+  {
+    "name": "Rebecca Blake",
+    "indicated": [
+      "1840",
+      "1850",
+      "1860"
+    ],
+    "transcripts": [
+      "1850"
+    ],
+    "gaps": [
+      "1840",
+      "1860"
+    ]
+  },
+  {
+    "name": "Watson Moses Risden",
+    "indicated": [
+      "1870",
+      "1880",
+      "1890",
+      "1900",
+      "1910"
+    ],
+    "transcripts": [
+      "1860",
+      "1900",
+      "1880",
+      "1920",
+      "1870",
+      "1930"
+    ],
+    "gaps": [
+      "1890",
+      "1910"
+    ]
+  },
+  {
+    "name": "William Monroe Thorp",
+    "indicated": [
+      "1870",
+      "1880",
+      "1890",
+      "1900"
+    ],
+    "transcripts": [
+      "1870",
+      "1850",
+      "1860",
+      "1880"
+    ],
+    "gaps": [
+      "1890",
+      "1900"
+    ]
+  },
+  {
+    "name": "Andrew Ault",
+    "indicated": [
+      "1840"
+    ],
+    "transcripts": [
+      "1850"
+    ],
+    "gaps": [
+      "1840"
+    ]
+  },
+  {
+    "name": "Arthur Edwin Prior",
+    "indicated": [
+      "1870",
+      "1880",
+      "1890",
+      "1900",
+      "1910"
+    ],
+    "transcripts": [
+      "1910",
+      "1860",
+      "1900",
+      "1880",
+      "1920",
+      "1870"
+    ],
+    "gaps": [
+      "1890"
+    ]
+  },
+  {
+    "name": "Elizabeth Harrison",
+    "indicated": [
+      "1840"
+    ],
+    "transcripts": [
+      "1850"
+    ],
+    "gaps": [
+      "1840"
+    ]
+  },
+  {
+    "name": "Jesse Rowland",
+    "indicated": [
+      "1840"
+    ],
+    "transcripts": [
+      "1870",
+      "1850",
+      "1860"
+    ],
+    "gaps": [
+      "1840"
+    ]
+  },
+  {
+    "name": "John Tallman",
+    "indicated": [
+      "1840",
+      "1850"
+    ],
+    "transcripts": [
+      "1850"
+    ],
+    "gaps": [
+      "1840"
+    ]
+  },
+  {
+    "name": "John Thorp",
+    "indicated": [
+      "1840",
+      "1850"
+    ],
+    "transcripts": [
+      "1850",
+      "1860"
+    ],
+    "gaps": [
+      "1840"
+    ]
+  },
+  {
+    "name": "Kezia Kirby",
+    "indicated": [
+      "1840"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1840"
+    ]
+  },
+  {
+    "name": "Major McIntyre",
+    "indicated": [
+      "1840"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1840"
+    ]
+  },
+  {
+    "name": "Matilda Baxter",
+    "indicated": [
+      "1840",
+      "1850",
+      "1860",
+      "1870"
+    ],
+    "transcripts": [
+      "1870",
+      "1850",
+      "1860"
+    ],
+    "gaps": [
+      "1840"
+    ]
+  },
+  {
+    "name": "Nancy West Rowland",
+    "indicated": [
+      "1850",
+      "1860",
+      "1870"
+    ],
+    "transcripts": [
+      "1860",
+      "1900",
+      "1880",
+      "1920",
+      "1870"
+    ],
+    "gaps": [
+      "1850"
+    ]
+  },
+  {
+    "name": "Onesimus Risden",
+    "indicated": [
+      "1850"
+    ],
+    "transcripts": [],
+    "gaps": [
+      "1850"
+    ]
+  },
+  {
+    "name": "Uriah Blake Lemmon",
+    "indicated": [
+      "1840",
+      "1850",
+      "1860",
+      "1870"
+    ],
+    "transcripts": [
+      "1870",
+      "1850",
+      "1860",
+      "1880"
+    ],
+    "gaps": [
+      "1840"
+    ]
+  }
+]
