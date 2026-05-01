@@ -20,12 +20,12 @@ tags:
 - Marriage extract shows Kezia Kirby married William Emblow on 13 Jul 1786 at St Peter, Oundle, Northamptonshire.
 - Marriage extract lists John Kirby and Eliz Bellamy as witnesses.
 
+
 ## Research Gaps
 
-1. Confirm Kezia Kirby parentage using earlier Oundle parish entries.
-2. Validate witness relationships before asserting family links.
-3. Add birth/baptism details only after direct-source confirmation.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
 
 ## Source Indicators
 

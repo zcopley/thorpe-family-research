@@ -40,12 +40,15 @@ graph TD
 
 This sketch keeps the marriage link visible while leaving the earlier household sequence as separate source-backed context.
 
+
 ## Research Gaps
 
-1. Confirm parish/civil locations and household members in each census year.
-2. Validate death registration details for September 1943.
-3. Keep the Thorogood-to-Munson placement tied to the broader census and burial context.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1860 Census**: Transcript needed to verify household context.
+> - **1920 Census**: Transcript needed to verify household context.
+> - **1930 Census**: Transcript needed to verify household context.
+> - **1940 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

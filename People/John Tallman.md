@@ -29,13 +29,12 @@ tags:
 - **Spouse:** [[People/Elizabeth Harrison|Elizabeth Harrison]]
 - **In-laws from compiled-book evidence:** [[People/Nathaniel Harrison|Nathaniel Harrison]] and [[People/Mary Woodley|Mary Woodley]]
 
+
 ## Research Gaps
 
-1. Verify birth and death dates against primary records.
-2. Confirm household relationships in the 1850 Ohio census context.
-3. Locate the 1817 deed naming John Tallman and wife Elizabeth, of Fairfield County, Ohio.
-4. Reconcile the pedigree-line John Tallman with the broader Fairfield County Tallman pioneer narrative.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

@@ -23,12 +23,12 @@ tags:
 - The 1870 Deep Creek Township, Clinton County, Iowa household includes Jesse Rowland, Matilda Rowland, and Martha Rowland.
 - The Burial Sites book places Matilda Baxter at Rossiter Cemetery south of Charlotte, Iowa (page 6), E56 and 330th Avenue, Washington Township, Clinton County, Iowa, with Lat/Long `41°56’31.3”N 90°27’43.3”W` and inscription fragments indicating `MATILDA` and `APRIL 1, 1879 / AGED 61 YEARS, 1 DAY / WIFE OF J.B. / ROWLAND`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Rossiter+Cemetery+Charlotte+Iowa).
 
+
 ## Research Gaps
 
-1. Validate maiden-name linkage Baxter-to-Rowland from primary records.
-2. Resolve uncertain birth-date notation in summary text.
-3. Confirm household members and ages from image-level census pages.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

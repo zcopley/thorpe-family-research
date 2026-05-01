@@ -27,12 +27,19 @@ tags:
 - **Spouse:** [[People/Nathaniel Harrison|Nathaniel Harrison]]
 - **Child in this project:** [[People/Elizabeth Harrison|Elizabeth Harrison]]
 
+
 ## Research Gaps
 
-1. Confirm Mary's birth date from primary church, family Bible, or court records.
-2. Locate Jacob Woodley's original will and any related estate records.
-3. Verify the Nathaniel Harrison and Mary Woodley child list from estate or chancery records.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1850 Census**: Transcript needed to verify household context.
+> - **1860 Census**: Transcript needed to verify household context.
+> - **1870 Census**: Transcript needed to verify household context.
+> - **1880 Census**: Transcript needed to verify household context.
+> - **1900 Census**: Transcript needed to verify household context.
+> - **1910 Census**: Transcript needed to verify household context.
+> - **1920 Census**: Transcript needed to verify household context.
+> - **1930 Census**: Transcript needed to verify household context.
 
 ## Source Indicators
 

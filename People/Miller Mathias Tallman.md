@@ -84,17 +84,13 @@ graph TD
 
 Miller Mathias demonstrates the trajectory of a Civil War veteran: farming in rural Iowa (1880), transitioning to urban teamster work in Sioux City (1900), and finally entering the Iowa Soldiers’ Home for long-term care (1910-1920) until his death in 1921.
 
+
 ## Research Gaps
 
-1. Confirm Union military service record and identify regiment/unit.
-2. Locate Willis G. Tallman in later records (1880 shows age 6, implying birth ~1874).
-3. Trace Lena P. Tallman after 1900; identify marriage and descendants.
-4. Clarify relationship of Elbert Winn and Andrew Richey to the household in 1880.
-5. Determine exact reason for Iowa Soldiers’ Home admission (age, health, pension status).
-6. Resolve the wife-name conflict between Elizabeth Plomey Ault in census-linked sources and Lizzie Wimmer in the Miller genealogy.
-7. Determine whether William Gilmore Tallman and Willis G. Tallman are the same person.
-8. Determine whether Elvin Lenora Tallman and [[People/Lenore Hetty Tallman|Lenore Hetty Tallman]] are the same person.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1890 Census**: Transcript needed to verify household context. (Note: The 1890 US Federal Census was largely destroyed by fire)
+> - **1910 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

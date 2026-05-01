@@ -47,13 +47,12 @@ graph TD
 
 This is a household sketch from the census-summary chain on the page.
 
+
 ## Research Gaps
 
-1. Resolve possible mixed-row contamination between Arthur Edwin and Joseph Warren Prior sections.
-2. Verify all county/state transitions and household continuity from image-level records.
-3. Confirm birth/death dates from independent vital records.
-4. Keep the birth year open rather than harmonizing the chart and census values prematurely.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1890 Census**: Transcript needed to verify household context. (Note: The 1890 US Federal Census was largely destroyed by fire)
 
 ## Census Records
 

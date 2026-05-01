@@ -42,6 +42,14 @@ tags:
 > - **Burial**: Verified (RIP marker)
 > - **Obituary**: Available (Obit marker)
 
+
+## Research Gaps
+
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
+> - **1850 Census**: Transcript needed to verify household context.
+
 ## Sources
 
 1. [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Shared Intake 2026-04-24 Census InDesign Summaries]]

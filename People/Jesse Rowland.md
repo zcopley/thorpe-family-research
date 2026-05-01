@@ -21,11 +21,12 @@ tags:
 - The extraction lists Jesse in 1850 Indiana, Jefferson County, Graham Township.
 - The extraction lists Jesse in 1860 Iowa, Clinton County, Waterford Township and in 1870 Iowa, Clinton County, Deep Creek Township.
 
+
 ## Research Gaps
 
-1. Confirm whether all Rowland/ROLAND spellings in the extracted sequence refer to one person.
-2. Validate household-member ages and locations from image-level census pages.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

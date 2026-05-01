@@ -100,14 +100,12 @@ graph TD
 
 Elizabeth Plomey bridges three states and five decades: Ohio childhood (1850-1860), Iowa farming marriage (1880-1900), Sioux City teamster's household (1900), and shared Iowa Soldiers' Home residence with husband (1910-1920).
 
+
 ## Research Gaps
 
-1. Locate Willis G. Tallman in later census records to trace his life.
-2. Trace Lena P. Tallman's life after 1900 and identify her spouse/descendants.
-3. Validate exact marriage date (c. 1880) from marriage records.
-4. Clarify relationship of Andrew Richey and Elbert Winn in the 1880 household.
-5. Confirm Iowa Soldiers' Home admission reason and military service timeline for Miller M. Tallman.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1870 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

@@ -30,12 +30,12 @@ tags:
 - **Mother:** [[People/Rosanna Campbell|Rosanna Campbell]], based on the compiled MacIntyre book outprint.
 - **Possible spouse or close relative:** [[People/Sarah Shutts|Sarah Shutts]], based only on burial proximity and the Burial Sites note; the relationship still needs non-burial confirmation.
 
+
 ## Research Gaps
 
-1. Confirm the relationship to Sarah Shutts McIntyre from non-burial records.
-2. Confirm the William-to-Major parent-child link from primary records.
-3. Determine whether a separate census or vital-record page exists for Major McIntyre in the vault.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
 
 ## Source Indicators
 

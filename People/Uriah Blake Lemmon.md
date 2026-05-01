@@ -94,14 +94,12 @@ Uriah Blake Lemmon was patriarch of the Ohio Lemmon line, with 8+ documented chi
 - Different burial sites: McPherson Cemetery, Clyde vs Evergreen Cemetery, Grand Mound
 - Likely related through Blake family or Lemmon/Thorpe connection based on pedigree timeline grouping, but definitely different generations.
 
+
 ## Research Gaps
 
-1. Resolve Lemmon/Lemon spelling differences across decades.
-2. Validate apparent OCR ambiguity for sex markers in 1860 entries.
-3. Confirm the 1880 spouse identity against other Lemmon profile records.
-4. Resolve whether the death date is 15 Feb 1887 or 16 Feb 1887; the Sandusky-Beers sketch gives 16 Feb, while earlier vault sources give 15 Feb.
-5. Clarify relationship to [[People/Uriah Blake Thorpe|Uriah Blake Thorpe]] via pedigree timeline or family records (possible uncle/nephew or cousin).
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

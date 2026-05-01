@@ -90,14 +90,14 @@ graph TD
 
 William Henry Palmer's trajectory follows the family's movement from Wisconsin (childhood) to Minnesota (farming years, 1900) to Iowa (family consolidation, 1920).
 
+
 ## Research Gaps
 
-1. Locate William H. Palmer in 1880 census records to trace progression between 1860 Wisconsin and 1900 Minnesota.
-2. Confirm Elizabeth Palmer's maiden surname and full parentage.
-3. Trace all children's lives in later records, especially the sons (Vern) and daughters.
-4. Identify Viola's husband and clarify family consolidation in Iowa.
-5. Keep the Bangle-side spouse placement tied to compiled-chart status unless stronger local evidence sharpens it.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1870 Census**: Transcript needed to verify household context.
+> - **1880 Census**: Transcript needed to verify household context.
+> - **1910 Census**: Transcript needed to verify household context.
 
 ## Census Records
 
@@ -419,9 +419,11 @@ graph TD
 
 This is a minimal household sketch from the census-summary and burial-book material on the page.
 
+
 ## Research Gaps
 
-1. Obtain the full death certificate image and confirm all transcribed fields.
-2. Correlate this death-index entry with census-summary page references before asserting household relationships.
-3. Confirm birth details and parentage from additional records.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1870 Census**: Transcript needed to verify household context.
+> - **1880 Census**: Transcript needed to verify household context.
+> - **1910 Census**: Transcript needed to verify household context.

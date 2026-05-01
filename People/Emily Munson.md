@@ -42,13 +42,12 @@ graph TD
 
 This is a household- and marriage-level sketch; the 1881 servant record remains separate context.
 
+
 ## Research Gaps
 
-1. Confirm Munson-to-Thorogood marriage linkage from civil records.
-2. Resolve Felstead/Felsted spelling and MUNSON/MUNSEN variants.
-3. Validate incomplete RG14 fields in the 1911 segment from primary images.
-4. Keep the Munson-to-Thorogood chart placement explicitly secondary until corroborated elsewhere.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1860 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

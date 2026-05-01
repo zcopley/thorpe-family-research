@@ -49,14 +49,12 @@ graph TD
 
 Andrew Ault represents the earliest generation in the documented Ault line, with an 82-year lifespan (1769-1852) spanning New York to Ohio settlement. The 1850 household in Jefferson County shows an elderly couple with a young relative (Amy Palmer, age 17).
 
+
 ## Research Gaps
 
-1. Confirm relationship of Elizabeth Ault to Andrew (wife, sister, or other).
-2. Clarify relationship of Amy Palmer (granddaughter, niece, other relative).
-3. Locate Andrew Ault in earlier census records (1830, 1840) if available.
-4. Determine relationship to [[People/Frederick Ault|Frederick Ault]] (father/brother/other).
-5. Verify death date and burial location from cemetery records.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

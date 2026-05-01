@@ -57,6 +57,16 @@ gantt
 > - **Burial**: Verified (RIP marker)
 > - **Obituary**: Available (Obit marker)
 
+
+## Research Gaps
+
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
+> - **1860 Census**: Transcript needed to verify household context.
+> - **1870 Census**: Transcript needed to verify household context.
+> - **1880 Census**: Transcript needed to verify household context.
+
 ## Sources
 
 1. [[References/raw/extracted/PedigreeTimelines2025Thorpe.txt|PedigreeTimelines2025Thorpe.txt]]

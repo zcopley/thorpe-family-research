@@ -31,13 +31,13 @@ tags:
 - The Grand Army biographical page says he died on 23 June 1932, shortly after reelection as Department Chaplain.
 - Keep the canonical date unresolved until checked against cemetery, obituary, probate, or state death records.
 
+
 ## Research Gaps
 
-1. Validate 1900 KING household linkage where Watson and Nancy appear as in-laws.
-2. Reconcile spelling and OCR errors in names/occupations across decades.
-3. Resolve the 23 June 1932 vs 30 June 1932 death-date conflict with independent records.
-4. Keep the chart's John Wheeler Risden date conflict visible rather than smoothing it away in downstream pages.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1890 Census**: Transcript needed to verify household context. (Note: The 1890 US Federal Census was largely destroyed by fire)
+> - **1910 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

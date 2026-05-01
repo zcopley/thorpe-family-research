@@ -23,12 +23,12 @@ tags:
 - The Bellamy pedigree timeline includes Mary Sorrell in the Bellamy collateral branch as the daughter linked to the later Sorrell line.
 - The processed Bellamy timeline review keeps that parentage as a chart-layout reading under the later James Sorrell branch rather than a resolved proof statement.
 
+
 ## Research Gaps
 
-1. Confirm maiden name and parentage with parish and civil-registration records.
-2. Validate the 1891 Chelmsford location details from image-level census pages.
-3. Keep the Sorrell father/son overlap open while assessing Mary's exact parentage.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1900 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

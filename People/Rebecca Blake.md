@@ -66,12 +66,13 @@ graph TD
 
 Rebecca Blake married James Lemmon and anchors the Blake-Lemmon connection; their daughter Sarah Annett carried the Lemmon line forward into the Thorpe branch.
 
+
 ## Research Gaps
 
-1. Confirm maiden-name linkage Blake-to-Lemmon from marriage/parish records.
-2. Validate household relationships in the 1850 entry from source images.
-3. Extend profile with pre-1850 and post-1850 record coverage.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
+> - **1860 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

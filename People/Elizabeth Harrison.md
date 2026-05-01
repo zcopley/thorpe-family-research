@@ -29,12 +29,12 @@ tags:
 - **Spouse:** [[People/John Tallman|John Tallman]]
 - **Parents:** [[People/Nathaniel Harrison|Nathaniel Harrison]] and [[People/Mary Woodley|Mary Woodley]], based on compiled-book and litigation-summary evidence.
 
+
 ## Research Gaps
 
-1. Confirm the Harrison-to-Tallman marriage and parentage from the original probate, deed, or chancery records cited by *Settlers by the Long Grey Trail*.
-2. Verify age and birthplace values from image-level census page.
-3. Resolve death date currently recorded as unknown in summary index line.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
 
 ## Census Records
 

@@ -57,6 +57,14 @@ gantt
 > - **Burial**: Verified (RIP marker)
 > - **Obituary**: Available (Obit marker)
 
+
+## Research Gaps
+
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1840 Census**: Transcript needed to verify household context.
+> - **1850 Census**: Transcript needed to verify household context.
+
 ## Sources
 
 1. [[References/raw/extracted/PedigreeTimeline2025Prior.txt|PedigreeTimeline2025Prior.txt]]

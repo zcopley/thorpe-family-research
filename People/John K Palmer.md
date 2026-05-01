@@ -70,14 +70,12 @@ graph TD
 
 John K. Palmer was the patriarch of the Wisconsin Palmer line (1821-1906), father of William Henry Palmer whose line extended into Minnesota and Iowa.
 
+
 ## Research Gaps
 
-1. Locate John K. Palmer in earlier census records (1850 or earlier) to establish pre-Wisconsin origin.
-2. Clarify relationship to [[People/Peter Palmer|Peter Palmer]] (c. 1800) in Pennsylvania, if any.
-3. Validate all children names and ages from original 1860 and 1880 census images.
-4. Confirm death date and burial location.
-5. Trace Rosella and Peter Palmer's later lives.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1890 Census**: Transcript needed to verify household context. (Note: The 1890 US Federal Census was largely destroyed by fire)
 
 ## Census Records
 

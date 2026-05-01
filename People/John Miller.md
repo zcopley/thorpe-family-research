@@ -29,12 +29,14 @@ tags:
 - **Spouse:** Anna Smootz.
 - **Child:** [[People/Mathias Miller|Mathias Miller]].
 
+
 ## Research Gaps
 
-1. Verify John Miller's birth, marriage, and migration through primary land, church, tax, or probate records.
-2. Confirm the John-to-Mathias parent-child link from primary records.
-3. Identify burial location and death date; page 14 says his grave marker was not preserved.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1850 Census**: Transcript needed to verify household context.
+> - **1860 Census**: Transcript needed to verify household context.
+> - **1870 Census**: Transcript needed to verify household context.
 
 ## Source Indicators
 

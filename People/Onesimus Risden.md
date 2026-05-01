@@ -55,6 +55,13 @@ gantt
 > - **Census Records**: Found in 1850
 > - **Official Records**: Ref #224
 
+
+## Research Gaps
+
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1850 Census**: Transcript needed to verify household context.
+
 ## Sources
 
 1. [[References/raw/extracted/PedigreeTimelines2025Spicer.txt|PedigreeTimelines2025Spicer.txt]]

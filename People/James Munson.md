@@ -23,12 +23,12 @@ tags:
 - The section includes cited references for HO107, RG9, RG10, RG11, RG12, and RG13 entries.
 - The Burial Sites book places James Munson at Felsted Congregational Burial Ground (United Reformed Church) in Felsted, Essex, England (page 22), with inscription `ALSO OF / JAMES MUNSON / WHO DIED 9th APRIL 1904 / AGED 89 YEARS`. Map: [Google Maps](https://www.google.com/maps/search/?api=1&query=Felsted+Congregational+Burial+Ground+Felsted+Essex+England).
 
+
 ## Research Gaps
 
-1. Confirm continuity between 1841 `Monson` servant and later `Munson` head-of-household entries.
-2. Validate child lists and ages in 1861/1871/1881/1891 extracts from image-level pages.
-3. Confirm death date from independent civil/burial records.
-
+> [!warning] Priority Research Leads
+> The following census records are indicated in the pedigree diagrams but matching transcripts are missing from the vault:
+> - **1850 Census**: Transcript needed to verify household context.
 
 ## Census Records
 
