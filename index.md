@@ -24,6 +24,7 @@ The best way to begin is with one of the branch stories below. Each branch page 
 ## Explore by Need
 
 - **Find a person:** Use the [[People Directory|People Directory]] for the full alphabetical list.
+- **Read the family stories:** Explore [[Topics/Family Stories and Biographies|Family Stories and Biographies]] for narrative accounts of ancestor lives, including Civil War service.
 - **Understand the visuals:** Read the [[Topics/Visual Legend|Visual Legend for Pedigree Timelines]] to understand the color-coded dots and icons used on person profiles.
 - **See who lived when:** Visit the [[Topics/Chronological Portal|Chronological Portal]] to explore overlapping lifespans and era-based timelines.
 - **Search by topic or source:** Use the [[Search Index|Search Index]].

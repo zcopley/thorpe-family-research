@@ -39,6 +39,16 @@ tags:
 > - **1890 Census**: Transcript needed to verify household context. (Note: The 1890 US Federal Census was largely destroyed by fire)
 > - **1910 Census**: Transcript needed to verify household context.
 
+## Biographical Narrative
+
+> [!abstract] Extract from Iowa Grand Army of the Republic Records
+>
+> Watson M. Risden was born in Watertown, New York, on December 1, 1843, and in his youth moved westward to Indiana. In the spring of 1864 he enlisted in the One Hundred and Twenty-eighth Indiana Volunteer Infantry, and almost immediately he was sent to Louisville, Kentucky, and then to Nashville, Tennessee, with little experience or military discipline. 
+> 
+> He participated in the assaults on Dalton, Rocky Face, and Buzzard's Roost. He was at the battles of Franklin, Nashville, and Kingston, and in April, 1866, he was mustered out of service. After the war he came directly to Iowa, locating at Cedar Rapids where he continued to reside for more than fifty-five years. 
+> 
+> Mr. Risden was active in local Post No. 235, at Cedar Rapids, and also in the Iowa Department of the Grand Army of the Republic. At the Fifty-sixth Annual Encampment, held at Ottumwa in 1930, he was elected Department Commander. In 1931 and again in 1932 he was elected Department Chaplain. Within a few days after his reelection to this office, however, on June 23, 1932, his career was ended.
+
 ## Census Records
 
 > [!info] Extract from References/raw/extracted/CensusSummaryIndividual.txt
