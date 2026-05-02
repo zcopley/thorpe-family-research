@@ -24,10 +24,11 @@ The best way to begin is with one of the branch stories below. Each branch page 
 ## Explore by Need
 
 - **Find a person:** Use the [[People Directory|People Directory]] for the full alphabetical list.
+- **Find a place:** Use the [[Places Directory|Places Directory]] to discover where ancestors lived and worked.
 - **Read the family stories:** Explore the **[[Topics/The Living Legacy|Living Legacy]]** and other [[Topics/Family Stories and Biographies|Family Stories]] for narrative accounts of ancestor lives.
-- **Understand the visuals:** Read the [[Topics/Visual Legend|Visual Legend for Pedigree Timelines]] to understand the color-coded dots and icons used on person profiles.
 - **See who lived when:** Visit the [[Topics/Chronological Portal|Chronological Portal]] to explore overlapping lifespans and era-based timelines.
-- **Search by topic or source:** Use the [[Search Index|Search Index]].
+- **Discover family trades:** Visit [[Topics/Family Trades and Occupations|Family Trades and Occupations]] to see the history of work in the family.
+- **Search by topic or source:** Use the [[Search Index|Search Index]] or the [[Topics/Master Source Index|Master Source Index]].
 - **See the source trail:** Start with [[References/Butch Thorpe Email|Butch Thorpe Email]], [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]], and [[References/Shared Intake 2026-04-24 Census InDesign Summaries|Census InDesign Summaries]].
 
 ## Site Progress

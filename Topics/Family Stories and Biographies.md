@@ -36,6 +36,15 @@ Explore **[[Topics/The Living Legacy|The Living Legacy]]**, the story of how thi
 
 - **[[Topics/The Tale of Two Uriahs|The Tale of Two Uriahs]]**: A "detective story" explaining how the name Uriah Blake links the Lemmon and Thorpe branches across state lines.
 
+## Family Group Snapshots
+
+These pages consolidate major households, bringing together parents, children, and census-listed household members into a single view.
+
+- **[[Topics/Family Groups/Family Group - Tallman and Miller|The Tallman-Miller Household]]**: Pioneer farming in Jones and Linn County, Iowa.
+- **[[Topics/Family Groups/Family Group - Spicer and Risden|The Spicer-Risden Household]]**: The union of the farming dynasty and the Civil War legacy.
+- **[[Topics/Family Groups/Family Group - Lemmon and MacIntyre|The Lemmon-MacIntyre Household]]**: Early pioneers and civic leaders in Sandusky County, Ohio.
+- **[[Topics/Family Groups/Family Group - Thorpe and Lemmon|The Thorpe-Lemmon Household]]**: The bridge from Ohio to Iowa and the Thorpe patriarchal line.
+
 ## Upcoming Narratives (In Progress)
 
 The following stories are currently being synthesized from raw book extracts and personal memoirs:

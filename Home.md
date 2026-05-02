@@ -32,7 +32,11 @@ This page is the secondary orientation page for the Thorpe family research vault
 ## Research Tools
 
 - [[People Directory|People Directory]] - alphabetical list of person pages
+- [[Places Directory|Places Directory]] - discovery by location
 - [[Search Index|Search Index]] - topic, reference, and branch navigation
+- [[Topics/Master Source Index|Master Source Index]] - discovery by primary record reference number
+- [[Topics/Family Stories and Biographies|Family Stories and Biographies]] - narrative accounts and family groups
+- [[Topics/Family Trades and Occupations|Family Trades and Occupations]] - history of work and professions
 - [[Topics/Identity Reconciliation Matrix|Identity Reconciliation Matrix]] - completed and unresolved identity work
 - [[Topics/Spelling and Identity Reconciliations|Spelling and Identity Reconciliations]] - variant names and spelling forms
 - [[Topics/Thorpe Pedigree Timelines|Thorpe Pedigree Timelines]] - timeline exports, branch highlights, and discrepancy leads
