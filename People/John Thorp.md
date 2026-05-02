@@ -14,7 +14,9 @@ tags:
 
 - **Name:** John Thorp
 - **Dates:** 1791-1850
-- **Role in this project:** Thorpe line patriarch; progenitor of William Monroe Thorp line documented in 1835-1899.
+## Life and Times
+
+As the earliest documented patriarch of the Thorpe line, John Thorp represents the family's origins in the era of early statehood and frontier expansion. His life spanned the transition of the family from its mysterious early roots toward the clearly documented generations that would eventually settle in the heart of Iowa.
 
 ## Pedigree Timeline Context
 

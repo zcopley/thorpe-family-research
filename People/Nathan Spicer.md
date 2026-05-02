@@ -14,7 +14,9 @@ tags:
 - **Birth/Death:** Born 3 Apr 1796; died 16 May 1873 (age 77 years, 1 month, 13 days)
 - **Role in this project:** Spicer line patriarch; grandfather of George B. Spicer; patriarch of Iowa Spicer agricultural line (1850s-1870s).
 - **Burial:** Spicer/Spooner Cemetery, Homestead, Iowa; Grave 13 on Highway 6, 1.5 miles east; inscription `NATHAN SPICER / DIED / May 16, 1873 / AGED / 77yrs. 1mo. 13ds`; Burial Sites book, page 34.
-- The processed Spicer timeline review places this Nathan after two earlier `Nathan Spicer` labels and before the unresolved repeated-Nathan / Claramon Tiffany zone.
+## Life and Times
+
+Nathan Spicer represents the founding generation of the Iowa Spicer line. A lifelong farmer, he lived through the transformation of the American Midwest, establishing a family farming tradition that would sustain the Spicer dynasty for nearly two centuries. His legacy is anchored in the rich soil of Iowa, where he settled as a pioneer and patriarch.
 
 ## Census Records and Household Context
 

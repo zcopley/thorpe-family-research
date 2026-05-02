@@ -11,7 +11,9 @@ tags:
 ## Biographical Profile
 
 - **Name:** Benjamin Tallman
-- **Role in this project:** Older Tallman-line ancestor connected to the Thorpe pedigree timeline, the Tallman Cemetery burial group, and Fairfield County pioneer narratives.
+## Life and Times
+
+A Revolutionary War veteran and early Ohio pioneer, Benjamin Tallman lived at the center of the family's transition from Virginia to the Ohio frontier. Through his marriage to Dinah Boone, he linked the Tallman line to one of America's most famous pioneering legacies, anchoring the family in the legendary history of the early American frontier.
 
 ## Source-Cited Facts
 
