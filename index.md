@@ -8,7 +8,7 @@ date: 2026-04-30
 
 <img src="assets/tallman-monument.png" alt="Tallman family monument at the cemetery" style="display:block; width:50%; max-width:340px; height:auto; margin: 1rem auto 1.5rem auto;" />
 
-This site gathers the Thorpe family history shared by [[People/Robert Butch Thorpe|Robert "Butch" Thorpe]] and turns it into a source-grounded family wiki. It follows the Thorpe line through connected Lemmon, Blake, Spicer, Risden, Palmer, Prior, Lewis, Ault, and Tallman families.
+This site is an interactive modernization of the Thorpe family research meticulously compiled by [[People/Robert Butch Thorpe|Robert "Butch" Thorpe]] as a gift to his descendants. It follows the **[[Topics/The Living Legacy|Living Legacy]]** of the Thorpe line through its convergence with the Lemmon, Blake, Spicer, Risden, Palmer, Prior, Lewis, Ault, and Tallman families.
 
 The best way to begin is with one of the branch stories below. Each branch page gives a plain-language overview, a compact family diagram, links to the strongest person profiles, and a short list of what still needs verification.
 
@@ -24,7 +24,7 @@ The best way to begin is with one of the branch stories below. Each branch page 
 ## Explore by Need
 
 - **Find a person:** Use the [[People Directory|People Directory]] for the full alphabetical list.
-- **Read the family stories:** Explore [[Topics/Family Stories and Biographies|Family Stories and Biographies]] for narrative accounts of ancestor lives, including Civil War service.
+- **Read the family stories:** Explore the **[[Topics/The Living Legacy|Living Legacy]]** and other [[Topics/Family Stories and Biographies|Family Stories]] for narrative accounts of ancestor lives.
 - **Understand the visuals:** Read the [[Topics/Visual Legend|Visual Legend for Pedigree Timelines]] to understand the color-coded dots and icons used on person profiles.
 - **See who lived when:** Visit the [[Topics/Chronological Portal|Chronological Portal]] to explore overlapping lifespans and era-based timelines.
 - **Search by topic or source:** Use the [[Search Index|Search Index]].

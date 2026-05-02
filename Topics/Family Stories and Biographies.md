@@ -11,8 +11,13 @@ tags:
 
 This hub collects the narrative-driven accounts of the Thorpe family and connected lines. While much of this vault is dedicated to primary source data (census, pedigree, and burial records), these stories provide a window into the lived experiences of our ancestors.
 
-## Individual Biographies
+## The Capstone Story
 
+### The Living Legacy
+Explore **[[Topics/The Living Legacy|The Living Legacy]]**, the story of how this research vault came to be, the merging of the family branches, and the modern generations who carry the story forward.
+
+## Individual Biographies
+...
 - **[[People/Watson Moses Risden|The Civil War Service of Watson Moses Risden]]**: A detailed account of Watson's service in the 128th Indiana Volunteer Infantry and his life in Cedar Rapids, Iowa.
 - **[[Topics/The Essex Victuallers|The Essex Victuallers]]**: The story of James Thorogood and his transition from an Essex coachman to a publican.
 
