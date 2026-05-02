@@ -13,7 +13,7 @@ tags:
 ## Biographical Profile
 
 - **Name:** George B. Spicer
-- **Birth/Death:** 3 Sep 1864 – 15 May 1938 (age 73 years, 8 months)
+- **Dates:** 3 Sep 1864 - 15 May 1938
 - **Role in this project:** Direct-line Spicer patriarch; Iowa agricultural farmer and household head (1900-1938); husband of [[People/Hattie May Risden|Hattie May Risden]] (Thorpe line connection).
 - The processed Spicer timeline review confirms George B. Spicer as the next direct generation after Charles Russell Spicer and before Lester Harold Spicer.
 

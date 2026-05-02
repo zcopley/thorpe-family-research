@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1823 - 4 Jun 1888
+
 - **Name:** Saphronia Burdick
 - **Role in this project:** Risden-linked ancestor represented in 1870 Michigan census-summary household entry.
 

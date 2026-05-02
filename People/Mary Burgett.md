@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 19 Sep 1835 - 28 Jan 1918
+
 - **Name:** Mary Burgett
 - **Role in this project:** Burgett-to-Spicer line ancestor represented across Iowa census-summary entries.
 

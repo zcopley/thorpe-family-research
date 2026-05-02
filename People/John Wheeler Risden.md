@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 15 Apr 1812 - 26 Dec 1892
+
 - **Name:** John Wheeler Risden
 - **Role in this project:** Earlier-generation Risden ancestor represented in 1860 Iowa census-summary extraction.
 

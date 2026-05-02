@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1812 - Mar 1850
+
 - **Name:** Mary Greenwood
 - **Role in this project:** Burgett-linked individual represented in 1850 Iowa mortality schedule summary entry.
 

@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 22 Jul 1801 - c 1883
+
 - **Name:** Mary Wheeler
 - **Role in this project:** Cross-referenced individual linked to early Ault-line records.
 

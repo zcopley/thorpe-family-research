@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** ? - c 1862
+
 - **Name:** Alzina Morgan
 - **Role in this project:** Pryor-linked individual represented in 1860 Ohio census-summary extraction.
 

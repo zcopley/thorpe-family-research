@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 15 Dec 1859; died 8 Dec 1923 (age 63 years, 11 months, 23 days).
+- **Dates:** 15 Dec 1859 - 8 Dec 1923
 - **Maiden surname:** Lewis; married name: Prior (married [[People/Arthur Edwin Prior|Arthur Edwin Prior]] c. 1900)
 - **Burial:** Brook Park Cemetery, Brook Park, Minnesota; inscription `PRIOR / MARTHA E. / DEC. 15, 1859 / DEC. 8. 1923`
 - The processed Prior timeline review places Martha in the direct line `Wynant Williamson Lewis` -> `Oliver Elhanon Lewis` -> `Martha Eliza Lewis`, which is useful branch placement but still a compiled-chart reading.

@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 1 Dec 1823 - 5 Feb 1893
+
 - **Name:** Louis S Jr Bangle
 - **Role in this project:** Bangle-line ancestor with repeated household appearances in 1860-1880 US census-summary entries.
 

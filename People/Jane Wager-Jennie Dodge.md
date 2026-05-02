@@ -13,7 +13,7 @@ tags:
 ## Biographical Profile
 
 - **Name:** Jane Wager-Jennie Dodge
-- **Dates:** 1798-1870
+- **Dates:** c Nov 1798 - 22 Jan 1870
 
 ## Source-Cited Facts
 

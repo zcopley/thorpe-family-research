@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 1 Dec 1843 - 30 Jun 1932
+
 - **Name:** Watson Moses Risden
 - **Role in this project:** Risden-line household head represented in 1860-1930 census-summary chains.
 

@@ -13,7 +13,7 @@ tags:
 ## Biographical Profile
 
 - **Name:** Charles Russell Spicer
-- **Birth/Death:** Born 22 Oct 1822; died 3 Jun 1887 (age 64 years, 7 months, 12 days)
+- **Dates:** 22 Oct 1822 - 3 Jun 1887
 - **Role in this project:** Spicer line patriarch connecting Nathan Spicer (father) to George B. Spicer (son); bridge generation in Iowa Spicer agricultural line (1850s-1880s).
 - The processed Spicer timeline review confirms Charles Russell Spicer as the start of the clearest later direct chain and pairs him with Mary Burgett, while leaving the Claramon Tiffany placement unresolved.
 

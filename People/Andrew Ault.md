@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 2 Apr 1769; died 28 Mar 1852 (age 82 years, 11 months, 26 days).
+- **Dates:** 2 Apr 1769 - 28 Mar 1852
 - **Birthplace:** New York
 - **Occupation:** Farmer
 

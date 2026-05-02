@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1799 - c 1877
+
 - **Name:** James Sorrell
 - **Role in this project:** Sorrell-line individual indexed in the census summary extraction.
 

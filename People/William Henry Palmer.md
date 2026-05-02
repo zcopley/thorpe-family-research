@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 12 Jun 1851 (inscribed on headstone); died 8 May 1927, age 75, in Waterloo, Iowa.
+- **Dates:** 12 Jun 1851 - 8 May 1927
 - **Cause of Death:** Acute bronchial pneumonia (death-index entry).
 - **Burial:** Fairview Cemetery, Waterloo, Iowa; section M, Row 3, Grave 67; inscription `WILLIAM H. / JUNE 12, 1851 / MAY 8, 1927 / FATHER`.
 - The processed Prior timeline review confirms William Henry Palmer's place in the compiled Palmer chain between `John K Palmer` and `May Aleen Palmer`, with `Elizabeth Maria Bangle` in the adjacent spouse line.

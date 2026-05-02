@@ -19,7 +19,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 16 Mar 1808; died 15 Feb 1887 (age 78).
+- **Dates:** 16 Mar 1808 - 15 Feb 1887
 - **Burial:** McPherson Cemetery, Clyde, Ohio (inscription: `LEMMON`); Burial Sites book, page 16.
 - The Sandusky-Beers biographical sketch for [[People/John McIntyre Lemmon|John McIntyre Lemmon]] identifies Uriah Blake Lemmon and [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]] Lemmon as John McIntyre Lemmon's parents.
 

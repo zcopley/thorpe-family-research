@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 25 Mar 1865 - 18 Sep 1943
+
 - **Name:** Frederick Thorogood
 - **Role in this project:** Thorogood-line individual indexed in the census summary extraction.
 

@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1767 - 29 Apr 1857
+
 - **Name:** Elizabeth Brooks
 - **Role in this project:** Direct ancestor indexed in census-summary entries with Ault-linked household overlap.
 

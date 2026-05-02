@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 7 Oct 1821 - 8 Nov 1908
+
 - **Name:** Angeline Caswell
 - **Role in this project:** Bangle-linked ancestor represented in 1860-1900 census-summary entries.
 

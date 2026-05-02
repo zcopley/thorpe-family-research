@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 2 Aug 1799 - 9 Nov 1878
+
 - **Name:** Joseph Thorogood
 - **Role in this project:** Thorogood-line individual indexed in the census summary extraction.
 

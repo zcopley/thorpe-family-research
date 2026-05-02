@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c1796 - ?
+
 - **Name:** Susan Unknown
 - **Role in this project:** Transitional alias profile retained for traceability from source index naming.
 

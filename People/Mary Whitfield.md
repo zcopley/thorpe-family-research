@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1819 - 22 Mar 1918
+
 - **Name:** Mary Whitfield
 - **Role in this project:** Individual indexed in Census InDesign summary (2026-04-24 intake).
 

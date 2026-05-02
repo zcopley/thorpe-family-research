@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1787 - 3May 1849
+
 - **Name:** Matilda Hiskey
 - **Role in this project:** Monson-linked ancestor represented in 1841 Essex census-summary extraction.
 

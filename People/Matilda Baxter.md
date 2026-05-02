@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 31 Mar 1818? - 1 Apr 1879
+
 - **Name:** Matilda Baxter
 - **Role in this project:** Rowland-line ancestor represented in 1850-1870 US census-summary household extracts.
 

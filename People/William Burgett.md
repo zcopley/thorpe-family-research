@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1807 - c 1850
+
 - **Name:** William Burgett
 - **Role in this project:** Burgett-line household head represented in 1850 Iowa census-summary extract.
 

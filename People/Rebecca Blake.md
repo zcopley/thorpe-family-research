@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 26 Oct 1779; died 29 Mar 1855 (age 75 years, 5 months, 3 days per burial record).
+- **Dates:** 26 Oct 1779 - 29 Mar 1855
 - **Burial:** Tew Cemetery, Townsend Township, Sandusky County, Ohio; Section 25-17-5, Coordinates 412203N 0825125W; inscription reads `REBECCA / wife of / JAMES LEMMON / DIED / Mar. 29, 1855 / Aged / 75 Yrs. 5.M. 3d`; Burial Sites book, page 9.
 - **Spouse:** [[People/James Lemmon|James Lemmon]] (1779-1854); married name: Lemmon
 - The Sandusky-Beers sketch for [[People/John McIntyre Lemmon|John McIntyre Lemmon]] states that James Lemmon Sr. married Rebecca Blake in 1805 and identifies them as John McIntyre Lemmon's grandparents.

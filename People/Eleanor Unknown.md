@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1795 - c 1874
+
 - **Name:** Eleanor Unknown
 - **Role in this project:** Transitional alias profile retained for traceability from source index naming.
 

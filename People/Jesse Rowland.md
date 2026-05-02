@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1816 - ?
+
 - **Name:** Jesse Rowland
 - **Role in this project:** Rowland-line individual indexed in the census summary extraction.
 

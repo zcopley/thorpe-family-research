@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 1 Feb 1879 - 28 Jun 1953
+
 - **Name:** Lenore Hetty Tallman
 - **Role in this project:** Tallman-line descendant appearing as daughter in late-19th and early-20th century census-summary entries.
 

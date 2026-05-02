@@ -8,7 +8,9 @@ tags:
 
 # Samuel Miller
 
-## Biographical Profile
+## Life and Times
+
+Samuel Miller represents the archetypal 18th-century pioneer. From his likely origins in York County, Pennsylvania, he followed the migration trails into the Shenandoah Valley of Virginia. His 1782 purchase of land near Harrisonburg anchored the Miller family in one of the most historic regions of early America. A man of significant enterprise, he built a legacy that would eventually carry his descendants westward into the heart of Ohio and beyond.
 
 - **Name:** Samuel Miller
 - **Role in this project:** Older compiled Miller-line ancestor in the *Genealogy and History of Samuel Miller* outprint.

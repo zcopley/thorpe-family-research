@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** Barton?
+
 - **Name:** Sarah Unknown
 - **Role in this project:** Transitional alias profile retained for traceability from source index naming.
 

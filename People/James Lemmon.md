@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 27 Jun 1779; died 7 May 1854 (age 74 years, 10 months, 10 days per burial record).
+- **Dates:** 27 Jun 1779 - 7 May 1854
 - **Burial:** Tew Cemetery, Townsend Township, Sandusky County, Ohio; Section 25-17-5, Coordinates 412203N 0825125W; Burial Sites book, page 14.
 - The Sandusky-Beers sketch for [[People/John McIntyre Lemmon|John McIntyre Lemmon]] gives a different birth date for James Lemmon Sr., 17 July 1779, and states that he was born in Northumberland County, Pennsylvania; married [[People/Rebecca Blake|Rebecca Blake]] in 1805; volunteered in the War of 1812; moved to Ohio in 1827; and died at North Ridge, Townsend, Sandusky County, Ohio, on 7 May 1854.
 

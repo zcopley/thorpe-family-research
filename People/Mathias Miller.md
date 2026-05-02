@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 7 Jan 1879 - 4 May 1871
+
 - **Name:** Mathias Miller
 - **Role in this project:** Miller-line household head represented in 1850-1870 Walnut Township, Ohio census-summary entries.
 

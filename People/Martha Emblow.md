@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1830 - 21 Jul 1903
+
 - **Name:** Martha Emblow
 - **Role in this project:** Emblow-to-Kelly branch ancestor represented across 1841-1901 Peterborough census-summary entries.
 

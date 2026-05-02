@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 10 Jan 1851 - 9 May 1923
+
 - **Name:** Nancy West Rowland
 - **Role in this project:** Rowland-line descendant indexed in the census summary extraction.
 

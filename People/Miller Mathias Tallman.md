@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 14 Apr 1841; died 8 Apr 1921 (age 79 years, 11 months, 25 days).
+- **Dates:** 14 Apr 1841 - 8 Apr 1921
 - **Birthplace:** Ohio
 - **Occupations:** Farmer (1880), teamster (1900)
 - **Military Service:** Iowa Soldiers’ Home resident (1910-1920), suggesting Union veteran status

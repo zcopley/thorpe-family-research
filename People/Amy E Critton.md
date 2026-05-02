@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 12 Jan 1801 - 31 May 1874
+
 - **Name:** Amy E Critton
 - **Role in this project:** Miller-line ancestor represented in repeated Walnut Township, Ohio census-summary entries.
 

@@ -13,7 +13,7 @@ tags:
 ## Biographical Profile
 
 - **Name:** John Mackey Thorpe
-- **Dates:** 1910 - 1968
+- **Dates:** 28 Dec 1791 - 28 Mar 1860
 
 ## Source-Cited Facts
 

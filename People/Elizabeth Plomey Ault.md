@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 31 Oct 1841; died 5 Mar 1926 (age 84 years, 4 months, 3 days).
+- **Dates:** 31 Oct 1841 - 5 Mar 1926
 - **Maiden surname:** Ault; married name: Tallman (married [[People/Miller Mathias Tallman|Miller Mathias Tallman]] c. 1880)
 
 ## Census Records and Life Progression

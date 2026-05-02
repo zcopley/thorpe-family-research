@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1836 - 15 Dec 1909
+
 - **Name:** Elizabeth A Quackenbush
 - **Role in this project:** Indexed profile linked to Lewis-household census-summary extracts.
 

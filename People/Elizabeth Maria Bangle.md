@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 14 Sep 1859 - 22 Nov 1945
+
 - **Name:** Elizabeth Maria Bangle
 - **Role in this project:** Direct ancestor indexed in census-summary pages with Bangle and Palmer-linked household entries.
 

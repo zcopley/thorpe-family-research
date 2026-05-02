@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 10 Apr 1819; died 31 Jan 1911 (age 91 years, 8 months, 21 days).
+- **Dates:** 10 Apr 1819 - 31 Jan 1911
 - **Maiden surname:** Miller; married name: Tallman (married Benjamin Tallman c. 1840s)
 - The *Genealogy and History of Samuel Miller* page image for page 240 identifies Romancy Miller as a child of [[People/Mathias Miller|Mathias Miller]] and Amy E. Critton.
 - Page 240-241 says Romancy Miller married Benjamin F. Tallman on 25 Oct 1834 at Millersport, Ohio; moved to Canal Winchester, Ohio, about 1845; moved to Jones County, Iowa, in 1848; later lived in Rippey, Greene County, Iowa; and was affiliated with the M.E. Church.

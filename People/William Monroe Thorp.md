@@ -13,7 +13,7 @@ tags:
 ## Biographical Profile
 
 - **Name:** William Monroe Thorp
-- **Dates:** 1835-1899
+- **Dates:** 18 Jan 1835 - 8 Nov 1899
 - **Role in this project:** Bridge generation Thorpe patriarch; son of John Thorp, father of Uriah Blake Thorpe and Ralph Gerald Thorpe.
 
 ## Pedigree Timeline Context

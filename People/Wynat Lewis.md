@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** William?
+
 - **Name:** Wynant Williamson Lewis (canonical form)
 - **Name variants:** Wynat (census transcription), W.W. (1860 census abbreviation)
 - **Life span:** c. 1781 – after 1860 (pedigree timeline estimate)

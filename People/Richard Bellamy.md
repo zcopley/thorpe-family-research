@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 18 Mar 1816 Bap - 24 May 1902
+
 - **Name:** Richard Bellamy
 - **Role in this project:** Core Bellamy-line ancestor with repeated 1841-1881 Lincolnshire census-summary entries.
 

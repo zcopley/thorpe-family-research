@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 21 Mar 1841; died 6 Aug 1886 (age 45 years, 7 months, 7 days per burial record).
+- **Dates:** 21 Mar 1841 - 6 Aug 1886
 - **Burial:** Oakland Cemetery, Beaman, Iowa; Lot 21; inscription reads `SARAH ANNETT THORP / DIED AUG. 6, 1886 / AGED 45 YRS. 7M. 7D.`; Burial Sites book, page 15.
 - **Maiden surname:** Lemmon; married name: Thorp/Thorpe (Monroe/Munroe Thorpe)
 

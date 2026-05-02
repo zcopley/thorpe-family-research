@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 29 Mar 1877; died 11 Mar 1967 (age 89 years, 11 months, 11 days).
+- **Dates:** 29 Mar 1877 - 11 Mar 1967
 - **Burial:** Spring Grove Cemetery, Covington, Iowa; Lot 88, Space 4; GPS 42°1’47.6”N 91°46’6.2”W; Burial Sites book, page 28.
 - **Known spouses:** Watson Risden (1880), George B. Spicer (1900-1930)
 - **Family lineage:** Daughter of [[People/Sarah Annett Lemmon|Sarah Annett Lemmon]] (1841-1886) and Monroe Thorpe; granddaughter of [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]]; married into Spicer family line.

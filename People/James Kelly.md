@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 15 Aug 1830 - ?
+
 - **Name:** James Kelly
 - **Role in this project:** Ancestor represented in Peterborough parish/christening extracts and census citation notes.
 

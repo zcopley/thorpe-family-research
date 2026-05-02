@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** ? - ?
+
 - **Name:** Mary Van Horn
 - **Role in this project:** Palmer-line cross-referenced individual with unresolved dates.
 

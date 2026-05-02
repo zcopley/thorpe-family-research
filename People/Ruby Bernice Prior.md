@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 24 Apr 1913 - 1 Aug 2006
+
 - **Name:** Ruby Bernice Prior
 - **Role in this project:** Direct-line ancestor in staged Spicer/Prior linkage notes.
 

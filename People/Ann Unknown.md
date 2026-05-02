@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1798 - c 1877
+
 - **Name:** Ann Unknown
 - **Role in this project:** Transitional alias profile retained for traceability from source index naming.
 

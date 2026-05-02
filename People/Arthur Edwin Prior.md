@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 14 Jul 1851 - 10 Jul 1929
+
 - **Name:** Arthur Edwin Prior
 - **Role in this project:** Prior-line ancestor represented in repeated 1860-1920 census-summary chains.
 

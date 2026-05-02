@@ -11,7 +11,7 @@ tags:
 ## Biographical Profile
 
 - **Name:** Nathan Spicer
-- **Birth/Death:** Born 3 Apr 1796; died 16 May 1873 (age 77 years, 1 month, 13 days)
+- **Dates:** 3 Apr 1796 - 16 May 1873
 - **Role in this project:** Spicer line patriarch; grandfather of George B. Spicer; patriarch of Iowa Spicer agricultural line (1850s-1870s).
 - **Burial:** Spicer/Spooner Cemetery, Homestead, Iowa; Grave 13 on Highway 6, 1.5 miles east; inscription `NATHAN SPICER / DIED / May 16, 1873 / AGED / 77yrs. 1mo. 13ds`; Burial Sites book, page 34.
 ## Life and Times

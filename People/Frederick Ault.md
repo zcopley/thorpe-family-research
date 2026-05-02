@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 8 Mar 1795; died about 1857 (age ~62).
+- **Dates:** 8 Mar 1795 - c1857
 - **Occupation:** Carpenter
 - **Birthplace:** Pennsylvania
 

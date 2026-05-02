@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 9 Oct 1821; died 2 Jun 1906 (age 84 years, 7 months, 24 days).
+- **Dates:** 9 Oct 1821 - 2 Jun 1906
 - **Birthplace:** Pennsylvania
 - **Occupation:** Farmer
 

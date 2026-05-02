@@ -13,7 +13,7 @@ tags:
 ## Biographical Profile
 
 - **Name:** Lester Harold Spicer
-- **Birth/Death:** Born 14 Jul 1906; died 28 Jun 1974 (age 67 years, 11 months, 14 days)
+- **Dates:** 14 Jul 1906 - 28 Jun 1974
 - **Role in this project:** Third-generation Spicer; son of George B. Spicer (farmer); transition from agricultural to industrial occupation (car repairer); married [[People/Ruby Bernice Prior|Ruby Bernice Prior]].
 - **Burial:** Cedar Memorial Cemetery, Cedar Rapids, Iowa; `64K Last Supper, Space 4`; GPS 42°1'24.2"N 91°38'17.4"W; inscription `LESTER H. / 1906 † 1974`; Burial Sites book, page 33.
 

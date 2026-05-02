@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1823 - 20 Jun 1897
+
 - **Name:** Mary Sorrell
 - **Role in this project:** Sorrell-line individual indexed in the census summary extraction.
 

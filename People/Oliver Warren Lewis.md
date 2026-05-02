@@ -15,7 +15,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 13 Aug 1823; died 3 Jul 1892 (age 68 years, 10 months, 20 days).
+- **Dates:** 13 Aug 1823 - 3 Jul 1892
 - **Birthplace:** Vermont
 - **Occupation:** Farmer
 

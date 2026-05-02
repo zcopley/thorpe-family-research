@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 14 Jul 1878 - 19 May 1959
+
 - **Name:** Uriah Blake Thorpe
 - **Role in this project:** Thorpe-line ancestor listed in the census-summary index.
 

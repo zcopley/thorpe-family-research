@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 24 Oct 1788 Bap - 6 Nov 1855
+
 - **Name:** Arthur Jr Munson
 - **Role in this project:** Essex Munson-line ancestor represented in 1841 and 1851 census-summary extracts.
 

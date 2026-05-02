@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 15 Mar 1880 - 29 May 1949
+
 - **Name:** Oliver Warren Prior
 - **Role in this project:** Prior branch household head represented in 1900-1930 census-summary entries.
 

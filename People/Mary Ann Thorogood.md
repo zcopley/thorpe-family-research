@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 21 Mar 1832 - 17 Jul 1916
+
 - **Name:** Mary Ann Thorogood
 - **Role in this project:** Thorogood-line individual indexed in the census summary extraction.
 

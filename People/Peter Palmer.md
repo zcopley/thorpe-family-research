@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1800 - ?
+
 - **Name:** Peter Palmer
 - **Role in this project:** Earlier-generation Palmer-line individual represented in Pennsylvania census-summary extracts.
 

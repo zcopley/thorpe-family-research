@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 6 Dec 1888 - 3 May 1982
+
 - **Name:** James Archibald Bellamy
 - **Role in this project:** Bellamy-line descendant tracked in late-19th and early-20th century UK census-summary entries.
 

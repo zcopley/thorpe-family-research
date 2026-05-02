@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 27 Jul 1800 Bap - c 1879
+
 - **Name:** Joseph Emblow
 - **Role in this project:** Emblow-line ancestor with 1841-1871 Peterborough census-summary entries.
 

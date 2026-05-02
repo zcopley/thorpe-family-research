@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1792 - ?
+
 - **Name:** Elizabeth Harrison
 - **Role in this project:** Tallman-linked ancestor represented in 1850 Ohio census-summary extraction.
 

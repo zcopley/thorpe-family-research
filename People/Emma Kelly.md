@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 25 May 1861 - 24 Dec 1910
+
 - **Name:** Emma Kelly
 - **Role in this project:** Kelly-to-Bellamy branch individual represented in UK census-summary entries.
 

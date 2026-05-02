@@ -17,7 +17,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 1 May 1886; died 21 May 1979 (age 93 years, 20 days).
+- **Dates:** 1 May 1886 - 21 May 1979
 - **Maiden surname:** Palmer; married name: Prior (married [[People/Oliver Warren Prior|Oliver Prior]] c. 1910)
 - **Burial:** Cedar Memorial Cemetery, Cedar Rapids, Iowa; 110 Lakeview, Space 5; GPS 42°1’25.1”N 91°37’47.2”W; inscription `OUR MOM / MAY A. PRIOR / MAY 1, 1886 / MAY 21, 1979`
 - The processed Prior timeline review confirms May Aleen Palmer as the direct spouse line attached to [[People/Oliver Warren Prior|Oliver Warren Prior]] and preserves her chart ID as a search lead only.

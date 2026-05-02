@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 9 Aug 1801 - 6 Apr 1866
+
 - **Name:** Hannah Beneworth
 - **Role in this project:** Thorogood-linked ancestor represented in 1841 and 1861 Felsted, Essex census-summary entries.
 

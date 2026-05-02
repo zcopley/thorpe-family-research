@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 24 Sep 1894 - 27 Dec 1987
+
 - **Name:** Grace Caroline Thorogood
 - **Role in this project:** Thorogood-line individual currently represented by indexed birth and death data.
 

@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 3 Jul 1787 - c 1867
+
 - **Name:** Henry James Bellamy
 - **Role in this project:** Bellamy-line ancestor with repeated UK census-summary entries from 1871 through 1901.
 

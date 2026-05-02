@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 5 Jan 1766 - c 1868
+
 - **Name:** Catherine Filkins
 - **Role in this project:** Johnson/Spicer-linked ancestor represented in 1850 and 1860 New York census-summary entries.
 

@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 29 Sep 1816 - 9 Jul 1860
+
 ![[assets/sandusky-ottawa-1896-titlepage.gif]]
 
 - **Name:** Emily Amanda MacIntyre

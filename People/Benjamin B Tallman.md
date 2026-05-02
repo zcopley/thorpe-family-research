@@ -15,7 +15,7 @@ tags:
 
 ## Source-Cited Facts
 
-- **Birth/Death:** Born 25 May 1811; died 26 Oct 1881 (age 70 years, 5 months, 1 day).
+- **Dates:** 25 May 1811 - 26 Oc 1881
 - **Birthplace:** Ohio
 - **Occupation:** Farmer
 - **Burial:** Western Cemetery, Linn County, Iowa; Section 35-82-7; GPS 41°52’17.7”N 91°38’9.8”W; inscription `BENJAMIN / TALLMAN / DIED / OCT. 26, 1881 / AGED / 69 Ys. 5 Ms, 1 DAY.`

@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** ? - c1847
+
 - **Name:** Elizabeth How
 - **Role in this project:** Munson-line ancestor represented in 1841 Essex census-summary extraction.
 

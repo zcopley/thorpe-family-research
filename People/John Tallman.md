@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** ? - ?
+
 - **Name:** John Tallman
 - **Role in this project:** Tallman-line individual indexed in the census summary extraction.
 

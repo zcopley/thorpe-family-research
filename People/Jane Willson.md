@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 9 Aug 1824 - 15 May 1910
+
 - **Name:** Jane Willson
 - **Role in this project:** Earlier-generation individual indexed in the census summary extraction.
 

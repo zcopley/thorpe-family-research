@@ -10,6 +10,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 1 Jun 1828 - 14 May 1909
+
 - **Name:** Joseph Warren Prior
 - **Role in this project:** Prior-line elder represented in 1860-1900 Ohio/Michigan census-summary entries.
 

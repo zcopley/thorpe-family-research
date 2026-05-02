@@ -8,7 +8,11 @@ tags:
 
 # John McIntyre Lemmon
 
-## Biographical Profile
+## Life and Times
+
+The life of John McIntyre Lemmon is a classic story of mid-19th century American social mobility. Born in a log house on the Ohio frontier, he studied law and answered the call of duty during the Civil War, rising from a private to a captain in the Ohio volunteer infantry. 
+
+Upon his return, he became a pillar of his community, serving as the first mayor of Clyde, Ohio, and later as a Judge of the Common Pleas. His 1887 grand tour of France, England, Scotland, and Wales marked him as a man of significant achievement and curiosity, bridging the gap between his humble pioneer roots and the wider world.
 
 - **Name:** John McIntyre Lemmon
 - **Role in this project:** Lemmon-line son of [[People/Uriah Blake Lemmon|Uriah Blake Lemmon]] and [[People/Emily Amanda MacIntyre|Emily Amanda MacIntyre]], documented in census summaries and a Sandusky/Ottawa County biographical sketch.

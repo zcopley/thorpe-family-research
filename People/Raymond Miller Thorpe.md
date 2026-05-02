@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 2 Aug 1917 - 3 Jan 1974
+
 - **Name:** Raymond Miller Thorpe
 - **Role in this project:** Thorpe-line ancestor listed in the census-summary index.
 

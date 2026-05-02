@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 10 Feb 1862 - 5 Mar 1932
+
 - **Name:** Emily Munson
 - **Role in this project:** Essex Munson-to-Thorogood branch individual represented in 1871-1911 census-summary extracts.
 

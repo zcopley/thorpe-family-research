@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** c 1828 - 1 Aug 1880
+
 - **Name:** James Thorogood
 - **Role in this project:** Thorogood-line individual indexed in the census summary extraction.
 

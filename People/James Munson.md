@@ -12,6 +12,8 @@ tags:
 
 ## Biographical Profile
 
+- **Dates:** 21 Oct 1814 - 3 Apr 1904
+
 - **Name:** James Munson
 - **Role in this project:** Essex Munson-line ancestor represented across 1841-1901 census-summary extracts.
 
