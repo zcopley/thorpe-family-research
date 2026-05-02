@@ -18,6 +18,8 @@ This hub collects the narrative-driven accounts of the Thorpe family and connect
 
 ## Migration Sagas
 
+- **[[Topics/The Thorpe Ancestral Trail|The Thorpe Ancestral Trail]]**: Traces the family's "Long Grey Trail" from the Shenandoah Valley to the Iowa prairies via the Ohio consolidation.
+- **[[Topics/The Spicer-Risden Alliance|The Spicer-Risden Alliance]]**: The union of the "Farmer" and the "Soldier," and how it defined the family's presence in Iowa.
 - **[[Topics/The Ohio Convergence|The Ohio Convergence]]**: How the Ault, Tallman, and Lemmon families gathered in the river valleys and prairies of Ohio before moving to Iowa.
 - **[[Topics/The North-West Path|The North-West Path]]**: The story of the Lewis and Palmer migration through Massachusetts, Vermont, Wisconsin, and Minnesota.
 - **[[Topics/Spicer Family Iowa Agricultural Expansion Arc|The Spicer Farming Dynasty]]**: A multi-generational account of frontier settlement and agricultural consolidation in Iowa.
